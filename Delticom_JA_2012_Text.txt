@@ -1,0 +1,56 @@
+ var htdocs = '/ebanzwww/..'; var css = '/ebanzwww/../css'; var images = '/ebanzwww/../images'; var path = '/ebanzwww/wexsservlet'; var wexsservlet_url = 'https://publikations-plattform.de/sp/wexsservlet'; var contentloader_url = '/ebanzwww/contentloader'; var session = 'session.sessionid=0c20b7b2f963372e84459686a04d3c05'; var search_field_placeholder = 'ISIN, WKN, Fondsname, Gesellschaft'; Bundesanzeiger Schnellsuche |Kontakt |Übersicht |Fragen Antworten |Newsletter |Mobil Publikations-Plattform Unternehmensregister »Startseite »Suchen »Wissenswertes »Info-Dienst »Anmelden »Registrieren »Startseite ›Schnellsuche Suchen Suchbegriff: Welchen Bereich möchten Sie durchsuchen?
+Alle Bereiche Amtlicher Teil Gerichtlicher Teil Gesellschaftsbekanntmachungen Kapitalmarkt Nichtamtlicher Teil Rechnungslegung/Finanzberichte Verschiedene Bekanntmachungen »Erweiterte Suche Eine Volltextrecherche über den Veröffentlichungsinhalt ist bei Jahresabschlüssen/ Jahresfinanzberichten und Veröffentlichungen nach §§264Abs.3, 264bHGB nicht möglich.
+Hinterlegte Jahresabschlüsse (Bilanzen) stehen im Unternehmensregister zur Beauskunftung zur Verfügung.
+« Vorheriger Eintrag »Zurück zur Ergebnisseite Nächster Eintrag » Name Bereich Information V.-Datum Relevanz Delticom AGHannover Rechnungslegung/Finanzberichte Jahresabschluss zum Geschäftsjahr vom 01.01.2012 bis zum 31.12.2012Ergänzung der Veröffentlichung vom 15.04.2013 04.06.2013 100% »Druckversion Delticom AG Hannover Jahresabschluss zum Geschäftsjahr vom 01.01.2012 bis zum 31.12.2012 Bericht des Aufsichtsrats Sehr geehrte Aktionäre, der Aufsichtsrat der Delticom AG hat im Geschäftsjahr 2012 die ihm nach Gesetz und Satzung obliegenden Aufgaben wahrgenommen.
+Hierbei haben wir den Vorstand regelmäßig beraten, überwacht und waren in Entscheidungen von grundlegender Bedeutung für Delticom eingebunden.
+Regelmäßig und ausführlich haben wir uns mit der Finanz-, Vermögens- und Ertragslage und mit dem Risikomanagement unserer Gesellschaft befasst.
+Vom Vorstand haben wir entsprechend dem ihm aufgegebenen Umfang und Inhalt monatlich schriftliche Berichte erhalten.
+Hierbei ließen wir uns alle wesentlichen Einflussgrößen für das Geschäft und die wesentlichen Geschäftsvorfälle berichten.
+Darüber hinaus findet jederzeit ein reger Informations- und Gedankenaustausch über aktuelle Vorkommnisse und Entwicklungen zwischen dem Aufsichtsrat und dem Vorstand statt, insbesondere durch regelmäßige Telefonate oder Treffen zwischen einzelnen Vorstandsmitgliedern und einzelnen Mitgliedern des Aufsichtsrats.
+Wir standen den Mitgliedern des Vorstands auch außerhalb der Sitzungen stets beratend zur Seite.
+Eilbedürftige Entscheidungen haben wir im schriftlichen Verfahren getroffen.
+Alle Beschlüsse im Berichtszeitraum wurden einstimmig gefasst.
+Dem Aufsichtsrat gehören Herr Andreas Prüfer (Vorsitzender), Herr Michael Thöne-Flöge (stellvertretender Vorsitzender) und Herr Alan Revie an.
+Der Aufsichtsrat hat keine Ausschüsse im Sinne des § 107 Abs. 3 AktG eingerichtet, weil er dies bei einem Aufsichtsrat mit drei Mitgliedern nicht für sinnvoll erachtet.
+Sitzungen des Aufsichtsrats Im Geschäftsjahr 2012 fanden vier ordentliche Aufsichtsratssitzungen statt, an denen jeweils alle Mitglieder teilgenommen haben.
+Zwei Beschlüsse wurden im schriftlichen Verfahren gefasst.
+In unserer Sitzung vom 20.03.2012 haben wir die Einführung eines neuen, den Vorgaben des Gesetzes zur Angemessenheit der Vorstandsvergütung (VorstAG) genügenden Systems der Vergütung für die Mitglieder des Vorstands der Delticom AG, welches seitdem auf alle Änderungen und Neuabschlüsse von Vorstandsdienstverträgen Anwendung findet, beschlossen.
+Im Anschluss daran haben wir Frau Susann Dörsel-Müller und Herrn Sascha Jürgensen als weitere Mitglieder des Vorstands der Gesellschaft bestellt.
+Die Herren Rainer Binder, Philip von Grolman und Frank Schuhardt wurden erneut als Mitglieder des Vorstands bestellt.
+Vertragliche Grundlage für alle Mitglieder des Vorstands ist nun jeweils ein neuer Anstellungsvertrag unter Berücksichtigung des neuen Vergütungssystems.
+In dieser Sitzung haben wir uns ferner mit dem Jahresabschluss und Lagebericht der Delticom AG sowie dem Konzernabschluss und Konzernlagebericht und dem Vorschlag des Vorstands für die Verwendung des Bilanzgewinns befasst.
+Ebenfalls Gegenstand war die Erklärung zur Unternehmensführung einschließlich der Entsprechenserklärung gemäß Deutschem Corporate Governance Kodex.
+Weiter haben wir die Tagesordnung und die Beschlussvorschläge des Aufsichtsrats für die Hauptversammlung am 30.04.2012 beschlossen.
+In der Sitzung am 30.04.2012 wurde unter anderem über den Gang der Geschäfte und über das Risikomanagement der Gesellschaft berichtet.
+In der Sitzung am 05.09.2012 berichtete der Vorstand über die aktuelle Geschäfts- und Finanzlage des Konzerns nach Abschluss des zweiten Quartals des Geschäftsjahres 2012.
+In dieser Sitzung haben wir ferner - wie von Ziffer 5.6 des Deutschen Corporate Governance Kodex empfohlen - eine Prüfung der Effizienz unserer Arbeit anhand eines Fragenkataloges vorgenommen.
+Des Weiteren hat sich das Gremium mit dem aktuellen Risikomanagementsystem des Unternehmens auseinandergesetzt.
+In der letzten ordentlichen Sitzung am 20.11.2012 haben wir die Mittelfrist- und Investitionsplanung des Vorstands für die Delticom AG beraten und dieser zugestimmt.
+Der Aufsichtsrat hat zudem dem neuen Geschäftsverteilungsplan für den Vorstand zugestimmt.
+Neben den ordentlichen Sitzungen wurden die folgenden zwei Beschlüsse im schriftlichen Verfahren gefasst: Im schriftlichen Verfahren haben wir am 29.02.2012 wegen der Ausgabe von Bezugsaktien aus bedingtem Kapital aufgrund der Ausübung von 8.000 Optionsrechten die Anpassung der Fassung der Satzung an die geänderten Kapitalverhältnisse beschlossen.
+Am 01.08.2012 hat der Aufsichtsrat der Gründung einer Tochtergesellschaft in Russland im schriftlichen Verfahren zugestimmt.
+Corporate Governance Am 20.03.2012 haben wir gemeinsam mit dem Vorstand eine Entsprechenserklärung zu den Empfehlungen der Regierungskommission Deutscher Corporate Governance Kodex gemäß § 161 AktG abgegeben und auf der Internetseite der Delticom AG (www.delti.com/CG) dauerhaft zugänglich gemacht.
+Die Entsprechenserklärung wird jährlich nach der Bilanzsitzung des Aufsichtsrats, ansonsten nach Bedarf, aktualisiert.
+Darüber hinaus wird über die Corporate Governance bei der Delticom AG im Rahmen des Corporate- Governance-Berichts im Sinne von Ziffer 3.10 des Deutschen Corporate Governance Kodex berichtet.
+Am 23.11.2012 hat die Delticom AG mit der Prüfer Immobilien 2 GmbH, deren Geschäftsführer und mittelbarer Mehrheitsgesellschafter der Vorsitzende des Aufsichtsrats, Herr Andreas Prüfer, ist, einen Beratungsvertrag abgeschlossen.
+Dies wurde dem Aufsichtsrat frühzeitig vor Abschluss dieses Vertrages offengelegt.
+Der Aufsichtsrat hat dem Abschluss dieses Beratungsvertrags bei Stimmenthaltung von Herrn Dr. Prüfer nach sorgfältiger Prüfung betreffend die Einhaltung der einschlägigen gesetzlichen Bestimmungen zugestimmt.
+Sonstige Interessenkonflikte traten im Geschäftsjahr 2012 nicht auf.
+Rechnungslegung Die Abschlussbesprechung mit dem Abschlussprüfer, in der die Prüfungsberichte des Abschlussprüfers vorbesprochen wurden, fand am 08.03.2013 statt.
+Unrichtigkeiten, Verstöße gegen Gesetz oder Satzung sowie bestandsgefährdende Risiken wurden nicht festgestellt.
+In der Bilanzsitzung des Aufsichtsrats am 19.03.2013 hat der Aufsichtsrat die Jahresabschlussunterlagen und Prüfungsberichte intensiv behandelt: den Jahresabschluss nach den deutschen handelsrechtlichen Vorschriften und den Konzernabschluss nach den International Financial Reporting Standards (IFRS), jeweils zum 31.12.2012, sowie den Lagebericht der Gesellschaft und des Konzerns für das Geschäftsjahr 2012.
+Die Berichte des Abschlussprüfers, der vom Vorstand aufgestellte Jahresabschluss, der Abhängigkeitsbericht sowie der Bericht über die Lage der Delticom AG und des Konzerns sowie der Vorschlag des Vorstands für die Verwendung des Bilanzgewinns wurden uns rechtzeitig vorgelegt, so dass ausreichend Gelegenheit zur Prüfung bestand.
+Der Abschlussprüfer PricewaterhouseCoopers Aktiengesellschaft Wirtschaftsprüfungsgesellschaft, Fuhrberger Straße 5, 30625 Hannover, hatte die Abschlüsse zuvor geprüft.
+An der Unabhängigkeit des Abschlussprüfers bestehen keinerlei Zweifel.
+Nach Überzeugung des Abschlussprüfers vermitteln der Jahresabschluss sowie der Konzernabschluss in Übereinstimmung mit den Rechnungslegungsvorschriften ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage sowie der Zahlungsströme der Gesellschaft und des Konzerns; die Prüfung des Abhängigkeitsberichts durch den Abschlussprüfer hat zu keinen Einwendungen geführt.
+Der Abschlussprüfer hat seine Bestätigungsvermerke jeweils in uneingeschränkter Form erteilt.
+Der Bestätigungsvermerk des Abschlussprüfers zum Abhängigkeitsbericht hat folgenden Wortlaut: "Nach unserer pflichtmäßigen Prüfung und Beurteilung bestätigen wir, dass die tatsächlichen Angaben des Berichtes richtig sind und bei den im Bericht aufgeführten Rechtsgeschäften die Leistung der Gesellschaft nicht unangemessen hoch war oder Nachteile ausgeglichen worden sind."
+Darüber hinaus hat der Abschlussprüfer im Rahmen seiner Beurteilung des Risikomanagementsystems festgestellt, dass der Vorstand die nach § 91 Abs. 2 AktG geforderten Maßnahmen getroffen hat, um Risiken, die den Fortbestand des Unternehmens gefährden könnten, frühzeitig zu erkennen.
+Bei der Sitzung am 19.03.2013 berichteten Vertreter des Abschlussprüfers über die wesentlichen Ergebnisse der Prüfungen und standen dem Aufsichtsrat für ergänzende Auskünfte zur Verfügung.
+Dem Bericht des Abschlussprüfers haben wir uns nach eigener Prüfung von Jahresabschluss, Konzernabschluss, Lagebericht, Konzernlagebericht und Abhängigkeitsbericht vollumfänglich angeschlossen.
+Der Aufsichtsrat hat den Jahresabschluss und den Konzernabschluss gebilligt.
+Der Jahresabschluss der Delticom AG ist damit festgestellt.
+Der Aufsichtsrat hat sich dem Vorschlag des Vorstands für die Verwendung des Bilanzgewinns angeschlossen.
+Der Aufsichtsrat dankt dem Vorstand sowie allen Mitarbeiterinnen und Mitarbeitern für ihre hervorragende Arbeit im vergangenen Jahr.
+Hannover, 19. März 2013 Andreas Prüfer « Vorheriger Eintrag »Zurück zur Ergebnisseite Nächster Eintrag » |Impressum |Haftungsausschluss / Datenschutzerklärung |Rechtliches / AGB |Sicherheitshinweise var pkBaseURL = (("https:" == document.location.protocol) ?
+"https://www.bundesanzeiger.de/" : "http://www.bundesanzeiger.de/"); document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E")); try { var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 3); piwikTracker.trackPageView(); piwikTracker.enableLinkTracking(); } catch( err ) {} 

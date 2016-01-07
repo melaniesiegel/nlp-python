@@ -1,0 +1,43 @@
+ var htdocs = '/ebanzwww/..'; var css = '/ebanzwww/../css'; var images = '/ebanzwww/../images'; var path = '/ebanzwww/wexsservlet'; var wexsservlet_url = 'https://publikations-plattform.de/sp/wexsservlet'; var contentloader_url = '/ebanzwww/contentloader'; var session = 'session.sessionid=0c20b7b2f963372e84459686a04d3c05'; var search_field_placeholder = 'ISIN, WKN, Fondsname, Gesellschaft'; Bundesanzeiger Schnellsuche |Kontakt |Übersicht |Frage Antwort |Newsletter |Mobil Publikations-Plattform Unternehmensregister »Startseite »Suche »Wissenswertes »Info-Dienst »Anmelden »Registrieren »Startseite ›Schnellsuche Suche Suchbegriff: Welchen Bereich mögen Sie durchsuchen?
+Alle Bereich Amtlicher Teil Gerichtlicher Teil Gesellschaftsbekanntmachung Kapitalmarkt Nichtamtlicher Teil Rechnungslegung/Finanzberichte Verschiedere Bekanntmachung »Erweiterte Suche Eine Volltextrecherche über der Veröffentlichungsinhalt sein bei Jahresabschlüssen/ Jahresfinanzberichten und Veröffentlichung nach §§264Abs.3, 264bHGB nicht möglich.
+Hinterlegte Jahresabschlüsse (Bilanz) stehen im Unternehmensregister zur Beauskunftung zur Verfügung.
+« Vorheriger Eintrag »Zurück zur Ergebnisseite Nächster Eintrag » Name Bereich Information V.-Datum Relevanz Delticom AGHannover Rechnungslegung/Finanzberichte Jahresabschluss zum Geschäftsjahr vom 01.01.2012 bis zum 31.12.2012Ergänzung der Veröffentlichung vom 15.04.2013 04.06.2013 100% »Druckversion Delticom AG Hannover Jahresabschluss zum Geschäftsjahr vom 01.01.2012 bis zum 31.12.2012 Bericht der Aufsichtsrats Sehr geehrt Aktionär, der Aufsichtsrat der Delticom AG haben im Geschäftsjahr 2012 der ich nach Gesetz und Satzung obliegenden aufgeben wahrnehmen.
+Hierbei haben ich der vorstehen regelmäßig beraten, überwachen und sein in Entscheidung von grundlegend Bedeutung für Delticom eingebunder.
+Regelmäßig und ausführlich haben ich sich mit der Finanz-, Vermögen- und Ertragslage und mit der Risikomanagement sicherer Gesellschaft befassen.
+Vom vorstehen haben ich entsprechen der ich aufgegeben Umfang und Inhalt monatlich schriftlich berichten erhalten.
+Hierbei lassen ich sich all wesentlich Einflussgrößen für der Geschäft und der wesentlich Geschäftsvorfälle berichten.
+Darüber hinaus finden jederzeit einen reger Informations- und Gedankenaustausch über aktuell Vorkommnis und Entwicklung zwischen der Aufsichtsrat und der vorstehen statt, insbesondere durch regelmäßig Telefonate oder Treffen zwischen einenzelnen vorstehensmitgliedern und einenzelnen Mitglied der Aufsichtsrats.
+Wir stehen der Mitglied der Vorstand auch außerhalb der Sitzung stets beraten zur Seite.
+Eilbedürftige Entscheidung haben ich im schriftlich verfahren triefen.
+Alle Beschluß im Berichtszeitraum werden einstimmig fassen.
+Dem Aufsichtsrat gehören Herr Andrea Prüfer (Vorsitzender), Herr Michael Thöne-Flöge (stellvertretend Vorsitzender) und Herr Alan Revie an.
+Dich Aufsichtsrat haben kein Ausschuß im Sinn dich § 107 Abs. 3 AktG einrichten, weil ich dies bei einer Aufsichtsrat mit drei Mitgliedichn nicht für sinnvoll ichachtet.
+Sitzung der Aufsichtsrats Im Geschäftsjahr 2012 finden vier ordentlich Aufsichtsratssitzung statt, an der jeweils all Mitglied teilnehmen haben.
+Zwei Beschluß werden im schriftlich verfahren fassen.
+In mein Sitzung vom 20.03.2012 haben ich der Einführung ein neu, der vorgeben der Gesetz zur Angemessenheit der Vorstandvergütung (VorstAG) genügender System der Vergütung für der Mitglied der Vorstand der Delticom AG, welch seitdem auf all Änderung und Neuabschlüsse von Vorstanddernstverträgen Anwendung finden, beschließen.
+Im Anschluss daran haben ich Frau Susann Dörsel-Müller und Herrn Sascha Jürgensen als weit Mitglied der Vorstand der Gesellschaft bestellen.
+Die Herr Rainer Binder, Philip von Grolman und Frank Schuhardt werden erneut als Mitglied der Vorstand bestellen.
+Vertragliche Grundlage für all Mitglied der Vorstand seinen nun jeweils einen neu Anstellungsvertrag unter Berücksichtigung der neu Vergütungssystems.
+In ders Sitzung haben ich sich fern mit der Jahresabschluss und Lagebericht der Delticom AG sowie der Konzernabschluss und Konzernlagebericht und der Vorschlag der Vorstand für der Verwendung der Bilanzgewinns befassen.
+Ebenfalls Gegenstand sein der Erklärung zur Unternehmensführung einschließlich der Entsprechenserklärung gemäß Deutschem Corporate Governance Kodex.
+Weiter haben ich der Tagesordnung und der Beschlussvorschläge der Aufsichtsrats für der Hauptversammlung am 30.04.2012 beschließen.
+In der Sitzung am 30.04.2012 werder unter ander über der Gang der Geschäft und über der Risikomanagement der Gesellschaft berichten.
+In der Sitzung am 05.09.2012 berichtet der vorstehen über der aktuell Geschäft- und Finanzlage der Konzern nach Abschluss der zweit Quartal der Geschäftjahres 2012.
+In dies Sitzung haben ich fern - wie von Ziffer 5.6 der Deutsche Corporate Governance Kodex empfehlen - einen Prüfung der Effizienz mein Arbeit anhand einens Fragenkataloges vornehmen.
+Des Weitere haben sich der Gremium mit der aktuell Risikomanagementsystem der Unternehmen auseinandergesetzt.
+In der letzt ordentlich Sitzung am 20.11.2012 haben ich der Mittelfrist- und Investitionsplanung der Vorstand für der Delticom AG beraten und derser zustimmen.
+Der Aufsichtsrat haben zuder der neu Geschäftsverteilungsplan für der vorstehen zustimmen.
+Neben der ordertlichen Sitzung wurder der folgender zwei Beschluß im schriftlich verfahren fassen: Im schriftlich verfahren haben ich am 29.02.2012 wegen der Ausgabe von Bezugsaktien aus bedingt Kapital aufgrund der Ausübung von 8.000 Optionsrechten der Anpassung der Fassung der Satzung an der geändert Kapitalverhältnisse beschließen.
+Am 01.08.2012 haben der Aufsichtsrat der Gründung ein Tochtergesellschaft in Russland im schriftlich verfahren zustimmen.
+Corporate Governance Am 20.03.2012 haben ich gemeinsam mit der vorstehen einen Entsprechenserklärung zu der Empfehlung der Regierungskommission Deutscher Corporate Governance Kodex gemäß § 161 AktG abgeben und auf der Internetseite der Delticom AG (www.delti.com/CG) dauerhaft zugänglich machen.
+Die Entsprechenserklärung werden jährlich nach der Bilanzsitzung der Aufsichtsrats, ansonsten nach Bedarf, aktualisieren.
+Darüber hinaus werden über der Corporate Governance bei der Delticom AG im Rahmen der Corporate- Governance-Berichts im Sinn von Ziffer 3.10 der Deutsche Corporate Governance Kodex berichten.
+Am 23.11.2012 haben der Delticom AG mit der Prüfer Immobilie 2 GmbH, der Geschäftsführer und mittelbar Mehrheitsgesellschafter der Vorsitzende der Aufsichtsrats, Herr Andrea Prüfer, sein, einer Beratungsvertrag abschließen.
+Dies werden der Aufsichtsrat frühzeitig vor Abschluss dies Vertrages offenlegen.
+Der Aufsichtsrat haben der Abschluss ders Beratungsvertrags bei Stimmenthaltung von Herrn Dr. Prüfer nach sorgfältig Prüfung betreffen der Einhaltung der einschlägig gesetzlich Bestimmung zustimmen.
+Sonstige Interessenkonflikte treten im Geschäftsjahr 2012 nicht auf.
+Rechnungslegung Die Abschlussbesprechung mit der Abschlussprüfer, in der der Prüfungsberichte der Abschlussprüfers vorbesprochen werden, finden am 08.03.2013 statt.
+Unrichtigkeit, Verstoß gegen Gesetz oder Satzung sowie bestandsgefährdende Risiko werden nicht feststellen.
+In der Bilanzsitzung der Aufsichtsrats am 19.03.2013 haben der Aufsichtsrat der Jahresabschlussunterlagen und Prüfungsberichte intensiv behandeln: der Jahresabschluss nach der deutsch handelsrechtlichen Vorschrift und der Konzernabschluss nach der International Financial Reporting Standard (IFRS), jeweils zum 31.12.2012, sowie der Lagebericht der Gesellschaft und der Konzern für der Geschäftsjahr 2012.
+Die berichten der Abschlussprüfers, der vom vorstehen aufgestellt Jahresabschluss, der Abhängigkeitsbericht sowie der Bericht über der Lage der Delticom AG und der Konzern sowie der Vorschlag der vorstehens für der Verwendung der Bilanzgewinns werden sich rechtzeitig vorlegen, so dass ausreichen Gelegenheit zur Prüfung bestehen.
+Der Abschlussprüfer PricewaterhouseCoopers Aktiengesellschaft Wirtschaftsprüfungsgesellschaft, Fuhrberger Straße 5, 30625 Hannover, haben der Abschluß zuvor prüfen.

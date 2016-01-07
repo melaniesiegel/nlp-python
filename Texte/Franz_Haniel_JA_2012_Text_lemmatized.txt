@@ -1,0 +1,852 @@
+ var htdocs = '/ebanzwww/..'; var css = '/ebanzwww/../css'; var images = '/ebanzwww/../images'; var path = '/ebanzwww/wexsservlet'; var wexsservlet_url = 'https://publikations-plattform.de/sp/wexsservlet'; var contentloader_url = '/ebanzwww/contentloader'; var session = 'session.sessionid=0c20b7b2f963372e84459686a04d3c05'; var search_field_placeholder = 'ISIN, WKN, Fondsname, Gesellschaft'; Bundesanzeiger Schnellsuche |Kontakt |Übersicht |Frage Antwort |Newsletter |Mobil Publikations-Plattform Unternehmensregister »Startseite »Suche »Wissenswertes »Info-Dienst »Anmelden »Registrieren »Startseite ›Schnellsuche Suche Suchbegriff: Welchen Bereich mögen Sie durchsuchen?
+Alle Bereich Amtlicher Teil Gerichtlicher Teil Gesellschaftsbekanntmachung Kapitalmarkt Nichtamtlicher Teil Rechnungslegung/Finanzberichte Verschiedere Bekanntmachung »Erweiterte Suche Eine Volltextrecherche über der Veröffentlichungsinhalt sein bei Jahresabschlüssen/ Jahresfinanzberichten und Veröffentlichung nach §§264Abs.3, 264bHGB nicht möglich.
+Hinterlegte Jahresabschlüsse (Bilanz) stehen im Unternehmensregister zur Beauskunftung zur Verfügung.
+« Vorheriger Eintrag »Zurück zur Ergebnisseite Nächster Eintrag » Name Bereich Information V.-Datum Relevanz Franz Haniel Cie.
+GmbHDuisburg Rechnungslegung/Finanzberichte Jahresabschluss zum Geschäftsjahr vom 01.01.2012 bis zum 31.12.2012 29.04.2013 100% »Druckversion Franz Haniel Cie.
+GmbH Duisburg Jahresabschluss zum Geschäftsjahr vom 01.01.2012 bis zum 31.12.2012 BERICHT DES AUFSICHTSRATS FRANZ HANIEL CIE.
+GMBH 2012 Sehr geehrt Dame und Herr, der Familienunternehmen Haniel haben im vergangen Jahr wichtig Veränderung anstoßen.
+Dabei haben der Aufsichtsrat der vorstehen in vier ordertlichen und sechs außerordertlichen Sitzung beraten.
+Im Einzelne gehen ich zum Beispiel um der verkaufen von Movianto, Pharmexx und der Versandapotheke DocMorris durch Celichio oder der Übernahme von Ratioform, einer Anbieter für Verpackungslösung, durch TAKKT.
+Darüber hinaus haben der Aufsichtsrat in einen außerordentlich Sitzung am 26. November 2012 einen umfangreich Maßnahmenpaket zur Schuldenreduktion der Holding genehmigen, der unter ander der Verringerung der Celesio-Beteiligung auf 50,01 Prozent beinenhaltet und zudem vorsehen, der Beteiligung an der Metro AG um 4,23 Prozentpunkte zu reduzieren, ohne damit der strategisch Bedeutung beid Beteiligung zu mindern.
+VERÄNDERUNGEN BEI VORSTAND UND AUFSICHTSRAT Neben Weichenstellung, der der Beteiligung der Franz Haniel Cie.
+GmbH betreffen, stehen im vergangen Jahr einen wichtig Personalentscheidung an: In einenr außerordentlich Sitzung am 27. April 2012 haben der Aufsichtsrat Stephan Gemkow zum neu Vorstehensvorsitzenden ab der 1. August, und damit zum Nachfolger von Prof. Dr. Jürgen Kluge, berufen.
+Mit Herrn Gemkow haben ich einer hervorragend Unternehmer gewinnen können, der mit sich Erfahrung in der Führung von Portfoliounternehmen und mein Finanzhintergrund ideal zu Haniel und der anstehender aufgeben passen.
+Wir danken Prof.
+Kluge für dich wichtvoll Beitrag, dich ich für unsiche Untichnehmensgruppe leisten haben.
+Am 30. April 2012 sein Prof. Dr. Klaus Trützschler aus Altersgründen aus der vorstehen ausscheiden.
+Er haben der Unternehmen in der vergangen elf Jahr mit groß kaufmännisch Sachverstand auch durch schwierig Phase begleiten.
+Wir danken Prof. Trützschler für mein kompetent, stets ausgleichend und konstruktiv Arbeit.
+Auch im Aufsichtsrat haben ich personell Veränderung geben: Mit der Gichellschafterversammlung am 28. April 2012 sein Chrseinian Graf von Dürckheim aus der Gremium ausgichchieden.
+Er sein seit 1988 Mitglied der Aufsichtsrats und haben neben der kompetent und weitsichtig Beratung der Unternehmen ganz wesentlich beim Aufbau der Haniel-Kunstsammlung mitwirken.
+Das Mandat von Graf von Dürckheim haben Prof. Dr. Kay Windthorst übernehmen.
+Der Universitätsprofessor für Öffentliches Recht und Recht der Familienunternehmen sein seit 2003 Mitglied im Beirat der Franz Haniel Cie.
+GmbH.
+Zudem haben am 15. November 2012 Jürgen Libbert mein Mandat niederlegen.
+Er gehört der Gremium seit 1983 an und sein seit 1988 stellvertretend Vorsitzender.
+Er haben der Entwicklung der Familienunternehmens stets kritisch und konstruktiv begleiten.
+Und ich seinen einen starkich Fürsprechich dich Idee, neben der Vichtretichn dich Familie auch Extichne in der Aufsichtsrat dich Franz Haniel Cie.
+GmbH zu entsenden.
+Der Beschluss der Familie, der Gremium auf der Seite der Anteilseigner für einen extern - also weder aus der Familie noch aus der Unternehmen Haniel kommend - Mitglied zu öffnen, werden mit der Bestellung von Prof. Dr. Henning Kagermann umsetzen.
+Seit der 27. November 2012 haben ich mit der ehemalig Sprecher der Vorstand der SAP AG einen hervorragend Ergänzung in mein Aufsichtsrat gewinnen.
+VERTRAUENSVOLLER DIALOG Die Zusammenarbeit zwischen Aufsichtsrat und vorstehen sein wie wohnen prägen von groß Offenheit und gegenseitig vertrauen.
+Der vorstehen haben sich - auch bei wichtig Einzelvorgängen - regelmäßig über der Lage der Holding und der gesamt Unternehmensgruppe informieren.
+Gemäß sich Aufgabe als Aufsichtsratsvorsitzender der Franz Haniel Cie.
+GmbH stehen ich auch über der Sitzung hinaus in regelmäßig Kontakt vor alle mit der Vorstehensvorsitzenden, aber auch mit der gesamt Vorstehen.
+Gemeinsam haben ich wichtig geschäftspolitische und strategisch Frage der Unternehmensgruppe erörtern.
+Anhand regelmäßig schriftlich und mündlich berichten der Vorstand haben der Aufsichtsrat der Geschäftsführung und der Geschäftsentwicklung der Unternehmensgruppe fortlaufend und sorgfältig überwachen.
+Alle Entscheidung, der mein Zustimmung voraussetzen, haben ich im Detail prüfen.
+Der Prüfungsausschuss kommen im Berichtsjahr 2012 zu vier Sitzung zusammen.
+Er überwacht der Rechnungslegungsprozess sowie der Wirksamkeit der intern Kontrollsystems, der Risikomanagementsystems, der intern Revision und der Compliance-Systems.
+Des Weitere überzeugt sich der Ausschuss von der Unabhängigkeit der Abschlussprüfers und beschliessen in sich Sitzung am 16. März 2012, der Gesellschafterversammlung der Wiederwahl der bisherig Abschlussprüfers vorschlagen.
+JAHRESABSCHLUSS UND KONZERNABSCHLUSS GENEHMIGT Die PricewaterhouseCoopers Aktiengesellschaft Wirtschaftsprüfungsgesellschaft, Essen, haben der Jahresabschluss der Franz Haniel Cie.
+GmbH und der Lagebericht zum Geschäftsjahr 2012 prüfen.
+Die Prüfer bestätigt, dass Jahresabschluss und Lagebericht der Gesetz und der Gesellschaftsvertrag entsprechen.
+Jahresabschluss und Lagebericht werden mit einer uneingeschränkt Bestätigungsvermerk versehen.
+Ebenso werden Konzernabschluss und Konzernlagebericht mit einer uneingeschränkt Bestätigungsvermerk versehen.
+Der Abschlussprüfer haben an der Bilanzsitzung der Aufsichtsrats und alle Sitzung der Prüfungsausschusses teilnehmen.
+Zudem wichden ich ichneut vom Aufsichtsrat beauftragen, der Risikofrühichkennungssystem der Haniel-Konzichns zu bewichten.
+Diese freiwillig Prüfung erfolgt entsprechen § 317 Absatz 4 HGB.
+Der Abschlussprüfer haben der Eignung der System zur Früherkennung bestandsgefährdender Risiko bestätigen.
+Der vorstehen haben der Aufsichtsrat Konzernabschluss, Konzernlagebericht und der Bericht der Konzernabschlussprüfers für der Jahr 2012 vorlegen.
+Nach eingehend Prüfung haben der Aufsichtsrat der Konzernabschluss und der Konzernlagebericht zustimmen.
+Gleiches gelten für der Jahresabschluss der Franz Haniel Cie.
+GmbH und der Vorschlag der Vorstand zur Ergebnisverwendung.
+Damit sein der Jahresabschluss feststellen und der Konzernabschluss billigen.
+DANK FÜR HERVORRAGENDES ENGAGEMENT Im Name der Aufsichtsrats danken ich der Mitglied der Vorstand sowie alle Mitarbeiterin und Mitarbeiter der Haniel-Gruppe für mein groß Engagement im vergangen Jahr.
+Wichtige Veränderung werden beschließen und einleiten und danken der groß Einsatz jed und jed Einzelne sein Haniel für der anstehend Herausforderung gut wappnen.
+Duisburg, der 4. April 2013 Franz M. Haniel, Vorsitzender der Aufsichtsrats DER AUFSICHTSRAT UNSER AUFSICHTSRAT SETZT SICH AUS JE ACHT VERTRETERN DER ANTEILSEIGNER UND DER ARBEITNEHMER ZUSAMMEN.
+DEN VORSITZ HAT STETS EIN MITGLIED DER FAMILIE INNE.
+DABEI ACHTET DER AUFSICHTSRAT BESONDERS DARAUF, DASS SICH DIE UNTERNEHMENSGRUPPE IM EINKLANG MIT DEN TRADITIONELLEN WERTEN VON HANIEL ENTWICKELT.
+FRANZ M. HANIEL VORSITZENDER Dipl.-Ingenieur GERD HERZBERG STELLV.
+VORSITZENDER Gewerkschaftssekretär JÜRGEN LIBBERT STELLV.
+VORSITZENDER bis 15.11.2012 Rechtsanwalt DR. GEORG F. BAUR STELLV.
+?ORSITZENDER seit 14.12.2012 Kaufmann CHRISTOPH BÖNINGER Dipl.-Designer BARON WOLF ?. BUCHHOLTZ Dipl.-Kaufmann HEIDE DETMAR Kfm.
+Angestellte CHRISTIAN ?. DÜRCKHEIM bis 28.04.2012 Dipl.-Kaufmann HARALD FÄRBER Personaldirektor BERND HERGENRÖTHER Elektriker PROF. DR. HENNING KAGERMANN seit 27.11.2012 Dipl.-Physiker KAY RICHARD LANDWERS Bankkaufmann HERBERT NARR Pharmakaufmann IRINA PANKEWITZ Textilreinigerin DR. MICHAEL SCHÄDLICH Geschäftsführer UWE SCHMAHL Techniker HANS WETTENGL Gewerkschaftssekretär PROF. DR. KAY WINDTHORST seit 28.04.2012 Universitätsprofessor DER ?ORSTAND DER HANIEL-?ORSTAND IST MIT ZWEI MITGLIEDERN BESETZT, DEREN ?ERANTWORTLICHKEITEN KLAR GEREGELT SIND.
+GLEICHWOHL FÜHREN SIE DAS UNTERNEHMEN ALS TEAM IN EINEM ENGEN DIALOG.
+STEPHAN GEMKOW VORSTANDSVORSITZENDER gebären 1960 Stephan Gemkow sein seit 1. August 2012 Vorsitzender der Haniel-Vorstands und Arbeitsdirektor.
+Neben dich Gesamtstrategie tragen ich der Vichantwortung für der Bicheiche Konzichnentwicklung/MA, Pichsonal, Recht, Revision, Gesellschaftich + Nachhaltigkeit und Kommunikation.
+Nach erst Berufsjahren als Unternehmensberater für der BDO Deutsche Warentreuhand AG arbeiten der Diplom-Kaufmann seit 1990 in verschieden Führungspositionen im Lufthansa-Konzern, davon zuletzt sechs Jahr als Mitglied der Vorstand für Finanz und seit 2009 auch für Aviation Service.
+Gemkow sein Aufsichtsratsvorsitzender der Celesio AG und der TAKKT AG und Mitglied im Aufsichtsrat der Evonik Industries AG sowie in der Boards of Directors der Amadeus IT Group und der JetBlue Airways Corporation.
+Zudem sein ich Mitglied dich Börsensachvichständigenkommission.
+DR. FLORIAN FUNCK gebären 1971 Dr. Florian Funck hören seit 1. September 2011 der Haniel-Vorstand an.
+Er verantworten der Bereich Allgemeine Dienst, Betriebswirtschaft, Finanz und Steuer.
+Der promoviert Betriebswirt beginnen 1999 mein Laufbahn in der Haniel-Holding.
+Im Juni 2004 wichdich ich in dich TAKKT-Vorstand in Stuttgart bichufen, wo ich für der Bicheiche Controlling und Finanz zuständig sein.
+Funck sein Mitglied in der Aufsichtsräten der Celesio AG, Metro AG und der TAKKT AG.
+CORPORATE GOVERNANCE Klare Verantwortungsstrukturen und partnerschaftliche Zusammenarbeit: Diese Prinzip kennzeichnen der Corporate Governance bei Haniel.
+Wesentliches Element sein der strikt Trennung von Unternehmensführung und -kontrolle, der sich an der vorgeben für börsennotierte Unternehmen orientieren.
+Beide Seite pflegen einer vertrauensvoll Dialog.
+Gleiches gelten für der Kommunikation der Unternehmen mit seinen Finanzmarktpartnern.
+FREI VON INTERESSENKONFLIKTEN Ein Merkmal unterscheiden Haniel von viel ander Unternehmen in Familienbesitz: Bereits seit Beginn der 20. Jahrhundert übernehmen familienfremde Manager der Unternehmensführung.
+Kein Familienmitglied sein in der Haniel-Gruppe tätigen.
+Unternehmerische Entscheidung können frei von verwandtschaftlichen Verpflichtung triefen werden.
+Die Familie legen Wert auf nachhaltig Wachstum und Wertsteigerung.
+Welche Schritt auf der Weg dahin unternehmen werder, liegen im Ermessen der Vorstand, der sich mit der Gremium der Gesellschafter besprechen.
+Damit folgen der Grundstruktur der Corporate Governance bei Haniel der Standard, der der deutschen Recht für Aktiengesellschaften vorgeben.
+Die über 650 Gesellschafter sein in der Gesellschafterversammlung organisieren.
+Sie tagen einmal im Jahr und wählen aus sich Mitte für jeweils fünf Jahr der Familienbeirat - der Bindeglied zwischen Familie und Unternehmen.
+Der Beirat bestehen aus bis zu 30 Familienmitgliedern, von der acht bis zehn wiederum der "Kleine Kreis" bilder.
+Acht Mitglied der Kleine Kreis entsender der Gesellschafterversammlung als Anteilseignervertreter in der Aufsichtsrat, wo ich der Grundsatz der Geschäftspolitik mitbestimmen und der Unternehmensstrategie beeinflussen.
+Im Jahr 2012 werder hier einen wichtig Änderung einführen und entscheider, nun auch extern Mitglied in der Aufsichtsrat und der Kleinen Kreis aufnehmen.
+Mehr dazu lesen Sie im Bericht der Aufsichtsrats ab Seite 6.
+Nach wie vor gelten: Den Vorsitz der Aufsichtsrats haben stets einen Mitglied der Familie inne.
+Das Kontrollorgan bestehen aus genauso viel Vertreter der Anteilseigner wie der Arbeitnehmer.
+Gemeinsam ernennen und entlassen ich der Mitglied der Vorstand, überwachen dersen Arbeit und stehen ich beraten zur Seite.
+Vier Mitglied der Aufsichtsrats bilder der Prüfungsausschuss.
+Dieser überwachen der Rechnungslegungsprozess sowie der Wirksamkeit der intern Kontrollsystems, der Risikomanagementsystems, der intern Revision und der Compliance.
+Des Weitere überzeugen sich der Ausschuss von der Unabhängigkeit der Abschlussprüfers.
+Einzelheit zur Tätigkeit der Aufsichtsrats im Geschäftsjahr 2012 sein in dersen Bericht (ab Seite 6) enthalten.
+VERBINDLICHE VERHALTENSGRUNDSÄTZE Die Haniel-Holding sein sowohl selbst als auch über mein Geschäftsbereiche in zahlreich Wirtschafts- und Gesellschaftssystemen aktiv und damit unterschiedlich kulturell und national Standard sowie rechtlich Vorschrift unterwerfen.
+Gerade dichhalb sein ich entscheiden, dass all Mitarbeiter auf jed Ebene dich Unternehmen derselbe Werteverständnis von Offenheit und Integrität bichitzen.
+Wesentliche Bestandteil der Haniel-Kultur sein Gesetzestreue, Unbestechlichkeit und laut Wettbewerb.
+Der Code of Conduct enthalten beispielsweise für Mitarbeiter der Holding Verhaltensgrundsätze, so dass dies Vergünstigung weder gewähren noch annehmen, jed Form der Diskriminierung ablehnen und Konflikt zwischen geschäftlich und privat Interesse offenlegen.
+Solche Verhaltensgrundsätze geben ich gruppenweit.
+Alle Geschäftsbereiche verfügen zudem über einer Compliance Officer, der als Ansprechpartner für der Mitarbeiter fungieren und helfen, Missstand zu beseitigen.
+LEICHTER ZUGANG ZU INFORMATIONEN Für Haniel als Unternehmen in Familienbesitz spielen einenn solide Eigenkapitalbasis einenn groß Rolle.
+Darüber hinaus bauen der Finanzierungsstrategie auch auf Fremdkapital.
+Um der vertrauen von potenziell Investor zu gewinnen und der Wertschätzung der bisherig Anleger zu erhalten, setzen Haniel bei der Finanzkommunikation auf Transparenz und Fairness: Alle Teilnehmer am Kapitalmarkt - einschließlich Banken, Investor und Analysten - werder gleichermaßen mit der Information versorgen, der ich benötigen, um der Entwicklung der Unternehmen beurteilen zu können.
+Das gelten ebenso für der Eigenkapitalgeber.
+Eine breiten Informationsplattform stellen der Corporate Website dar, auf der unter ander Portfolio und Strategie der Unternehmensgruppe erläutern werden.
+Hier veröffentlichen Haniel auch Geschäft- und Halbjahresfinanzberichte sowie aktuell Pressemitteilung.
+Zudem können unter der Rubrik "Creditor Relations" Präsentation, Information zur Investmentstrategie sowie zusätzlich Einzel- und Teilkonzernabschlüsse online abrufen werden.
+Ein Finanzkalender kündigen frühzeitig wichtig Termin der Holding und der Geschäftsbereiche an.
+Außerdem geben Haniel bekennen, wie der Ratingagenturen Standard Poor's und Moody's der Holding bewerten.
+Diesen extern Ratings unterziehen sich Haniel freiwillig, um all Möglichkeit der Finanzierung nutzen zu können.
+Transparente und fair Finanzkommunikation sein für Haniel untrennbar mit Kontinuität verbinden.
+Das Unternehmen informieren mein Partner in regelmäßig Abstand und in gleichen bleibend Art und Weise über aktuell Entwicklung.
+So werder Finanzberichte stets an gewohnt Stelle und in gewohnt Form veröffentlichen, um der Leser der Informationsaufnahme und -analyse zu erleichtern.
+Auf eventuell Abweichung gegenüber der Vorjahr weisen Haniel hin.
+IM DIALOG MIT INVESTOREN Für Finanzmarktpartner bestehen der Möglichkeit, in direkt Kontakt mit Mitarbeiter der Abteilung Finanz und Konzernentwicklung/MA zu treten.
+Im Anschluss an der Bilanzpressekonferenz laden Haniel zum Investor- beziehungsweise Analysten-Call einen.
+Der vorstehen sein in der Dialog mit der Financial Community engen eingebunder.
+Beispielsweise reisen der Finanzvorstand mindestens einmal im Jahr zu der wichtig Finanzmarktplätzen Europa, um der direkt Kontakt mit Investor zu pflegen.
+Begleitet wichden ich dabei von einer Team dich Abteilung Finanz.
+KONZERNORGANISATION * im Jahresdurchschnitt (Kopfzahl); vergleichen dazu der Erläuterung auf Seite 56 der Haniel-Geschäftsberichts .
+CORPORATE RESPONSIBILITY Haniel mögen einen vorbildlich Familienunternehmen im Bereich Corporate Responsibility (CR) meinen.
+Was der für einen strategisch Holding wie der Franz Haniel Cie.
+GmbH bedeuten, werden 2012 mit einer Eckpunkte-Plan festlegen.
+Dieser sehen neben der Integration von CR in der regulär Management-Prozesse zwischen Holding und Geschäftsbereichen einen konzernweites CR-Programm vor, der vorhanden Aktivität strukturieren und neu koordinieren.
+Unternehmerische Verantwortung haben bei Haniel einen langen Tradition: Laut der gemeinsam Selbstverständnis der Familie und der Unternehmen gelten seit 257 Jahr, dass ökonomisch erfolgen dazu verpflichten, auch gesellschaftlich Mehrwert zu schaffen.
+Die Haniel-Werte für verantwortungsvoll unternehmerisches Handeln folgen der Prinzip der "Ehrbare Kaufmanns".
+Mehr dazu lesen Sie ab Seite 10 im Haniel-Geschäftsbericht.
+Corporate Responsibility sein einen logisch Konsequenz der Haniel-Wertebasis.
+Als Führungsholding übernehmen der Franz Haniel Cie.
+GmbH daher künftig der Rolle ein Impulsgebers und Sparringspartners im strategisch CR-Dialog mit der Geschäftsbereichen, organisieren der Informations- und Erfahrungsaustausch in der Gruppe und koordinieren übergreifend CR-Aktivitäten.
+CHANCEN ERKENNEN, ZIELE SETZEN, MASSNAHMEN ERGREIFEN 2012 werden einen CR-Managementansatz entwickeln, der auf der Besonderheit der Gruppe zuschneiden sein.
+Denn erstens vereinen Haniel divers Geschäftsmodelle, Unternehmensgrößen und Beteiligungshöhen unter einer Dach.
+Und zweitens sein der Geschäftsbereiche aufgrund der dezentralen Konzernstruktur für der operativ Geschäft selbst verantwortlich.
+Dem Subsidiaritätsprinzip folgen, sehen der neu CR-Managementansatz der Holding einen Haniel-Programm vor, der für der gesamt Gruppe inhaltlich Schwerpunkt setzen und von jed Unternehmen in seinener eigen CR-Strategie umgesetzen werden.
+2013 werden der Schwerpunkt als Haniel-Handlungsfelder definieren.
+Passend dazu vereinbart der Haniel-Vorstand mit der Management der Geschäftsbereiche individuell Ziel und Maßnahme - 2013 erstmalig und danach regelmäßig.
+Auf ders Weise stellen der Holding sichern, dass der Beteiligung kontinuierlich prüfen, wie sich mein geschäftlich Aktivität auf Umwelt und Gesellschaft auswirken - und umkehren.
+Im Ergebnis leisten Corporate Responsibility damit ökonomisch, aber auch ökologisch und sozial Wertbeiträge.
+AUF OBERSTER MANAGEMENT-EBENE ETABLIERT In der vergangen zwei Jahr haben der Haniel-Nachhaltigkeitsrat einen gemeinensames CR-Verständnis auf ober Management-Ebene etablieren: Die Bedürfnis von Mensch, Umwelt und Unternehmen mein so in Einklang zu bringen, dass nachfolgend Generation mindestens der gleich Chance haben wie mein vorfahren heute - gemäß dersem Anspruch der "Enkelfähigkeit" richten Haniel meinen Geschäftsmodell aus.
+Da integriert Corporate Responsibility Bestandteil regulär Management-Prozesse mein müssen, sein der Nachhaltigkeitsrat Ende 2012 im CEO-Meeting aufgehen, zu der der Haniel-Vorstand regelmäßig der Geschäftsführer bzw. Vorstand der Beteiligung einladen.
+Hier werden besprechen, wie Corporate Responsibility konkret im Geschäft und darüber hinaus umsetzen werden können.
+Bereits beim Treffen im November 2012 stehen Corporate Responsibility auf der Agenda: Die Top-Manager haben der hier beschrieben Eckpfeiler der Haniel-CR-Strategie verabschieden.
+Gleichzeitig gehen der Verantwortung für Corporate Responsibility im Haniel-Vorstand von Dr. Florian Funck auf der Vorstandsvorsitzender Stephan Gemkow über.
+Um verstärkt konzernübergreifende Zusammenarbeit sowie Informations- und Erfahrungsaustausch auf Fachebene zu gewährleisten, tagen künftig regelmäßig einen Experten-Netzwerk bestehen aus der CR-Verantwortlichen all Geschäftsbereiche und der Holding.
+Der "CR-Round Table" erarbeiten unter Leitung der Holding-Abteilung Gesellschafter + Nachhaltigkeit zunächst der Haniel-Handlungsfelder und entwickeln der Haniel-CR-Programm kontinuierlich weit.
+GESCHÄFTSBEREICHE BETRACHTEN VERANTWORTUNG GANZHEITLICH Als Spezialsein für Waschraumhygiene, Berufskleidung und Schmutzfangmatten im Mietservice sein CWS-boco der Umweltschutz sowie der gesellschaftlich Verantwortung verpflichten und verankern Corporate Responsibility fest in der Unternehmenspolitik.
+Das CR-Engagement werder kontinuierlich strategisch weiterentwickel und münder 2012 im erst CR-Bericht der Mark CWS, der der Unternehmen nach der Leitlinien der Global Reporting Initiative (GRI) für der Benelux-Staaten herausgebracht haben.
+Die gewonnen Erfahrung überführt der Unternehmen anschließen in einen global CR-Projekt mit der Ziel, der Leitplanke der gruppenweiten Nachhaltigkeitsstrategie zu bestimmen und 2013 der erst CR-Report für beid Marke zu veröffentlichen.
+Verstärkt setzen sich CWS-boco für der sozial und ökologisch Bedingung in der Lieferkette einen: Neben der Entwicklung einenes eigen Code of Conduct für Lieferant engagieren sich der Tochtergesellschaft CWS-boco Supply Chain Management GmbH als Mitglied in der Business Social Compliance Initiative (BSCI), der sich für sozial Mindeststandards in der global Wertschöpfungskette einensetzen.
+Bei ELG stehen ökonomisch und ökologisch Ziel im Einklang: Schon der Geschäftsmodell der Unternehmen, der Rohstoff für der Edelstahlindustrie aufbereiten, tragen zur Sicherung und Schonung natürlich Ressource bei.
+Hohe Qualitätsstandards und der Einsatz modern Technologie bei der Recyclingprozessen seinen einen weit Plus: Dadurch sparen ELG Energie und vermindern der Umweltbelastung.
+Das Gleiche erreichen der Edelstahlhersteller, wenn ich statt primär Rohstoff recyceltes Material einsetzen - somit können der Unternehmen mein CO2 -Ausstoß deutlich reduzieren.
+TAKKT haben ich sich zum Ziel gichetzt, bis 2016 Vorbild in Sache Nachhaltigkeit im B2B-Spezialversandhandel zu mein.
+Als Orientierung dernen dabei der zehn Prinzip der Global Compact der Vereinte Nation zu Menschenrechten, Arbeitsbedingung, Umweltschutz und Korruptionsbekämpfung.
+Im Dialog mit Stakeholdern haben TAKKT sechs Handlungsfelder ableiten: Einkauf, Marketing, Logistik, Ressource Klima, Mitarbeiter und Gesellschaft.
+Pro Handlungsfeld werden konkret Maßnahme, Kennzahl und Ziel formulieren, der mit der SCORE-Programm ("Sustainable Corporate Responsibility") nachhaltig in der TAKKT-Organisation verankern werden.
+Im Nachhaltigkeitsbericht 2012 "Gut Unterwegs" stellen der B2B-Spezialversandhändler erstmals mein Nachhaltigkeitsstrategie vor.
+Der Bericht werden nach der international Standard der Global Reporting Initiative (GRI) erstellen und gemäß GRI-Klassifizierung auf der Level "C+" bestätigen.
+Als Teilnehmer der Carbon Disclosure Projects (CDP) berichten TAKKT schon seit 2006 jährlich über der Umgang mit Treibhausgasemissionen und werder 2012 auf der CDP-Jahreskonferenz als der deutschen Unternehmen auszeichnen, der bei der Klimaberichterstattung der groß fortschreiten machen haben.
+Weiterführende Information zu der CR-Aktivitäten stehen im Nachhaltigkeitsbericht unter www.takkt.de/nachhaltigkeitsberichte.html.
+Celesio leisten ein Beitrag zu ein (wirkungs-)sicher, bezahlbar und jederzeit verfügbar Arzneimittel- und Gesundheitsversorgung.
+Das Handel-, Logistik- und Serviceunternehmen stellen dafür der Gesundheit der Mensch in der Mittelpunkt.
+Somit sein verantwortungsvoll Handeln fest Bestandteil der Unternehmensidentität - seit der Gründung vor 177 Jahr.
+Bei Celesio umschreiben CR heute der freiwillig Beitrag zu ein nachhaltig Entwicklung, der über gesetzlich vorgeben hinausgeht.
+Beispiel dafür sein Selbstverpflichtung wie Verhaltenskodex, Leitbild für verantwortlich Handeln der Wirtschaft, "Charta der Vielfalt" oder Umweltrichtlinien.
+In der Celesio-Holding werden einen zentral Zuständigkeit für CR schaffen.
+Ein Nachhaltigkeitsrat beraten als intern Planungs-, Lenkungs- und Kontrollgremium der vorstehen in alle CR-Belangen.
+Im Geschäftsbericht, auf der Website www.
+celesio.com und in Sonderpublikationen berichten Celesio über der Aktivität.
+Ein eigenständig CR-Bericht sein für Ende 2013 planen.
+Als weltweit agierend Handelsunternehmen mit Standort in Europa, Asien und Afrika spielen der METRO GROUP im Leben viel Mensch einen wichtig Rolle.
+Rund 280.000 Mitarbeiter aus etwa 180 Nation an über 2.200 Standort beschäftigen der Gruppe heute.
+Als vertrauensvoll Partner stehen ich täglich mit ein Vielzahl von Lieferant und Kunde in Kontakt.
+Verantwortung zu übernehmen heißen für der METRO GROUP deshalb, sichern und qualitativ hochwertig Produkt anbieten, sich innerhalb der Wertschöpfungskette für fair und menschenwürdige Arbeitsbedingung einsetzen sowie der schonender Umgang mit Ressource kontinuierlich zu prüfen.
+Ziel der Nachhaltigkeitsmanagements sein ich, einer ganzheitlich Ansatz zu gewährlicheiner.
+Das spiegeln sich in der Handlungsfeldern "Lieferkette und Produkt", "Energie- und Ressourcenmanagement", "Mitarbeiter und Soziales" sowie "Gesellschaftspolitik und Stakeholder-Dialog" widern.
+Auskunft zu Projekt und gesteckt Ziel geben der regelmäßig erscheinend Nachhaltigkeitsbericht und der Website www.metrogroup.de/nachhaltigkeit.
+MITARBEITER IM MITTELPUNKT Die Stärkung der Mitarbeiter seiner einer zentral Wert, um eineren langfrseinerigen Unternehmenserfolg gewährleseineren zu können.
+Als verantwortungsvoll Arbeitgeber engagieren sich Geschäftsbereiche und Holding zum Beispiel für der Gesundheit der Mitarbeiter.
+Bei CWS-boco und Celesio können sich Beschäftigte bei Aktionstagen rund um der Thema Gesundheit informieren und an Vorsorgechecks teilnehmen.
+TAKKT haben mit "akktiv" einen Konzept zur betrieblich Gesundheitsvorsorge verabschieden.
+Die Haniel-Holding bieten regelmäßig kostenlos Vorsorgeuntersuchung an, um der Gesundheit der Mitarbeiter zu erhalten, und fördern Sportangebote wie Fitness-Kurse, Rückenschule oder Yoga als Ausgleich zum Arbeitsalltag.
+Die Unternehmen in der Haniel-Gruppe erleichtern mein Mitarbeiter der Vereinbarkeit von Familie- und Berufsleben auf vielfältig Weise.
+Je nach Geschäftsbereich bestehen der Möglichkeit, in Absprache mit der Vorgesetzte im Home-Office oder an Telearbeitsplätzen zu arbeiten.
+Darüber hinaus bekommen Mitarbeiter teilweis finanziell Unterstützung für der Betreuung von nichtschulpflichtigen Kind.
+Um der Work-Life-Balance insbesondere in schwierig Lebenslagen zu halten, können Haniel-Mitarbeiter der Beratung ein Familienservice in Anspruch nehmen.
+Ein Unterstützungs-Fonds bieten zudem Halt, wenn einen Mitarbeiter oder der Familienmitglied unverschuldet in finanziell Not raten sein.
+Unter unternehmerischer Verantwortung verstehen Haniel auch, Mitarbeiter dafür zu sensibiliichren, wie ich selbst zum Ressource- und Umweltschutz beitragen können.
+Ein Instrument dafür sein der Green Car Policy, der 2012 vom Haniel-Vorstand verabschieden werden und Anfang 2013 in der Holding in Kraft treten.
+Neben der Einführung von CO2 -Grenzwert für verschieden Fahrzeugklassen sehen der neu Richtlinie Alternative zum Dienstwagen vor - zum Beispiel einer Jahresticket für der Deutsche Bahn oder eineren Zuschuss zur privat Altersvorsorge.
+Auch der Geschäftsbereiche haben umweltfreundlich Regelung für Dienstwagen schaffen, um der Kraftstoffverbrauch und damit der Ausstoß von Treibhausgasen zu vermindern.
+MIT BLICK AUF DIE ZUKUNFT Haniel beteiligen der Mitarbeiter seit viel Jahr am erfolgen der Unternehmen.
+Über verschieder Beteiligungsmodelle oder Belegschaftsaktienprogramme in der börsennotierten Geschäftsbereichen partizipieren der Beschäftigte an der langfristig Wertentwicklung.
+Auf ders Weise werder der wichtig Beitrag, der der Mitarbeiter zum erfolgen der Unternehmen leisten, honorieren.
+Mitarbeiter sichern der Zukunft ein Unternehmen.
+Deshalb fördern Haniel Fach- und Führungskräfte individuell und zielen.
+Dies hängen einzig von der Leistung der Mitarbeiter ab, unabhängig von Geschlecht, Alter oder Nationalität.
+Im regelmäßig Entwicklungsgespräch werden gemeinsam mit der Vorgesetzte der persönlich Stärken und Ziel ermitteln.
+Die Dialog-Partner vereinbaren Maßnahme wie beispielsweise der Teilnahme an Seminar oder Workshop, welch der Haniel Akademie in verschieden Kompetenzfeldern anbieten.
+Hinzu kommen maßgeschneidert Entwicklungsprogramme, mit der aufstrebend Talent, Führungskräfte der mittler Management und Top-Manager aus der Konzern auf künftig aufgeben vorbereiten werden.
+Die drei Programm der "Haniel Leadership Curriculum" sein speziell für Herausforderung auf der verschiederen Karrierestufen konzipieren.
+Um sich langfristig als attraktiv Arbeitgeber zu positionieren, stehen Haniel im regelmäßig Dialog mit der Führungskräften von morgen.
+Welche Karriereziele verfolgen der "Generation Y"?
+Was beeinflussen Absolventen bei mein beruflich Werdegang?
+Diese Frage stellen Haniel 2012 in einer europaweiten Studie an rund 1.000 Student der Ingenieur- und Wirtschaftswissenschaften - mit folgend Ergebnis: Praktikum und Trainee-Programme seiner beliebt Einstiegsoptionen in einer Unternehmen, da ich eineren persönlich und authentisch Eindruck vom potenziell Arbeitgeber vermitteln.
+Deshalb weit Geschäftsbereiche und Holding der Angebot für Berufseinsteiger zielen aus: In der Haniel-Gruppe können Schul- und Hochschulabsolventen dual Ausbildungsgänge und Trainee-Programme absolvieren.
+Student werden Praktikum in verschieden Fachbereich ermöglichen - unter gerecht Bedingung und bei angemessen Bezahlung, wer der Gütesiegel der Initiative "Fair Company" Haniel bescheinigen.
+Der Berufsstart sein in der Unternehmensgruppe in über 20 Ausbildungszweigen und dual Studiengängen möglich.
+Insgesamt 207 Auszubilderde sein 2012 deutschlandweit in der Holding und der vollkonsolidierten Geschäftsbereichen beschäftigen.
+Herausragende Talent unterstützen Haniel bereits während der Studium.
+Neben der Vergabe von Stipendium fördern der Holding Praktikant mit der "Student Development Programm", um ich langfristig an der Haniel-Gruppe zu binden.
+Mit praxisorientierten Workshop erweitern ich mein theoretisch Wissen und haben zusätzlich der Option auf Praktikum im In- und Ausland.
+Dadurch knüpfen der Student frühzeitig einen professionell Netzwerk mit Mitarbeiter aus der Haniel-Gruppe.
+IMPULSE VOM UNTERNEHMENSBÜRGER Gemäß der Haniel-Werten engagieren sich Holding und Geschäftsbereiche auch über der Kerngeschäft hinaus - und zwar dort, wo ich mit mein Kompetenz echt Mehrwert erzielen können.
+Die Holding verstehen sich traditionell als Unternehmensbürger am Heimatstandort.
+Sie unterstützen lokal Initiative in Duisburg mit monetären, reputativen, infrastrukturellen und intellektuell Ressource.
+Schwerpunkt der Engagement liegen sowohl auf Bildungsförderung - insbesondere von sozial benachteiligt Kind und Jugendliche - als auch auf der Weiterentwicklung der Stadt und vor alle der Hafenstadtteils Ruhrort zu einer beliebt Wohn- und blühend Wirtschaftsstandort.
+Dabei übernehmen Haniel häufig der Rolle der Impulsgebers: Nachdem der Unternehmen 2010 zum Beispiel der Projekt "Bildung als Chance" in Kooperation mit der gemeinnützig Organisation Teach First Deutschland, Chancenwerk und Ashoka Deutschland erfolgreich in Duisburg starten haben, gehen der Weiterentwicklung im Januar 2013 in der Verantwortungsbereich der Haniel Stiftung über.
+Ausführliche Information über der vielfältig CR-Aktivitäten der Haniel-Holding und der Geschäftsbereiche entlang und außerhalb der Wertschöpfungskette bieten der Website www.haniel.de unter "Verantwortung".
+Für 2014 seinen einen erst konzernweiter CR-Bericht nach der GRI-Standard planen.
+Lagebericht GESCHÄFTSVERLAUF FRANZ HANIEL CIE.
+GMBH Der Geschäftsverlauf der Franz Haniel Cie.
+GmbH werden maßgeblich durch der wirtschaftlich Entwicklung in mein Geschäftsbereichen bestimmen.
+Der Lagebericht der Einzelabschlusses entsprechen daher im Wesentliche der Konzernlagebericht 2012.
+Der Konzern bilanzieren nach der IFRS-Vorschriften, der Jahresabschluss der Führungsholding Franz Haniel Cie.
+GmbH werder nach der HGB-Vorschriften erstellen.
+GESCHÄFTSVERLAUF HANIEL-KONZERN Die anhaltend gesamtwirtschaftlichen Unsicherheit insbesondere in Europa haben der Geschäftsentwicklung der Haniel-Konzerns 2012 beeinträchtigen.
+Dennoch bleiben der Umsatz mit 26.331 Million Euro stabil.
+* CWS-boco, TAKKT und Celesio verbucht einen Umsatzwachstum, während ELG aufgrund deutlich gering Rohstoffpreise rückläufig Umsatz verzeichnet.
+Das Operative Ergebnis sein von 400 Million auf 496 Million Euro steigen.
+Diese Verbesserung sein überwiegen auf der Geschäftsbereich Celesio zurückführen, bei der gering Sonderaufwendung für der strategisch Neuausrichtung anfallen.
+Hingegen sein der Ergebnis vor Steuer der Haniel-Konzerns 2012 mit -1.483 Million Euro deutlich negativ, nachdem ich im Vorjahr noch 463 Million Euro betragen.
+Zurückzuführen sein ders massiv Ergebnisrückgang vor alle auf der Wertberichtigung der Metro-Beteiligung, der der Beteiligungsergebnis belasten haben.
+Das Ergebnis nach Steuer der Haniel-Konzerns betragen im abgelaufen Geschäftsjahr -1.896 Million Euro.
+Darin sein auch der Ergebnis der nicht fortgeführt Bereich enthalten.
+Hier wirken sich der strategisch Neuausrichtung von Celesio aus: Der verkaufen von Movianto, Pharmexx und der Versandapotheke DocMorris führen zu einer Veräußerungsverlust.
+GESAMTWIRTSCHAFTLICHES UMFELD IM JAHRESVERLAUF SCHWÄCHER 2012 entwickelt sich der Weltwirtschaft insgesamt verhalten.
+Das Wachstum der global Bruttoinlandsprodukts reduziert sich von 3,8 Prozent im Jahr 2011 auf 3,2 Prozent.
+Der gedämpft Aufschwung in der USA können der rezessiven Tenderzen im Euroraum und der deutlich nachlassender Wachstumsraten in Wachstumsmärkten wie China nicht ausgleichen.
+Die gesamtwirtschaftlichen Rahmenbedingung seinen vor alle wegen der Staatsschuldenkrisen in Südeuropa und Spekulation um einen möglich Auseinenanderbrechen der Euroraums von hoch Unsicherheit prägen.
+In der einzeln Wirtschaftsräumen sein der Entwicklung im Jahresverlauf sehr unterschiedlich.
+Während in der USA kein klar Trend zu beobachten sein und der Gesamtjahr mit einer Wirtschaftswachstum von 2,2 Prozent abschloss, steigern sich der Wachstum in China im Jahresverlauf, können allerdings mit 7,8 Prozent nicht an der Vorjahr anschließen.
+Entgegengesetzt verlaufen der Entwicklung im Euroraum, wo sich der fortschreitend Konsoliderrung der Staatshaushalte insbesondere in der südeuropäischen Land zunehmen negativ auf der Wirtschaftswachstum und der Konsumnachfrage auswirken.
+Dieser negativ Trend verstärkt sich im zweit Halbjahr, so dass im Euroraum einen Rückgang der Wirtschaftswachstums um insgesamt 0,6 Prozent gegenüber der Vorjahr zu verzeichnen sein.
+Positiv hervorheben sein Deutschland, der Wirtschaft um 0,7 Prozent wachsen, wenn auch weitaus schwach als im Jahr zuvor.
+UMSATZ BLEIBT STABIL Der Umsatz der Haniel-Konzerns liegen mit 26.331 Million Euro auf der Niveau der Vorjahr in Höhe von 26.473 Million Euro.
+Positiv dazu beitragen haben der erwerben von GPA und Ratioform bei TAKKT im Jahr 2012 sowie der ganzjährig Einbeziehung der im Vorjahr erworben Unternehmen Oncoprod bei Celesio.
+Bereinigt um Unternehmenskäufe und -verkäufe sowie Währungseffekte reduziert sich der Umsatz der Haniel-Konzerns um 3 Prozent.
+Der Umsatzrückgang sein größtenteils auf der Entwicklung im Geschäftsbereich ELG zurückführen.
+Zwar gelingen ich ELG, der Ausgangstonnage stabil zu halten.
+Die Preisnotierung für Nickel - der überwiegender Wertträger im Edelstahlschrott - liegen jedoch in einer schwach konjunkturell Umfeld deutlich unter deren der Vorjahr.
+Bei Celesio werden insbesondere bei patentgeschützten Medikament gering Umsatz verzeichnen.
+Darüber hinaus wirken sich im Großhandel Kosteneinsparung im Gesundheitswesen viel europäisch Staat aus.
+Dennoch verbucht Celesio bereinigen um Unternehmenskäufe und -verkäufe sowie Währungseffekte einer nur gering Umsatzrückgang, wozu vor alle der gut abschneiden der Apotheke beitragen haben.
+Auch TAKKT verzeichnet bereinigen um Unternehmenskäufe und -verkäufe sowie Währungseffekte gering Umsatz.
+Hier haben der gut Geschäftsentwicklung bei TAKKT AMERICA einer konjunkturbedingten Umsatzrückgang im europäisch Markt teilweis kompensieren.
+Dagegen haben CWS-boco währungsbereinigt einer leicht Umsatzanstieg erzielen.
+Dazu beitragen haben weit Verbesserung bei der Betreuung von Bestandskunden und einenn optimiert Qualitätsmanagement im Service sowie einenne positiv Entwicklung der Neukundengeschäfts.
+OPERATIVES ERGEBNIS VERBESSERT Das Operative Ergebnis der Haniel-Konzerns liegen mit 496 Million Euro deutlich über der Vorjahr mit 400 Million Euro.
+Dieser ansteigen sein überwiegen auf der hoch Ergebnis von Celesio zurückführen - bedingt durch gering Sonderaufwendung für der strategisch Neuausrichtung als im Vorjahr.
+Dagegen liegen der Ergebnis von ELG in einer weiterhin wettbewerbsintensiven Geschäftsumfeld deutlich unter der Vorjahr.
+TAKKT hingegen sein ich gelung, der Operative Ergebnis zu steigern.
+Die positiv Ergebnisbeiträge der akquiriert Unternehmen sowie der gut Geschäftslage bei TAKKT AMERICA können der konjunkturbedingten Rückgang bei TAKKT EUROPE ausgleichen.
+Auch CWS-boco haben sich erfreulich entwickeln und der Operative Ergebnis spürbar steigern.
+Neben hoch Umsatz sein der ansteigen auch auf operativ Verbesserung aus der Repositionierungsprojekt Fokus Zukunft zurückführen.
+Zudem fallen 2012 gering Sonderaufwendung an als im Vorjahr.
+WERTBERICHTIGUNG BELASTET ERGEBNIS VOR STEUERN Das Ergebnis vor Steuer betragen im abgelaufen Geschäftsjahr -1.483 Million Euro und liegen damit deutlich unter der Wert der Vorjahr von 463 Million Euro.
+Es beinhalten zusätzlich zum Operative Ergebnis der Beteiligungsergebnis und der Ergebnis aus Finanzierungstätigkeit.
+Das Beteiligungsergebnis umfassen vor alle der auf Haniel entfallend Ergebnis der METRO GROUP.
+Die METRO GROUP können der Umsatz trotzen ein Verschärfung der Marktbedingung in Südeuropa leicht steigern.
+Das Operative Ergebnis gehen dennoch zurück - auch aufgrund von Sonderaufwendung für Portfolio- und Restrukturierungsmaßnahmen.
+Gegenläufig wirken der verbessert Finanzergebnis der METRO GROUP.
+Der Steueraufwand liegen nur geringfügig unter der Vorjahr.
+Der Ergebnisbeitrag, der Haniel aus der Metro-Engagement verzeichnet, betragen im Geschäftsjahr -1.523 Million Euro.
+Im Vorjahr liegen ich bei 329 Million Euro.
+Die deutlich Verschlechterung haben neben der gesunken Operative Ergebnis der METRO GROUP weit Ursache: Erstens werden mit der Entscheidung, 4,23 Prozent der stimmberechtigt Anteil an der METRO GROUP zu veräußern, einen Wertberichtigung in Höhe von 345 Million Euro auf der zu erwartend Veräußerungserlöse notwendig.
+Zweitens führen der Werthaltigkeitstest für der verbleibend Metro-Beteiligung 2012 zu einer Wertberichtigungsbedarf in Höhe von 1.149 Million Euro.
+Und drittens sein zu berücksichtigen, dass Haniel im Vorjahr zusätzlich zum Beteiligungsergebnis aus der METRO GROUP einer ertragen in Höhe von 172 Million Euro realisieren können, der aus der verkaufen von Immobilie stammen, der sich im besitzen der Metro-Gründungsgesellschafter befinden.
+Neben der Beteiligungsergebnis aus der Metro-Engagement haben Haniel wie im Vorjahr Ertrag aus zwei Beteiligungsfonds erzielen, in der Haniel in der vergangen Jahr investieren habente.
+Das Ergebnis aus Finanzierungstätigkeit haben sich auf -471 Million Euro verschlechtern, nachdem ich im Vorjahr noch -310 Million Euro betragen.
+Das Ergebnis aus Finanzierungstätigkeit setzen sich zusammen aus der Finanzierungsaufwand und der Übrigen Finanzergebnis.
+Im Geschäftsjahr 2012 fallen vor alle der Finanzierungsaufwand deutlich hoch aus - hauptsächlich bei Celesio und der Haniel-Holding.
+Im Geschäftsbereich Celesio ergeben sich einen hoch Zinsaufwand im Zusammenhang mit der Erwerb der Restanteile am brasilianisch Großhändler Panpharma.
+Bei der Haniel-Holding werden zur Verbesserung der Fälligkeitenstruktur ausstehend Anleihe über der Nominalwert zurückkaufen, woraus sich einen erhöht Zinsaufwand ergeben.
+Darüber hinaus haben der Ratingagenturen der Rating der Haniel-Holding senken, so ders der Zinsaufwand steigen, da der begeben Anleihe hoch Zinszahlung bei ein Herabstufung der Ratings vorsehen.
+Auch der Übrige Finanzergebnis verschlechtert sich 2012.
+Zurückzuführen sein dies insbesondere auf Wertminderung von langfristig Forderung der Haniel-Holding.
+VERÄUSSERUNGSVERLUSTE BEI CELESIO BELASTEN NACHSTEUERERGEBNIS Das Ergebnis nach Steuer der fortgeführt Bereich fallen mit -1.637 Million Euro deutlich gering aus als im Vorjahr.
+Trotz der gesunken Ergebnis vor Steuer liegen der Steueraufwand mit 154 Million Euro auf der Niveau der Vorjahr, da sich der Wertberichtigung der Metro-Beteiligung nicht steuermindernd auswirken.
+Im Ergebnis der nicht fortgeführt Bereich entstehen Veräußerungsverluste von insgesamt 252 Million Euro.
+Diese ergeben sich aus der verkaufen der Geschäftsaktivitäten von Movianto, Pharmexx und der Versandapotheke DocMorris im Zug der strategisch Neuausrichtung von Celesio.
+Im Vorjahr sein hier einen Wertberichtigung auf der Goodwill bei Pharmexx in Höhe von 72 Million Euro enthalten.
+Insgesamt liegen damit der Ergebnis nach Steuer der Haniel-Konzerns im Geschäftsjahr 2012 mit -1.896 Million Euro deutlich unter der Vorjahresergebnis von 236 Million Euro.
+HANIEL-CASHFLOW STABIL Der Haniel-Cashflow, der zur intern Steuerung verwenden werden, liegen trotzen der deutlich gering Ergebnis nach Steuer mit 440 Million Euro auf der Niveau der Vorjahr in Höhe von 436 Million Euro.
+Dies sein darauf zurückführen, ders der Wertberichtigung der Metro-Beteiligung und der Veräußerungsverluste bei Celesio, der der Ergebnis nach Steuer belastet, nicht zahlungswirksam sein.
+Der Cashflow aus operativ Geschäftstätigkeit, der zusätzlich zum Haniel-Cashflow vor alle der Veränderung der kurzfristig Nettovermögens* umfassen, sinken hingegen von 813 Million im Vorjahr auf 519 Million Euro im Geschäftsjahr 2012.
+Dies liegen daran, ders im Vorjahr der Nettoumlaufvermögen zum Jahresende vergleichsweise gering sein.
+Hierfür sein insbesondere der Verbindlichkeit aus Lieferung und Leistung im Geschäftsbereich Celesio ausschlaggebend, der stichtagsbedingt ungewöhnlich hoch sein.
+Das gering Nettoumlaufvermögen der Jahr 2011 führen zu einer vergleichsweise hoch Cashflow aus operativ Geschäftstätigkeit im Vorjahr.
+INVESTITIONSAUSZAHLUNGEN GESTIEGEN Dich Cashflow aus Investitionstätigkeit betragen 2012 -341 Million Euro, während ich im Vorjahr bei -261 Million Euro liegen haben.
+Der Cashflow aus Investitionstätigkeit stellen der Saldo aus Auszahlung für der Investitionstätigkeit und Einzahlung aus der Desinvestitionstätigkeit dar.
+Die Auszahlung für Investition in Sachanlagen, immaterielle und ander langfristig Vermögenswerte sowie für Unternehmenserwerbe betragen im abgelaufen Geschäftsjahr 740 Million Euro.
+Hierin enthalten sein der erwerben von Ratioform und GPA durch TAKKT sowie der Übernahme der Restanteile am brasilianisch Großhändler Panpharma durch Celesio.
+Im Vorjahr belaufen sich der Investitionsauszahlung auf insgesamt 469 Million Euro.
+Darin sein Unternehmenserwerbe in nur gering Umfang enthalten.
+Die Einzahlung aus Desinvestitionen liegen mit 399 Million Euro über der Vorjahreswert in Höhe von 208 Million Euro.
+Diese umfassen im Geschäftsjahr überwiegen Einzahlung aus Verkauf bei Celesio vor alle für Movianto, Pharmexx, der Versandapotheke DocMorris sowie Großhandel und Apotheke Tschechien.
+Die Einzahlung im Vorjahr betreffen bei der Haniel-Holding der teilweis Rückzahlung von langfristig Forderung, Rückzahlung aus zwei Beteiligungsfonds sowie Einzahlung aus der verkaufen von Immobilie, der sich im besitzen der Metro-Gründungsgesellschafter befinden.
+Im Cashflow aus Finanzierungstätigkeit sein Auszahlung an Gesellschafter und Aktionär für Dividende in Höhe von 89 Million Euro enthalten.
+Im Vorjahr betragen der Auszahlung 115 Million Euro.
+EIGENKAPITALQUOTE GESUNKEN Die Bilanzstruktur der Haniel-Konzerns haben sich zum 31. Dezember 2012 im vergleichen zum Vorjahr deutlich verändern.
+Die Bilanzsumme sein von 16.706 Million Euro auf 14.416 Million Euro zurückgehen.
+Zurückzuführen sein ders auf der vorgenommen Wertberichtigung der Metro-Beteiligung sowie abgehend Vermögenswerte aus Unternehmensverkäufen bei Celesio.
+Das Eigenkapital sinken wegen der negativ Ergebnis nach Steuer von 6.347 Million auf 4.500 Million Euro.
+Entsprechend verringert sich der Eigenkapitalquote von 38 auf 31 Prozent.
+Die Bilanzstruktur sein damit weiterhin solide.
+Die Nettofinanzschulden, also der Finanzschulden abzüglich der liquiden Mittel, bleiben mit 4.860 Million Euro stabil.
+Während der Nettofinanzschulden bei der Haniel-Holding senken werden können, steigen ich bei TAKKT aufgrund der Unternehmenserwerbe.
+Im Geschäftsjahr haben sich der Zusammensetzung der Finanzschulden ändern.
+Durch der Begebung von Euro-Anleihen bei Celesio und der Haniel-Holding sowie Schuldscheindarlehen bei CWS-boco, ELG und TAKKT können der Finanzierungsbasis verbreitern und der Bankverschuldung zurückführen werden.
+NACHTRAGSBERICHT HANIEL-KONZERN Die Franz Haniel Cie.
+GmbH haben der Ende November angekündigt Maßnahmenpaket zum Schuldenabbau weit umsetzen.
+Im Januar 2013 werden der verkaufen der Anteil an einer Beteiligungsfonds und im Februar 2013 der verkaufen von 4,23 Prozent der stimmberechtigt Anteil an der METRO AG abschließen.
+Mit der Veräußerung wurder erlösen in Höhe von insgesamt 383 Million Euro erzielen.
+Für einener Teil der zweit Beteiligungsfonds werder einen vertragen über der verkaufen abschließen.
+Der Mittelzufluss aus der Verkauf werden zum Abbau der Finanzverschuldung einsetzen.
+In ders Zusammenhang haben der Franz Haniel Cie.
+GmbH im Februar 2013 einen öffentlich Rückkaufangebot für der im Jahr 2014 auslaufend Euro-Benchmark-Anleihe herausgeben.
+Infolgedessen werden Anleihe mit einer Nominalwert von 284 Million Euro zurückkaufen.
+Der Geschäftsbereich Celesio haben im Februar 2013 einer Konsortialkreditvertrag über 500 Million Euro abschließen.
+Diese syndizierte Kreditlinie haben einen Laufzeit bis Februar 2018 und ersetzen der ausgelaufen Konsortialkredit über 600 Million Euro.
+Ebenfalls im Februar haben der Geschäftsbereich ELG 100 Prozent der Anteil an der ABS Industrial Resources Ltd.
+in Großbritannien sowie der Tochterunternehmen erwerben.
+ABS unterhalten Recyclingbetriebe insbesondere für Superlegierung in Großbritannien, der USA und Südafrika.
+Darüber hinaus treten kein berichtspflichtigen Ereignis nach der Bilanzstichtag auf.
+CHANCEN UND RISIKEN HANIEL-KONZERN Unternehmerischen Risiko stehen in der Regel auch Chance gegenüber, welch ich zu nutzen gelten.
+Gleichzeitig müssen möglich Gefahr für der Geschäftsentwicklung frühzeitig erkennen, im Detail analysieren und auf einen ökonomisch sinnvoll Maß vermindern werden.
+CHANCEN WERTSTEIGERND NUTZEN Im Haniel-Konzern werden Chance identifizieren, indem Markt kontinuierlich beobachten werden.
+Aufgrund der dezentralen Organisations- und Managementstruktur sein der Holding und der Geschäftsbereiche in der Lage, Trend und Anforderung der oftmals fragmentierten Markt zeitnah zu erkennen.
+Dafür werden Markt-, Trend- und Wettbewerberinformationen sammeln und analysieren.
+Das Chancenmanagement sein in der Prozess der Strategieentwicklung eingebunder.
+Im Rahmen der strategisch Planung werden unternehmerische Option systematisch bewerten und Initiative entwickeln, dies Option wertsteigernd zu nutzen.
+Im nächst Schritt werden der strategisch Initiative in der operativ Planung konkretisieren und daraus Handlungsmaßnahmen ableiten.
+Die Strategie und mein Umsetzung diskutieren der Mitglied der Haniel-Vorstands intensiv mit der Management der Geschäftsbereiche in regelmäßig stattfindend Managementmeetings.
+Darüber hinaus werder der Portfoliostrategie der Holding kontinuierlich auf der Prüfstand stellen.
+Hierzu stehen der vorstehen im regelmäßig Dialog mit der Aufsichtsrat.
+OPTIONEN FÜR WEITERES WACHSTUM Unternehmerische Handlungsoptionen für der Haniel-Konzern geben ich viel.
+Holding und Geschäftsbereiche suchen fortwähren nach derjenige Möglichkeit, der nachhaltig und profitabel Wachstum sichern.
+Ausgangspunkt hierbei sein Trend von global Bedeutung.
+Die im Konzern identifiziert Chance sein im Folgende aufführen.
+Optimierung der Geschäftsportfolios: Haniel überprüfen kontinuierlich der strategisch Ausrichtung der Portfolios.
+Im Zug der haben Haniel ausgehen von global Megatrends Geschäftsmodelle idertifizieren, der in der kommender Jahrzehnt einer Wertbeitrag zum wirtschaftlich erfolgen der Konzern leisten können und im Einklang mit ökologisch und gesellschaftlich Wert stehen.
+Auf dies Basis sollen der Portfolio durch Unternehmenskäufe und -verkäufe nachhaltig wertsteigernd weiterentwickel werden - immer unter Einhaltung ein solide Finanzierungsstruktur.
+Internationale Expansion: Der Haniel-Konzern sein in Westeuropa stark vertreten und dort mit seinen unterschiedlich Geschäftsmodellen gut aufstellen.
+Möglichkeit für weit Wachstum, sein ich durch Neugründung oder Unternehmenserwerbe, sehen Haniel in der dynamisch wachsender Volkswirtschaften der Welt.
+In Osteuropa sein der Geschäftsbereiche bereits vielfältig aktiv und werden mein Präsenz weit ausbauen.
+Auch in Asien und Amerika treiben Haniel der Expansion weit voran.
+Langfristig streben Haniel einen Verteilung der Geschäftsaktivitäten an, der im ausgewogen Verhältnis zum Anteil der wirtschaftlich Aktivität der jeweilig Region stehen.
+Wachsende Nachfrage nach Gesundheitsdienstleistung: Celesio besitzen einen gut Marktposition und langjährig Erfahrung im Pharmahandel.
+Die weltweit wachsend und alt werdende Bevölkerung lassen für der Zukunft einen steigend Nachfrage nach Gesundheitsdernstleistungen und Arzneimitteln erwarten.
+Celesio mögen weiterhin von dies Trend profitieren und der Markt kosteneffizient versorgen.
+Im Zug der 2011 eingeleitet strategisch Neuausrichtung liegen der Fokus zukünftig auf der Weiterentwicklung der Kerngeschäfte Großhandel und Apotheke.
+Celesio planen, Ergebnissteigerung durch der Etablierung ein europäisch Apothekennetzwerkes zu erzielen.
+Darüber hinaus sollen weit Ergebnisbeiträge durch neu Serviceleistung und durch Effizienzsteigerung über der gesamt Wertschöpfungskette der Pharmadistribution realisieren werden.
+Ausbau der Multi-Channel-Aktivitäten: Mit der fortschreitend Digitalisierung ergeben sich Wachstumschancen durch der konsequent Erweiterung der Einzel- und Großhandelsgeschäfts der METRO GROUP und der Versandhandelsgeschäfts der TAKKT zu einer Multi-Channel-Geschäft.
+Bei der METRO GROUP liegen dies Wachstumschancen in der Verzahnung der stationär Geschäft mit der E-Commerce-Aktivitäten.
+Auf ders Basis schaffen der METRO GROUP einer echt Mehrwert für der Kunder.
+Der Spezialversandhändler TAKKT planen, vor alle Vertriebswege wie Telefon-Marketing, Außendienst und E-Commerce weit zu stärken.
+Der Ausbau der E-Commerce-Aktivitäten umfassen sowohl Webshops als auch E-Procurement-Systeme.
+Auf ders Weise bieten TAKKT der Kunder der Möglichkeit, mein Beschaffungsprozesse zu vereinfachen und dadurch Kosten zu senken.
+Steigende Rohstoffnachfrage: Kerngeschäft von ELG sein der Handel mit und der Aufbereitung von Primär- und Sekundärrohstoff für der Marktsegment Edelstahl.
+Wachstumschancen ergeben sich für ELG aus der mitteln- und langfristig erwartet weltweit Nachfrageanstieg bei Edelstahlprodukten.
+Zudem werden der Bereich Superlegierung weit an Bedeutung gewinnen: ELG sein hier in der Aufbereitung von sehr hochwertig Sekundärrohstoff tätigen.
+Dazu zählen vor alle Titan- und hochlegierte Edelstahlschrotte.
+Diese kommen beispielsweise in der Luft- und Raumfahrt sowie bei der Energieerzeugung zum Einsatz.
+Weitere Wachstumspotenziale haben ELG im Jahr 2011 mit der Erwerb von ELG Carbon Fibre Ltd.
+erschließen.
+Mit der neu Gesellschaft verfügen ELG über einen nachhaltig ökologisch Konzept für der Recycling von Karbonfasern.
+ELG planen, dies innovativ Geschäftsmodell konsequent ausbauen.
+Nachhaltigkeit als Wettbewerbsfaktor: Die Übernahme unternehmerischer Verantwortung haben im Haniel-Konzern einen langen Tradition.
+Sie drücken sich in der Bestreben aus, mit der Geschäft nicht nur ökonomisch Wert zu schaffen, sondern auch ökologisch und gesellschaftlich Wert.
+Dass hierin kein Widerspruch bestehen, sondern einen Chance zur Erschließung von Wachstumspotenzialen, zeigen CWS-boco.
+Indem der Geschäftsbereich kontinuierlich alternativ Antriebstechniken für der Logistikflotte prüfen und einsetzen sowie zunehmen wassersparend Waschprozesse einführen, senken der Unternehmen nicht nur mein Emission und schonen natürlich Ressource, sondern reduzieren auch der Kosten.
+Durch der Einsatz von Stoffhandtuchrollen anstellen von Papiertüchern setzen der Kunder von CWS-boco nicht nur auf einer nachhaltig Lösung und einern wirtschaftlich Umgang mit Ressource, sondern verringern auch mein Abfallentsorgungskosten.
+Mit der auf Nachhaltigkeit ausgerichtet Leistungsangeboten und Prozeß positionieren sich CWS-boco am Markt klaren gegenüber Wettbewerbern und profitieren von der wachsender Nachfrage in dies Marktsegment.
+Ausführliche Information zum Thema Nachhaltigkeit im Haniel-Konzern enthalten der Kapitel "Corporate Responsibility" ab Seite 12.
+SYSTEMATISCHES RISIKOMANAGEMENT Ziel der Risikomanagements bei Haniel sein ich, Risiko vorausschauen zu beurteilen - im Hinblick auf der übergeordnet Unternehmensziele Wertsteigerung, Wachstum und Liquidität.
+Dabei sollen jen Risiko antizipieren werden, welch der strategisch und operativ Maßnahme beeinträchtigen und damit der Realisierung von Wert- und Wachstumspotenzialen oder der Sicherung jederzeit verfügbar Liquidität gefährden.
+Das Risikomanagementsystem von Haniel beruhen auf einer Integrationskonzept und bestehen dementsprechend aus zahlreich Bausteinen, der in der zentral Führungs- und Kontrollsysteme einbetten sein.
+Die Aufbauorganisation der Risikomanagements sein konzernweit regeln.
+Auf Ebene der vollkonsoliderrten Geschäftsbereiche koordinieren der Controlling- bzw. Revisionsabteilung der Risikoerhebung und sein für der Bewertung der Risiko im Rahmen der Unternehmensplanung verantwortlich.
+Die konzernweit erhoben Risiko werden im Risikomanagement-Ausschuss unter Beteiligung der Vorstand diskutieren und auf zusätzlich Handlungsbedarf zur Risikosteuerung prüfen.
+Auf Holding-Ebene geben ich darüber hinaus einen Risikomanagement-Komitee, in der der vorstehen und der Leiter all Zentral- und Stabsabteilung vertreten sein.
+Dieses Gremium dernen vor alle der fachübergreifenden Informationsaustausch über der Holding-Risiken.
+Der Risikomanagement-Beauftragte koordinieren auf Holding-Ebene der geschäftsbereichsübergreifender Risikoerhebungsprozess und sein verantwortlich für der Weiterentwicklung der Risikofrüherkennungssystems.
+Im Zusammenhang mit der strategisch und operativ Planung werder der wesentlich Risiko idertifiziert und hinsichtlich sich Eintrittswahrscheinlichkeit und Schaderhöhe systematisch bewerten.
+In der Planungsgesprächen besprechen der Holding-Vorstand und der Management der vollkonsoliderrten Geschäftsbereiche der erhoben Risiko.
+Anschließend werden der Risiko im Risikomanagement-Ausschuss vertiefen erörtern.
+Ergänzend zu dies Risikoerhebung werden auch auf Ebene der Holding einen Risikoinventur durchführen.
+Die Ergebnis werden im Risikomanagement-Komitee diskutieren.
+Aufbauend auf der Risikomeldung der Geschäftsbereiche sowie der Risikoinventur der Holding werden der Konzern-Risikobericht erstellen.
+Die Vorstandsmitglieder besprechen der Ergebnis und informieren der Prüfungsausschuss über der Risikosituation der Konzern insgesamt sowie über wesentlich Einzelrisiken.
+Die Berichterstattung und Steuerung finanzwirtschaftlicher Risiko umfassen Währungs-, Zins- und Liquiditätsrisiken sowie Risiko derivativer Finanzinstrumente.
+Ziel sein ich, finanzwirtschaftliche Risiko zu vermeiden oder zu begrenzen.
+Hierzu haben der vorstehen allgemein Grundsatz für der finanzwirtschaftliche Risikomanagement formulieren.
+Diese sein in Richtlinie für der Treasury-Abteilung der Holding und der Geschäftsbereiche verbindlich vorgeben.
+Das Management finanzwirtschaftlicher Risiko werden detailliert im Konzernanhang der Haniel-Geschäftsberichts ab Seite 72 erläutern.
+Im Rahmen der unterjährigen Berichterstattung melden der Geschäftsbereiche neben finanziell auch nicht-finanzielle unternehmensspezifische Kennzahl und Sachverhalt an der Holding, damit Fehlentwicklung frühzeitig erkennen werden.
+Diese Berichterstattung werden erweitern um Risiko, der festgelegt Schwellenwerte überschreiten.
+Ein weit Element der Risikomanagements sein der laufend Sammlung und Analyse von Information über Markt, Trend und Wettbewerber.
+Das Investitionscontrolling umfassen der jährlich Budgetierung sowie der regelmäßig Nachverfolgung der getätigt Investitionsbeträge.
+Investitionsprojekte werden anhand methodisch einheitlich DCF-Renditerechnung bewerten, wobei pro Geschäftsbereich und Strategische Geschäftseinheit risikoadäquate Mindestrenditen vorgeben werden.
+Das intern Kontrollsystem sein darauf ausrichten, dass bestehend Regelung zur Reduzierung von Risiko auf alle Konzernebenen einhalten werden.
+Damit sollen der Funktionsfähigkeit und Wirtschaftlichkeit der Geschäftsprozesse gewährleisten und Vermögensschäden entgegenwirken werden.
+Das intern Kontrollsystem sein in der Holding und in der Geschäftsbereichen geschäftsmodellspezifisch umsetzen und umfassen sowohl prozessintegrierte als auch prozessunabhängige Kontrollmaßnahmen.
+Es erstrecken sich über all wesentlich Geschäftsprozesse einschließlich der Rechnungslegungsprozesses.
+Die Revisionsabteilung der Geschäftsbereiche und der Holding sein in der Risikomanagement einbinden.
+Sie kontrollieren der Prozeß der Gesellschaft der Haniel-Konzerns insbesondere unter der Gesichtspunkt operativ Leistungsfähigkeit, Wirtschaftlichkeit sowie Einhaltung gesetzlich Vorschrift und intern Richtlinie.
+Dazu hören auch der Kontrolle der Implementierung und Wirksamkeit der Risikomanagementsystems einschließlich der intern Kontrollsystems.
+Bei der risikoorientierten Prüfungsplanung berücksichtigen der intern Revision der Information aus der Risikoerhebung und prüfen gegebenenfalls wesentlich Risikosachverhalte.
+Mit Geschäftsordnung und daraus abgeleitet Richtlinie werden im Rahmen der gesellschaftsrechtlichen Möglichkeit im Haniel-Konzern sicherstellen, dass der Bausteine der Risikomanagementsystems einhalten und zielsetzungsgerecht anwenden werden.
+Ergänzend zu diich Richtlinie geben ich Verhaltenskodizich für der Holding und der Gichchäftsbereiche.
+Darin sein Grundprinzipien der Verhalten für der Mitarbeiter auf der Basis gelebt Wertvorstellung niederlegen.
+Das Risikomanagementsystem werden regelmäßig auf mein Wirksamkeit überprüfen und bei Bedarf weiterentwickel.
+Der Abschlussprüfer werden auch 2012 wieder vom Aufsichtsrat beauftragen, der Risikofrüherkennungssystem der Konzern ein freiwillig Prüfung analog § 317 Absatz 4 HGB zu unterziehen.
+Die Eignung dies System werden vom Abschlussprüfer bestätigen.
+KLAR DEFINIERTE RISIKOFELDER Systematisches Risikomanagement setzen voraus, dass der Risiko frühzeitig identifizieren werden.
+Nur so sein ich möglich, rasch und wirksam gegensteuern.
+Nachfolgend sein der wesentlich Risiko für der Haniel-Konzern aufführen.
+Unternehmensstrategie: Unternehmensstrategische Risiko können vor alle durch der Fehleinschätzung künftig Marktentwicklung entstehen.
+Haniel begegnen dies Risiko mit intensiv Markt- und Wettbewerbsbeobachtung sowie regelmäßig Strategiegesprächen zwischen der vorstehen und der Management der Geschäftsbereiche.
+Darüber hinaus tragen der diversifizierte Geschäftsfeldportfolio dazu bei, der Auswirkung von Fehlentwicklung in einzeln Bereich abmildern.
+Unternehmenskäufe und -verkäufe: Um Risiko im Rahmen von Unternehmenstransaktionen möglichst ausschließen, werden Investition und Desinvestitionen vor Abschluss sorgfältig prüfen und mithilfe methodisch einheitlich DCF-Renditerechnung bewerten.
+Die Integration ein erworben Unternehmen in der Haniel-Konzern erfolgen anschließen auf Grundlage detaillierter Zeit- und Maßnahmenpläne sowie klaren definiert Verantwortlichkeit.
+Fall trotzen all Sorgfalt der mit ein Akquisition angestrebt Ziel nicht oder nur teilweis erreichen werden, können Wertberichtigung auf Goodwills und ander Vermögenswerte erforderlich mein.
+Um Risiko aus Unternehmenstransaktionen zu begegnen, werden bereits getätigt Unternehmenserwerbe regelmäßig ein Erfolgskontrolle unterziehen.
+Personal: Der Unternehmenserfolg der Haniel-Konzerns sein maßgeblich von der Kompetenz und der Engagement der Mitarbeiter abhängig.
+Führungskräfte müssen der erforderlich Kompetenz, Erfahrung und Persönlichkeit aufweisen, um der richtig Entscheidung im Sinn ein wertorientierten und nachhaltig Entwicklung sich Bereich zu treffen.
+Um der Führungskräfte bei der Entscheidungsfindung optimal zu unterstützen, sein gut ausgebildet Fachkräfte notwendig.
+Der Konzern sein deshalb bestrebt, qualifiziert Beschäftigte zu gewinnen und an der Unternehmen zu binden.
+Haniel investieren in der kontinuierlich Weiterbildung der Mitarbeiter.
+Die eigen Haniel Akaderie bieten Fach- und Führungskräften aus der Konzern Einzelseminare und modular Programm zu unternehmerischen Kernprozessen und Schlüsselbereichen sowie Kompetenzfeldern an.
+Die Programm der "Haniel Leadership Curriculum" bereit aufstrebend Führungstalente, erfahren Führungskräfte und Top-Manager auf künftig Herausforderung und Führungsaufgaben vor.
+Ausführliche Information zu Aus- und Fortbildung bei Haniel enthalten der Kapitel "Corporate Responsibility" ab Seite 12.
+Finanzierung: Die Sicherung der Finanzierungsbedarfs für der operativ Geschäft erfolgen im Haniel-Konzern neben der Eigenkapital vor alle über Fremdkapital.
+Hierbei werder einen Diversifikation der Finanzierungsinstrumente und Investorenkreise anstreben, um flexibel auf Entwicklung an der Kapitalmärkten und im Bankenbereich reagieren zu können.
+Die Holding und der Geschäftsbereiche verfügen über verbindlich zugesagt, jedoch nur in begrenzt Umfang genutzt bilateral Kreditlinien und bislang nicht in Anspruch genommen syndizierte Kredit.
+Hinzu kommen regelmäßig aktualisiert Kapitalmarktprogramme der Holding wie der Debt Issuance Programm.
+Bei der Finanzierung mit Fremdkapital seinen ich von Vorteil, dass der Holding und der Gichchäftsbereiche als langjährig und verlässlich Gichchäftspartner bei Banken und ander Invichtoren einen hohich Maß an vertrauen genießen.
+Damit sein Haniel in der Lage, der Finanzierung der operativ Geschäftsbetriebs sicherstellen, auch wenn der Einzahlung aus der Geschäftstätigkeit beispielsweise konjunkturbedingt rückläufig sein.
+Wechselkurse und Zinssätze: Veränderung von Wechselkursen und Zinssätzen können sich negativ auf der Konzernergebnis auswirken.
+Der Haniel-Konzern unterscheiden bei Zinssatzänderung zwischen der Veränderung der Marktzinses und der Veränderung der Marge, der zusätzlich zum Marktzins zu zahlen sein.
+Um der Risiko aus Veränderung von Marktzinsen und Wechselkursen zu begrenzen, setzen der Konzern divers Sicherungsinstrumente einen.
+Diese werden detailliert im Konzernanhang der Haniel-Geschäftsberichts ab Seite 72 erläutern.
+Um der Volatilität der Zinsmargen zu begrenzen, setzen der Holding und der Geschäftsbereiche auf langjährig Kreditvereinbarung und Anleihe.
+Die Marge für Fremdkapital von Haniel hängen auch vom Rating der Holding ab.
+Dieses richten sich vor alle nach der Entwicklung der Marktwert-Gearings, also der Verhältnis zwischen Nettofinanzschulden und Marktwert der Beteiligungsportfolios.
+Gesamtwirtschaftliche Entwicklung: Die Nachfrage nach der Dienstleistung und Produkt der Geschäftsbereiche werden auch von der gesamtwirtschaftlichen Entwicklung beeinflussen.
+Diese Abhängigkeit sein jedoch unterschiedlich groß und zeigen sich in der vollkonsolidierten Geschäftsbereichen zeitlich versetzen: Während einen nachlassend Konjunktur Celesio in relativ gering Umfang betreffen, spiegeln ich sich bei ELG und TAKKT unmittelbar in der Geschäftsentwicklung widern.
+Bei CWS-boco sein der Auswirkung ein negativ wirtschaftlich Entwicklung ebenfalls spürbar - allerdings aufgrund der langfristig Vertrag im Kerngeschäft Mietservice erst zeitverzögert.
+Durch der Diversifikation der Haniel-Geschäftsportfolios und der Präsenz in unterschiedlich Region können der Auswirkung konjunkturell Schwankung abfedern werden.
+Die stark Marktposition, umfassend Produkt- und Dienstleistungsangebote sowie der heterogen Kundenbasis tragen zur Risikominderung bei.
+Staatliche Regulierung im Pharmamarkt: Der Pharmamarkt, in der Celesio tätigen sein, unterliegen seit jeher staatlich Eingriff.
+Diese betreffen nicht nur der Rechtsrahmen der Markt, sondern insbesondere der Vergütungssysteme für der Leistungserbringer.
+Die alt werdende Bevölkerung und der damit verbunden stark Nachfrage nach medizinisch und pharmazeutisch Leistung sowie Arzneimitteln fahren zu steigend ausgeben im Gesundheitswesen.
+Zahlreiche Regierung sein daher bestrebt, der hoch ausgeben zu beschränken, indem ich der Preis regulieren.
+Durch steigend Staatsdefizite und gering Mittelzuflüsse in der staatlich Gesundheitssysteme bestehen der Gefahr ein weit Verschärfung derser Entwicklung.
+Staatliche Kostensenkungsmaßnahmen im Gesundheitssektor und Veränderung der Rechtsrahmens haben der Geschäftsentwicklung und Ertragslage von Celesio beeinträchtigen und können sich auch in Zukunft negativ auswirken.
+Zudem können Wertberichtigung auf Goodwills erforderlich mein.
+Mit der Ziel, Belastung aus staatlich Regulierung zu kompensieren, betreiben Celesio einen permanent Kostenmanagement.
+Dieses werden unterstützen durch einen mehrjährig Operational-Excellence-Program, der Celesio seit 2011 zur Steigerung der Wettbewerbsfähigkeit umsetzen.
+Bestandteil der Programm sein der konzernweite Bündelung der Einkaufsaktivitäten, der Stärkung der Marktposition in Schwede, der Optimierung der Logistiknetzwerks sowie der Reduzierung der Verwaltungskosten.
+Darüber hinaus diversifiziert Celesio der regional Aktivität und beabsichtigen damit, am Wachstum wenig reguliert Gesundheitsmärkte zu partizipieren.
+Rohstoffpreise: Erhebliche Einfluss auf der Geschäftsentwicklung der Geschäftsbereichs ELG haben der Entwicklung der Nickelpreises, der wiederum durch konjunkturell Branchenentwicklung beeinflussen sein.
+Stabilisierend auf der Geschäftsentwicklung von ELG wirken Preisabsicherung mithilfe derivativer Finanzinstrumente sowie der breiten geografische Streuung der Warenströme in der Beschaffung und im vertreiben.
+Forderungsausfälle: Vor alle ELG liefern branchenbedingt der Produkt an einigen wenig, dafür aber sehr groß Kunde.
+Dies führen pro Abnehmer zu teilweis sehr hoch Forderungsständen.
+Um der Risiko durch Forderungsausfälle entgegentreten, verfügen ELG über einen umfassend Debitorenmanagement.
+Darüber hinaus schließen ELG - soweit dies möglich sein - systematisch Ausfallversicherung ab und verkaufen Forderung im Rahmen von Forfaitierungsprogrammen.
+Informationstechnologie: Gut funktionierend und auf der Strategie abgestimmt IT-Systeme stellen im Haniel-Konzern einen notwendig Voraussetzung für der operativ Geschäftstätigkeit und für administrative Bereich dar.
+Mangelnde Anpassungstiefe und -geschwindigkeit der IT-Systeme bringen bei verändert strategisch Anforderung erheblich Wettbewerbsnachteile mit sich.
+Daher überprüfen der Haniel-Holding und der Geschäftsbereiche mein IT-Strategie regelmäßig.
+Darüber hinaus bestehen bei der laufend Nutzung von IT-Systemen der Risiko ein Ausfall.
+Ein professionell organisiert IT-Betrieb beugen solch Systemproblemen vor.
+Dazu hören, dass der Haniel-Holding und der Geschäftsbereiche zusätzlich Notfallsysteme vorhalten und regelmäßig relevant Datum sichern.
+Beteiligung: Haniel halten insbesondere einen wesentlich Beteiligung an der METRO GROUP, einenm der weltweit führend Handelsunternehmen.
+Faktor, der der Konzernergebnis der METRO AG ungünstig beeinflussen, können sich auch auf der Beteiligungsergebnis der Haniel-Konzerns oder der Wertansatz der Beteiligung negativ auswirken.
+Risiko, der der METRO GROUP aussetzen sein, sein der gesamtwirtschaftliche Entwicklung sowie einen Fehlbeurteilung von Markt für der international Expansion.
+Zudem können Änderung beim Konsumverhalten sowie der Kundererwartung an der Handel der Gichchäftsentwicklung der METRO GROUP beeinträchtigen, wenn ich nicht gelingen, frühzeitig hierauf zu reagieren.
+Gleiches gelten auch für der steigender Wettbewerbsdruck durch rein Online-Händler.
+Insgesamt werden der Risiko, der der Unternehmen aussetzen sein, durch einen intensiv Beobachtung von Trend sowie der Markt- und Wettbewerbsumfelds mildern - ebenso wie durch der vertriebslinienbezogene und regional Diversifikation der METRO GROUP.
+Gerichtsverfahren: Weder der Franz Haniel Cie.
+GmbH noch einen sich derzeitig Tochtergesellschaften sein an laufend oder derzeit absehbar Gerichtsverfahren direkt beteiligen, der wesentlich Einfluss auf der Vermögen-, Finanz- und Ertragslage der Konzern haben können.
+KEINE BESTANDSGEFÄHRDENDEN RISIKEN Bestandsgefährdende Risiko sowie nennenswert, über der normal unternehmerische Risiko hinausgehende zukünftig Risiko sein nicht erkennbar.
+KONTROLLIERTE RECHNUNGSLEGUNGSPROZESSE Die Rechnungslegungsprozesse unterliegen im Haniel-Konzern einer intern Kontroll- und Risikomanagementsystem.
+Damit sollen der Verlässlichkeit der Finanzberichterstattung sicherstellen und der Risiko ein fehlerhaft Berichterstattung in der extern und intern Konzernberichterstattung minimieren werden.
+Wesentliche Risiko ein fehlerhaft Berichterstattung können resultieren aus: komplex Transaktion oder Konsoliderrungsvorgängen, Massentransaktionen, der Wesentlichkeit einzeln Abschlussposten, Ermessensspielräumen und Schätzung, unberechtigt Zugriffen auf der IT-Systeme sowie unzureichend geschult Mitarbeiter.
+Inwieweit sich aus solch Sachverhalt Risiko für der Konzernabschluss ergeben können, werden regelmäßig überprüfen.
+Um potenziell Risiko zu begegnen, seinen im Haniel-Konzern einen intern Kontrollsystem einengeführt, der der Zuverlässigkeit und Ordnungsmäßigkeit der Finanzberichterstattungsprozesse, der Einhaltung maßgeblich gesetzlich und intern Vorschrift sowie der Effizienz und Effektivität der Prozeß gewährleseinenen sollen.
+Ein angemessen und funktionsfähig intern Kontrollsystem können allrdings nicht garantieren, dass all Risiko identifizieren beziehungsweise vermeiden werden.
+Das intern Kontrollsystem im Konzern orientieren sich am Rahmenwerk "COSO (The Committee of Sponsoring Organizations of the Treadway Commission) Internal Control - Integrated Framework".
+Die vorhanden Risiko- und Kontrollstruktur werden systematisch erfassen und dokumentieren.
+Hierzu erfolgen anhand klaren definiert qualitativ und quantitativ Wesentlichkeitskriterien einen regelmäßig Aktualisierung und Überprüfung der zentral Risikofelder.
+Im Fall verändert oder neu entstanden rechnungslegungsbezogener Risiko bzw. erkannt Kontrollschwächen obliegt ich der Verantwortung der Gichchäftsbereiche in Abstimmung mit der zentral Konzernrechnungswichen, zum nächstmöglichen Zeitpunkt geeignet Kontrollmaßnahmen zu implementieren.
+Die Effektivität der festgelegt Kontrolle werden in regelmäßig Abstand durch einen Self-Assessment der Kontrollverantwortlichen bzw. von der Vorgesetzte überprüfen und dokumentieren.
+Die Verantwortung für der Einrichtung und Überwachung der intern Kontrollsystems liegen beim vorstehen.
+Darüber hinaus überwachen der Prüfungsausschuss der Wirksamkeit der intern Kontrollsystems.
+Der Haniel-Konzern zeichnen sich durch mein klaren und dezentrale Führungs- und Unternehmensstruktur aus.
+Die dezentralen Rechnungslegungsprozesse werder von der Geschäftsbereichen steuern, der jeweils einer eigen Teilkonzernabschluss erstellen.
+Das Management der in der Teilkonzerne einbezogen Einheit steuern und kontrollieren der Risiko hinsichtlich der operativ Rechnungslegungsprozesse.
+Die Konzerngesellschaften sein dafür verantwortlich, dass der konzernweiten Richtlinie und verfahren einhalten werden.
+Für der ordnungsgemäß und fristgerecht Ablauf sich Rechnungslegungsprozesse sein ich ebenfalls zuständig.
+Dabei werden ich vom zentral Konzernrechnungswesen unterstützen.
+Den Konzernabschluss und der Konzernlagebericht erstellen der zentral Konzernrechnungswesen.
+Die laufend Entwicklung der IFRS-Standards und ander relevant rechtlich Vorschrift werder fortlaufend bezüglich der Relevanz und der Auswirkung auf der Konzernabschluss bzw. Konzernlagebericht analysieren.
+vorstehen und Konzerngesellschaften werden bei Bedarf über der Auswirkung auf der Konzernberichterstattung informieren.
+Grundlage der Finanzberichterstattung seinenen einenenen konzernweit gültig Bilanzierungsrichtlinie, einenen einenenheitlicher Konzernkontenplan sowie einenen konzernweit gültigr Abschlusskalender.
+Die Bilanzierungsrichtlinie werden jährlich aktualisieren, wobei relevant rechtlich Änderung berücksichtigen werden.
+Zu komplex Thema - etwa der Goodwill-Impairment-Test oder der Ermittlung der latent Steuer - werden verbindlich vorgeben und einheitlich Instrument einsetzen.
+Bei Bedarf werden extern Experte hinzugezogen, beispielsweise um Pensionsverpflichtung zu bewerten oder Gutachten zur Kaufpreisallokation bei Unternehmenserwerben zu erstellen.
+Der formal Analyse- und Reportingprozess im Haniel-Konzern haben der Ziel, der Zuverlässigkeit und Vollständigkeit all Information im veröffentlicht Geschäftsbericht sicherstellen.
+Das Konzernrechnungswesen führen analytisch Prüfung durch, um potenziell Fehler in der Konzernberichterstattung zu identifizieren.
+Die Prüfung werden dokumentieren und nach der Vier-Augen-Prinzip kontrollieren.
+Für der Erstellung gelten einen detaillierter Zeitplan und festgelegt Zuständigkeit.
+Um der Konzernabschluss zu erstellen, werder standardisiert und zentral verwaltet IT-Systeme einsetzen.
+Dies gelten für der Konsoliderrung auf alle Stufe der Haniel-Konzerns und für der Prozess der Anhangerstellung.
+Eine Vielzahl von Validierung unterstützen der Abschlussprozess.
+Die im Rechnungswesen eingesetzt IT-Systeme sein gegen unbefugte Zugriffe schützen.
+Funktionstrennung sowie Change-Management-Systeme sein installieren.
+Die intern Revisionsabteilung sein als wichtig Bestandteil der intern prozessunabhängign Überwachung verantwortlich für der systematisch Prüfung und unabhängig Beurteilung der intern Kontrollsysteme.
+Im Rahmen der Konzernjahresabschlussprüfung berichten extern Wirtschaftsprüfer über wesentlich Prüfungsergebnisse und Schwachstellen im intern Kontrollsystem für der in der Konzernabschluss einbezogen Einheit.
+MITARBEITER HANIEL-KONZERN Im Jahr 2012 sein viel Geschäftsaktivitäten der Haniel-Konzerns von strategisch Neuausrichtung und Portfoliomaßnahmen kennzeichnen.
+Vor ders Hintergrund sein der Mitarbeiterzahl um 2 Prozent von durchschnittlich 57.828 auf 56.480 Beschäftigte zurückgehen.
+Dies resultieren insbesondere aus der Verkauf von Movianto, Pharmexx und der Versandapotheke DocMorris bei Celesio.
+In der fortgeführt Bereich der Haniel-Konzerns sein der Zahl der Beschäftigte vor alle aufgrund der Verkauf der Aktivität in Tschechien bei Celesio sinken.
+Gegenläufig wirken sich der Akquisition bei TAKKT sowie der ganzjährig Einbeziehung der im Vorjahr erworben Unternehmen bei ELG und Celesio aus.
+Insgesamt sein der Zahl der Mitarbeiter in der fortgeführt Bereich durchschnittlich von 50.684 auf 50.609 zurückgehen.
+MITARBEITERZAHLEN AN GESCHÄFTSENTWICKLUNG ANGEPASST Im Geschäftsbereich Celesio sinken der Zahl der Beschäftigte in der fortgeführt Bereich durch der verkaufen der Großhandel und der Apotheke in Tschechien von durchschnittlich 39.525 auf 39.295 Mitarbeiter.
+Abgemildert werden der Reduktion der Personalzahlen durch der ganzjährig Einbeziehung der im zweit Halbjahr 2011 erworben brasilianisch Großhändler Oncoprod.
+Im Rahmen der Repositionierungsprojekts Fokus Zukunft zur Optimierung von Betrieb- und Logistikprozichsen kommen ich bei CWS-boco im Lauf der Jahrich zu leicht gering Mitarbeiterzahlen.
+CWS-boco bichchäftigen zum Ende der Jahr durchschnittlich 7.643 Mitarbeiter, während ich im Vorjahr 7.816 sein.
+Im Geschäftsbereich ELG haben sich der Zahl der Beschäftigte leicht von 1.068 auf 1.098 Person erhöhen.
+Der ansteigen resultieren im Wesentliche aus der ganzjährig Einbeziehung der akquiriert Unternehmen ELG Carbon Fibre Ltd.
+im Zug der Eintritt in der Geschäftsfeld Karbonfaser-Recycling.
+Auch bei TAKKT sein der Entwicklung der Mitarbeiterzahlen im Jahresverlauf von strategisch Zukäufen prägen.
+Der Erwerb von GPA in der USA und Ratioform in Deutschland führen zu einer ansteigen der Beschäftigtenzahl von 2.003 auf 2.340.
+Die international Ausrichtung der Haniel-Konzerns spiegeln sich auch in der regional Verteilung der Mitarbeiter widern: Insgesamt arbeiten zum Jahresende 84 Prozent der Beschäftigte außerhalb Deutschland.
+TALENTE ENTWICKELN, DIVERSITÄT FÖRDERN Mit der strategisch Positionierung als "Wertentwickler" haben ich sich Haniel zum Ziel gichetzt, Beteiligung zu kaufen und unternehmerisch weiterentwickeln.
+Um dies leseinen zu können, sein der Konzern auf ausreichen qualifiziert Manager und Führungsnachwuchs anweisen.
+Die systematisch Talentsichtung, -entwicklung und -positionierung bleiben daher einen Schwerpunktthema der Personalarbeit.
+Zudem gelten ich, der Diversität zu fördern.
+So sein der Frauenanteil in der Belegschaft mit 63 Prozent schon heute vergleichsweise hoch und sollen künftig - insbesondere im Management - weit steigern werden.
+2012 werder bei Celesio einenn Frau in der vorstehen berufen, bei ELG werder einenn Frau zum Mitglied der Geschäftsführung bestellen.
+AUSBLICK HANIEL-KONZERN Das Geschäftsjahr 2012 sein prägen von strategisch Neuausrichtung und Portfoliomaßnahmen, insbesondere bei Celesio und der METRO GROUP.
+Die eingeleitet Maßnahme werden 2013 konsequent weiterführen.
+Daraus erwarten der Haniel-Vorstand positiv Impuls für der Geschäftsentwicklung.
+Dem stehen jedoch Unsicherheit aus der gesamtwirtschaftlichen Umfeld gegenüber.
+GESAMTWIRTSCHAFTLICHES UMFELD Für der Jahr 2013 prognostiziert der Internationale Währungsfonds (IWF) mit 3,5 Prozent einen leicht hoch Wachstum der global Bruttoinlandsprodukts im vergleichen zu 3,2 Prozent 2012.
+Dabei werden mit ein im Jahresverlauf zunehmend wirtschaftlich Dynamik rechnen.
+Für der darauffolgend Jahr werden von einer global Wirtschaftswachstum über der Niveau der Jahr 2012 und 2013 ausgehen.
+Trotz ders insgesamt leicht positiv Ausblick gehen der IWF weiterhin davon aus, dass sich der einzeln Wirtschaftsräume sehr unterschiedlich entwickeln werden.
+So dürfen der Wirtschaft im Euroraum nach -0,6 Prozent im Jahr 2012 im Jahr 2013 mit -0,2 Prozent abermals leicht schrumpfen und erst danach wieder wachsen.
+Dies sein hauptsächlich auf der südeuropäischen Land zurückführen, der besonders von der Staatsschuldenkrise betreffen sein.
+Das Wachstum in Deutschland werden mit 0,6 Prozent leicht unter der Vorjahreswert in Höhe von 0,7 Prozent prognostiziert und basieren auf ein nach wie vor hoch Exportquote und einer leicht ansteigen der Binnenkonsums.
+Die weiterhin überdurchschnittlich Entwicklung in Deutschland können der negativ Tendenz der südeuropäischen Land nur mildern, jedoch nicht kompensieren.
+Ein deutlich stark Wirtschaftswachstum werden 2013 mit 2,0 Prozent für der USA erwarten; im Vorjahr betragen der ansteigen 2,2 Prozent.
+Jedoch gehen der IWF ab 2014 wieder von einer beschleunigt Wachstum aus.
+Zu ein Stütze der global Konjunktur dürfen sich 2013 wieder der groß asiatisch Volkswirtschaften entwickeln.
+Für China beispielsweise erwarten der IWF einen - im vergleichen zum Vorjahr mit 7,8 Prozent - leicht hoch Wirtschaftswachstum in Höhe von 8,2 Prozent mit steigend Tendenz für der Folgejahre.
+Nach Auffassung der Haniel-Vorstands sein Konjunkturprognosen weiterhin mit hoch Unsicherheit behaften, da ich einen Reihe von Risiko geben, der einenr nachhaltig Erholung der Wirtschaft im Weg stehen können.
+Insbesondere wenn sich der Staatsschuldenkrise verstärken, können ders der konjunkturell Umfeld und der Konsumklima signifikant beeinträchtigen.
+ENTWICKLUNG DER GESCHÄFTSBEREICHE Die konjunkturell Rahmenbedingung bestimmen auch der Geschäftsentwicklung der Haniel-Konzerns, allerdings sein der Geschäftsbereiche in unterschiedlich ausmessen davon betreffen.
+Die Geschäftsentwicklung von CWS-boco werden neben der konjunkturell Entwicklung maßgeblich vom weit erfolgen der Repositionierungsprojekts Fokus Zukunft bestimmen.
+Für 2013 werden positiv Effekt sowohl aus bereits durchgeführt als auch zusätzlich Maßnahme der Repositionierungsprojekts erwarten.
+Hierbei stehen der Optimierung der Standort sowie der Prozeß in betreiben und Logistik im Vordergrund.
+Darüber hinaus sein planen, der Volumen der Kundenverträge weit ausbauen - durch gezielt Maßnahme in der Kundenbetreuung sowie einen kontinuierlich Stärkung der Vertrieb auch mittels einens neu Trainingskonzepts.
+Für 2013 rechnen CWS-boco mit einer währungsbereinigten Umsatzwachstum von 2 bis 3 Prozent.
+Als Folge der zunehmend positiv Wirkung der Projekt Fokus Zukunft seinen einen deutlich ansteigen der Operative Ergebnis von mindertens 10 Prozent zu erwarten.
+Der Geschäftsbereich ELG gehen nach heutig Einschätzung davon aus, dass der weltweit Edelstahlproduktion 2013 leicht hoch ausfallen werden als im Vorjahr - trotzen der Unsicherheit im gesamtwirtschaftlichen Umfeld.
+Deshalb sein mit einer moderat ansteigen der Ausgangstonnage im niedrig einstellig Prozentbereich zu rechnen.
+Die Rohstoffpreise für Nickel, Chrom und Eisen dürfen sich im Jahresdurchschnitt weit auf der relativ gering Niveau der Geschäftsjahres 2012 bewegen.
+Darüber hinaus erwarten ELG auch für 2013 einen gering Schrottverfügbarkeit, so dass insgesamt von einenm wettbewerbsintensiven Geschäftsumfeld ausgehen sein.
+Auf Basis dies annehmen rechnen der Geschäftsbereich 2013 für Umsatz und Operatives Ergebnis mit einer Wachstum im niedrig einstellig Prozentbereich.
+Da der Entwicklung an der Rohstoffmärkten sehr volatil sein, können Umsatz und Operatives Ergebnis von ELG allerdings auch deutlich von derser Prognose abweichen.
+Im Rahmen der Wachstumsstrategie beabsichtigen ELG, der Markt- und Wettbewerbsposition in Europa und Amerika weit zu stärken.
+In Asien stehen der Ausbau der Beschaffungsaktivitäten weit im Fokus.
+Auf der Absatzseite sein planen, der bestehend Handelsbeziehung weit zu vertiefen.
+Die konjunkturell Entwicklung in Europa und Amerika werden erheblich Einfluss auf der Geschäftsentwicklung von TAKKT haben.
+Für 2013 gehen TAKKT von einer währungsbereinigten Umsatzanstieg von 7 bis 9 Prozent aus.
+Hierin enthalten sein mit etwa 6 Prozentpunkten der erworben Unternehmen GPA und Ratioform, der Umsatz 2013 erstmals der gesamt Jahr einbeziehen werden.
+Für 2013 werden einen leicht hoch Operatives Ergebnis als 2012 erwarten.
+Auch 2013 werden TAKKT der angestoßen Wachstumsinitiativen konsequent weiterverfolgen.
+So sein planen, bestehend Marke weit in neu regional Markt ausbreiten und mit neun Vertriebsansätzen zusätzlich Kundengruppen zu erschließen.
+Zudem werden neu Produkt und Service Wachstumsmöglichkeit bei Bestand- und Neukunden eröffnen.
+Celesio beabsichtigen, der strategisch Neuausrichtung 2013 weit fortsetzen.
+Aus der bereits umgesetzt Maßnahme der Operational Excellence Program sowie der stark Verzahnung von Apotheke- und Großhandelsgeschäft durch der geändert Organisationsstruktur erwarten Celesio positiv Impuls für der Geschäftsentwicklung.
+Die konjunkturell Entwicklung haben erfahrungsgemäß nur einer vergleichsweise gering direkt Einfluss auf der Geschäft von Celesio.
+Allerdings können sich weit Sparmaßnahme im Gesundheitssektor aufgrund der hoch Verschuldung der Staatshaushalte negativ auf der Geschäftsentwicklung von Celesio auswirken.
+Der Geschäftsverlauf im Großhandel und bei der Apotheke dürfen in der einzeln Land unterschiedlich mein, da ich in verschiederem ausmessen von staatlich Eingriff betreffen mein werder und der jeweilig Markt unterschiedlich wettbewerbsintensiv sein.
+Insgesamt erwarten Celesio währungsbereinigt einer leicht Umsatzrückgang aufgrund der fehlend Umsatz der veräußert Aktivität.
+Für der Operative Ergebnis gehen Celesio davon aus, ders der positiv Ergebnisbeiträge aus der umgesetzt Maßnahme möglich Belastung aus staatlich Eingriff ausgleichen werder.
+Daher rechnen Celesio für der Geschäftsjahr 2013 mit einer Operative Ergebnis von 445 Million Euro bis 475 Million Euro.
+Die METRO GROUP gehen 2013 trotzen der anhaltend gesamtwirtschaftlichen Unsicherheit von einer, um Unternehmenskäufe und -verkäufe sowie Währungseffekte bereinigt, moderat Umsatzwachstum aus.
+Positive Impuls für der Geschäftsentwicklung erwarten der METRO GROUP aus der begonnen Initiative in der Vertriebslinien.
+Für 2013 sein planen, der international Expansion mit der Schwerpunkt auf der Wachstumsregionen Osteuropa und Asien weit voranzutreiben.
+Auch der Weiterentwicklung von Vertriebsformaten und -kanälen - insbesondere der Ausbau der Multi-Channel-Geschäfts - werden fortsetzen.
+Darüber hinaus stehen bei der METRO GROUP weiterhin effizient Struktur und strikt Kostenkontrolle im Fokus.
+Für der Jahr 2013 werden einen Operatives Ergebnis vor Sonderaufwendung auf der Niveau der Vorjahr erwarten.
+Bei Haniel sein 2013 von einer spürbar hoch Beteiligungsergebnis aus der Metro-Engagement ausgehen, da der Jahr 2012 vor alle durch der Wertberichtigung der Metro-Beteiligung belasten sein.
+AUSBLICK FÜR DEN KONZERN Für der Konzern erwarten der Haniel-Vorstand im Geschäftsjahr 2013 währungsbereinigt einer leicht rückläufig Umsatz aufgrund der Unternehmensverkäufe bei Celesio.
+Für der Operative Ergebnis sein hingegen mit einer moderat ansteigen zu rechnen - ders gelten auch bereinigen um der Sonderaufwendung für Restrukturierungs- und Portfoliomaßnahmen, der 2012 der Operative Ergebnis von Celesio belasten haben.
+Sowohl der Ergebnis aus Finanzierungstätigkeit als auch der Beteiligungsergebnis aus der Metro-Engagement werden sich 2013 voraussichtlich deutlich verbessern.
+Zurückzuführen sein dies darauf, dass nicht mehr mit Sonderaufwendung in der Höhe der Jahr 2012 zu rechnen sein.
+Daher erwarten der Haniel-Vorstand für der Geschäftsjahr 2013 einen erheblich hoch, positiv Ergebnis vor Steuer.
+Bei der Investition in Sachanlagen, immaterielle und ander langfrseinenig Vermögenswerte seinen für der Jahr 2013 im Haniel-Konzern einen leicht ansteigen vorsehen.
+Um allerdings auf Ebene der Haniel-Holding groß Akquisition in neu Geschäftsfelder tätig zu können, müssen zunächst der Verschuldung weit reduzieren werden.
+Sollten konjunkturell Rückschlag zu verkraften mein, müssen jedoch für der Haniel-Konzern mit einer stark rückläufig Umsatz und einer gegenüber 2012 sinkender Operative Ergebnis rechnen werder.
+Das Ergebnis vor Steuer dürfen hingegen auch in dies Fall der Vorjahreswert deutlich übertreffen.
+Für der Jahr 2014 erwarten der Haniel-Vorstand einen Wachstum von Umsatz und Ergebnis - voraussetzen, ders Belastung aus der konjunkturell Umfeld ausbleiben.
+ENTWICKLUNG FRANZ HANIEL CIE.
+GMBH Der Jahresabschluss der Franz Haniel Cie.
+GmbH werden gemäß der §§ 264 ff. HGB erstellen.
+Er weisen im Jahr 2012 einer Jahresfehlbetrag von -956 Million Euro (Vorjahr: Jahresüberschuss 208 Million Euro) aus.
+Dieser Fehlbetrag resultieren insbesondere aus der gesunken Beteiligungsergebnis, der -694 Million Euro (Vorjahr: Beteiligungsertrag 425 Million Euro) betragen, sowie gestiegen Finanzierungsaufwand.
+Das negativ Beteiligungsergebnis resultieren aus der Verlustübernahme von einer verbunden Unternehmen.
+Der Verlust bei der verbunden Unternehmen sein auf der Wertberichtigung ein Beteiligungsansatzes zurückführen.
+Die sonstig betrieblich Ertrag von 47 Million Euro (Vorjahr: 50 Million Euro) resultieren wie im Vorjahr im Wesentliche aus der Abgang von Finanzanlagevermögen.
+Von der Investition in Höhe von 40 Million Euro (Vorjahr: 77 Million Euro) entfallen 39 Million Euro auf Finanzanlagen, wovon 16 Million Euro aus Kapitalerhöhung bei Beteiligung an verbunderen Unternehmen und 19 Million Euro aus der Zinskapitalisierung auf Darlehen an Dritte resultieren.
+Bei ein Bilanzsumme von 4,0 Milliarde Euro sinken der Eigenkapitalquote auf 38 Prozent (Vorjahr: 49 Prozent).
+Dies resultieren aus der Rückgang der Eigenkapital aufgrund der Jahresfehlbetrages im laufend Geschäftsjahr.
+Die Sicherung der langfristig finanziell Flexibilität stehen im Fokus der Finanzmanagements der Gesellschaft.
+Dabei werden auf einennn ausgewogen Zusammensetzung der Finanzierungsinstrumente, einennn breiten Basis von renommiert Banken und Investor sowie einennn ausgewogen Fälligkeitsstruktur der Finanzverbindlichkeit setzen.
+Die Gesellschaft haben zudem Anleihe mit ein Nominalvolumen von 1,7 Milliarde Euro und ein Laufzeit zwischen 5 und 7 Jahr emittiert.
+Die langfristig Ausrichtung der Finanzierung spiegeln sich auch in der Bilanzstruktur der Franz Haniel Cie.
+GmbH widern: 89 Prozent der Übrigen Verbindlichkeit weise einen Restlaufzeit über einenm Jahr auf.
+Franz Haniel Cie.
+GmbH verfügen darüber hinaus über verbindlich zugesagt bilateral Kreditlinien von 1,7 Milliarde Euro, der zum 31. Dezember 2012 in Höhe von 1,6 Milliarde Euro nicht in Anspruch nehmen werden.
+Im Geschäftsjahr 2012 werden einen Servicegesellschaft, der Verwaltungsgesellschaft Boltze mbH, auf der Franz Haniel Cie.
+GmbH verschmelzen.
+Am 31. Dezember 2012 sein 226 Mitarbeiter (Vorjahr: 265) beschäftigen.
+Der Rückgang resultieren aus Personalmaßnahmen, der 2011 einleiten werden und sich im Geschäftsjahr vollständig auswirken haben.
+BILANZ JAHRESABSCHLUSS FRANZ HANIEL CIE.
+GMBH AKTIVA Mio. Euro Anhang 31.12.2012 31.12.2011 Anlagevermögen 1 Immaterielle Vermögensgegenstande 0,6 0,7 Sachanlagen 54,8 58,8 Finanzanlagen 2.996,1 3.104,9 3.051,5 3.164,4 Umlaufvermögen Forderung und sonstig Vermögensgegenstände Restlaufzeit von mehr als einenener Jahr Forderung gegen verbunder Unternehmen 2 853,5 1.847,8 Forderung gegen Unternehmen, mit der einenen Beteiligungsverhältnis bestehen 3,1 0,0 Sonstige Vermögensgegenstände 0,1 52,1 59,7 0,1 908,7 1.907,5 Kassenbestand, Guthaben bei Kreditinstituten 0,0 0,1 908,7 1.907,6 Rechnungsabgrenzungsposten 3 2,7 1,8 3.962,9 5.073,8 Passiva Mio. Euro Anhang 31.12.2012 31.12.2011 Eigenkapital 4 Gezeichnetes Kapital 1.000,0 1.000,0 Nennbetrag Eigene Anteil -1,0 -1,0 Ausgegebenes Kapital 999,0 999,0 Andere Gewinnrücklagen 1.171,0 1.171,0 Satzungsmäßige Rücklagen (Welker-Fonds) 0,5 0,5 Bilanzverlust / Bilanzgewinn -685,8 319,7 1.484,7 2.490,2 Rückstellung 5 217,9 188,2 Subordinierte Verbindlichkeit 6 269,0 290,5 Übrige Verbindlichkeit 7 Anleihe 1.656,4 1.472,1 Verbindlichkeit gegenüber Kreditinstituten 242,4 519,9 Verbindlichkeit aus Lieferung und Leistung 1,9 4,3 Verbindlichkeit gegenüber verbundern Unternehmen 26,8 61,3 Verbindlichkeit gegenüber Unternehmen, mit der einenen Beteiligungsverhältnis bestehen 0,0 4,6 Sonstige Verbindlichkeit 63,8 42,7 1.991,3 2.104,9 3.962,9 5.073,8 GEWINN- UND VERLUSTRECHNUNG FÜR DIE ZEIT VOM 1. JANUAR BIS ZUM 31. DEZEMBER 2012 Mio. Euro Anhang 2012 2011 Beteiligungsergebnis 9 -694,2 424,6 Finanzergebnis 10 -229,2 -120,6 Sonstige betrieblich ertragen 11 46,8 49,5 -876,6 353,5 Personalaufwand 12 27,1 43,3 Abschreibung auf immaterielle Vermögensgegenstände und Sachanlagen 4,5 14,6 Betriebliche Steuer 13 0,2 0,2 Sonstige betrieblich Aufwendung 14 50,1 91,5 Betriebliche Aufwendung 81,9 149,6 Jahresüberschuss vor Steuer -958,5 203,9 Steuer vom Einkommen und vom ertragen 15 3,0 3,8 Jahresfehlbetrag /Jahresüberschuss -955,5 207,7 Gewinnvortrag aus der Vorjahr 269,7 112,0 Bilanzverlust/Bilanzgewinn -685,8 319,7 KAPITALFLUSSRECHNUNG Mio. Euro 2012 2011 Ergebnis nach Steuer -955,5 207,7 Abschreibung (+) / Zuschreibung (-) der Anlagevermögens 65,5 14,6 Zunahme (+) / Abnahme (-) der Rückstellung 29,7 49,6 Sonstige nicht zahlungswirksame ertragen (-) und Aufwendung (+) -25,6 -12,8 Umgliederung der ertragen (-) / Aufwendung (+) aus der Abgang von Gegenstand der Anlagevermögens -37,1 -38,5 Zunahme (-) / Abnahme (+) der sonstign Forderung und der sonstign Umlaufvermögens -3,7 24,0 Zunahme (+) / Abnahme (-) der Verbindlichkeit aus Lieferung und Leistung und sonstign kurzfristig Verbindlichkeit 18,6 -5,5 Mittelzufluss (+) / -abfluss (-) aus der laufend Geschäftstätigkeit -908,1 239,1 Einzahlung (+) aus der Abgang von Gegenstand der Sachanlagevermögens und immaterieller Vermögensgegenstände 0,3 0,4 Auszahlung (-) für der Zugang von Gegenstand der Sachanlagevermögens und immaterieller Vermögensgegenstände -0,6 -2,6 Zunahme / Abnahme der Forderung und Verbindlichkeit gegenüber verbundern Unternehmen und Beteiligung 961,7 -72,8 Einzahlung (+) aus der Abgang von Gegenstand der Finanzanlagevermögens 133,2 148,3 Auszahlung (-) für der Zugang von Gegenstand der Finanzanlagevermögens -19,9 -55,1 Mittelzufluss (+) / -abfluss (-) aus der Investitionstätigkeit 1.074,7 18,2 Dividerder (-) an Gesellschafter -50,0 -60,0 Erwerb eigen Anteil 0,0 -5,0 Einzahlung (+) aufgrund der Aufnahme von Finanzverbindlichkeit 1.077,3 521,9 Auszahlung (-) aufgrund der Tilgung von Finanzverbindlichkeit -1.194,0 -714,3 Mittelzufluss (+) / -abfluss (-) aus der Finanzierungstätigkeit -166,7 -257,4 Zahlungswirksame Änderung der Finanzmittelbestands -0,1 0,0 Finanzmittelbestand am Anfang der Periode (Flüssige Mittel) 0,1 0,1 Finanzmittelbestand am Ende der Periode (Flüssige Mittel) 0,0 0,1 Franz Haniel Cie.
+GmbH investieren in Beteiligung, der Finanzierung derser Beteiligung werden im Cashflow aus Investitionstätigkeit ausweisen.
+Der Cashflow aus laufend Geschäftstätigkeit enthalten Zinseinzahlung in Höhe von 5,4 Million Euro (Vorjahr: 19,0 Million Euro) und Zinsauszahlung von 169,7 Million Euro (Vorjahr: 160,1 Million Euro).
+Der Zahlungsausgang aus Ertragsteuern belaufen sich auf 1,7 Million Euro (Vorjahr: Zahlungseingang 20,3 Million Euro).
+Anhang BILANZIERUNGS- UND BEWERTUNGSGRUNDSÄTZE In der Bilanz und Gewinn- und Verlustrechnung sein verschieden Position zusammenfassen werden, um der Klarheit der Darstellung zu vergrößern.
+Die zusammengefasst Posten sein im Anhang sondern ausweisen.
+Entgeltlich erworben immaterielle Vermögensgegenstände werden zu Anschaffungskosten ansetzen und planmäßig linear über mein voraussichtlich Nutzungsdauer abschreiben.
+Selbst geschaffen immaterielle Vermögensgegenstände werden nicht aktivieren.
+Die Bewertung der Sachanlagen erfolgen zu Anschaffungs- bzw. Herstellungskosten, im Fall abnutzbarer Sachanlagen unter Berücksichtigung planmäßig, nutzungsbedingter Abschreibung.
+Dabei kommen grundsätzlich der linear Abschreibungsmethode zur Anwendung.
+Den planmäßig Abschreibung liegen folgend Nutzungsdauern zugrunde: Gebäude 33 bis 50 Jahr Betrieb- und Geschäftsausstattung 3 bis 13 Jahr Selbstständig nutzbar beweglich Gegenstand der Anlagevermögens, der der Abnutzung unterliegen, werden im Zugangsjahr voll abschreiben, sofern mein jeweilig Anschaffungs- oder Herstellungskosten 150 Euro nicht übersteigen.
+Entsprechende Anlagegegenstände mit Anschaffungs- oder Herstellungskosten zwischen 150 und 1.000 Euro werden seit der 1. Januar 2008 jahresweise in einer Sammelposten zusammenfassen, der über fünf Jahr abschreiben werden.
+Voraussichtlich dauernd Wertminderung werden durch außerordentlich Abschreibung Rechnung tragen.
+Die Anteil an verbunden Unternehmen und Beteiligung sein zu Anschaffungskosten bzw. zum niedrig beizulegenden Wert bei voraussichtlich dauerhaft Wertminderung aktivieren.
+Ausleihung sein mit der Nennwert bzw. zum niedrig beizulegenden Wert bei voraussichtlich dauerhaft Wertminderung bilanzieren.
+Sind der Grund für einenn Wertminderung in der Zwischenzeit ganz oder teilweis entfallen, erfolgen einenn Wertaufholung bis höchstens zu der Anschaffungskosten bzw. zum Nennwert.
+Forderung und sonstig Vermögensgegenstände sein grundsätzlich zum Nennwert nach Abzug erforderlich Wertberichtigung ansetzen.
+Unterschied zwischen Rückzahlungs- und niedrig Ausgabebetrag von Verbindlichkeit werden aktivieren und durch planmäßig Abschreibung über der Laufzeit der Verbindlichkeit tilgen.
+Rückstellung für Pension und ähnlich Verpflichtung werden nach der versicherungsmathematischen Anwartschaftsbarwertverfahren unter Zugrundelegung biometrischer Wahrscheinlichkeit (Richttafeln 2005G Prof. Dr. ?. Heubeck) ermitteln.
+Für der Abzinsung der Verpflichtung werden der von der Deutsche Bundesbank ermittelt, fristenkongruente durchschnittlich Marktzinssatz der vergangen sieben Geschäftsjahre für einen angenommen Restlaufzeit von 15 Jahr verwenden.
+Zukünftig erwartet Entgelt- und Rentensteigerung werden bei der Ermittlung der Verpflichtung berücksichtigen.
+Die ander Rückstellung decken all erkennbar Risiko und ungewiß Verpflichtung.
+Sie sein in Höhe der nach vernünftig kaufmännisch Beurteilung notwendig Erfüllungsbetrages ansetzen.
+Zukünftige Preis- und Kostensteigerung werden berücksichtigen.
+Rückstellung mit ein Restlaufzeit von mehr als einer Jahr werden sich Restlaufzeit entsprechen abgezinst.
+Die Bildung von Drohverlustrückstellung, welch in Zusammenhang mit Derivativen Finanzinstrumenten stehen, erfolgen zu Last der Finanzergebnisses.
+Verbindlichkeit sein zu Erfüllungsbeträgen bilanzieren.
+Handelt ich sich um Rentenverpflichtung, sein diiche zum Barwert unter Verwendung einich fristadäquaten durchschnittlich Marktzinssatzich der vergangen sieben Gichchäftsjahre angichetzt.
+Die Bewertung von Forderung und Verbindlichkeit sowie Kassenbeständen und Bankguthaben in Fremdwährung erfolgen mit der Devisenstichtagskurs am Bilanzstichtag.
+Latente Steuer werder für sämtlich temporär Differenz zwischen der handelsrechtlichen und steuerlich Wertansätzen von Vermögensgegenständer, Schulder und Rechnungsabgrenzungsposten ermitteln.
+Dabei werden bei Franz Haniel Cie.
+GmbH nicht nur der Unterschied aus der eigen Bilanzpositionen einbeziehen, sondern auch solch, der bei Organtöchtern bestehen.
+Aktive latent Steuer auf steuerlich Verlustvorträge werden nur insoweit berücksichtigen, wie der Realisierung mit hinreichend Sicherheit innerhalb von 5 Jahr gewährleseinen sein.
+Grundsätzlich erfolgen einen verrechnet Ausweis der latent Steuer.
+Eine Steuerbelastung werden in der Bilanz als passiv latent Steuer ansetzen.
+Im Fall ein Steuerentlastung (Aktivüberhang) werden vom entsprechend Aktivierungswahlrecht nach § 274 Absatz 1 Satz 2 HGB kein Gebrauch machen.
+Die Ermittlung der latent Steuer erfolgen auf Basis der kombiniert Ertragsteuersatzes der steuerlich Organkreises der Franz Haniel Cie.
+GmbH.
+Der kombiniert Ertragsteuersatz umfassen Körperschaftsteuer, Gewerbesteuer und Solidaritätszuschlag und werden auf Basis der Steuersätze ermitteln, der nach der jeweils aktuell Rechtslage zukünftig gelten werden (Geschäftsjahr 30,7 Prozent, Vorjahr 30,7 Prozent).
+ERLÄUTERUNGEN ZUR BILANZ 1 ANLAGEVERMÖGEN Der Rückgang der Anteil an verbunden Unternehmen von 56,2 Million Euro resultieren aus der Veräußerung von Anteiln mit einer Buchwert von 72,3 Million Euro und Kapitalerhöhung von 16,3 Million Euro.
+Im Geschäftsjahr werder weit Investition (3,6 Million Euro) in zwei Beteiligungsfonds tätigen, welch in der Beteiligung ausweisen werder.
+Zudem werden Veräußerung mit einer Nominalvolumen von 14,3 Million Euro durch der Fond realisieren.
+Der Zugang in der Sonstige Ausleihung sein durch der Kapitalisierung von Zins auf der Gewährung langfrseiniger Darlehen an Dritte begründen.
+Zum Bilanzstichtag werder dies Darlehen in Höhe von 61,0 Million Euro vor der Hintergrund dauerhaft Wertminderung auf der niedrig beizulegender Wert abschreiben.
+angeben zum Anteilsbesitz der Franz Haniel Cie.
+GmbH sein unter Ziffer 19 Bestandteil dies Anhang.
+Mio. Euro Anschaffungs- und Herstellungskosten 31.12.2011 Verschmelzung Zugang Abgang 31.12.2012 Immaterielle Vermögensgegenstände Konzession und ähnlich Recht 2,4 0,2 0,3 0,2 2,7 Sachanlagen Grundstück und Bau einschließlich der Bau auf fremd Grundstückn 110,3 0,1 0,2 110,2 Andere anliegen, Betrieb- und Geschäftsausstattung 33,5 0,9 0,2 0,3 34,3 143,8 0,9 0,3 0,5 144,5 Finanzanlagen Anteil an verbunden Unternehmen 2.761,0 -0,2 16,3 72,3 2.704,8 Beteiligung 135,1 3,6 14,3 124,4 Sonstige Ausleihung 208,8 19,2 0,1 227,9 3.104,9 -0,2 39,1 86,7 3.057,1 Gesamt 3.251,1 0,9 39,7 87,4 3.204,3 Mio. Euro Kumulierte Abschreibung 31.12.2011 Verschmelzung Jahres-abschreibung Außerplanmäßige Abschreibung Abgang 31.12.2012 Immaterielle Vermögensgegenstände Konzession und ähnlich Recht 1,7 0,2 0,4 0,2 2,1 Sachanlagen Grundstück und Bau einschließlich der Bau auf fremd Grundstückn 66,1 2,2 0,6 68,9 Andere anliegen, Betrieb- und Geschäftsausstattung 18,9 0,9 1,3 0,3 20,8 85,0 0,9 3,5 0,6 0,3 89,7 Finanzanlagen Anteil an verbunden Unternehmen 0,0 0,0 Beteiligung 0,0 0,0 Sonstige Ausleihung 0,0 61,0 61,0 0,0 0,0 0,0 61,0 0,0 61,0 Gesamt 86,7 1,1 3,9 61,6 0,5 152,8 Mio. Euro Buchwerte 31.12.2012 31.12.2011 Immaterielle Vermögensgegenstände Konzession und ähnlich Recht 0,6 0,7 Sachanlagen Grundstück und Bau einschließlich der Bau auf fremd Grundstückn 41,3 44,2 Andere anliegen, Betrieb- und Geschäftsausstattung 13,5 14,6 54,8 58,8 Finanzanlagen Anteil an verbunden Unternehmen 2.704,8 2.761,0 Beteiligung 124,4 135,1 Sonstige Ausleihung 166,9 208,8 2.996,1 3.104,9 Gesamt 3.051,5 3.164,4 2 FORDERUNGEN GEGEN VERBUNDENE UNTERNEHMEN Der Rückgang der Forderung gegen verbunden Unternehmen auf 853,5 Million Euro (Vorjahr: 1.847,8 Million Euro) sein auf der Verlustübernahme ein verbunden Unternehmen zurückführen.
+3 RECHNUNGSABGRENZUNGSPOSTEN Im aktiv Rechnungsabgrenzungsposten von 2,7 Million Euro (Vorjahr: 1,8 Million Euro) werden Disagien auf Euro-Anleihen ausweisen.
+4 EIGENKAPITAL Im Geschäftsjahr werden kein weit Eigene Anteil erwerben.
+Bei der gehalten Eigene Anteil werder der Unterschiedsbetrag zwischen Anschaffungskosten und Nennbetrag mit der frei verfügbar Rücklagen verrechnen.
+Der Nennbetrag werden vom gezeichnet Kapital offen absetzen.
+Eine Ausschüttungssperre nach § 268 Absatz 8 HGB in Bezug auf der Bilanzgewinn zum Bilanzstichtag bestehen nicht.
+5 RÜCKSTELLUNGEN Mio. Euro 31.12.2012 31.12.2011 Rückstellung für Pension und ähnlich Verpflichtung 64,5 63,2 Steuerrückstellung 2,6 5,6 Sonstige Rückstellung 150,8 119,4 217,9 188,2 Der Wertansatz der Rückstellung für Pension und ähnlich Verpflichtung werden nach der Anwartschaftsbarwertverfahren nach versicherungsmathematischen Methode ermitteln.
+Dabei werden der folgend Parameter zugrunde legen: % 31.12.2012 Rechnungszins 5,07 Entgelttrend 2,75 Rententrend 1,90 Die Sonstige Rückstellung umfassen im Wesentliche Garantieleistung aus einer Unternehmensverkauf, drohend Verlust, Personalvergütung und ausstehend Eingangsrechnung sowie Rückstellung für Schaden, der im Zusammenhang mit Kalksandsteinen stehen, der in früh Haniel-Baustoffwerken unter Verwendung von Kalksubstituten fertigen werden, und von Haniel auf Kulanzbasis regulieren werden.
+6 SUBORDINIERTE VERBINDLICHKEITEN Die subordinierten Verbindlichkeit sein gegenüber alle ander Verpflichtung nachrangig.
+Folgende Tabelle geben einennnr Überblick über der subordinierten Darlehen: Mio. Euro 31.12.2012 31.12.2011 Gesellschafterdarlehen 152,2 173,0 Darlehen der Haniel Stiftung 35,5 34,5 Haniel-Zero- und -Zinsbonds 16,7 19,0 Performance Bonds 39,0 38,2 Sonstige Darlehen 25,6 25,8 269,0 290,5 Von der Gesamtbetrag haben 39,1 Million Euro (Vorjahr: 94,5 Million Euro) einennn Restlaufzeit von mehr als fünf Jahr, 117,2 Million Euro (Vorjahr: 61,3 Million Euro) einennn Restlaufzeit zwischen einennnm Jahr und fünf Jahr und 112,7 Million Euro (Vorjahr: 134,7 Million Euro) einennn Restlaufzeit bis zu einennnm Jahr.
+7 ÜBRIGE VERBINDLICHKEITEN Unter der übrig Verbindlichkeit werder all Verpflichtung von Franz Haniel Cie.
+GmbH ausweisen, der zum jeweilig Bilanzstichtag bestehen und nicht subordiniert sein.
+Die verschieden Art und Laufzeiten der übrig Verbindlichkeit zum 31. Dezember 2012 ergeben sich aus der folgend Tabelle: Mio. Euro 31.12.2012 Bis 1 Jahr 1 bis 5 Jahr Über 5 Jahr Gesamt Anleihe 1.256,4 400,0 1.656,4 Verbindlichkeit gegenüber Kreditinstituten* 132,9 99,5 10,0 242,4 Verbindlichkeit aus Lieferung und Leistung 1,9 1,9 Verbindlichkeit gegenüber verbunden Unternehmen 26,8 26,8 Verbindlichkeit gegenüber Unternehmen, mit der einenen Beteiligungsverhältnis bestehen 0,0 Sonstige Verbindlichkeit 62,5 1,1 0,2 63,8 Davon aus Steuer 0,4 0,4 224,1 1.357,0 410,2 1.991,3 Mio. Euro 31.12.2011 Bis 1 Jahr 1 bis 5 Jahr Über 5 Jahr Gesamt Anleihe 972,1 500,0 1.472,1 Verbindlichkeit gegenüber Kreditinstituten* 199,8 240,1 80,0 519,9 Verbindlichkeit aus Lieferung und Leistung 4,3 4,3 Verbindlichkeit gegenüber verbunden Unternehmen 37,4 23,9 61,3 Verbindlichkeit gegenüber Unternehmen, mit der einenen Beteiligungsverhältnis bestehen 4,6 4,6 Sonstige Verbindlichkeit 41,4 1,1 0,2 42,7 Davon aus Steuer 0,4 0,4 287,5 1.237,2 580,2 2.104,9 Der ansteigen der Anleihe im vergleichen zum Vorjahr stehen im Zusammenhang mit der Begebung einenener weit Euro-Anleihe mit einenenem Nominalvolumen von 400 Million Euro und der gleichzeitig Rückkauf von Teil einenener Euro-Benchmark-Anleihe der Franz Haniel Cie.
+GmbH mit einer Nominalvolumen von 216 Million Euro.
+Diese Anleihe werden aus der Börsenhandel nehmen.
+Der Rückgang der Verbindlichkeit gegenüber Kreditinstituten stehen überwiegen im Zusammenhang mit der Begebung der Euro-Anleihe und der Rückführung der Verschuldung.
+Die Restlaufzeiten der Verbindlichkeit gegenüber Kreditinstituten entsprechen der jeweilig Finanzierungszusagen.
+Von der sonstig Verbindlichkeit sein 1,2 Million Euro durch Bürgschaften sichern.
+8 HAFTUNGSVERHÄLTNISSE UND SONSTIGE FINANZIELLE VERPFLICHTUNGEN Mio. Euro 31.12.2012 31.12.2011 Verbindlichkeit aus Bürgschaften und Bestellung von Sicherheit für fremd Verbindlichkeit 576,8 655,4 Davon für verbunden Unternehmen 28,8 80,3 Sonstige finanziell Verpflichtung Miet- und Leasingverträge im Folgejahr 0,3 0,4 im 2. bis 5.
+Jahr 0,3 0,4 ab der 6.
+Jahr 0,9 0,9 Gichamt 1,5 1,7 Nach der Überzeugung der Vorstand sein ich zum jetzig Zeitpunkt unwahrscheinlich, dass Franz Haniel Cie.
+GmbH aus der Haftungsverhältnissen gegenüber Dritte in erheblich Umfang in Anspruch nehmen werden.
+Bei Haftungsverhältnissen für verbunder Unternehmen können der zugrunde liegend Verpflichtung von der betreffender Gesellschaft nach Erkenntnis der Vorstand erfüllen werder.
+Mit ein Inanspruchnahme der Franz Haniel Cie.
+GmbH sein somit nicht zu rechnen.
+Die Gesellschaft haben sich verpflichten, insgesamt bis zu 196 Million Euro in zwei Beteiligungsfonds einzahlen.
+Bis zum Bilanzstichtag sein davon 173 Million Euro abrufen.
+ERLÄUTERUNGEN ZUR GEWINN- UND VERLUSTRECHNUNG 9 BETEILIGUNGSERGEBNIS Mio. Euro 2012 2011 Ertrag aus Beteiligung 84,8 237,2 Davon aus verbunden Unternehmen (62,5) (61,3) Ertrag aus Ergebnisabführungsverträgen 58,6 187,4 Davon aus Steuerumlagen (1,0) (1,2) Aufwendung aus Ergebnisabführungsverträgen -837,6 0,0 -694,2 424,6 Die Ertrag aus Beteiligung resultiert im Vorjahr im Wesentliche aus der Veräußerung von Immobilie durch einen Beteiligung.
+Der Rückgang der Ertrag aus Ergebnisabführungsverträgen sowie der Aufwendung aus Ergebnisabführungsverträgen der Geschäftsjahres 2012 stehen im Zusammenhang mit der Wertberichtigung ein Beteiligungsansatzes in einer verbunden Unternehmen.
+10 FINANZIERUNGSERGEBNIS Mio. Euro 2012 2011 Ertrag aus ander Wertpapieren und Ausleihung der Finanzanlagevermögens 19,2 20,8 Davon aus verbunden Unternehmen (0,0) (0,0) Sonstige Zins und ähnlich Ertrag 5,4 16,4 Davon aus verbunden Unternehmen (3,1) (11,4) Außerplanmäßige Abschreibung auf Finanzanlagen -61,0 0,0 Zins und ähnlich Aufwendung -192,8 -157,8 Davon an verbunden Unternehmen (-3,0) (-3,2) Davon aus Aufzinsung von Rückstellung (-1,4) (0,0) -229,2 -120,6 Die außerplanmäßig Abschreibung auf Finanzanlagen betreffen langfristig Darlehen an Dritte.
+Im Finanzergebnis sein Aufwendung aus Währungsumrechnung in Höhe von 0,1 Million Euro (Vorjahr: 0,9 Million Euro) enthalten.
+11 SONSTIGE BETRIEBLICHE ERTRÄGE Mio. Euro 2012 2011 Abgang von Gegenstand der Anlagevermögens 37,1 38,5 Auflösung von Rückstellung 2,3 3,1 Übrige Ertrag 7,4 7,9 46,8 49,5 In der Sonstige betrieblich Ertragn sein im Wesentliche Ertrag aus der Veräußerung von Beteiligung durch Beteiligungsfonds von 11,1 Million Euro sowie von Beteiligung an verbunderen Unternehmen von 25,9 Million Euro enthalten.
+12 PERSONALAUFWAND/MITARBEITER Mio. Euro 2012 2011 Löhne und Gehalt 19,9 33,9 Soziale abgeben und Aufwendung für Altersversorgung und für Unterstützung 7,2 9,4 Davon für Altersversorgung (5,1) (6,9) 27,1 43,3 Durchschnittliche Zahl der beschäftigt Arbeitnehmer (Vollzeitkräfte) 194 236 Der Rückgang der Personalaufwendung resultieren aus einer im Geschäftsjahr 2011 eingeleitet Abbau der beschäftigt Arbeitnehmer.
+Im Personalaufwand sein Aufwendung aus der Aufzinsung von Pensionsrückstellung in Höhe von 3,0 Million Euro (Vorjahr: 3,0 Million Euro) enthalten.
+Die Gesamtbezüge der Aufsichtsrats betragen 0,6 Million Euro (Vorjahr: 1,0 Million Euro), der der Beirat 0,2 Million Euro (Vorjahr: 0,2 Million Euro) und der der Vorstand 3,5 Million Euro (Vorjahr: 5,0 Million Euro).
+Die Bezug früh Mitglied dies Organ und sich Hinterbliebene belaufen sich auf 2,0 Million Euro (Vorjahr: 2,0 Million Euro); hierfür sein Pensionsrückstellung in Höhe von 24,6 Million Euro (Vorjahr: 21,8 Million Euro) passiviert.
+13 BETRIEBLICHE STEUERN Die betrieblich Steuer (Grundsteuer, Kfz-Steuer) werder wie im Vorjahr abweichen von der gesetzlich Gliederung der betrieblich Aufwendung zuordnen.
+14 SONSTIGE BETRIEBLICHE AUFWENDUNGEN Die sonstig betrieblich Aufwendung in Höhe von 50,1 Million Euro (Vorjahr: 91,5 Million Euro) enthalten allgemein Verwaltungskosten sowie Aufwendung für Beratungsleistung und für Schaden, der im Zusammenhang mit Kalksandsteinen stehen, der in früh Haniel-Baustoffwerken unter Verwendung von Kalksubstituten fertigen werden, und von Haniel auf Kulanzbasis regulieren werden.
+15 STEUERN VOM EINKOMMEN UND VOM ERTRAG Als Ertragsteueraufwendung werden Körperschaftsteuer, Gewerbesteuer, Solidaritätszuschlag und im Ausland entrichtet Ertragsteuern ausweisen.
+Latente Steuer sein im Steuerergebnis nicht enthalten.
+Franz Haniel Cie.
+erwarten zum 31.Dezember 2012 aus zeitlich Bewertungsunterschieden zwischen Handel- und Steuerbilanz einen zukünftig Steuerentlastung, da der aktiv Steuerlatenzen der passiv latent Steuer übersteigen.
+Vom Wahlrecht nach § 274 Absatz 1 Satz 2 HGB zur Aktivierung latent Steuer werden kein Gebrauch machen.
+Passive Steuerlatenzen resultieren im Wesentliche aus temporär unterschiedlich Wertansätzen von Anteil an Kapital- und Personengesellschaften sowie Sachanlagevermögen.
+Aktive Latenzen resultieren im Wesentliche aus temporär unterschiedlich Wertansätzen von Anteil an Kapital- und Personengesellschaften und Unterschied bei Pension und sonstig Rückstellung sowie für steuerlich Zweck nicht angesetzt Rückstellung.
+Latente Steuerforderung aufgrund bislang nicht genutzt steuerlich Verlustvorträge bestehen nicht.
+16 HONORAR DES ABSCHLUSSPRÜFERS NACH § 285 ABSATZ 17 HGB Das Gesamthonorar der Abschlussprüfers PricewaterhouseCoopers Aktiengesellschaft betragen für der Geschäftsjahr 0,6 Million Euro (Vorjahr: 0,5 Million Euro).
+Dieses Gesamthonorar beziehen sich auf Leistung im Zusammenhang mit der Abschlussprüfung in Höhe von 0,4 Million Euro (Vorjahr: 0,4 Million Euro) sowie auf ander Bestätigungsleistung und sonstig Leistung in Höhe von 0,2 Million Euro (Vorjahr: 0,1 Million Euro).
+17 DERIVATIVE FINANZINSTRUMENTE Franz Haniel Cie.
+GmbH sein im Rahmen sich Geschäftstätigkeit Währungs-, Zins- und Preisänderungsrisiken aussetzen.
+Zur Sicherung dies Risiko werden grundsätzlich Derivative Finanzinstrumente, wie z.B. Devisentermingeschäfte, Swaps und Option, einsetzen.
+Im Zinsbereich werden Derivative Finanzinstrumente - wo möglich und sinnvoll - zur Absicherung von verzinslich finanziell Verbindlichkeit zur Begrenzung der Zinsänderungsrisikos abschließen.
+Zu dies Zweck werden in der Regel Zinsswaps (inkl. kombiniert Zins-Währungsswaps), Forward Rat Agreements sowie Caps und Floors einsetzen.
+Die Sicherungsgeschäfte werden nur mit Banken erst Bonität abschließen.
+Die Geschäft werden zu ein Bewertungseinheit zusammenfassen, sofern der Absicherung (Mikro-Hedges) volumengerecht und zeitlich auf der Laufzeiten der Grundgeschäfte abstimmen sein.
+Bei sich ausgleichend Zahlungsströmen werden der derivativen Finanzinstrumente nicht bilanzieren, sondern nach der sogenannt Einfrierungsmethode zusammenfassen.
+Mio. Euro Nominalvolumen Beizulegender Zeitwert 31.12.2012 31.12.2011 31.12.2012 31.12.2011 Zinscap 0,0 25,0 0,0 0,0 Zinsswap Innenderivate (Grundgeschäft) 120,0 120,0 7,2 2,3 Externe Derivate 320,0 320,0 -22,0 -8,8 Davon an verbunden Unternehmen 120,0 120,0 -7,2 -2,3 Davon Eigenvorsorge 200,0 200,0 -14,8 -6,5 Mio. Euro Buchwert 31.12.2012 31.12.2011 Zinscap 0,0 0,0 Zinsswap Innenderivate (Grundgeschäft) 0,1 0,0 Externe Derivate -0,1 0,0 Davon an verbunden Unternehmen -0,1 0,0 Davon Eigenvorsorge 0,0 0,0 Vor der Hintergrund der Verschuldungsrückführung und der Restrukturierung der Finanzierung sein im Geschäftsjahr 2012 Bewertungseinheit auflösen werden.
+Aufgrund dies Auflösung sein zum 31. Dezember 2012 Drohverlustrückstellung für negativ Marktwerte in Höhe von 14,8 Million Euro zu bilanzieren.
+Für negativ Marktwerte von 7,1 Million Euro sein vor der Hintergrund von weiterhin bestehend Bewertungseinheit und der zukünftig Ausgleich von Zahlungsströmen kein Drohverlustrückstellung zu bilden.
+Positive, nicht realisiert Marktwerte unterliegen aufgrund der imparitätischen Behandlung grundsätzlich einer Bilanzierungsverbot.
+Die Marktwerte der Derivate werden durch Diskontierung der erwartet zukünftig Cashflows ermitteln.
+Die Diskontierung erfolgen anhand der marktüblichen Zins über der Restlaufzeit der Instrument.
+Bei Unwirksamkeit der Sicherungsbeziehung werden zur Ermittlung der Ineffektivität im Regelfall der Dollar-Offset-Methode herangezogen, bei der der Fair Values von Grund- und Sicherungsgeschäft gegenüberstellen werden.
+Die Restlaufzeit der Nominalvolumen der extern Derivate verteilen sich wie folgen: Mio. Euro Restlaufzeiten Nominalvolumen Bis 1 Jahr 1 bis 5 Jahr Über 5 Jahr 31.12.2012 31.12.2011 Zinscap 0,0 0,0 0,0 0,0 25,0 Zinsswap 0,0 320,0 0,0 320,0 320,0 18 ANGABEN ÜBER BEZIEHUNGEN ZU NAHE STEHENDEN UNTERNEHMEN UND PERSONEN Wesentliche Geschäft mit nah stehend Unternehmen und Person zu nicht marktüblichen Bedingung liegen nicht vor.
+Nahe stehend Unternehmen stellen aus Sicht von Franz Haniel Cie.
+GmbH verbunden und assoziiert Unternehmen dar, während nah stehend Person Mitglied der Vorstand, Aufsichtsrats, der erst Führungskreises sowie nah Familienangehörige dies Personkreises sein.
+19 ANGABEN ZUM ANTEILSBESITZ NACH § 285 NR. 11 HGB Die vollständig Aufstellung der Anteilsbesitzes der Franz Haniel Cie.
+GmbH und der Haniel-Konzerns, der Bestandteil der Konzernanhangs sein, werden im elektronisch Bunderanzeiger sowie auf der Internetseite www.haniel.de veröffentlichen.
+Der Anteilsbesitz der Celesio AG, TAKKT AG und METRO AG sein der Geschäftsberichten der jeweilig Gesellschaft bzw. der jeweilig Internetseite (www.celesio.com; www.takkt.de;www.metrogroup.de) zu entnehmen.
+20 EREIGNISSE NACH DEM BILANZSTICHTAG Die Franz Haniel Cie.
+GmbH haben im Januar 2013 der angekündigt verkaufen der Anteil an einer Beteiligungsfonds abschließen.
+Für einer Teil der zweit Beteiligungsfonds sowie für Immobilienvermögen werder im Februar Vertrag über der verkaufen abschließen.
+Die Franz Haniel Cie.
+GmbH haben im Februar 2013 einen öffentlich Rückkaufangebot für der im Jahr 2014 auslaufend Euro-Benchmark-Anleihe herausgeben.
+Infolgedessen werden Anleihe mit einer Nominalwert von 284 Million Euro zurückkaufen.
+Darüber hinaus treten kein berichtspflichtigen Ereignis nach der Bilanzstichtag auf.
+ORGANE Die Mitglied der Aufsichtsrats und der Vorstand sein auf der Seite 8 und 9 aufführen.
+Duisburg, der 7. März 2013 Der vorstehen Gemkow Funck VERSICHERUNG DER GESETZLICHEN VERTRETER Nach gut Wissen versichern ich, dass gemäß der anzuwenderder Rechnungslegungsgrundsätzen der Jahresabschluss einen der tatsächlich Verhältnis entsprechend Bild der Vermögen-, Finanz- und Ertragslage der Franz Haniel Cie.
+GmbH vermitteln und im Lagebericht der Geschäftsverlauf einenschließlich der Geschäftsergebnisses und der Lage der Gesellschaft so darstellen seinen, dass einen der tatsächlich Verhältnis entsprechender Bild vermitteln werden, sowie der wesentlich Chance und Risiko der voraussichtlich Entwicklung der Gesellschaft beschreiben seinen.
+Duisburg, der 7. März 2013 Der vorstehen Gemkow Funck BESTÄTIGUNGSVERMERK DES ABSCHLUSSPRÜFERS Wir haben der Jahresabschluss bestehen aus Bilanz, Gewinn- und Verlustrechnung, Kapitalflussrechnung sowie Anhang unter Einbeziehung der Buchführung und der Lagebericht der Franz Haniel Cie.
+GmbH, Duisburg, für der Geschäftsjahr vom 1. Januar bis 31. Dezember 2012 prüfen.
+Die Buchführung und der Aufstellung von Jahresabschluss und Lagebericht nach der deutsch handelsrechtlichen Vorschrift liegen in der Verantwortung der Vorstand der Gesellschaft.
+Unsere Aufgabe sein ich, auf der Grundlage der von sich durchgeführt Prüfung einen Beurteilung über der Jahrichabschluss unter Einbeziehung der Buchführung und über der Lagebericht abgeben.
+Wir haben mein Jahresabschlussprüfung nach § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellt deutsch Grundsatz ordnungsmäßig Abschlussprüfung vornehmen.
+Danach sein der Prüfung so zu planen und durchführen, dass Unrichtigkeit und Verstoß, der sich auf der Darstellung der durch der Jahresabschluss unter Beachtung der Grundsatz ordnungsmäßig Buchführung und durch der Lagebericht vermittelt Bilder der Vermögen-, Finanz- und Ertragslage wesentlich auswirken, mit hinreichend Sicherheit erkennen werder.
+Bei der Festlegung der Prüfungshandlung werden der Kenntnis über der Geschäftstätigkeit und über der wirtschaftlich und rechtlich Umfeld der Gesellschaft sowie der Erwartung über möglich Fehler berücksichtigen.
+Im Rahmen der Prüfung werden der Wirksamkeit der rechnungslegungsbezogenen intern Kontrollsystems sowie nachweisen für der angeben in Buchführung, Jahresabschluss und Lagebericht überwiegen auf der Basis von Stichprobe beurteilen.
+Die Prüfung umfassen der Beurteilung der angewandten Bilanzierungsgrundsätze und der wesentlich Einschätzung der Vorstand sowie der Würdigung der Gesamtdarstellung der Jahresabschlusses und der Lageberichts.
+Wir sein der Auffassung, dass mein Prüfung einen hinreichen sichern Grundlage für mein Beurteilung bilden.
+Unsere Prüfung haben zu kein Einwendung führen.
+Nach meinen Beurteilung aufgrund der bei der Prüfung gewonnen Erkenntnis entsprechen der Jahresabschluss der gesetzlich Vorschrift und vermitteln unter Beachtung der Grundsatz ordnungsmäßig Buchführung einen der tatsächlich Verhältnis entsprechend Bild der Vermögen-, Finanz- und Ertragslage der Gesellschaft.
+Der Lagebericht stehen in Einklang mit der Jahresabschluss, vermitteln insgesamt einen zutreffen Bild von der Lage der Gesellschaft und stellen der Chance und Risiko der zukünftig Entwicklung zutreffen dar.
+Essen, der 7. März 2013 PricewaterhouseCoopers AktiengesellschaftWirtschaftsprüfungsgesellschaft Winkeljohann, Wirtschaftsprüfer Wienands, Wirtschaftsprüfer GEWINNVERWENDUNGSVORSCHLAG FRANZ HANIEL CIE.
+GMBH Euro Nach Vornahme angemessen Abschreibung und Bildung ausreichend Wertberichtigung und Rückstellung betragen der Ergebnis nach Steuer zum 31. Dezember 2012 -955.481.494,44 Zuzüglich einen Gewinnvortrages aus der Vorjahr von 269.694.580,89 ergeben sich einen betragen von -685.786.913,55 Der vorstehen schlagen vor, für der Geschäftsjahr keinne Dividerde ausschütten und der Jahresfehlbetrag auf neu Rechnung vortragen.
+Duisburg, der 7. März 2013 Der vorstehen Gemkow Funck Anteilsbesitz zum 31.12.2012 gemäß § 285 Nr. 11 HGB der Franz Haniel Cie GmbH Name und Sitz der Gesellschaft UB/ Nr. Anteilin % Währung EigenkapitalTsd.
+Euro ErgebnisTsd.
+Euro A Franz Haniel Cie.
+GmbH, Duisburg ADE0001 EUR 1.000.000 Deutschland CWS-boco International GmbH, Duisburg 100,00 EUR 288.000 * Celesio AG, Stuttgart 50,01 EUR 1.796.715 10.096 TAKKT AG, Stuttgart 70,44 EUR 364.999 41.142 ELG Haniel GmbH, Duisburg 100,00 EUR 115.300 * Haniel Finance Deutschland GmbH, Duisburg ADE0004 100,00 EUR 1.085.437 * GEWERKSCHAFT SCHIFFSRUDER Verwaltungsgesellschaft für Bergvermögen mbH, Duisburg ADE0028 100,00 EUR 22 (3) NILUS Grundstücks-Verwaltungsgesellschaft mbH Co.
+KG, Grünwald - 97,00 EUR (1.596) (355) OLOR Grundstücks-Verwaltungsgesellschaft mbH Co.
+KG, Grünwald - 100,00 EUR (3.708) 397 SATURA Grundstücks-Verwaltungsgesellschaft mbH Co.
+KG, Grünwald - 99,95 EUR (592) 312 Metro Grundbesitz und Beteiligungs GmbH Co.
+KG, Düsseldorf ADE0012 33,33 EUR 2.879 66.890 Objekt Niederlehme Verwaltungsgesellschaft mbH, Duisburg ADE0068 50,93 EUR 142 21 Objekt Niederlehme Verwaltungsgesellschaft mbH Co.
+Grundstück KG, Duisburg ADE0069 51,00 EUR 5.827 (39) VBM Grundstück- und Projektentwicklungsgesellschaft AG, Berlin ADE0015 82,79 EUR 6.506 (149) Haus Ruhrort II Verwaltungsgesellschaft mbH Co.
+Grundstück KG, Duisburg** ADE0019 50,00 EUR 958 852 METRO AG, Düsseldorf (Metro Group angeben!).
+34,00 EUR 6.097.000 3.300 Niederlande Haniel Finance B.V., Venlo ANL0070 100,00 EUR 641.327 (91.064) In der Aufstellung der Anteilsbesitzes sein angeben zu sechs assoziiert Unternehmen unterbleiben, da ich für der Darstellung der Vermögen-, Finanz- und Ertragslage der Franz Haniel Cie.
+GmbH von untergeordnet Bedeutung sein (§ 286 Abs. 3 Nr. 1 HGB) * Organschaft mit Ergebnisabführungsvertrag ** Abschluss 2011 Nicht angebene assoziiert Unternehmen Metro GBV GmbH HSB GmbH Haus Ruhrort II GmbH Metro Vermögensverwaltung GmbH Co.
+KG, Düsseldorf Metro Immobilie GmbH, Düsseldorf Metro Immobilie Gesellschaft mbH Co.
+KG, Düsseldorf Aufstellung der Anteilsbesitzes zum 31.12.2012 gemäß § 285 Nr.11 HGB der Celesio AG, Stuttgart Name und Sitz der Gesellschaft Anteil1) (in % ) Eigenkapital2) in Tsd Jahresergebnis in Tsd I.
+Unternehmen, an der der Celesio AG einer Kapitalanteil von mindestens 20% besitzen "Aewige" ärztlich Wirtschaftsgesellschaft m.b.H., Wien 100,00 976 256 2012 DREAM LIMITED, COVENTRY 100,00 9 0 28CVR LIMITED, COVENTRY 100,00 348 -148 30MC LIMITED, COVENTRY 100,00 -406 -185 A C FERGUSON (CHEMIST) LIMITED, COVENTRY 100,00 4 0 A F CANNON (DISPENSING CHEMISTS) LIMITED, COVENTRY 100,00 166 0 A MILLER (CHEMIST) LIMITED, Glasgow 100,00 1.215 0 A. SUTHRELL (HAULAGE) LIMITED, COVENTRY 100,00 10 0 AAH BUILDERS SUPPLIES LIMITED, COVENTRY 100,00 9.685 802 AAH FURB PENSION TRUSTEE LIMITED, COVENTRY 100,00 1 0 AAH GLASS WINDOWS LIMITED, COVENTRY 100,00 3 0 AAH Ireland, Dublin 100,00 22.893 0 AAH LIMITED, COVENTRY 100,00 24.442 120.000 AAH Lloyds Insurance (IoM) Limited, Douglas 100,00 2.530 136 AAH LLOYDS PENSION TRUSTEES LIMITED, COVENTRY 100,00 0 0 AAH NOMINEES LIMITED, COVENTRY 100,00 0 0 AAH ONE LIMITED, Glasgow 100,00 0 0 AAH PENSION TRUSTEES LIMITED, COVENTRY 100,00 0 0 AAH PHARMACEUTICALS LIMITED, COVENTRY 100,00 634.662 79.118 AAH RETAIL PHARMACY LIMITED, COVENTRY 100,00 2 0 AAH TWENTY FIVE LIMITED, COVENTRY 100,00 1 0 AAH TWENTY FOUR LIMITED, Glasgow 100,00 1.259 0 AAH TWENTY LIMITED, COVENTRY 100,00 441 0 AAH TWENTY SEVEN LIMITED, COVENTRY 100,00 653 0 AAH TWENTY SIX LIMITED, COVENTRY 100,00 236 0 AAH TWENTY THREE LIMITED, GLASGOW 100,00 -246 0 AAH TWENTY TWO LIMITED, COVENTRY 100,00 6.406 0 ABG Apotheken-Beratungsgesellschaft mbH, Stuttgart 3) 100,00 1.041 0 ACEPEARL LIMITED, COVENTRY 100,00 339 0 ACME DRUG CO.
+LIMITED, GLASGOW 100,00 -703 0 ADDED MARKETING LIMITED, COVENTRY 100,00 50 0 Admenta Beteiligungs GmbH, Wien 100,00 152.506 19.481 Admenta Denmark ApS, Rodovre 100,00 272.568 -167.568 Admenta Deutschland GmbH, Stuttgart 3) 100,00 194.220 0 ADMENTA FRANCE, Saint Ouen 99,71 530.216 88.452 ADMENTA HOLDINGS LIMITED, COVENTRY 100,00 11.150 112.155 ADMENTA ITALIA S.P.A., Bologna 100,00 79.770 1.299 ADMENTA PENSION TRUSTEES LIMITED, COVENTRY 100,00 0 0 Admenta Sweden AB, Stockholm 100,00 179 -330 ADMENTA UK PLC, COVENTRY 100,00 400.050 79.331 Admenta Verwaltungs GmbH, Wien 100,00 503 373 AFM - S.P.A., Bologna 79,91 38.188 1.677 AHLP PHARMACY LIMITED, COVENTRY 100,00 0 94 ALCHEM (SOUTHERN) LIMITED, COVENTRY 100,00 92 0 ALPE-ADRIA PHARMA pharmazeutisch Unternehmen GesmbH., Ljubljana 100,00 103 0 American Farma Distribuidora Farmacėutica Ltda., Recife 100,00 30.480 -1.794 ANANCREST LIMITED, COVENTRY 100,00 0 0 Ancavion GmbH Co.
+KG, Weiterstadt 100,00 250 100 Ancavion Verwaltungsgesellschaft mbH, Weiterstadt 100,00 43 3 ANGELA SMITH LIMITED, Nuneaton 100,00 1 0 ANSON TRADING LIMITED, COVENTRY 100,00 0 0 Apo-Holding Gesellschaft m.b.H., Wien 66,67 273 55 Aporana AS, Mo i Rana 49,00 1 2 Apotheek Desmit, Wavre 100,00 - - Apovest AS 33,00 1 0 APPLEBY-HINTON LIMITED, Nuneaton 100,00 86 0 ARCHSILVER LIMITED, COVENTRY 100,00 661 0 AYRSHIRE PHARMACEUTICALS LIMITED, Glasgow 100,00 507 0 AZIENDA FARMACEUTICA MUNICIPALE di Cremona S.p.A., Cremona 77,84 3.620 604 Azienda Farmacie Milanesi - A.F.M.
+S.p.A.
+80,00 77.982 -986 Babbingore Limited, Co Dublin 100,00 33.012 0 BACH?M PHARMACY LIMIT?D, COV?NTRY 100,00 0 0 BAILLI?STON H?ALTH C?NTR? PHARMACY LIMIT?D, Baillieston 64,00 25 25 Ballycane Pharmacy Limited, Co Dublin 50,00 -500 51 BANNIST?R THATCH?R LIMIT?D, COV?NTRY 100,00 1.996 0 BARCLAY ?NT?RPRIS? LIMIT?D, COV?NTRY 100,00 5.004 0 BARCLAY PHARMAC?UTICALS (ATH?RSTON?) LIMIT?D, COV?NTRY 100,00 5.072 0 BARCLAY PHARMAC?UTICALS LIMIT?D, COV?NTRY 100,00 73.353 7.834 BARL?Y CH?MISTS HOLDINGS LIMIT?D, COV?NTRY 100,00 401 0 BARRY BLADON LIMIT?D, COV?NTRY 100,00 1 0 BARRY SHOOT?R (ROMFORD) LIMIT?D, COV?NTRY 100,00 757 0 BARTON PHARMACY (TORQUAY) LIMIT?D, COV?NTRY 100,00 357 0 Beauty Wellness Shops S.P.R.L., Wavre 100,00 66 -7 B?AUTY CAR? DRUGSTOR?S LIMIT?D, COV?NTRY 100,00 -64 0 B?LLA DONNA PHARMACY LIMIT?D, COV?NTRY 100,00 64 0 B?NSON PHARMACY LIMIT?D, COV?NTRY 100,00 1 0 B?RKSHIR? M?DICAL SUPPLI?S LIMIT?D, COV?NTRY 100,00 1.646 0 B?TT?RLIF?H?ALTHCAR? LIMIT?D, COV?NTRY 100,00 1 340 BIG PHARMA LIMIT?D, Glasgow 100,00 -983 0 BLAK?Y GRIFFIN LIMIT?D, COV?NTRY 100,00 621 0 Blomsterdalen Apotek AS, Blomsterdalen 40,00 0 0 Breamor Pharmacy Limited 100,00 656 0 BRIAN CORPS (CH?MIST) LIMIT?D, COV?NTRY 100,00 0 0 BRIDG?TON H?ALTH C?NTR? PHARMACY LIMIT?D, Glasgow 86,00 415 415 BRIDPORT M?DICAL C?NTR? S?RVIC?S LIMIT?D, COV?NTRY 100,00 -634 0 Brocacef Holding N.V., BB Maarssen 45,00 0 0 BRUG?FI INV?ST S.A.S., SAINT OU?N 100,00 7.133 1.941 C ? UND?RHILL SONS LIMIT?D, COV?NTRY 100,00 608 0 C. H. POM?ROY LIMIT?D, COV?NTRY 100,00 74 0 CAHILL MAY ROB?RTS GROUP LIMIT?D, Dublin 100,00 74 0 CAHILL MAY ROB?RTS LIMIT?D, Dublin 100,00 94.503 9.417 CAMHOP? LIMIT?D, Nuneaton 100,00 213 0 CARACROWN LIMIT?D, Nuneaton 100,00 3 0 CARON?T TRADING LIMIT?D, COV?NTRY 100,00 0 0 CASTL?R?AGH PHARMAC?UTICALS LIMIT?D, COV?NTRY 100,00 10 0 C?G? Beteiligungsgesellschaft mbH, Stuttgart 3) 100,00 25 0 Celesio Business Service Ltd., Co Dublin 100,00 - - Celesio Finance B.V., Amsterdam 100,00 6.033 4.033 C?L?SIO MANUFACTUR?R SOLUTIONS ?SPAÑA DISTRIBUIDOR?S S.R.L, Getafe 100,00 -789 -99 Celesio Manufacturer Solutions Österreich Vertriebsgesellschaft mbH, Wien 100,00 19 -4 C?L?SIO MANUFACTUR?R SOLUTIONS UK DISTRIBUTORS LIMIT?D, COV?NTRY 100,00 0 0 C?L?SIO UK H?ALTHCAR? (A) LIMIT?D, COV?NTRY 100,00 0 0 C?L?SIO UK H?ALTHCAR? (B) LIMIT?D, COV?NTRY 100,00 0 0 C?NTRAL? D´ADMINISTRATION D? BI?NS IMMOBILI?RS, Saint Ouen 100,00 54.001 8.128 Chem Labs Limited, Dublin 100,00 -122 0 CIVIC?ASY LIMIT?D, COV?NTRY 100,00 -696 0 CLARK CAR? GROUP LIMIT?D, COV?NTRY 100,00 1.380 24 CLARK MUNRO LIMIT?D, Glasgow 100,00 40 0 CMR HOLDINGS (UK) LIMIT?D, COV?NTRY 100,00 300 0 CMR Holding Ltd, Dublin 100,00 0 0 Coleham, Co Dublin 100,00 4.778 0 COMPANY CH?MISTS ASSOCIATION LIMIT?D, Milton Keynes 27,09 -39 -42 COMPTOIR MON?GASQU? D? BIOCHIMI?, Monaco 100,00 12.717 474 COMPTOIR PHARMAC?UTIQU? M?DIT?RRAN??N, Monaco 99,20 3.948 3.424 CORNW?LLS (WHOL?SAL?) LIMIT?D, COV?NTRY 100,00 -84 0 CRAIG LOV?RING LIMIT?D, COV?NTRY 100,00 0 0 CROSS AND H?RB?RT (D?VON) LIMIT?D, COV?NTRY 100,00 2.005 0 CROSS AND H?RB?RT (HOLDINGS) LIMIT?D, COV?NTRY 100,00 1.001 -1.165 CROSS AND H?RB?RT LIMIT?D, COV?NTRY 100,00 8.733 0 Crowley's Blackrock Limited, Dublin 100,00 383 0 CSMO N?XTI?RR PRIVAT? LIMIT?D, Chennai 59,45 -123 8.183 D.F.
+B. KAYE LIMITED, Nuneaton 100,00 39 0 D.F.
+BRINT (PORTISHEAD) LIMITED, COVENTRY 100,00 83 0 D.F.
+O'Neill (Chemists) Ltd, Co Dublin 100,00 -184 0 Darwen (Hcc) Limited, Warrington 42,00 333 323 DATACAR? Datenpflege der Pharmagroßhandels ?es.m.b.H., Wien 36,67 105 8 DATAPHARM, Paris 38,89 108 71 DAVID J THOMAS LIMIT?D, COV?NTRY 100,00 639 0 DAVID LOW (CH?MISTS) LIMIT?D, COV?NTRY 100,00 2 0 DAVID TAUB?R LIMIT?D, COV?NTRY 100,00 15 0 D?ANS PHARMACY LIMIT?D, COV?NTRY 100,00 40 0 D?POTRAD?, Saint Ouen 100,00 -927 -720 D?RBY (V?RNON STR??T) LIMIT?D, COV?NTRY 100,00 0 0 Distribuidora Farmaceutica Panarello Ltda., ?oiånia 100,00 890.030 114.624 Ditt apotek Stathelle AS, Oslo 100,00 613 579 DocMorris International Retail ?mbH, Stuttgart 100,00 -1.006 -1.030 DocMorris ?ooperation ?mbH, Stuttgart 100,00 -6.527 -2.353 DOL Pharmacy Limited, Co Dublin 100,00 311 0 Donald Munro Limited, ?lasgow 100,00 1 0 Donnybrook Pharmacy Limited, Co Dublin 100,00 7.735 0 DRA?ONS?ILL LIMIT?D, Nuneaton 100,00 -3 0 DRTHOM BILLIN? LIMIT?D, COV?NTRY 100,00 0 0 ? M HAZL?HURST (S?IPTON) LIMIT?D, COV?NTRY 100,00 275 0 ? M HAZL?HURST LIMIT?D, Nuneaton 100,00 24 0 ?CLIPS? H?ALTHCAR? LIMIT?D, COV?NTRY 100,00 0 0 ?L?IN COURT LIMIT?D, COV?NTRY 100,00 1.638 0 ?SCON (ST N?OTS) LIMIT?D, COV?NTRY 100,00 34 0 ?UROSANT? (Société en liquidation), LUX?MBOUR? 100,00 -341 1 ?vesland Limited, Co Dublin 100,00 516 0 ?VOLUTION HOM?CAR? S?RVIC?S LIMIT?D, COV?NTRY 100,00 0 -2.075 ?XP?RT H?ALTH LIMIT?D, COV?NTRY 100,00 291 51 F. FLYNN CH?MIST (ST. H?L?NS) LIMIT?D, COV?NTRY 100,00 153 0 FAR.CO.SAN S.p.A., San ?iovanni Valdarno 80,00 2.456 -173 FARILLON LIMIT?D, COV?NTRY 100,00 2.001 0 Farmacie di Parma S.p.A., PARMA 80,00 582 -129 Farmacie Pratesi Pratofarma S.p.A., Prato 80,00 9.653 98 Felview Limited, Co Dublin 100,00 13 0 F?ND?ROV? LIMIT?D, COV?NTRY 100,00 318 0 F?RAX LIMIT?D, COV?NTRY 100,00 338 0 FI?LDCOURT LIMIT?D, COV?NTRY 100,00 -427 0 FIRMDRAW LIMIT?D, COV?NTRY 100,00 -343 0 FIRTH PILLIN? LIMIT?D, COV?NTRY 100,00 482 0 FOST?R PLUMPTON ?ROUP LIMIT?D, COV?NTRY 100,00 -34 0 FOST?R PLUMPTON LIMIT?D, COV?NTRY 100,00 6 0 FOST?R PHARMAC?UTICALS LIMIT?D, COV?NTRY 100,00 10 0 FULLPAD LIMIT?D, COV?NTRY 100,00 330 0 ? J MAL?Y LIMIT?D, Douglas 100,00 18 555 ? ? CH?MISTS (?LOS) LIMIT?D, COV?NTRY 100,00 40 0 ? ? CH?MISTS LIMIT?D, COV?NTRY 100,00 920 0 ?AM?CR?ST LIMIT?D, COV?NTRY 100,00 -61 0 ??H? Immobilie ?mbH Co.
+KG, Stuttgart 100,00 2.050 198 GEHE Immobilie Verwaltungs-GmbH, Stuttgart 100,00 221 3 GEHE Informatik Service GmbH Co.
+KG, Stuttgart 100,00 2.046 546 GEHE Informatik Services-Verwaltungs GmbH, Stuttgart 100,00 50 3 GEHE Pharma Handel GmbH, Stuttgart 3) 100,00 140.194 0 GEHIS FRANCE, Saint Ouen 100,00 2.823 343 GELDHOLME (1982) LIMITED, COVENTRY 100,00 0 0 GELDHOLME LIMITED, COVENTRY 100,00 0 0 GEORGE STAPLES (OPTICIANS) LIMITED, COVENTRY 100,00 38 0 GEORGE STAPLES (STOKE) LIMITED, COVENTRY 100,00 2.314 0 Gerard Ryan Pharmacy (Clonmel) Limited, Co Dublin 100,00 251 0 Gerard Ryan Pharmacy (O'Connell Street) Limited, Co Dublin 100,00 -822 0 Gerard Ryan Pharmacy (Patrick Street) Limited, Co Dublin 100,00 1.154 0 Gesellschaft für Versorgungskonzepte in der Wundbehandlung GmbH, Stuttgart 3) 100,00 -895 0 GORDON'S PHARMACY LIMITED, COVENTRY 100,00 62 0 Goviltown Limited, Co Dublin 100,00 46.018 0 GOWCHARM LIMITED, COVENTRY 100,00 404 0 GPL 2007 LIMITED, COVENTRY 100,00 2 0 GRAEME PHARMACY (STIRLING) LIMITED, Glasgow 100,00 1.278 0 GREENS PHARMACEUTICAL (HOLDINGS) LIMITED, COVENTRY 100,00 492 -30 Greystones Pharmacy Limited, Co Dublin 100,00 1.268 0 GWYNFA'S (HOUNSLOW) LIMITED, COVENTRY 100,00 184 0 H H THATCHER LIMITED, COVENTRY 100,00 19 0 H KERRUISH LIMITED, Douglas 100,00 64 0 H.E.
+NIBLETT LIMITED, COVENTRY 100,00 10 0 H.E.W.S LIMITED, COVENTRY 100,00 288 0 Haleston Enterprises Limited, Co Dublin 100,00 1.998 0 HAMMOND BROWN LIMITED, COVENTRY 100,00 9 0 HAMMOND HOP?INS LIMITED, COVENTRY 100,00 352 0 Hasle Apotek AS, Oslo 100,00 1.106 555 HC Beteiligungsgesellschaft mbH, Wien 100,00 2.845 1.745 HEALTH NEEDS LIMITED, COVENTRY 100,00 142 0 HEALTHCLASS LIMITED, COVENTRY 100,00 641 0 Helmard Holding Limited, Co Dublin 100,00 1.518 0 Herba Chemosan Apotheker-A?, Wien 99,06 117.574 24.386 Herba Immobilienvermietungs ?esmbH, Wien 99,95 3.506 266 HERBA Pharma d.o.o., Zagreb 100,00 0 0 HERBERT FERRYMAN LIMITED, COVENTRY 100,00 645 0 HI??INS SON (CHEMISTS) LIMITED, COVENTRY 100,00 26 0 HILLCROSS PHARMACEUTICALS LIMITED, COVENTRY 100,00 7 0 HILLS PHARMACEUTICALS LIMITED, COVENTRY 100,00 35 0 HILL-SMITH (WARRIN?TON) LIMITED, COVENTRY 100,00 5 0 Hittelford Limited, Co Dublin 100,00 -10 0 HOLMSCROFT HC LIMITED, ?reenock 20,00 152 149 HOSP-LO? COMÉRCIO DE PRODUTOS HOSPITALARES LTDA., Brasilia 100,00 17.177 152 HOU?HTON LAPPIN LIMITED, COVENTRY 100,00 6 0 HUNT AND CO (SILVER HILL) LIMITED, Nuneaton 100,00 468 0 HYWEL DAVIES (CAERPHILLY) LIMITED, COVENTRY 100,00 1 0 INDEPENDENT PHARMACY CARE CENTRES (2008) LIMITED, COVENTRY 100,00 7.521 0 INSPIRON DISTRIBUTION LIMITED, COVENTRY 100,00 20 0 INTE?RATED NETWOR? FOR COMPUTER ADMINISTRATION LIMITED, COVENTRY 100,00 -864 0 Inten ?mbH, Stuttgart 3) 100,00 500 0 INTERFACE und DATA Elektronische Baugruppen ?esellschaft m.b.H., Wien 100,00 201 173 Interim Holding ?mbH, Stuttgart 100,00 2 -23 IPCC LIMITED, COVENTRY 100,00 0 0 ISON BOWYER LIMITED, COVENTRY 100,00 33 0 J A R BURBAN? LIMITED, COVENTRY 100,00 14 0 J ? DAWSON (SUNDERLAND) LIMITED, COVENTRY 100,00 76 0 J ? DAWSON LIMITED, COVENTRY 100,00 935 0 J H RYAN LIMITED, COVENTRY 100,00 -86 0 J ? ?OLDSTEIN LIMITED, Nuneaton 100,00 173 0 J S DENT LIMITED, COVENTRY 100,00 314 0 J.?.
+Crowley Pharmacy Limited, Co Dublin 100,00 951 0 J.M.
+BULLIVANT (CHEMIST) LIMITED, COVENTRY 100,00 8 0 JAMES B SNODDY LIMITED, Glasgow 100,00 -19 0 JOHN BELL CROYDEN LIMITED, COVENTRY 100,00 563 312 JOHN HAMILTON (PHARMACEUTICALS) LIMITED, Glasgow 100,00 -322 0 JOHN ROBERTSON BUTLER AND SON (GORING) LIMITED, COVENTRY 100,00 1 0 JOHN ROBERTSON BUTLER AND SON (NEWBURY) LIMITED, COVENTRY 100,00 8 0 JOHN ROBERTSON BUTLER AND SON (WEST READING) LIMITED, COVENTRY 100,00 1 0 JOHN ROBERTSON BUTLER AND SON LIMITED, COVENTRY 100,00 25 0 John Smith Son Limited, Co Dublin 100,00 529 0 JORDANS PHARMACY LIMITED, COVENTRY 100,00 0 0 ?. NEWBERRY (CHEMISTS) LIMITED, Nuneaton 100,00 0 0 ?airnbury, Dublin 100,00 1.233 0 ?emofarmacija, d.d, Ljubljana 98,04 20.391 5.507 ?ilshallow Limited, Co Dublin 100,00 982 0 ?INGSWOOD CHEMISTS LIMITED, COVENTRY 100,00 1 0 ?INGSWOOD G? LIMITED, COVENTRY 100,00 12.924 1.436 ?NOWLE PHARMACY LIMITED, COVENTRY 100,00 0 0 ?YLE CARRIC? HOLDINGS LIMITED, Glasgow 100,00 2.273 0 L L PHARMACY LIMITED, Douglas 100,00 0 0 Laboratoria Flandria NV, Zwijnaarde 100,00 11.685 653 LAWSON PHARMACY (SCOTLAND) LIMITED, Nuneaton 100,00 67 0 LCH CHAPMAN (WHITESTONE) LIMITED, COVENTRY 100,00 52 0 LEEMA CONSULTANCY SERVICES LIMITED, COVENTRY 100,00 5 0 LEVELCROWN LIMITED, COVENTRY 100,00 1.627 0 LINFORD PHARMACIES LIMITED, COVENTRY 100,00 982 0 LISEAPOTE?ENE AS 49,00 3 2 Lissone Farmacie S.p.A., Lissone 80,00 533 105 LIVINGSTON HEALTH CENTRE (P.D) CO.
+LIMITED, Glasgow 100,00 281 0 LLOYDS CHEMISTS LIMITED, COVENTRY 100,00 161 31 LLOYDS CHEMISTS PENSION TRUSTEES LIMITED, COVENTRY 100,00 0 0 LLOYDS CHEMISTS RETAIL (NORTHERN) LIMITED, COVENTRY 100,00 5.522 0 LLOYDS CHEMISTS RETAIL LIMITED, COVENTRY 100,00 907 0 LLOYDS GROUP PROPERTIES LIMITED, COVENTRY 100,00 0 0 LLOYDS HEALTHCARE HOLDINGS LIMITED, COVENTRY 100,00 26 0 LLOYDS PHARMACY HCS LIMITED, Nuneaton 100,00 231 0 LLOYDS PHARMACY LIMITED, COVENTRY 100,00 125.242 41.795 LLOYDS PROPERTIES LIMITED, COVENTRY 100,00 500 24 LLOYDS Property Management Company Belgium S.A., Wavre 100,00 1.380 106 LLOYDS RETAIL CHEMISTS LIMITED, COVENTRY 100,00 5.000 0 Lloydspharma Group S.A., Wavre 100,00 54.909 -10.971 Lloydspharma S.A., Wavre 100,00 61.356 -376 LPL ONE LIMITED, COVENTRY 100,00 10.717 0 M J HOLDINGS LIMITED, COVENTRY 100,00 10 0 M H GILL LIMITED, COVENTRY 100,00 2 0 M PAYNE CO LIMITED, COVENTRY 100,00 68 0 M. M.L.GRUNDY LIMITED, COVENTRY 100,00 236 0 M.J.F LIMITED, COVENTRY 100,00 0 0 MACEYS LIMITED, COVENTRY 100,00 0 0 MANTRE LIMITED, COVENTRY 100,00 246 0 MARYHILL DISPENSARY LIMITED, Glasgow 50,00 181 180 MATIS Grundstücks-Vermietungsgesellschaft mbH Co.
+Gehe Objekt OHG, Haan 100,00 -7117 1.765 Maurice F. Dougan Limited, Co Dublin 100,00 0 0 May Robert Ltd, Dublin 100,00 343 0 McSweeney Dispensers 10 Limited, Co Dublin 100,00 1.439 0 McSweeney Dispensers 23 Limited, Co Dublin 100,00 469 0 M?DIMART LIMIT?D, COV?NTRY 100,00 -11246 -144 MOUNT PHARMACY LIMIT?D, COV?NTRY 100,00 0 0 MPWB (ROMFORD) LIMIT?D, COV?NTRY 100,00 -5335 0 MUNRO PHARMACY LIMIT?D, Glasgow 100,00 585 0 Natureline, Dublin 100,00 -536 0 Nensi d.o.o., Ljubljana 35,00 0 0 N?W KIRK PHARMACY LIMIT?D, Glasgow 100,00 1.482 0 NORPROD DISTRIBUIDORA D? PRODUTOS HOSPITALAR?S LTDA., Recife 100,00 4.671 698 Norsk Medisinaldepot AS, Oslo 100,00 122.234 19.128 O'Leary Pharmacy (Lucan) Limited, Co Dublin 100,00 -334 0 OCP PORTUGAL, PRODUTOS FARMACÊUTICOS, S.A., Maia 100,00 53.371 -8.893 OCP R?PARTITION, Saint Ouen 100,00 90.782 43.522 OCP, Saint Ouen 99,99 216.795 74.959 ONCO PROD DISTRIBUIDORA D? PRODUTOS HOSPITALAR?S ? ONCOLÓGICOS S/A, São Paulo 60,00 966 -7.910 P C Cahill Company Limited, Dublin 100,00 64.375 0 P.C.B., Bruxelles 86,78 30.549 4.624 PAL?MODA LIMIT?D, COV?NTRY 100,00 25 0 PAUL WH??L?R LIMIT?D, COV?NTRY 100,00 1 0 P??L STR??T PHARMACY LIMIT?D, COV?NTRY 100,00 -7899 0 P?RILLA Grundstücks-Verwaltungsgesellschaft mbH Co.
+KG, Grünwald 95,00 -72 11 PHARMA BELGIUM, Bruxelles 100,00 5.482 2.636 PHARMA PARTNERS, Ostende 100,00 19.768 -131 PHARMACTIV DISTRIBUTION, Saint Ouen 97,45 9.374 2.570 PHARMACY CARE LIMITED, Nuneaton 100,00 -828 0 Pharmacy O'Riada Holding B.V., Amsterdam 100,00 2.293 -3 Pharmacy O'Riada Holding Limited, Co Dublin 100,00 -2624 0 PHARMAGEN LIMITED, COVENTRY 100,00 7 119 PHARMATEL, Marseille 99,97 -633 -526 PHARMED LIMITED, COVENTRY 100,00 60 0 PHILIP GOODMAN LIMITED, COVENTRY 100,00 269 0 PRESOLVE LIMITED, COVENTRY 100,00 230 0 PRIMELIGHT LIMITED, COVENTRY 100,00 400 0 PRINTZ LIMITED, Nuneaton 100,00 48 0 R F FOSKETT SON LIMITED, COVENTRY 100,00 660 0 R GORDON DRUMMOND LIMITED, COVENTRY 100,00 1 0 R.J.
+MAIR LIMITED, GLASGOW 100,00 111 0 R.S.GLYNN LIMITED, Nuneaton 100,00 85 0 REGAL PHARMACY LIMITED, Nuneaton 100,00 1.453 0 RIPPLEBAY LIMITED, Nuneaton 100,00 21 0 ROSE BOYLE LIMITED, Glasgow 100,00 514 0 RSV EQUIPEMENT 100,00 458 -36 Rudolf Spiegel GmbH, Grafschaft-Gelsdorf 3) 100,00 213 0 S J HALLETT LIMITED, COVENTRY 100,00 207 0 S.
+?. BURG?SS LIMIT?D, COV?NTRY 100,00 143 0 SANOVA Pharma GesmbH, Wien 100,00 3.696 1.479 Sapphire Primary Care Developments, Ireland Limited, Co Dublin 100,00 127 0 SARACO'S LIMIT?D, COV?NTRY 100,00 144 0 SAVORY MOOR? (J?RS?Y) LIMIT?D, St Helier 90,00 0 588 SAVORY MOOR? LIMIT?D, Glasgow 100,00 10.486 9 SCHOL?S (CH?MISTS) LIMIT?D, COV?NTRY 100,00 24 0 SCOTTS CH?MISTS LIMIT?D, COV?NTRY 100,00 346 0 S?LBYS (SUSS?X) LIMIT?D, COV?NTRY 100,00 -3 0 S?NS AS, Oslo 32,00 46 -2 S?RVIC? D? LA R?PARTITION PHARMAC?UTIQU?, Paris 39,50 87 29 SHC PHARMACY LIMIT?D, ?dinburgh 33,33 130 130 Sheridan Distribution Service Ltd, Co Antrim 100,00 22 0 SILV?R STR??T PHARMACY LIMIT?D, COV?NTRY 100,00 162 0 SIMPL? SOFTWAR? LIMIT?D, COV?NTRY 100,00 -392 0 SOCI?T? D'?TUD?S ?T D? R?ALISATIONS INFORMATIQU?S, Monaco 99,50 617 445 SOL?RO LIMIT?D, COV?NTRY 100,00 0 0 SOLIHULL PHARMACY LIMIT?D, COV?NTRY 100,00 22 0 SOLUSOFT, Saint Ouen 100,00 1.187 594 SP DISTRIBUIDORA D? VACINAS ? M?DICAM?NTOS LTDA.
+(?S), Portal de Jacaraipe 100,00 -321 -578 SP DISTRIBUIDORA D? VACINAS ? M?DICAM?NTOS LTDA.
+(SP), São Paulo 100,00 -2.700 -1.406 SPRINGBURN DISPENSARY LIMITED, Glasgow 25,00 2 2 SPRINGCARD LIMITED, Nuneaton 100,00 104 0 ST MATTHEWS PHARMACY LIMITED, COVENTRY 100,00 0 0 STATIM FINANCE LIMITED, COVENTRY 100,00 1.000 0 STEPHEN SMITH LIMITED, St Peter Port 57,14 0 667 Sudestefarma S.A.
+Produtos Farmacêuticos, Chácara Parreiral 100,00 2.355 -26.632 SUMMITLAN? LIMIT?D, CO??NTRY 100,00 166 0 SUP?RFI?LD LIMIT?D, CO??NTRY 100,00 185 0 T AND I ?HIT? LIMIT?D, CO??NTRY 100,00 7 0 T B?ATTI? (CH?MIST) LIMIT?D, CO??NTRY 100,00 469 0 T T?MPL? (CH?MISTS) LIMIT?D, CO??NTRY 100,00 135 0 T. Sheridan Sales Marketing, Dublin 100,00 361 0 TAM?L?N LIMIT?D, Nuneaton 100,00 18 0 TANZAN CH?MISTS LIMIT?D, CO??NTRY 100,00 680 0 T?RRAPHARMA LIMIT?D, CO??NTRY 100,00 0 0 TH? AHLP LIMIT?D PARTN?RSHIP, CO??NTRY 50,00 0 0 THURNBY ROS? LIMIT?D, CO??NTRY 100,00 1 0 Tjellesen Max Jenne A/S, Rodovre 100,00 514.508 66 Todin A/S, Rodovre 100,00 14.537 510 TR?DIM?D FRANC?, Saint Ouen 100,00 -1815 -97 TR?DIM?D, Saint Ouen 100,00 18 -8 TRID?NT PHARMAC?UTICALS LIMIT?D, CO??NTRY 100,00 265 0 Unicare Dispensers 11 Limited, Co Dublin 100,00 -30 0 Unicare Dispensers 12 Limited, Co Dublin 100,00 -98 0 Unicare Dispensers 13 Limited, Co Dublin 100,00 147 0 Unicare Dispensers 16 Limited, Co Dublin 100,00 -19 0 Unicare Dispensers 20 Limited, Co Dublin 100,00 0 0 Unicare Dispensers 21 Limited, Co Dublin 100,00 -74 0 Unicare Dispensers 27 Limited, Co Dublin 100,00 -185 0 Unicare Dispensers 5 Limited, Co Dublin 100,00 -271 0 Unicare Dispensers 6 Limited, Co Dublin 100,00 -9 0 Unicare Dispensers 8 Limited, Co Dublin 100,00 -4 0 Unicare Pharmacy ?roup Limited, Co Dublin 100,00 -7463 0 UNICAR? PHARMACY LIMIT?D, Co Dublin 100,00 61.031 -7.600 USCITA LIMIT?D, CO??NTRY 100,00 0 0 ? ? ??ANS LIMIT?D, CO??NTRY 100,00 -1 0 ??STRIC LIMIT?D, CO??NTRY 100,00 52 0 ??STRIC P?NSIONS LIMIT?D, CO??NTRY 100,00 0 0 ?itapharm, proizvodnja in trgovina farmacevtskih izdelkov d.o.o., Murska sobota 51,00 133 123 ?itus-Apoteket Torvbyen Fredrikstad AS, Fredrikstad 34,00 2 2 ? A ? ?IBB LIMIT?D, CO??NTRY 100,00 806 0 ? A STROYD? (CH?MISTS) LIMIT?D, CO??NTRY 100,00 147 0 ? ? TANN?R LIMIT?D, Nuneaton 100,00 208 0 ? H CHANT?R LIMIT?D, CO??NTRY 100,00 56 0 ? H ?R??N (CH?MISTS) LIMIT?D, CO??NTRY 100,00 457 0 ? JAMI?SON (CH?MISTS) LIMIT?D, CO??NTRY 100,00 8 0 ?. H?DL?Y H???S LIMIT?D, CO??NTRY 100,00 23 0 ??STCLOS? LIMIT?D, CO??NTRY 100,00 147 0 ?OODSID? PHARMACY (?LAS?O?) LIMIT?D, ?lasgow 25,00 211 211 ?ROS? H?ALTH C?NTR? P.D.
+LIMITED, Keighley 42,59 45 45 II.
+Beteiligung an Kapitalgesellschaften, an der der Celesio AG einer Stimmrechtsanteil von mehr als 5% besitzen ASHLEY HOUSE PLC 9,42 38.909 6.639 COATBRIDGE DISPENSARY LIMITED, Coatbridge 17,14 150 150 EASTERHOUSE HEALTH CENTRE PHARMACY LIMITED, Easterhouse 10,30 326 110 GALEN PHARMACY LIMITED, South Shields 18,00 8 7 GOVANHILL PHARMACY LIMITED, Glasgow 13,40 3 2 KEIGHLEY HEALTH CENTRE LIMITED, KEIGHLEY, West Yorkshire 16,67 226 226 Swindon Health Centre (Pd) Limited, Swindon 14,83 232 230 TORRINGTON PARK HCC LIMITED, London 4,00 248 248 VICTORIA PHARMACY LIMITED 7,32 125 125 W.H.C.P.
+(DUNDEE) LIMITED, Dundee 13,70 191 191 1) Berechnung berücksichtigen der von abhängig Unternehmen gehalten Anteil vollständig, auch wenn der Anteil an dersem Unternehmen unter 100% liegen.
+2) In Landerwährung 3) Ergebnisabführungsvertrag mit der Celesio AG (direkt oder indirekt) Aufstellung der Anteilsbesitzes der CWS-boco International GmbH Liste Anteilsbesitz zum 31.12.2012 Name und Sitz der Gesellschaft Währung % Eigenkapital 2012 TEUR* Ergebnis nach Steuer 2012 TEUR* CWS-boco Deutschland GmbH EUR 100,0 50.022 28.583 Verwaltungsgesellschaft CWS-boco HealthCare mbH EUR 100,0 34 00 CWS-boco Supply Chain Management GmbH (vormals Eurodress GmbH; ändern per 18.01.2013) EUR 100,0 6.969 807 CWS-boco Supply AG CHF 100,0 16.669 10.349 CWS-boco Suisse SA CHF 100,0 31.108 13.472 CWS-boco Italia S.p.A.
+EUR 100,0 4.139 -1.293 CWS-boco BeLux N.V.
+EUR 100,0 9.158 783 CWS Nederland B.V.
+EUR 100,0 13.602 3.985 CWS-Lin B.V.
+EUR 100,0 2.070 2.647 CWS-boco Österreich Gesellschaft m.b.H.
+EUR 100,0 4.658 379 CWS-boco Polska Sp.
+z o.o.
+PLN 100,0 8.743 1.290 CWS-boco Customer Fulfilment Center Sp.
+z o.o.
+PLN 100,0 336 -453 CWS-boco Service Center Slovensko s.r.o.
+EUR 100,0 1.666 294 CWS-boco Slovensko s.r.o.
+EUR 100,0 2.124 230 CWS-boco Česka republika s.r.o.
+CZK 100,0 2.046 89 CWS-boco Romania s.r.l.
+RON 100,0 1.646 307 CWS-boco d.o.o.
+(CWS-boco higienski sistemi in vzdrževanje d.o.o.)
+EUR 100,0 -979 -254 CWS-boco d.o.o.
+tekstilservis HRK 100,0 -2.420 -718 CWS-boco Hungary Kft.
+HUF 100,0 49 -1.859 CWS-boco Bulgaria EOOD BGN 100,0 -175 -75 CWS-boco Ireland Ltd.
+EUR 100,0 -334 -2.092 CWS-boco (Shanghai) Laundry and Hygiene Service Co.
+Ltd.
+CNY 100,0 -13.941 -3.372 CWS-boco (Beijing) Laundry and Hygiene Service Co.
+Ltd.
+CNY 100,0 -5.204 -2.714 CWS-boco Sweden AB SEK 100,0 14.806 1.882 * Eigenkapital und Ergebnis 31.12.2012 nach IFRS Aufstellung der Anteilsbesitzes zum 31. Dezember 2012 der TAKKT AG, Stuttgart Die TAKKT AG, Stuttgart - in nachfolgend Übersicht mit Nummer 1 bezeichnen - sein am Bilanzstichtag an folgend Unternehmen beteiligen.
+Bei indirekt Beteiligung sein der indirekt Beteiligungsquote angeben.
+Nr.
+Verbundene Unternehmen halten von Nr. Beteiligungs-quote% Währung Jahresergebnis betragen Eigenkapital betragen 2 KAISER + KRAFT EUROPA GmbH, Stuttgart/Deutschland 1 100,00 EUR 0*) 136.113 3 KAISER + KRAFT GmbH, Stuttgart/Deutschland 2 100,00 EUR 0*) 20.000 4 KAISER + KRAFT Gesellschaft m.b.H., Salzburg/Österreich 2 100,00 EUR 2.139 3.257 5 KAISER + KRAFT N.V., Diegem/Belgien 2 50,00 EUR 3.563 27.153 13 50,00 6 KAISER + KRAFT AG, Zug/Schweiz 2 100,00 CHF 19.830 20.707 7 KAISER + KRAFT s.r.o., Prag/Tschechien 2 99,80 CZK 11.573 24.705 33 0,20 8 KAISER + KRAFT S.A., Barcelona/Spanien 2 100,00 EUR 1.722 2.951 9 FRANKEL S.A.S., Morangis/Frankreich 2 100,00 EUR 5.144 5.590 10 KAISER + KRAFT Ltd., Hemel Hempstead/Großbritannien 2 100,00 GBP 906 1.497 11 KAISER + KRAFT Kft., Budaörs/Ungarn 2 100,00 HUF 118.920 162.677 12 KAISER + KRAFT S.p.A., Lomazzo/Italien 2 100,00 EUR 1.206 4.416 13 Vink Lisse B.V., Lisse/Niederlande 2 100,00 EUR 1.564 8.413 14 KAISER + KRAFT S.A., Lissabon/Portugal 2 100,00 EUR -149 456 15 KAISER + KRAFT Sp.z o.o., Warschau/Polen 2 100,00 PLN 1.637 2.464 16 KAISER + KRAFT OOO, Moskau/Russland 2 99,00 RUB -21.919 21.058 3 1,00 17 KAISER + KRAFT s.r.o., Nitra/Slowakei 2 99,90 EUR -4 678 3 0,10 18 KAISER + KRAFT Ltd.
+STI., Istanbul/Türkei 2 99,00 TRY 20 1.672 3 1,00 19 Gaerner GmbH, Duisburg/Deutschland 2 100,00 EUR 0*) 5.000 20 Gaerner Gesellschaft m.b.H., Elixhausen/Österreich 2 100,00 EUR 497 1.209 21 Gaerner AG, Zug/Schweiz 2 100,00 CHF 2.189 2.439 22 Gaerner Business Equipment S.A.U., Castelldefels/Spanien 2 100,00 EUR -274 139 23 Gaerner S.A.S., Reau/Frankreich 2 100,00 EUR 8 969 24 Powell Mail Order Ltd., Llanelli/Großbritannien 2 100,00 GBP 64 110 25 Gaerner S.R.L., Cadorago/Italien 12 100,00 EUR -449 363 26 Gaerner B.V.B.A., Diegem/Belgien 2 99,00 EUR -509 -586 19 1,00 EUR 27 Hoffmann Bedrijfsuitrusting B.V., Zeist/Niederlande 2 100,00 EUR 330 432 28 Gerdmans Inredningar AB, Markaryd/Schweden 2 100,00 SEK 22.943 83.925 29 Gerdmans Kontor-og Lag.A/S, Nivaa/Dänemark 28 100,00 DKK 2.372 2.873 30 Gerdmans Innredninger A/S, Sandvika/Norwegen 28 100,00 NOK 8.539 10.405 31 Gerdmans OY, Espoo/Finnland 28 100,00 EUR 119 200 32 KWESTO Service s.r.o., Prag/Tschechien 2 99,93 CZK -3.598 84.057 7 0,07 33 KWESTO s.r.o., Prag/Tschechien 32 100,00 CZK 533 9.136 34 KWESTO Kft., Györ/Ungarn 32 100,00 HUF -27.913 113.449 35 KWESTO Sp.z o.o., Breslau/Polen 32 100,00 PLN -76 1.713 36 KWESTO Service S.R.L., Ramnicu, Valcea/Rumänien 32 100,00 RON 413 2.269 37 KWESTO s.r.o., Nitra/Slowakei 32 100,00 EUR 25 399 38 KAISER + KRAFT (China) Commercial Co.
+Ltd., Shanghai/Volksrepublik 2 100,00 CNY -14.835 -51.083 39 KAISER + KRAFT K.K., Chiba/Japan 2 100,00 JPY -170.053 -1.737.808 40 UBEN Unternehmensberatung Enzinger GmbH, Waldkirchen/Deutschland 2 100,00 EUR 0*) 32 41 BEG GmbH, Stuttgart/Deutschland 2 100,00 EUR 0*) 0 42 Certeo Business Equipment GmbH, Stuttgart/Deutschland 2 100,00 EUR 0*) 500 43 Quip24 GmbH, Stuttgart/Deutschland 2 100,00 EUR 0*) 500 44 Topdeq Service GmbH, Pfungstadt/Deutschland 1 100,00 EUR 0*) 30.000 45 Topdeq GmbH, Pfungstadt/Deutschland 44 100,00 EUR 0*) 1.900 46 Topdeq N.V., Diegem/Belgien 44 99,80 EUR -362 -2.275 45 0,20 47 Topdeq AG, Zug/Schweiz 44 100,00 CHF 490 1.998 48 Topdeq S.A.S., Tremblay en France/Frankreich 44 100,00 EUR 56 559 49 Topdeq Nederland B.V., Mijdrecht/Niederlande 44 100,00 EUR 68 5.468 50 Topdeq B.V., Mijdrecht/Niederlande 13 100,00 EUR -639 -951 51 Ratioform Holding GmbH, Pliening/Deutschland 1 100,00 EUR 3.801 21.788 52 Ratioform Verpackung GmbH, Pliening/Deutschland 51 100,00 EUR 0*) 20.825 53 Ratioform Imballaggi S.r.l., Mailand/Italien 51 100,00 EUR 178 1.388 54 Ratioform Embalajes, S.A., Barcelona/Spanien 52 100,00 EUR -46 531 55 Ratioform Verpackung AG, Dällikon/Schweiz 52 100,00 CHF 169 3.151 56 Davenport Paper Co.

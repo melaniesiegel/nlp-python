@@ -1,0 +1,168 @@
+ var htdocs = '/ebanzwww/..'; var css = '/ebanzwww/../css'; var images = '/ebanzwww/../images'; var path = '/ebanzwww/wexsservlet'; var wexsservlet_url = 'https://publikations-plattform.de/sp/wexsservlet'; var contentloader_url = '/ebanzwww/contentloader'; var session = 'session.sessionid=0c20b7b2f963372e84459686a04d3c05'; var search_field_placeholder = 'ISIN, WKN, Fondsname, Gesellschaft'; Bundesanzeiger Schnellsuche |Kontakt |Übersicht |Fragen Antworten |Newsletter |Mobil Publikations-Plattform Unternehmensregister »Startseite »Suchen »Wissenswertes »Info-Dienst »Anmelden »Registrieren »Startseite ›Schnellsuche Suchen Suchbegriff: Welchen Bereich möchten Sie durchsuchen?
+Alle Bereiche Amtlicher Teil Gerichtlicher Teil Gesellschaftsbekanntmachungen Kapitalmarkt Nichtamtlicher Teil Rechnungslegung/Finanzberichte Verschiedene Bekanntmachungen »Erweiterte Suche Eine Volltextrecherche über den Veröffentlichungsinhalt ist bei Jahresabschlüssen/ Jahresfinanzberichten und Veröffentlichungen nach §§264Abs.3, 264bHGB nicht möglich.
+Hinterlegte Jahresabschlüsse (Bilanzen) stehen im Unternehmensregister zur Beauskunftung zur Verfügung.
+« Vorheriger Eintrag »Zurück zur Ergebnisseite Nächster Eintrag » Name Bereich Information V.-Datum Relevanz VULCANIC-TRIATHERM GmbHSonneberg Rechnungslegung/Finanzberichte Jahresabschluss zum Geschäftsjahr vom 01.01.2012 bis zum 31.12.2012 26.09.2013 100% »Druckversion VULCANIC-TRIATHERM GmbH Sonneberg Jahresabschluss zum Geschäftsjahr vom 01.01.2012 bis zum 31.12.2012 Bilanz zum 31. Dezember 2012 AKTIVA 31.12.2012€ 31.12.2011€ A. ANLAGEVERMÖGEN I. Software und Lizenzen 3.217,50 1.763,50 II.
+Sachanlagen 1.505.560,65 1.493.190,05 1.508.778,15 1.494.953,55 B. UMLAUFVERMÖGEN I. Vorräte 1.991.545,72 2.252.623,37 II.
+Forderungen und sonstige Vermögensgegenstände 1.209.906,46 1.014.247,04 III.
+Kassenbestand und Guthaben bei Kreditinstituten 2.059.861,52 2.632.449,78 5.261.313,70 5.899.320,19 C. RECHNUNGSABGRENZUNGSPOSTEN 4.929,00 7.194,00 6.775.020,85 7.401.467,74 PASSIVA 31.12.2012€ 31.12.2011€ A. EIGENKAPITAL I. Gezeichnetes Kapital 950.000,00 950.000,00 II.
+Gewinnvortrag 2.482.577,77 2.493.918,38 III.
+Jahresüberschuss 2.001.711,92 1.788.659,39 5.434.289,69 5.232.577,77 B. RÜCKSTELLUNGEN 399.473,19 329.752,17 C. VERBINDLICHKEITEN 941.257,97 1.839.137,80 6.775.020,85 7.401.467,74 Gewinn- und Verlustrechnung für das Geschäftsjahr 2012 2012€ 2011€ 1.
+Rohergebnis 8.328.478,98 8.150.013,09 2.
+Personalaufwand a) Löhne und Gehälter -3.391.016,72 -3.183.285,91 b) Soziale Abgaben -619.858,28 -596.038,90 3.
+Abschreibungen auf immaterielle Vermögensgegenstände des Anlagevermögens und Sachanlagen -293.924,64 -304.091,15 4.
+Sonstige betriebliche Aufwendungen -1.253.284,67 -1.588.611,27 Betriebsergebnis 2.770.394,67 2.477.985,86 5.
+Sonstige Zinsen und ähnliche Erträge 15.434,51 9.872,15 6.
+Zinsen und ähnliche Aufwendungen -170,65 -195,33 Finanzergebnis 15.263,86 9.676,82 Ergebnis der gewöhnlichen Geschäftstätigkeit 2.785.658,53 2.487.662,68 7.
+Steuern vom Einkommen und vom Ertrag -780.328,53 -695.735,21 8.
+Sonstige Steuern -3.618,08 -3.268,08 Jahresüberschuss 2.001.711,92 1.788.659,39 Anhang für das Geschäftsjahr 2012 I.
+Allgemeine Angaben Die VULCANIC-TRIATHERM GmbH ist nach § 267 Abs. 2 und 4 HGB eine mittelgroße Kapitalgesellschaft.
+Der Jahresabschluss der Gesellschaft wurde auf der Grundlage der Bilanzierungs- und Bewertungsvorschriften des Handelsgesetzbuches aufgestellt.
+Die größenabhängigen Erleichterungen für mittelgroße Kapitalgesellschaften wurden in Anspruch genommen.
+Ergänzend zu diesen Vorschriften waren die Regelungen des GmbHG zu beachten.
+Die Bilanz wurde gemäß § 266 Abs. 1 Satz 1 HGB in Kontoform aufgestellt.
+Die Gliederung der Gewinn- und Verlustrechnung erfolgt nach § 275 Abs. 1 und 2 HGB in Staffelform nach dem Gesamtkostenverfahren.
+Die nachstehend erläuterten Bilanzierungs- und Bewertungsgrundsätze wurden gegenüber dem Vorjahr unverändert angewandt.
+II.
+Bilanzierungs- und Bewertungsgrundsätze, Währungsumrechnung Die Vermögensgegenstände und Schulden sind zum Abschlussstichtag einzeln bewertet worden.
+Gewinne sind nur berücksichtigt, soweit sie am Abschlussstichtag realisiert waren.
+Erworbene immaterielle Vermögensgegenstände und das Sachanlagevermögen werden zu Anschaffungskosten nach § 255 Abs. 1 HGB, vermindert um planmäßige Abschreibungen, ausgewiesen.
+Die Abschreibungen erfolgen ab dem Zugangszeitpunkt prorata-temporis planmäßig nach der linearen und der geometrisch-degressiven Methode.
+Die Nutzungsdauern für die planmäßige Abschreibung stellen sich wie folgt dar: Nutzungsdauern nach den einzelnen Gruppen der Anlagegegenstände Jahre Erworbene immaterielle Vermögensgegenstände 3 bis 5 Sachanlagen 3 bis 19 Geringwertige Wirtschaftsgüter, deren Anschaffungskosten € 150,00 nicht übersteigen, werden im Zugangsjahr voll abgeschrieben.
+Sie sind in der Entwicklung des Anlagevermögens bei den Anschaffungskosten und Abschreibungen jeweils unter den Zu- und Abgängen des Geschäftsjahres ausgewiesen.
+Für geringwertige Anlagengüter, deren Anschaffungskosten höher als € 150,00 sind, jedoch € 1.000,00 nicht übersteigen, wurde ein Sammelposten gebildet, der jährlich um ein Fünftel gewinnmindernd aufgelöst wird.
+Die Bewertung der Roh-, Hilfs- und Betriebsstoffe erfolgt zum gleitenden Durchschnitt der Anschaffungskosten nach § 255 Abs. 1 HGB oder niedrigeren beizulegenden Werten, wobei für Lager- und Verwertungsrisiken Abschläge in angemessenem Umfang vorgenommen wurden.
+Die Bewertung der unfertigen und fertigen Erzeugnisse erfolgt zu Herstellungskosten nach § 255 Abs. 2 HGB bzw. dem niedrigeren beizulegenden Wert.
+Die Herstellungskosten enthalten Material- und Fertigungseinzelkosten zuzüglich Gemeinkostenzuschläge.
+Die Forderungen und sonstigen Vermögensgegenstände werden zu Anschaffungskosten bzw. zu Nominalwerten angesetzt.
+Zur Deckung von Einzelrisiken werden Einzelwertberichtigungen vorgenommen.
+Zur Abgeltung des latenten Ausfallrisikos wird eine Pauschalwertberichtigung in unveränderter Höhe von 1 % des Nettobetrags der risikobehafteten Forderungen gebildet.
+Unter den sonstigen Vermögensgegenständen wird der Auszahlungsanspruch des Körperschaftsteuerguthabens über einen Zeitraum von zehn Jahren in gleichen Jahresbeiträgen beginnend mit dem 30. September 2008 ausgewiesen.
+Aufgrund der Unverzinslichkeit des Anspruchs erfolgt die Bewertung zum Barwert des gesamten Erstattungsanspruchs € 4.883,84 (Vorjahr € 5.713,03).
+Für die Diskontierung wurde von einem Rechnungszinssatz von 5,5 % ausgegangen.
+Die Bewertung der liquiden Mittel erfolgte zu Nennwerten.
+Das Gezeichnete Kapital wurde zum Nennbetrag angesetzt.
+Rückstellungen sind für einzelne Risiken in Höhe des nach vernünftiger kaufmännischer Beurteilung notwendigen Erfüllungsbetrages angesetzt.
+Sie berücksichtigen alle erkennbaren Risiken und ungewissen Verbindlichkeiten.
+Im Rahmen der Gewährleistungsrisiken wurde eine pauschale Rückstellung von 0,5 % des garantiebehafteten Umsatzes gebildet.
+Die Steuerrückstellungen beinhalten die das Geschäftsjahr betreffenden, noch nicht veranlagten Steuern.
+Verbindlichkeiten sind mit ihrem Erfüllungsbetrag angesetzt.
+Forderungen und Verbindlichkeiten in Fremdwährung werden sowohl zum Zeitpunkt der Entstehung als auch zum Abschlussstichtag mit dem Devisenkassamittelkurs umgerechnet.
+III.
+Angaben zur Bilanz Nach den Vorschriften des HGB besteht das Wahlrecht, verschiedene Bilanzposten entweder im Anhang oder direkt in der Bilanz zu erläutern.
+Im vorliegenden Jahresabschluss wird dieses Wahlrecht in allen zulässigen Fällen zugunsten des Anhangs ausgeübt.
+Bezüglich der Zusammensetzung und Entwicklung des Anlagevermögens verweisen wir auf die Anlage zum Anhang.
+Forderungen gegen verbundene Unternehmen bestehen mit € 37.306,98 (Vorjahr € 47.218,27) gegenüber den Gesellschafterinnen, VULCANIC S.A.S., Neuilly-sur-Marne/Frankreich, und VULCANIC GmbH, Hanau, aus dem laufenden Lieferungs- und Leistungsverkehr.
+Die Forderungen und sonstigen Vermögensgegenstände haben mit Ausnahme des Erstattungsanspruchs aus dem Körperschaftsteuerguthaben eine Restlaufzeit von bis zu einem Jahr.
+Das Stammkapital beträgt unverändert € 950.000,00.
+Aus dem Bilanzgewinn des Geschäftsjahres 2011 wurde im Geschäftsjahr 2012 ein Betrag in Höhe von € 1.800.000 ausgeschüttet.
+Die sonstigen Rückstellungen wurden in überwiegendem Maße für Verpflichtungen im Personalbereich (Tantiemen, noch nicht in Anspruch genommener Urlaub, Berufsgenossenschaftsbeiträge) gebildet.
+Darüber hinaus enthalten die sonstigen Rückstellungen in einem maßgeblichen Umfang Verpflichtungen aus möglichen Gewährleistungsansprüchen, für Aufbewahrungspflichten sowie Abgrenzungen externer und interner Aufwendungen im Zusammenhang mit der Erstellung und Prüfung des Jahresabschlusses 2012.
+Verbindlichkeiten gegenüber Kreditinstituten bestehen zum Abschlussstichtag nicht.
+Für die Verbindlichkeiten aus Lieferungen und Leistungen bestehen branchenübliche Eigentumsvorbehalte an den gelieferten Gegenständen.
+Die Verbindlichkeiten gegenüber verbundenen Unternehmen bestehen mit € 15.121,83 (Vorjahr € 15.703,18) gegenüber Gesellschaftern aus dem laufenden Lieferungs- und Leistungsverkehr.
+Sämtliche Verbindlichkeiten aus dem Lieferungs- und Leistungsverkehr haben eine Restlaufzeit von bis zu einem Jahr.
+Die Verbindlichkeiten sind nicht durch Pfandrechte oder ähnliche Rechte gesichert.
+In den sonstigen Verbindlichkeiten sind Verbindlichkeiten i.H.v.
+€ 2.168,47 (Vorjahr: € 2.808,49) mit einer Restlaufzeit von mehr als einem Jahr und weniger als fünf Jahren enthalten.
+Sämtliche andere Verbindlichkeiten haben eine Restlaufzeit von weniger als einem Jahr.
+IV.
+Angaben zur Gewinn- und Verlustrechnung Die Gesellschaft hat auf der Grundlage der Inanspruchnahme der größenabhängigen Erleichterungen nach § 276 Satz 1 HGB die Posten in der Gewinn- und Verlustrechnung nach § 275 Abs. 2 Nr. 1 bis 5 HGB unter der Bezeichnung „Rohergebnis" zusammengefasst.
+Die Gesellschaft nimmt größenabhängige Erleichterungen nach § 288 Abs. 2 HGB in Anspruch und unterlässt die Angaben zu Abschlussprüferhonoraren nach § 285 Nr. 17 HGB sowie die Aufgliederung der Umsatzerlöse nach Tätigkeitsbereichen sowie nach geographisch bestimmten Märkten.
+Die Steuern vom Einkommen und vom Ertrag betreffen vorwiegend die Steueraufwendungen aus Körperschaftsteuer einschließlich Solidaritätszuschlag und Gewerbesteuer für das Geschäftsjahr 2012.
+V. Sonstige Angaben Es bestehen über die bilanzierten Verpflichtungen hinaus keine weiteren Haftungsverhältnisse oder sonstige wesentliche finanzielle Verpflichtungen.
+Die durchschnittliche Zahl der während des Geschäftsjahres beschäftigten Arbeitnehmer getrennt nach Gruppen beläuft sich auf 125 (Vorjahr 129) gewerbliche Arbeitnehmer und auf 27 (Vorjahr 25) Angestellte und 6 (Vorjahr 3) geringfügig Beschäftigte.
+Die Gesellschaft wird durch die Geschäftsführer einzeln vertreten: • Herr Christian Schott, Generaldirektor VULCANIC S.A.S., Bussy Saint-Georges/Frankreich • Herr Volker Standfest, Dipl.-Ing., Föritz Von der Angabe der Geschäftsführerbezüge wird gemäß § 286 Abs. 4 HGB abgesehen.
+Die Gesellschaft wird über die VULCANIC S.A.S., Neuilly-sur-Marne/Frankreich, in den Konzernabschluss der VULCANIC HOLDING S.A.S., Neuilly-sur-Marne/Frankreich, als oberste Muttergesellschaft einbezogen.
+Der Konzernabschluss (nicht nach deutschem Recht) kann dort eingesehen werden.
+Sonneberg, den 8. Februar 2013 Christian Schott, Geschäftsführer Volker Standfest, Geschäftsführer Entwicklung des Anlagevermögens im Geschäftsjahr 2012 Anschaffungs-/ Herstellungskosten 01.01.2012EUR ZugängeEUR AbgängeEUR UmbuchungenEUR 31.12.2012EUR I. Immaterielle Vermögensgegenstände 89.488,62 3.963,17 0,00 0,00 93.451,79 II.
+Sachanlagen 1.
+Grundstücke und Bauten 1.127.511,42 0,00 0,00 0,00 1.127.511,42 2.
+Technische Anlagen und Maschinen 2.642.142,28 212.847,24 9.566,18 17.830,00 2.863.253,34 3.
+Andere Anlagen, Betriebs- und Geschäftsausstattung 2.218.073,19 104.006,83 21.260,50 0,00 2.300.819,52 4.
+Geleistete Anzahlungen und Anlagen im Bau 17.830,00 0,00 0,00 -17.830,00 0,00 Summe Sachanlagen 6.005.556,89 316.854,07 30.826,68 0,00 6.291.584,28 Summe Anlagevermögen 6.095.045,51 320.817,24 30.826,68 0,00 6.385.036,07 Kumulierte Abschreibungen 01.01.2012EUR ZugängeEUR AbgängeEUR 31.12.2012EUR I. Immaterielle Vermögensgegenstände 87.725,12 2.509,17 0,00 90.234,29 II.
+Sachanlagen 1.
+Grundstücke und Bauten 796.308,87 3.575,00 0,00 799.883,87 2.
+Technische Anlagen und Maschinen 1.945.898,78 121.590,64 4.969,18 2.062.520,24 3.
+Andere Anlagen, Betriebs- und Geschäftsausstattung 1.770.159,19 166.249,83 12.789,50 1.923.619,52 4.
+Geleistete Anzahlungen und Anlagen im Bau 0,00 0,00 0,00 0,00 Summe Sachanlagen 4.512.366,84 291.415,47 17.758,68 4.786.023,63 Summe Anlagevermögen 4.600.091,96 293.924,64 17.758,68 4.876.257,92 Buchwerte 31.12.2012EUR 31.12.2011EUR I. Immaterielle Vermögensgegenstände 3.217,50 1.763,50 II.
+Sachanlagen 1.
+Grundstücke und Bauten 327.627,55 331.202,55 2.
+Technische Anlagen und Maschinen 800.733,10 696.243,50 3.
+Andere Anlagen, Betriebs- und Geschäftsausstattung 377.200,00 447.914,00 4.
+Geleistete Anzahlungen und Anlagen im Bau 0,00 17.830,00 Summe Sachanlagen 1.505.560,65 1.493.190,05 Summe Anlagevermögen 1.508.778,15 1.494.953,55 Lagebericht für das Geschäftsjahr 2012 1) Allgemeines An der VULCANIC-TRIATHERM GmbH, Sonneberg, (VULCANIC-TRIATHERM) ist die VULCANIC GmbH, Hanau, (VULCANIC GmbH) mit 60 % und die VULCANIC S.A.S., Neuilly-sur-Marne/Frankreich, (VULCANIC S.A.S.)
+mit 37 % beteiligt.
+Alleinige Gesellschafterin der VULCANIC GmbH ist die VULCANIC S.A.S.
+Mit jeweils einem Prozent sind Herr Volker Standfest, Herr Eberhard Barnikol und Herr Jürgen Bauersachs an der VULCANIC-TRIATHERM beteiligt.
+Die VULCANIC-TRIATHERM ist ein Unternehmen der französischen VULCANIC-Gruppe.
+Die VULCANIC-TRIATHERM produziert und vertreibt im Wesentlichen elektrische Komponenten für den industriellen Einsatz, insbesondere sind das elektrische Rohrheizkörper.
+Weiterhin werden komplette Heizregister gefertigt.
+2) Marktentwicklung und -ausblick Die Elektrobranche hat sich in einem gesamtwirtschaftlich günstigen Umfeld gut entwickelt.
+Weltweit konnte ein industrielles Wachstum beobachtet werden.
+Auch in Deutschland haben sich im Industrie-Sektor und im Exportgeschäft Steigerungsraten ergeben.
+Nachdem die Weltbank Mitte 2012 noch mit einem weltweiten Wachstum für 2013 von 3,0 % gerechnet hatte, erwartet sie nunmehr ein vergleichsweise geringes Wachstum von 2,4 %.
+3) Marktposition Der Markt für elektrowärmetechnische Komponenten ist in Deutschland und in Europa klar strukturiert.
+Die VULCANIC-TRIATHERM gehört mit durchschnittlich 158 Mitarbeitern zu den größeren Anbietern im Marktsegment elektrische Rohrheizkörper und komplette Heizregister.
+Durch die Anbindung an die VULCANIC-Gruppe kann die VULCANIC­TRIATHERM auf ein internationales Netzwerk zurückgreifen.
+4) Produkte und Produktentwicklung Die VULCANIC-TRIATHERM entwickelt elektrowärmetechnische Komponenten nach Anforderung ihrer Kunden.
+5) Ergebnisentwicklung Das Rohergebnis hat sich im Geschäftsjahr 2012 um 2 % bzw. um T€ 178 auf T€ 8.328 erhöht.
+Die Gesellschaft weist einen um T€ 213 auf T€ 2.002 gestiegenen Jahresüberschuss aus.
+Das EBIT - bestehend aus Jahresüberschuss, Ertragsteuern und Zinsergebnis - beträgt T€ 2.767 (Vorjahr T€ 2.475); das EBITDA - bestehend aus EBIT und Abschreibungen - beträgt T€ 3.061 (Vorjahr T€ 2.779).
+6) Vermögens- und Finanzlage sowie Investitionstätigkeit In der Vermögensstruktur der Gesellschaft hat sich der Anteil des Umlaufvermögens an der Bilanzsumme um 2 Prozentpunkte auf 78 % verringert.
+Der Anteil der Forderungen aus Lieferungen und Leistungen einschließlich der Forderungen gegenüber verbundenen Unternehmen sowie der Vorräte hat sich um 3 Prozentpunkte auf 47 % erhöht.
+Die Investitionen in das Anlagevermögen in Höhe von T€ 321 überstiegen um T€ 27 die Abschreibungen.
+Der Anteil an der Bilanzsumme hat sich auf 22 % (Vorjahr 20 %) erhöht.
+Das Eigenkapital ist durch den Jahresüberschuss unter Berücksichtigung der Ausschüttung in Höhe von T€ 1.800 auf T€ 5.434 angestiegen und deckt das langfristig gebundene Vermögen vollständig.
+Die Eigenkapitalquote liegt bei 80 % (Vorjahr: 71 %) und ist als überdurchschnittlich zu bezeichnen.
+Die Verbindlichkeiten aus Lieferungen und Leistungen haben einen Anteil von 7 % (Vorjahr 5 %).
+7) Wesentliche Chancen und Risiken der zukünftigen Entwicklung Wesentliche Chancen bestehen in der Bündelung der Aktivitäten auf dem Gebiet elektrischer Rohrheizkörper und kompletter Heizregister sowie in der Anbindung an die VULCANIC-Gruppe, was zu einer gestiegenen Präsenz der Gesellschaft führen soll.
+Nach Überprüfung der Risikolage der Gesellschaft zum Ende des Geschäftsjahres 2012 sind derzeit keine bestandsgefährdenden Risiken oder Risiken mit wesentlichem Einfluss auf die Vermögens-, Finanz- und Ertragslage erkennbar.
+Für eine Besserung der in den Vorjahren aufgezeigten Risiko-Situation, dass rd.
+56 % der Umsatzerlöse durch die 10 größten Kunden erzielt werden, ergaben sich wegen des weiter anhaltenden allgemeinen Konzentrations- und Globalisierungsprozesses keine Möglichkeiten.
+Mit einigen Kunden wurden langfristige Rahmenverträge geschlossen.
+Vorgänge von besonderer Bedeutung nach dem Schluss des Geschäftsjahres 2012 liegen nicht vor.
+Das zukünftige Umsatzwachstum ist insbesondere davon abhängig, dass Mitarbeiter in der benötigten Anzahl und Qualifikation auf dem Arbeitsmarkt zur Verfügung stehen.
+Den bestehenden Risiken bei Forderungsausfällen aufgrund der hohen Forderungsbestände gegen externe Kunden (Klumpenausfallrisiken) und verbundenen Unternehmen wird durch Vereinbarung und Überwachung von Zahlungszielen und durch die Aufrechnung von Forderungen sowie einem aktiven Forderungsmanagement begegnet.
+Soweit bei Forderungen Ausfallrisiken erkennbar sind, werden entsprechende Wertberichtigungen unter der Berücksichtigung der bestehenden Warenkreditversicherung sowie des Selbstbehalts gebildet.
+Gewisse Währungsrisiken bestehen vor allem in Fremdwährung fakturierter Umsätze sowie aus Beschaffung außerhalb des Euro-Raums.
+Währungskurssicherungsgeschäfte werden keine durchgeführt.
+Den Refinanzierungsrisiken wirkt die Gesellschaft durch ein striktes Cashmanagement entgegen.
+Der Bestand an liquiden Mitteln ist um T€ 573 auf T€ 2.060 gesunken.
+Zusätzliche fremde Mittel mussten im Geschäftsjahr nicht aufgenommen werden.
+Die Gesellschaft kann sich allerdings zu marktüblichen Konditionen über Bankdarlehen jederzeit refinanzieren.
+8) Mitarbeiter Im Jahresdurchschnitt des Geschäftsjahres waren 158 (Vorjahr 154) Mitarbeiter beschäftigt.
+Durch die produktionsbedingten Arbeitsplätze und aufgrund des Standorts der Gesellschaft war die Gesellschaft in der Lage, frei werdende und neu entstandene Stellen zeitnah mit qualifiziertem Personal zu besetzen.
+9) Bestehende Zweigniederlassungen Neben der Zentrale der VULCANIC-TRIATHERM in Sonneberg bestehen keine eigenen Niederlassungen im In- oder Ausland.
+Die Intensivierung und Ausweitung der nationalen und internationalen Aktivitäten erfolgt von Sonneberg aus.
+10) Ausblick auf die Geschäftsjahre 2013 und 2014 Durch die konsequent durchgeführte weitere Bündelung und Konzentration der Herstellung und des Vertriebs von elektrischen Rohrheizkörpern und kompletten Heizregistern und die Anbindung an das Netzwerk der VULCANIC-Gruppe soll das Rohergebnis weiter gesteigert werden.
+Allerdings ist aufgrund der weiter zunehmenden Konkurrenz aus den osteuropäischen EU-Beitrittsländern mit einem weiteren Verkaufspreisdruck in der Branche zu rechnen, so dass nur mit geringem Umsatzzuwachs gerechnet wird.
+Zudem sind die gestiegenen Rohstoff- und Energiepreise im Einkaufsbereich spürbar und werden sich voraussichtlich auch zukünftig noch stärker bemerkbar machen.
+Für das Geschäftsjahr 2014 geht die Gesellschaft trotz steigender Rohstoff- und Energiepreise weiterhin von einer positiven Entwicklung des Rohergebnisses aus.
+Im kommenden Jahr sind Investitionen in Höhe von ca.
+T€ 500 vor allem für neue Produktionsanlagen zur Kapazitätserweiterung geplant.
+Die Finanzierung soll dabei in voller Höhe durch das Innenfinanzierungspotenzial gedeckt werden.
+Es ist keine Aufnahme von Bankdarlehen vorgesehen.
+Der Personalbestand soll sich im Jahr 2013 auch bei Ausweitung der Kapazitäten durch höhere Auslastungen und verbesserte Organisationsstrukturen im Produktionsprozess nicht verändern.
+Die Gesellschaft geht daher bis auf die standardmäßige Tariferhöhung von gleich bleibenden Personalkosten aus.
+Sonneberg, den 8. Februar 2013 Die Geschäftsführung Volker Standfest Christian Schott In dem vorstehenden, zur Offenlegung bestimmten verkürzten Jahresabschluss wurden die größenabhängigen Erleichterungen nach § 327 HGB in Anspruch genommen.
+Zu dem vollständigen Jahresabschluss und Lagebericht hat der Abschlussprüfer folgenden Bestätigungsvermerk erteilt: Bestätigungsvermerk des Abschlussprüfers Nach dem Ergebnis unserer am 18. Juni 2013 abgeschlossenen Prüfung erteilen wir dem beigefügten Jahresabschluss der VULCANIC-TRIATHERM GmbH, Sonneberg zum 31. Dezember 2012 (Anlage 1 bis 3) und dem als Anlage 4 beigefügten Lagebericht für das Geschäftsjahr 2012 den folgenden eingeschränkten Bestätigungsvermerk: „Wir haben den Jahresabschluss - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - unter Einbeziehung der Buchführung und den Lagebericht der VULCANIC-TRIATHERM GmbH für das Geschäftsjahr vom 1. Januar 2012 bis 31. Dezember 2012 geprüft.
+Die Buchführung und die Aufstellung von Jahresabschluss und Lagebericht nach den deutschen handelsrechtlichen Vorschriften liegen in der Verantwortung der gesetzlichen Vertreter der Gesellschaft.
+Unsere Aufgabe ist es, auf der Grundlage der von uns durchgeführten Prüfung eine Beurteilung über den Jahresabschluss unter Einbeziehung der Buchführung und über den Lagebericht abzugeben.
+Wir haben unsere Jahresabschlussprüfung nach § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung vorgenommen.
+Danach ist die Prüfung so zu planen und durchzuführen, dass Unrichtigkeiten und Verstöße, die sich auf die Darstellung des durch den Jahresabschluss unter Beachtung der Grundsätze ordnungsmäßiger Buchführung und durch den Lagebericht vermittelten Bildes der Vermögens-, Finanz- und Ertragslage wesentlich auswirken, mit hinreichender Sicherheit erkannt werden.
+Bei der Festlegung der Prüfungshandlungen werden die Kenntnisse über die Geschäftstätigkeit und über das wirtschaftliche und rechtliche Umfeld der Gesellschaft sowie die Erwartungen über mögliche Fehler berücksichtigt.
+Im Rahmen der Prüfung werden die Wirksamkeit des rechnungslegungsbezogenen internen Kontrollsystems sowie Nachweise für die Angaben in Buchführung, Jahresabschluss und Lagebericht überwiegend auf der Basis von Stichproben beurteilt.
+Die Prüfung umfasst die Beurteilung der angewandten Bilanzierungsgrundsätze und der wesentlichen Einschätzungen der gesetzlichen Vertreter sowie die Würdigung der Gesamtdarstellung des Jahresabschlusses und des Lageberichts.
+Wir sind der Auffassung, dass unsere Prüfung eine hinreichend sichere Grundlage für unsere Beurteilung bildet.
+Unsere Prüfung hat mit Ausnahme der folgenden Einschränkung zu keinen Einwendungen geführt: Zum Ende des abgelaufenen Geschäftsjahres hat die Gesellschaft einen Aufhebungsvertrag mit einem leitenden Angestellten unter Fortgewährung der Vergütung für ein weiteres Kalenderjahr bei gleichzeitiger Freistellung geschlossen.
+Die Gesellschaft hat die hierfür erforderliche Drohverlustrückstellung i.H.v.
+T€ 201 nicht gebildet.
+Nach unserer Beurteilung aufgrund der bei der Prüfung gewonnenen Erkenntnisse entspricht der Jahresabschluss mit der genannten Einschränkung den gesetzlichen Vorschriften und vermittelt unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Gesellschaft.
+Der Lagebericht steht in Einklang mit dem Jahresabschluss, vermittelt insgesamt ein zutreffendes Bild von der Lage der Gesellschaft und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar."
+Frankfurt am Main, 18. Juni 2013 MOORE STEPHENS Frankfurt AGWirtschaftsprüfungsgesellschaft Prof. Dr. Olbrich, Wirtschaftsprüfer Gloger, Wirtschaftsprüfer Eine Verwendung des oben wiedergegebenen Bestätigungsvermerks außerhalb dieses Prüfungsberichts bedarf unserer vorherigen Zustimmung.
+Bei Veröffentlichungen oder Weitergabe des Jahresabschlusses und/oder des Lageberichts in einer von der bestätigten Fassung abweichenden Form bedarf es zuvor unserer erneuten Stellungnahme, sofern hierbei unser Bestätigungsvermerk zitiert oder auf unsere Prüfung hingewiesen wird; auf § 328 HGB wird verwiesen.
+I. Feststellung des Jahresabschlusses Auf der Gesellschafterversammlung vom 24. April 2013 wurde der Jahresabschluss der Gesellschaft für das Geschäftsjahr 2012 festgestellt.
+II.
+Beschluss über die Ergebnisverwendung Vom Bilanzgewinn in Höhe von € 4.484.289,69 wurden Ausschüttungen in Höhe von Mio. € 1,8 beschlossen.
+Der verbleibende Gewinn wird auf neue Rechnung vorgetragen.
+« Vorheriger Eintrag »Zurück zur Ergebnisseite Nächster Eintrag » |Impressum |Haftungsausschluss / Datenschutzerklärung |Rechtliches / AGB |Sicherheitshinweise var pkBaseURL = (("https:" == document.location.protocol) ?
+"https://www.bundesanzeiger.de/" : "http://www.bundesanzeiger.de/"); document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E")); try { var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 3); piwikTracker.trackPageView(); piwikTracker.enableLinkTracking(); } catch( err ) {} 

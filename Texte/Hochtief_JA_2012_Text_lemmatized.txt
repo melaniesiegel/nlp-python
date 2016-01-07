@@ -1,0 +1,672 @@
+ var htdocs = '/ebanzwww/..'; var css = '/ebanzwww/../css'; var images = '/ebanzwww/../images'; var path = '/ebanzwww/wexsservlet'; var wexsservlet_url = 'https://publikations-plattform.de/sp/wexsservlet'; var contentloader_url = '/ebanzwww/contentloader'; var session = 'session.sessionid=0c20b7b2f963372e84459686a04d3c05'; var search_field_placeholder = 'ISIN, WKN, Fondsname, Gesellschaft'; Bundesanzeiger Schnellsuche |Kontakt |Übersicht |Frage Antwort |Newsletter |Mobil Publikations-Plattform Unternehmensregister »Startseite »Suche »Wissenswertes »Info-Dienst »Anmelden »Registrieren »Startseite ›Schnellsuche Suche Suchbegriff: Welchen Bereich mögen Sie durchsuchen?
+Alle Bereich Amtlicher Teil Gerichtlicher Teil Gesellschaftsbekanntmachung Kapitalmarkt Nichtamtlicher Teil Rechnungslegung/Finanzberichte Verschiedere Bekanntmachung »Erweiterte Suche Eine Volltextrecherche über der Veröffentlichungsinhalt sein bei Jahresabschlüssen/ Jahresfinanzberichten und Veröffentlichung nach §§264Abs.3, 264bHGB nicht möglich.
+Hinterlegte Jahresabschlüsse (Bilanz) stehen im Unternehmensregister zur Beauskunftung zur Verfügung.
+« Vorheriger Eintrag »Zurück zur Ergebnisseite Nächster Eintrag » Name Bereich Information V.-Datum Relevanz HOCHTIEF AktiengesellschaftEssen Rechnungslegung/Finanzberichte Jahresabschluss zum Geschäftsjahr vom 01.01.2012 bis zum 31.12.2012Ergänzt am 13.06.2013 09.04.2013 100% »Druckversion HOCHTIEF Aktiengesellschaft Essen Jahresabschluss 31.12.2012 MEINE ZUKUNFT.
+UNSER BEITRAG.
+Aus Vision Wert schaffen.
+Der Jahresabschluss und der Lagebericht der HOCHTIEF Aktiengesellschaft für der Geschäftsjahr 2012 werden im Bundesanzeiger bekennen machen.
+Dich Lagebichicht dich HOCHTIEF Aktiengesellschaft sein mit dich Lagebichicht dich Konzichn zusammenfassen; ich sein in unsichem Geschäftsbichicht 2012 ab Seite 30 darstellen.
+Bilanz der HOCHTIEF Aktiengesellschaft Aktiva (In Tsd.
+EUR) Anhang 31.12.2012 31.12.2011 Anlagevermögen (1) Immaterielle Vermögensgegenstände 12.545 14.891 Sachanlagen 24.069 24.859 Finanzanlagen 2.301.101 2.416.735 2.337.715 2.456.485 Umlaufvermögen Vorrat (2) 19.687 20.266 Forderung und sonstig Vermögensgegenstände (3) 1.079.190 1.173.342 Wertpapiere (4) 11.152 46.015 Flüssige Mittel (5) 66.729 44.088 1.176.758 1.283.711 Rechnungsabgrenzungsposten (6) 11.557 7.572 Aktiver Unterschiedsbetrag aus der Vermögensverrechnung (9) 16.024 16.970 3.542.054 3.764.738 Passiva (In Tsd.
+EUR) Anhang 31.12.2012 31.12.2011 Eigenkapital (7) Gezeichnetes Kapital* 197.120 197.120 Eigene Aktie -8.670 -8.760 Rücklagen 1.415.043 1.598.115 Bilanzgewinn 77.000 6.916 1.680.493 1.793.391 Rückstellung Rückstellung für Pension und ähnlich Verpflichtung (9) 901 493 Sonstige Rückstellung (10) 93.960 114.786 94.861 115.279 Verbindlichkeit (11) 1.766.700 1.856.068 3.542.054 3.764.738 * Zusätzlich bestehen bedingt Kapital im Nennwert von 49.280 Tsd.
+Euro.
+Gewinn- und Verlustrechnung der HOCHTIEF Aktiengesellschaft (In Tsd.
+EUR) Anhang 2012 2011 Umsatzerlöse (13) 37.025 69.763 Veränderung der Bestand an nicht abgerechnet Bauarbeiten -675 -19.586 Sonstige betrieblich ertragen (14) 58.920 68.104 Materialaufwand (15) -14.607 -14.272 Personalaufwand (16) -33.405 -36.351 Abschreibung (17) -5.684 -11.486 Sonstige betrieblich Aufwendung (18) -90.342 -141.780 Ergebnis Finanzanlagen (19) -21.876 170.155 Zinsergebnis (20) -45.339 -84.322 Abschreibung auf Finanzanlagen und auf Wertpapiere der Umlaufvermögens (21) -2.359 -182 Ergebnis der gewöhnlich Geschäftstätigkeit -118.342 43 Steuer vom Einkommen und vom ertragen (22) 4.024 3 Jahresüberschuss/-fehlbetrag -114.318 46 Gewinnvortrag 6.916 6.870 Entnahme aus der Gewinnrücklagen (7) 184.402 - Bilanzgewinn 77.000 6.916 Entwicklung der Anlagevermögens Anschaffungs- und Herstellungskosten (In Tsd.
+EUR) 1.1.2012 Zugang Abgang Abschreibung, kumulieren Immaterielle Vermögensgegenstände Entgeltlich erworben Konzession, gewerblich Schutzrechte und ähnlich Recht und Wert sowie Lizenz an solch Rechtn und Wertn 31.181 2.170 263 20.543 31.181 2.170 263 20.543 Sachanlagen Grundstück, grundstücksgleiche Recht und Bau einschließlich der Bau auf fremd Grundstückn 69.435 - 447 47.398 Technische anliegen und Maschine 2.958 - 159 1.919 Andere anliegen, Betrieb- und Geschäftsausstattung 7.685 357 669 6.187 Geleistete Anzahlung und anliegen im Bau - 413 - - 80.078 770 1.275 55.504 Finanzanlagen Anteil an verbunden Unternehmen 1.913.736 215.213 256.004 237.441 Ausleihung an verbunden Unternehmen 714.500 - 71.041 - Beteiligung 17.492 50 50 17.490 Wertpapiere der Anlagevermögens 23.579 1.366 2.809 - 2.669.307 216.629 329.904 254.931 Anlagevermögen samen 2.780.566 219.569 331.442 330.978 (In Tsd.
+EUR) Abschreibung der Geschäftsjahres Buchwert 31.12.2012 Buchwert31.12.2011 Immaterielle Vermögengegenstände Entgeltlich erworben Konzession, gewerblich Schutzrechte und ähnlich Recht und Wert sowie Lizenz an solch Rechtn und Wertn 4.516 12.545 14.891 4.516 12.545 14.891 Sachanlagen Grundstück, grundstücksgleiche Recht und Bau einenenschließlich der Bau auf fremd Grundstückn 534 21.590 22.272 Technische anliegen und Maschine 162 880 1.085 Andere anliegen, Betrieb- und Geschäftsausstattung 472 1.186 1.502 Geleseinenete Anzahlung und anliegen im Bau - 413 - 1.168 24.069 24.859 Finanzanlagen Anteil an verbunder Unternehmen 2.359 1.635.504 1.678.654 Ausleihung an verbunder Unternehmen - 643.459 714.500 Beteiligung - 2 2 Wertpapiere der Anlagevermögens - 22.136 23.579 2.359 2.301.101 2.416.735 Anlagevermögen samen 8.043 2.337.715 2.456.485 Versicherung der gesetzlich Vertreter Wir versichern nach gut Wissen, dass gemäß der anzuwenderder Rechnungslegungsgrundsätzen der Jahresabschluss einenen der tatsächlich Verhältnis entsprechender Bild der Vermögen-, Finanz- und Ertragslage der Gesellschaft vermitteln und im Lagebericht, der mit der der Konzern zusammenfassen seinen, der Geschäftsverlauf einenenschließlich der Geschäftsergebnisses und der Lage der Gesellschaft so darstellen seinen, dass einenen der tatsächlich Verhältnis entsprechender Bild vermitteln werden sowie der wesentlich Chance und Risiko der voraussichtlich Entwicklung der Gesellschaft beschreiben seinen.
+Essen, 12. Februar 2013 HOCHTIEF Aktiengesellschaft Der vorstehen Marcelino Fernández Verder Peter Sassenfeld Bestätigungsvermerk der Abschlussprüfers Wir haben der Jahresabschluss - bestehen aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang - unter Einbeziehung der Buchführung und der mit der Konzernlagebericht zusammengefasst Lagebericht der HOCHTIEF Aktiengesellschaft, Essen, für der Geschäftsjahr vom 1. Januar bis 31. Dezember 2012 prüfen.
+Die Buchführung und der Aufstellung von Jahresabschluss und Lagebericht nach der deutsch handelsrechtlichen Vorschrift liegen in der Verantwortung der Vorstand der Gesellschaft.
+Unsere Aufgabe sein ich, auf der Grundlage der von sich durchgeführt Prüfung einen Beurteilung über der Jahrichabschluss unter Einbeziehung der Buchführung und über der Lagebericht abgeben.
+Wir haben mein Jahresabschlussprüfung gemäß § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer festgestellt deutsch Grundsatz ordnungsmäßig Abschlussprüfung vornehmen.
+Danach sein der Prüfung so zu planen und durchführen, dass Unrichtigkeit und Verstoß, der sich auf der Darstellung der durch der Jahresabschluss unter Beachtung der Grundsatz ordnungsmäßig Buchführung und durch der Lagebericht vermittelt Bilder der Vermögen-, Finanz- und Ertragslage wesentlich auswirken, mit hinreichend Sicherheit erkennen werder.
+Bei der Festlegung der Prüfungshandlung werden der Kenntnis über der Geschäftstätigkeit und über der wirtschaftlich und rechtlich Umfeld der Gesellschaft sowie der Erwartung über möglich Fehler berücksichtigen.
+Im Rahmen der Prüfung werden der Wirksamkeit der rechnungslegungsbezogenen intern Kontrollsystems sowie nachweisen für der angeben in Buchführung, Jahresabschluss und Lagebericht überwiegen auf der Basis von Stichprobe beurteilen.
+Die Prüfung umfassen der Beurteilung der angewandten Bilanzierungsgrundsätze und der wesentlich Einschätzung der Vorstand sowie der Würdigung der Gesamtdarstellung der Jahresabschlusses und der Lageberichts.
+Wir sein der Auffassung, dass mein Prüfung einen hinreichen sichern Grundlage für mein Beurteilung bilden.
+Unsere Prüfung haben zu kein Einwendung führen.
+Nach meinen Beurteilung aufgrund der bei der Prüfung gewonnen Erkenntnis entsprechen der Jahresabschluss der HOCHTIEF Aktiengesellschaft, Essen, der gesetzlich Vorschrift und vermitteln unter Beachtung der Grundsatz ordnungsmäßig Buchführung einen der tatsächlich Verhältnis entsprechend Bild der Vermögen-, Finanz- und Ertragslage der Gesellschaft.
+Der Lagebericht stehen in Einklang mit der Jahresabschluss, vermitteln insgesamt einen zutreffen Bild von der Lage der Gesellschaft und stellen der Chance und Risiko der zukünftig Entwicklung zutreffen dar.
+Düsseldorf, 12. Februar 2013 Deloitte Touche GmbHWirtschaftsprüfungsgesellschaft Dr. Reichmann, Wirtschaftsprüfer Bederbecker, Wirtschaftsprüfer Anhang der HOCHTIEF Aktiengesellschaft Allgemeine Grundlage Der Jahresabschluss sein nach der Vorschrift der Handelsgesetzbuchs (HGB) und der Aktiengesetzes (AktG) aufstellen.
+Im vergleichen zum Vorjahr haben sich kein Änderung der Ansatz- und Bewertungsmethoden ergeben.
+Um der Klarheit der Darstellung zu verbessern, sein einzeln Posten der Bilanz und der Gewinn- und Verlustrechnung zusammenfassen.
+Diese Posten sein im Anhang sondern ausweisen und erläutern.
+Die Gewinn- und Verlustrechnung sein nach der Gesamtkostenverfahren in Staffelform aufstellen.
+Der Jahresabschluss werden in Euro erstellen.
+vorstehen und Aufsichtsrat haben einen Entsprechenserklärung zum Deutsche Corporate Governance Kodex gemäß § 161 AktG abgeben, der der Öffentlichkeit auf der HOCHTIEF-Internetseiten dauerhaft zugänglich machen worder sein.
+* * Weitere Information zur Corporate Governance bei HOCHTIEF finden Sie im Internet unter www.hochtief.de/corporategovernance.
+Bilanzierungs- und Bewertungsgrundsätze Erworbene immaterielle Vermögensgegenstände der Anlagevermögens werden zu Anschaffungskosten ansetzen und planmäßig abschreiben.
+Sofern der beizulegende Wert ein immateriellen Vermögensgegenstands voraussichtlich dauerhaft unter der Buchwert liegen, werden zusätzlich einen außerplanmäßig Abschreibung vornehmen.
+Selbst erstellt immaterielle Vermögensgegenstände der Anlagevermögens werden nicht aktivieren.
+Sachanlagen werden zu Anschaffungs- beziehungsweise aktivierungspflichtigen Herstellungskosten abzüglich planmäßig und, sofern der beizulegende Wert voraussichtlich dauerhaft unter mein Buchwerten liegen, außerplanmäßig Abschreibung bewerten.
+Fremdkapitalzinsen sein nicht einbeziehen.
+Die Abschreibung auf Zugang werden einheitlich nach der linear Methode ermitteln, wobei Nutzungsdauern von bis zu zehn Jahr berücksichtigen werden.
+Geringwertige Anlagegüter mit Anschaffungskosten bis 150 Euro werden im Zugangsjahr als aufwinden erfassen und nicht aktivieren.
+Geringwertige Anlagegüter, der Anschaffungskosten mehr als 150 Euro und wenig als 1.000 Euro betragen, werden in einer Sammelposten zusammenfassen und pauschal über fünf Jahr abschreiben.
+Die Finanzanlagen werden zu Anschaffungskosten bilanzieren.
+Bei der Anteil an verbunderen Unternehmen und der Beteiligung werder in Einzelfall, und sofern einen Wertminderung voraussichtlich dauerhaft sein, der niedrig beizulegender Wert ansetzen.
+Wertpapiere der Anlagevermögens sein zu Anschaffungskosten oder bei voraussichtlich dauerhaft Wertminderung zu niedrig Börsenkursen beziehungsweise niedrig beizulegenden Wert aktivieren.
+Die Vorrat werden unter Beachtung der Niederstwertprinzips mit Anschaffungs- beziehungsweise aktivierungspflichtigen Herstellungskosten bewerten.
+Die Herstellungskosten der nicht abgerechnet Bauarbeiten umfassen neben der Material-, Fertigungseinzel- und Sonderkosten der Fertigung auch angemessen Teil der Material- und Fertigungsgemeinkosten sowie der fertigungsbedingten Werteverzehrs der Anlagevermögens.
+Die von der Kunder erhalten Anzahlung werder projektbezogen bis zur Höhe der Herstellungskosten von der Vorrat absetzen.
+Darüber hinausgehende Anzahlung werden auf der Passivseite ausweisen.
+Bei der Bewertung der grundsätzlich zum Nennwert angesetzt Forderung und sonstig Vermögensgegenstände sein der erkennbar Risiko bei Notwendigkeit durch entsprechend Einzelwertberichtigung anmessen Rechnung tragen.
+Darüber hinaus sein zur Abdeckung der allgemein Kreditrisikos und wegen teilweis Unverzinslichkeit einen pauschal Abwertung erfolgen.
+Wertpapiere der Umlaufvermögens werden mit mein Anschaffungskosten oder niedrig Börsenkursen beziehungsweise niedrig beizulegenden Wert ansetzen.
+Soweit der Anschaffungs- beziehungsweise aktivierungspflichtigen Herstellungskosten über der Wert liegen, der der Vermögensgegenständer am Abschlussstichtag beilegen sein, werden der durch einen außerplanmäßig Abschreibung Rechnung tragen.
+Das gezeichnet Kapital sein zum Nennbetrag ansetzen.
+Eigene Aktie werden als Korrekturposten vom Eigenkapital ausweisen.
+Dabei werder der rechnerisch Wert der eigen Aktie vom gezeichnet Kapital offen absetzen; der verbleibend Differenz zu der Anschaffungskosten werder mit der ander Gewinnrücklagen verrechnen.
+Angefallene Transaktionskosten werden erfolgswirksam erfassen.
+Die Rückstellung für Pension und ähnlich Verpflichtung sowie der Rückstellung für Jubiläum und Altersteilzeit werden versicherungsmathematisch unter Zugrundelegung biometrischer Wahrscheinlichkeit (Richttafeln 2005 ? von Professor Dr. Klaus Heubeck) ermitteln.
+Die Bewertung der unmittelbar Pensionsverpflichtung erfolgen im Einklang mit der Vorschrift der § 253 Abs. 1 HGB.
+Pension und ähnlich Verpflichtung werden entsprechen nach der international anerkennen Anwartschaftsbarwertverfahren (Projected-Unit-Credit-Methode) bewerten, der auch künftig erwartet Gehalt- und Rentensteigerung berücksichtigen.
+Bei der Festlegung der Rechnungszinssatzes werden von der Wahlrecht nach § 253 Abs. 2 Satz 2 HGB Gebrauch machen.
+Dabei dürfen Rückstellung für Altersversorgung oder vergleichbar langfristig fällig Verpflichtung pauschal mit ein durchschnittlich Marktzinssatz abgezinst werden, der sich bei ein angenommen Restlaufzeit von 15 Jahr ergeben.
+Der durchschneiden werden aus der Marktzins der vergangen sieben Geschäftsjahre bilden.
+Soweit der Änderung der Abzinsungssatzes zum Jahresende nur zu unwesentlich Änderung der Pensionsverpflichtung führen, werden der von der Deutsche Bunderbank ermittelt und veröffentlicht Wert zum 30. September der jeweilig Geschäftsjahres verwenden.
+Die Verpflichtung aus Pensionszusagen sein überwiegen durch Vermögensgegenstände abdecken, der ausschließlich der Erfüllung der Pensionsverpflichtung dernen und der Zugriff übrig Gläubiger entziehen sein (Deckungsvermögen).
+Hierzu zählen Vermögensgegenstände, der im HOCHTIEF Pension Trust e.
+?. im Rahmen ein Contractual-Trust-Arrangement (CTA) treuhänderisch anlegen sein, an Mitarbeiter verpfändet Rückdeckungsversicherung und erworben Fondsanteile aus der Entgeltumwandlung (Deferred Compensation).
+Die Bewertung erfolgen zum beizulegenden Zeitwert.
+Dieser Wert werden je nach Art der Deckungsvermögens aus Börsenkursen, Bankauszügen und Versicherungsmitteilung ableiten.
+Sofern der beizulegende Zeitwert über der Anschaffungskosten liegen, werden der Ausschüttungssperre beachten.
+Nach § 246 Abs. 2 Satz 2 HGB sein der beizulegende Zeitwert der Deckungsvermögens mit der abgedeckt Pensionsverpflichtung zu verrechnen.
+Übersteigt ders Wert der Pensionsverpflichtung, so werden der Überschuss als "Aktiver Unterschiedsbetrag aus der Vermögensverrechnung" bilanzieren.
+Ebenso werder der Ertrag aus der Deckungsvermögen mit der Zinsaufwendung aus der Aufzinsung der Pensionsverpflichtung und der Aufwendung beziehungsweise Ertragn aus der Änderung der Abzinsungssatzes salderrt im Zinsergebnis ausweisen.
+Die übrig Rückstellung berücksichtigen in angemessen Höhe all erkennbar Risiko und werden in Höhe der mutmaßlich Inanspruchnahme bilden.
+Dabei werden bei der Ermittlung der Erfüllungsbetrags künftig erwartet Preis- und Kostensteigerung berücksichtigen.
+Rückstellung mit ein Restlaufzeit von über einer Jahr werden jeweils mit der von der Bundesbank ermittelt und bekennen gemacht, laufzeitkongruenten durchschnittlich Marktzinssatz der vergangen sieben Jahr abgezinst.
+Verbindlichkeit sein grundsätzlich mit mein Erfüllungsbetrag ansetzen.
+Latente Steuer werden für temporär Unterschied zwischen Bilanzansätzen in der Handel- und der Steuerbilanz bilden.
+Des Weitere werden Steuerminderungsansprüche berücksichtigen, der sich innerhalb der nächst fünf Jahr aus der erwartet Nutzung bestehend Verlustvorträge ergeben und der Realisierung mit ausreichend Wahrscheinlichkeit gewährleseinen sein.
+Die HOCHTIEF Aktiengesellschaft bilanzieren auch sämtlich latent Steuer sich Organgesellschaften.
+Die Ermittlung der latent Steuer erfolgen unverändert zum Vorjahr auf Basis ein kombiniert Ertragsteuersatzes von 31,5 Prozent.
+Der Ausweis von aktiv und passiv latent Steuer werden saldiert vornehmen.
+Im Geschäftsjahr 2012 werden der passiv latent Steuer durch aktiv latent Steuer, der im Wesentliche aus Wertansätzen von Pensionsrückstellung und sonstig Rückstellung resultieren, wie im Vorjahr überkompensieren.
+In Ausübung der Wahlrechts der § 274 Abs. 1 Satz 2 HGB werden auf einer Ansatz aktiv latent Steuer verzichten.
+Währungsumrechnung Vermögensgegenstände und Verbindlichkeit in fremd Währung werden im Jahresabschluss mit der Devisenkassamittelkurs zum Zeitpunkt der Ersteinbuchung bewerten.
+Verlust aus Kursänderung werden ergebniswirksam berücksichtigen.
+Bei Vermögensgegenständen und Verbindlichkeit in Fremdwährung mit ein Restlaufzeit von unter einer Jahr werden auch sich zum Stichtag ergebend Gewinn aus Kursänderung ergebniswirksam erfassen.
+Sofern Währungsrisiken aus Fremdwährungsposten durch der Abschluss von Derivaten, wie zum Beispiel Devisentermingeschäften, absichern worder sein und Bewertungseinheit bilden werder, erfolgen der Umrechnung derser Posten zum Sicherungskurs.
+Derivative Finanzinstrumente Neben der Ausgleich von Wechselkursschwankung im Rahmen mein Auslandsgeschäfte werden derivative Finanzinstrumente zur Absicherung von Zinsschwankung bei variabel verzinslich Finanzverbindlichkeit sowie zur Absicherung mein aktienbasierten Vergütungspläne abschließen.
+Derivate werden ausschließlich zu Sicherungszwecken einsetzen.
+Die Nutzung und getrennt Kontrolle sowie der Verantwortlichkeit sein durch verbindlich Richtlinie bei alle Konzernunternehmen regeln.
+Eine Bindung an Grundgeschäfte sein zwingen; als Absicherung von Risiko sein nur der sogenannt Hedging erlauben.
+Vertragspartner sein grundsätzlich Kreditinstitute erst Bonität.
+Die Bewertung der Derivate erfolgen bei erstmalig Einbuchung zu Anschaffungskosten, in der Folgeperioder zum beizulegender Zeitwert unter Beachtung der Imparitätsprinzips, sofern ich nicht in einen Bewertungseinheit einbeziehen sein.
+Bei negativ beizulegendem Zeitwert ein Derivats werden einen Drohverlustrückstellung bilden.
+Die beizulegenden Zeitwerte der Zinsswaps werden anhand der am Bewertungsstichtag geltend Zinskurven, der der Fremdwährungsderivate auf Basis der am Bewertungsstichtag für der jeweilig Währung geltend Forwardsätze ermitteln.
+Die Marktwerte der Aktientermin- und Aktienoptionsgeschäfte werden mithilfe der am Bewertungsstichtag geltend Kurs berechnen.
+Bewertungseinheit zwischen Grund- und Sicherungsgeschäften werden bilden, wenn beid Geschäft objektiv und wollen in einer einheitlich Nutzungs- und Funktionszusammenhang stehen, sodass sich der Gewinn und Verlust aus Grund- und Sicherungsgeschäft mit hoch Wahrscheinlichkeit kompensieren werden.
+Bei HOCHTIEF dürfen Bewertungseinenheit nur in Form von Micro-Hedges bilden werden, der heißen, ders der Risiko einen Grundgeschäfts durch einen Sicherungsinstrument absichern werden.
+Die Effektivität der Bewertungseinheit werden mithilfe der Critical-Terms-Match-Methode ermitteln, um der Wirksamkeit der jeweilig Bewertungseinheit hinsichtlich der Kompensation der zukünftig Wertänderung oder Zahlungsströme zu überprüfen.
+Die retrospektive Effektivitätsmessung erfolgen grundsätzlich mittels der Dollar-Offset-Methode.
+Sofern sich Ineffektivitäten ergeben, werden diich imparitätisch behandeln und ich werden - sofern erforderlich - einen Rückstellung für Bewertungseinheit bilden.
+Im Übrigen erfolgen der bilanzielle Abbildung nach der sogenannt Einfrierungsmethode.
+Ermessensspielräume Bei der Aufstellung der Jahresabschlusses müssen der Management der HOCHTIEF Aktiengesellschaft Einschätzung vornehm und annehmen treffen, der der Ansatz und der Bewertung der Vermögensgegenstände und Schulde zum Abschlussstichtag sowie der Aufwendung und Ertrag für der Berichtszeitraum und der Angabe von Risiko und Unsicherheit beeinflussen.
+Die tatsächlich Ergebnis können entsprechen von dies Einschätzung abweichen.
+Erläuterung der Bilanz 1.
+Anlagevermögen Die Aufgliederung der in der Bilanz zusammengefasst Anlagepositionen und mein Entwicklung sein im Anlagespiegel auf der Seite 6 und 7 darstellen.
+Die Zugang bei der immateriellen Vermögensgegenständer in Höhe von 2.170 Tsd.
+Euro betreffen mit 2.003 Tsd.
+Euro Aval- und Kreditbereitstellungsgebühren im Zusammenhang mit der Änderung der bestehender Bar- und Avalkreditlinien.
+Die Zugang bei der Anteil an verbunderen Unternehmen in Höhe von 215.213 Tsd.
+Euro resultieren mit 172.262 Tsd.
+Euro aus der Verschmelzung der Anteil an der HOCHTIEF Concessions AG, Essen, auf der HOCHTIEF Aktiengesellschaft, Essen, und betreffen im Wesentliche der Buchwerte der Anteil an der HOCHTIEF AirPort GmbH, Essen, sowie der HOCHTIEF PPP Solutions GmbH, Essen.
+Darüber hinaus betreffen ich mit 42.924 Tsd.
+Euro einen Einzahlung in der Kapitalrücklage der HOCHTIEF Americas GmbH, Essen.
+Die Abgang in Höhe von 256.004 Tsd.
+Euro beziehen sich in Höhe von 191.173 Tsd.
+Euro auf der vorgenannte Verschmelzung der HOCHTIEF Concessions AG, Essen, auf der HOCHTIEF Aktiengesellschaft, Essen.
+Des Weitere umfassen der Abgang einen konzerninterne Übertragung im Zusammenhang mit der im Geschäftsjahr vorgenommen Strukturanpassung bei der Segmentabgrenzung im Konzern (33.499 Tsd.
+Euro) sowie einen Kapitalrückzahlung von einenm verbunden Unternehmen (30.521 Tsd.
+Euro).
+Der bestehen der Ausleihung an verbunden Unternehmen entfallen mit 504.500 Tsd.
+Euro entsprechen der Vorjahr auf der HOCHTIEF AirPort GmbH, Essen, und mit 138.959 Tsd.
+Euro (Vorjahr 210.000 Tsd.
+Euro) auf der HOCHTIEF Projektentwicklung GmbH, Essen.
+Die Aufstellung der wesentlich Beteiligung der HOCHTIEF-Konzerns sein auf der Seite 38 und 39 darstellen.
+Die Wertpapiere der Anlagevermögens entfallen vollständig auf Anteil an Investmentfonds im Zusammenhang mit der Entgeltumwandlung von Mitarbeiter für einen zusätzlich Altersversorgung.
+In der Wert sein Zugang der Geschäftsjahres zu der Anteil an der Investmentfonds in Höhe von 1.366 Tsd.
+Euro (Vorjahr 2.297 Tsd.
+Euro) enthalten.
+Der überwiegend Teil der Wertpapiere der Anlagevermögens entfallen auf einer Fond im Sinn von § 285 Nr. 26 HGB.
+Bei diich Fond handeln ich sich um einenr Mischfonds, der einen Kapitalabsicherung zu bichtimmten Zeitpunkten sowie Kapitalzuwachs anstreben.
+Ein Teil der Fondsanteile stellen Deckungsvermögen dar und werden daher zum beizulegenden Zeitwert in Höhe von 9.620 Tsd.
+Euro (Vorjahr 8.472 Tsd.
+Euro), der zugleich der Buchwert entsprechen, bewerten und mit der Pensionsverpflichtung verrechnen.
+Der übrig Teil der Fond werder zu fortgeführt Anschaffungskosten bewerten und der Ausweis verbleiben unter der Wertpapieren der Anlagevermögens (Buchwert: 21.837 Tsd.
+Euro, Marktwert: 22.271 Tsd.
+Euro; Vorjahr Buchwert: 23.280 Tsd.
+Euro, Marktwert: 23.853 Tsd.
+Euro).
+Auch dies Teil stehen der HOCHTIEF Aktiengesellschaft nicht zur frei Verfügung.
+Der Gesamtbuchwert der Fond liegen somit am 31. Dezember 2012 bei 31.457 Tsd.
+Euro (Vorjahr 31.752 Tsd.
+Euro) und der Marktwert bei 31.891 Tsd.
+Euro (Vorjahr 32.325 Tsd.
+Euro).
+Im Geschäftsjahr haben der HOCHTIEF Aktiengesellschaft kein Ausschüttung aus der Fond erhalten.
+2.
+Vorrat (In Tsd.
+EUR) 31.12.2012 31.12.2011 Nicht abgerechnet Bauarbeiten 19.674 20.349 erhalten Abschlagszahlung - -88 19.674 20.261 Roh-, Hilfs- und Betriebsstoffe 13 5 19.687 20.266 3.
+Forderung und sonstig Vermögensgegenstände (In Tsd.
+EUR) 31.12.2012 Davon Restlaufzeit mehr als 1 Jahr 31.12.2011 Davon Restlaufzeit mehr als 1 Jahr Forderung aus Lieferung und Leistung 4.076 138 8.130 138 Forderung gegen verbunden Unternehmen 1.048.422 287.388 1.107.611 253.453 Forderung gegen Unternehmen, mit der einen Beteiligungsverhältnis bestehen 95 - 47 - Sonstige Vermögensgegenstände 26.597 10.036 57.554 19.986 1.079.190 297.562 1.173.342 273.577 Die Forderung gegen verbunden Unternehmen resultieren im Wesentliche aus der Konzernfinanzverkehr.
+Die sonstig Vermögensgegenstände enthalten Anspruch auf Steuererstattung, aktiviert Prämie aus derivativen Finanzinstrumenten, Anspruch aus Rückdeckungsversicherung, Anspruch aus Immobilienverkäufen, Zinsansprüche aus Wertpapieren und Festgeldanlagen, ander Forderung außerhalb der Lieferungs- und Leistungsverkehrs sowie ander sonstig Vermögensgegenstände.
+Im Vorjahr enthalten ich zudem Darlehensforderung.
+Sonstige Vermögensgegenstände unterliegen in Höhe von 4.843 Tsd.
+Euro (Vorjahr 5.443 Tsd.
+Euro) Verfügungsbeschränkung.
+4.
+Wertpapiere Die Wertpapiere enthalten festverzinslich anliegen und Fondsanteile in Höhe von 11.152 Tsd.
+Euro (Vorjahr 40.777 Tsd.
+Euro).
+Im Vorjahr sein auch Aktie in Höhe von 5.238 Euro unter dies Bilanzposition ausweisen.
+5.
+Flüssige Mittel Es handeln sich im Wesentliche um Guthaben bei Kreditinstituten; dies unterliegen kein Verfügungsbeschränkung (Vorjahr 6.366 Tsd.
+Euro).
+6.
+Rechnungsabgrenzungsposten Die Rechnungsabgrenzung ergeben sich im Wesentliche durch Vorauszahlung für Miete sowie bei Darlehensverbindlichkeit.
+Der Unterschiedsbetrag zwischen Erfüllungs- und Ausgabebetrag bei Verbindlichkeit betragen 2.217 Tsd.
+Euro.
+7.
+Eigenkapital (In Tsd.
+EUR) Stand 1.1.2012 Jahresfehlbetrag Veränderung Kapital / Rücklagen Stand 31.12.2012 Gezeichnetes Kapital 197.120 - - 197.120 Eigene Aktie -8.760 - 90 -8.670 Kapitalrücklage 783.552 - 498 784.050 Gewinnrücklagen Gesetzliche Rücklage 1.492 - - 1.492 Andere Gewinnrücklagen 813.071 - -183.570 629.501 Rücklagen samen 1.598.115 - -183.072 1.415.043 Bilanzgewinn 6.916 -114.318 184.402 77.000 1.793.391 -114.318 1.420 1.680.493 Das gezeichnet Kapital der HOCHTIEF Aktiegesellschaft sein in 76 999 999 nennwertlose Stückaktien einteilen und belaufen sich auf nominal 197.120 Tsd.
+Euro.
+Der auf der einzeln Aktie entfallend betragen der Grundkapitals betragen 2,56 Euro.
+Zum 31. Dezember 2012 betragen der gezeichnet Kapital nach Berücksichtigung der noch im bestehen befindliche eigen Aktie 188.450 Tsd.
+Euro (Vorjahr 188.360 Tsd.
+Euro).
+Die Kapitalrücklage enthalten der Aufgeld aus der Ausgabe von Aktie durch der HOCHTIEF Aktiegesellschaft unverändert gegenüber der Vorjahr in Höhe von 782.684 Tsd.
+Euro sowie der Buchgewinn aus der Veräußerung eigen Aktie in Höhe von 1.366 Tsd.
+Euro (Vorjahr 868 Tsd.
+Euro).
+Es sein einen Entnahme in Höhe von 184.402 Tsd.
+Euro aus der ander Gewinnrücklagen vornehmen worder.
+Gegenläufig wirken sich der Buchgewinn aus der Veräußerung eigen Aktie in Höhe von 832 Tsd.
+Euro (Vorjahr 317 Tsd.
+Euro) aus.
+Von der Rücklagen unterliegen einen betragen in Höhe von 12.550 Tsd.
+Euro (Vorjahr 186 Tsd.
+Euro) ein Ausschüttungssperre gemäß § 268 Abs. 8 HGB.
+Er betreffen in voll Höhe der über der Anschaffungskosten hinausgehende Marktbewertung der Deckungsvermögens.
+Dem vorstehen sein kein Beschränkung, der Stimmrechte oder der Übertragung von Aktie betreffen, bekennen.
+Aktie mit Sonderrechten, der Kontrollbefugnisse verleihen, existieren nicht.
+Es sein der vorstehen nicht bekennen, dass Arbeitnehmer am Kapital beteiligen sein und mein Kontrollrechte nicht unmittelbar ausüben.
+Gesetzliche Vorschrift über der Ernennung und Abberufung der Mitglied der Vorstand und über der Änderung der Satzung finder sich in der §§ 84, 85 AktG beziehungsweise §§ 179, 133 AktG.
+Nach § 7 Abs. 1 der Satzung bestehen der vorstehen mindestens aus zwei Person.
+§ 23 Abs. 1 der Satzung bestimmen, ders der Beschluß der Hauptversammlung mit einfach Mehrheit der abgegeben Stimme fassen werden, sofern nicht der Gesetz zwingen etwas ander bestimmen.
+Soweit der Gesetz außer der Stimmenmehrheit einenn Mehrheit der bei der Beschlussfassung vertreten Kapital verlangen, genügen nach § 23 Abs. 3 der Satzung der einfach Mehrheit, sofern nicht zwingen einenn ander Mehrheit vorschreiben sein.
+Der vorstehen sein gemäß § 4 Abs. 5 der Satzung ermächtigen, der Grundkapital bis zum 10. Mai 2015 mit Zustimmung der Aufsichtsrats durch Ausgabe neu, auf der Inhaber lautend Stückaktien gegen Bar- und / oder Sacheinlagen einmal oder mehrmals um bis zu insgesamt 35.840 Tsd.
+Euro zu erhöhen (genehmigt Kapital I).
+Ein entsprechend genehmigt Kapital II in Höhe von 23.296 Tsd.
+Euro mit ein Laufzeit bis zum 11. Mai 2016 bestehen gemäß § 4 Abs. 6 der Satzung.
+Die weit Einzelheit ergeben sich aus der vorgenannten Satzungsbestimmung.
+Das Grundkapital der Gesellschaft sein gemäß § 4 Abs. 4 der Satzung um bis zu 49.280 Tsd.
+Euro, einteilen in bis zu 19 250 000 Stück auf der Inhaber lautend Stückaktien, bedingt erhöhen (bedingt Kapital).
+Die Einzelheit ergeben sich aus der vorgenannten Satzungsbestimmung.
+Ermächtigung zum Aktierückkauf: Durch Beschluss der Hauptversammlung vom 3. Mai 2012 sein der Gesellschaft gemäß § 71 Abs. 1 Nr. 8 AktG ermächtigen werden, eigen Aktie zu erwerben.
+Diese Ermächtigung gelten bis zum 2. November 2013.
+Sie sein insgesamt auf einer Anteil von zehn Prozent der im Zeitpunkt der Beschlussfassung der Hauptversammlung oder -falls dies Wert gering sein - der zum Zeitpunkt der Ausübung der Ermächtigung bestehend Grundkapitals beschränken, wobei eigen Aktie in einer Umfang von höchstens fünf Prozent der im Zeitpunkt der Beschlussfassung der Hauptversammlung bestehend Grundkapitals durch der Einsatz von Call-Optionen erwerben werder dürfen.
+Die Ermächtigung können unmittelbar durch der Gesellschaft oder durch einen von der Gesellschaft abhängig oder in mein Mehrheitsbesitz stehend Unternehmen oder durch von der Gesellschaft oder von der Gesellschaft abhängig oder in mein Mehrheitsbesitz stehend Unternehmen beauftragt Dritte ausüben werder und erlauben der Erwerb eigen Aktie im ganz Umfang oder in Teilbeträgen sowie der einenmaligen oder mehrmalig Erwerb.
+Der Erwerb eigen Aktie können über der Börse oder mittels ein an sämtlich Aktionär gerichtet öffentlich Kaufangebots oder mittels ein an all Aktionär gerichtet öffentlich Aufforderung zur Abgabe von Verkaufsangeboten oder durch der Ausgabe von Andernungsrechten an der Aktionär oder durch der Einsatz von Call-Optionen erfolgen.
+Die Bedingung für der Erwerb werder im Beschluss weit spezifizieren.
+Der vorstehen seinenen durch der Beschluss der Hauptversammlung vom 3. Mai 2012 ermächtigen, mit Zustimmung der Aufsichtsrats bei einenen Veräußerung eigen Aktie durch einenen Angebot an all Aktionär der Inhaber der von der Gesellschaft oder einenenem sich nachgeordneten Konzernunternehmen ausgegeben Options- und / oder Wandelanleihen einenen Bezugsrecht auf der Aktie zu gewähren.
+Der vorstehen seinen weit ermächtigen, eigen Aktie mit Zustimmung der Aufsichtsrats in ander Weise als über der Börse oder durch einen Angebot an sämtlich Aktionär zu veräußern, wenn der Aktie gegen Barzahlung zu einenem Preis veräußern werder, der der Börsenkurs von Aktie der Gesellschaft gleich Ausstattung zum Zeitpunkt der Veräußerung nicht wesentlich unterschreiten.
+Der vorstehen der HOCHTIEF Aktiegesellschaft sein fern unter der nachstehender Voraussetzung ermächtigen, eigen Aktie mit Zustimmung der Aufsichtsrats Dritte in ander Weise als über der Börse oder mittels Angebot an sämtlich Aktionär anbieten und zu übertragen.
+Dies können im Rahmen der Erwerb von Unternehmen oder Beteiligung daran oder von Unternehmensteilen oder im Rahmen von Unternehmenszusammenschlüssen geschehen.
+Dies sein außerdem zulässig zur Einführung von Aktie der Gesellschaft an ausländisch Börse, an der ich bisher nicht zum Handel zulassen sein.
+Außerdem dürfen der Aktie Person zum Erwerb anbieten werden, der im Arbeitsverhältnis zu der Gesellschaft oder einer mit mein verbunden Unternehmen stehen oder stehen.
+Außerdem dürfen der Aktie der Inhaber der von der Gesellschaft oder einer nachgeordneten Konzernunternehmen der Gesellschaft gemäß der Ermächtigung durch der Hauptversammlung vom 12. Mai 2011 (TOP 8) begeben Schuldverschreibung bei Ausübung sich Options- und / oder Wandlungsrechte und / oder -pflichten währen werder.
+Weiterhin dürfen der Aktie (amtierend oder ausgeschieden) Mitglied der Vorstand der Gesellschaft und (amtierend oder ausgeschieden) Mitglied von Vorstand und Geschäftsführung der von der Gesellschaft abhängig Unternehmen im Sinn von § 17 AktG sowie Person, der im Arbeitsverhältnis zu der Gesellschaft oder einer von der Gesellschaft abhängig Unternehmen im Sinn von § 17 AktG stehen oder stehen, mit der Verpflichtung übertragen werden, ich für einer Zeitraum von mindertens zwei Jahr seit der Übertragung zu halten.
+Eine solch Übertragung sein nur zulässig, um bestehend Anspruch der Übertragungsempfängers auf variabel Vergütung an Erfüllungs statt zu tilgen.
+Die weit Bedingung der Übertragung werden im Beschluss weit spezifizieren.
+Im Fall der Ausgabe der Aktie an Mitglied der Vorstand der Gesellschaft entscheiden allein der Aufsichtsrat der Gesellschaft über der Ausgabe.
+Das gesetzlich Bezugsrecht der Aktionär auf dies eigen Aktie werder gemäß §§ 71 Abs. 1 Nr. 8, 186 Abs. 3 und 4 AktG insoweit ausschließen, wie dies Aktie gemäß der vorstehender Ermächtigung verwenden werder.
+Weiterhin werden der vorstehen ermächtigen, der erworben eigen Aktie mit Zustimmung der Aufsichtsrats einziehen, ohne dass der Einziehung und mein Durchführung ein weit Hauptversammlungsbeschlusses bedürfen.
+Die Bedingung der Bezugsrechtsgewährung, Veräußerung, Übertragung beziehungsweise Einziehung der eigen Aktie werden in der Beschluss der Hauptversammlung weit spezifizieren.
+Zum 31. Dezember 2012 ergeben sich für der HOCHTIEF Aktiegesellschaft einen bestehen an eigen Aktie im Sinn von § 160 Abs. 1 Nr. 2 AktG von insgesamt 3 386 725 Stück.
+Diese Aktie werden im Lauf der Geschäftsjahres 2008 für der in der Hauptversammlungsbeschluss vom 8. Mai 2008 genannt Zweck erwerben.
+Der auf dies eigen Aktie entfallend betragen der Grundkapitals betragen 8.670.016 Euro (4,40 Prozent der Grundkapitals).
+Vier eigen Aktie können im Februar 2012 anlässlich der Ausgabe von Belegschaftsaktien im Vorjahr an Person, der im Arbeitsverhältnis zu der Gesellschaft oder einer mit mein verbunder Unternehmen stehen, zu einer Preis von 28,50 Euro je Aktie veräußern werder, nachdem der hierfür vereinbart Voraussetzung letztlich von der jeweilig Berechtigte schaffen worder sein.
+Der auf dies Aktie entfallend betragen der Grundkapitals betragen zehn Euro (0,00 Prozent der Grundkapitals).
+15 260 eigen Aktie werden im Mai 2012 an Mitglied der Vorstand der Gesellschaft und Mitglied von Vorstand der von der Gesellschaft abhängig Unternehmen im Sinn von § 17 AktG zu einer Preis von 42,70 Euro je Aktie mit der Verpflichtung übertragen, ich für einer Zeitraum von mindertens zwei Jahr seit der Übertragung zu halten.
+Damit werden bestehend Anspruch der Übertragungsempfänger auf variabel Vergütung an Erfüllungs statt tilgen.
+Der auf dies Aktie entfallend betragen der Grundkapitals betragen 39.066 Euro (0,02 Prozent der Grundkapitals).
+Im Juli 2012 werden letztlich 19 746 eigen Aktie an Person, der im Arbeitsverhältnis zu der Gesellschaft oder einer mit mein verbunden Unternehmen stehen, zu einer Preis von 19,45 Euro je Aktie veräußern.
+Der auf dies Aktie entfallend betragen der Grundkapitals betragen 50.550 Euro (0,03 Prozent der Grundkapitals).
+Der Bilanzgewinn der Geschäftsjahres 2011 werden auf neu Rechnung vortragen.
+Eine Dividende werden für der Geschäftsjahr 2011 nicht ausschütten.
+8.
+Aktienbasierte Vergütung Während der Berichtsjahres bestehen folgend konzernweite aktienbasierte Vergütungssysteme für Führungskräfte der HOCHTIEF Aktiengesellschaft und nachgeordneter verbunden Unternehmen: Long-Term-Incentive-Plan 2007 Im Geschäftsjahr 2007 werden für ober Führungskräfte der HOCHTIEF Aktiengesellschaft und nachgeordneter verbunden Unternehmen sowie für der Mitglied der Vorstand auf Basis einen Beschluß der Aufsichtsrats einen Long-Term-Incentive-Plan 2007 (LTIP 2007) auflegen.
+Dieser sehen neben der Gewährung von Stock-Appreciation-Rights (SAR) der Ausgabe sogenannt Stock-Awards vor.
+Der Plan enden im Jahr 2012.
+Die SAR können nur ausüben werden, wenn der zehntägige durchschneiden (arithmetisch Mittel) der Börsenschlusskurse der HOCHTIEF-Aktie bis zum Ausübungstag im vergleichen zum Ausgabepreis an mindestens zehn aufeinanderfolgenden Börsenhandelstagen einen gut Kursperformance aufweisen als der MDAX, messen als zehntägiger durchschneiden der Schlusskurse im vergleichen zum Basispreis ders Index (relativ Erfolgshürde), und wenn zusätzlich der Kapitalrendite RONA (Return on Net Assets) gemäß der zuletzt gebilligt Konzernabschluss mindestens zehn Prozent betragen (absolut Erfolgshürde).
+Die relativ Erfolgshürde brauchen nicht erfüllen zu werder, wenn nach Ablauf der Wartezeit der HOCHTIEF-Durchschnittsbörsenkurs an zehn aufeinanderfolgender Börsenhandelstagen der Ausgabepreis um mindestens zehn Prozent übersteigen haben.
+Die SAR können bei erreichen der genannt Erfolgsziele nach ein Wartezeit von zwei Jahr bis auf kurz Sperrfrist vor Bekanntgabe von Unternehmensdaten vollständig ausüben werden.
+Nach Ausübung der SAR werden von der gewährend Gesellschaft der Unterschiedsbetrag zwischen der aktuell Börsenkurs und der Ausgabepreis auszahlen.
+Der Unterschiedsbetrag sein auf 50 Prozent der Ausgabepreises begrenzen.
+Die Planbedingung für der Ausgabe der Stock-Awards sehen vor, dass der Berechtigte nach Ablauf der Wartezeit von drei Jahr innerhalb ein Ausübungszeitraums von zwei Jahr bei Ausübung für jed Stock-Award nach Wahl der HOCHTIEF Aktiengesellschaft einer HOCHTIEF-Aktie oder einern Barausgleich in Höhe der Börsenschlusskurses der HOCHTIEF-Aktie der letzt Börsenhandelstags vor der Ausübungstag erhalten.
+Der Gewinn pro Stock-Aseind sein auf 150 Prozent der Börsenschlusskurses vom Vortag der Ausgabetags begrenzen.
+Long-Term-Incentive-Plan 2008 Der für 2008 zur Ausgabe vorgesehen Long-Term-Incentive-Plan werden bereits im November 2007 für ober Führungskräfte der HOCHTIEF Aktiengesellschaft und nachgeordneter verbunden Unternehmen sowie für der Mitglied der Vorstand auf Basis ein Beschluß der Aufsichtsrats als Long-Term-Incentive-Plan 2008 (LTIP 2008) auflegen.
+Die Planbedingung unterscheider sich nicht von der Planbedingung der LTIP 2007.
+Die Laufzeit der Plan werder im vergleichen zu der früh Plan so verlängern, dass der Ausübungssystematik trotzen der vorgezogen Ausgabe nicht verändern werden.
+Retention-Stock-Awards 2008 Der Aufsichtsrat haben im Mai 2008 der Auflage ein aus drei Tranchen bestehend und insgesamt über einer Zeitraum von sieben Jahr laufend Retention-Stock-Award-Plans (RSA 2008) für der Mitglied der Vorstand auf der Basis der LTIP 2008 (Stock-Awards) beschließen und der erst Tranche währen.
+Die Planbedingung der erst Tranche unterscheiden sich vom LTIP 2008 (Stock-Awards) nur in Bezug auf der Kappungsgrenze, der bei der erst Tranche der RSA 2008 bei 160 Euro pro Stock-Award liegen.
+Im März 2009 werden der zweit Tranche währen.
+Die Planbedingung der zweit Tranche unterscheiden sich vom LTIP 2008 (Stock-Awards) nur in der um einen Jahr nach hinten verschoben Laufzeit sowie in Bezug auf der Kappungsgrenze, der bei der zweit Tranche bei 66,50 Euro pro Stock-Award liegen.
+Im März 2010 werden der dritt Tranche währen.
+Die Planbedingung der dritt Tranche unterscheiden sich vom LTIP 2008 (Stock-Awards) nur in der um zwei Jahr nach hinten verschoben Laufzeit sowie in Bezug auf der Kappungsgrenze, der bei der dritt Tranche bei 133,12 Euro pro Stock-Award liegen.
+Die erst Tranche werder bereits im Jahr 2011 vollständig von der Mitglied der Vorstand ausüben.
+Top-Executive-Retention-Plan 2008 Der vorstehen haben darüber hinaus im Juni 2008 für ausgewählt Führungskräfte der Auflage ein Top-Executive-Retention-Plans (TERP 2008) beschließen.
+Auch dies Plan basieren auf Stock-Awards und bestehen aus drei Tranchen.
+Im Juli 2008 werden der erst Tranche, im Juli 2009 der zweit Tranche und im Juli 2010 der dritt Tranche währen.
+Die Laufzeit der Plan betragen insgesamt zehn Jahr.
+Die Wartezeit liegen nach Zuteilung der jeweilig Tranche bei drei Jahr.
+Der Ausübungszeitraum liegen - abhängig von der jeweilig Tranche - zwischen fünf und sieben Jahr.
+Die Planbedingung sehen vor, dass der Berechtigte für jed Stock-Award nach Ablauf der jeweilig Wartezeit und nach Wahl der HOCHTIEF Aktiengesellschaft einer HOCHTIEF-Aktie oder einern Barausgleich in Höhe der Börsenschlusskurses der HOCHTIEF-Aktie der letzt Börsenhandelstags vor der Ausübungstag erhalten.
+Der Gewinn sein in der einzeln Jahr der Ausübungszeitraums auf einen Kappungsgrenze beschränken.
+Diese Kappungsgrenze steigen jährlich an und sein am Ende der Laufzeit auf einer Maximalgewinn begrenzen.
+Der Maximalgewinn werden für der erst Tranche auf 160 Euro, für der zweit Tranche auf 81,65 Euro und für der dritt Tranche auf 166,27 Euro pro Stock-Award festlegen.
+Long-Term-Incentive-Plan 2009 Im Geschäftsjahr 2009 werden für ober Führungskräfte der HOCHTIEF Aktiengesellschaft und nachgeordneter verbunden Unternehmen sowie für der Mitglied der Vorstand auf Basis einen Beschluß der Aufsichtsrats einen Long-Term-Incentive-Plan 2009 (LTIP 2009) auflegen.
+Die Planbedingung unterscheider sich bis auf unwesentlich Detailregelung nicht von der Planbedingung der LTIP 2008.
+Der Gewinn pro Stock-Award sein auf 40,10 Euro begrenzen.
+Die SAR werden vollständig ausüben.
+Long-Term-Incentive-Plan 2010 Im Geschäftsjahr 2010 werden für ober Führungskräfte der HOCHTIEF Aktiengesellschaft und nachgeordneter verbunden Unternehmen sowie für der Mitglied der Vorstand auf Basis einen Beschluß der Aufsichtsrats einen Long-Term-Incentive-Plan 2010 (LTIP 2010) auflegen.
+Die Planbedingung unterscheider sich - bis auf der Verlängerung der Wartezeit bei der SAR von zwei auf vier Jahr - nicht wesentlich von der Planbedingung der LTIP 2009.
+Der Gewinn pro Stock-Award sein auf 81,83 Euro begrenzen.
+Long-Term-Incentive-Plan 2011 Im Geschäftsjahr 2011 werden für ober Führungskräfte der HOCHTIEF Aktiengesellschaft und nachgeordneter verbunden Unternehmen sowie für der Mitglied der Vorstand auf Basis einen Beschluß der Aufsichtsrats einen Long-Term-Incentive-Plan 2011 (LTIP 2011) auflegen.
+Die Planbedingung unterscheider sich nicht wesentlich von der Planbedingung der LTIP 2010.
+Der Gewinn pro Stock-Award sein auf 98,01 Euro begrenzen.
+Long-Term-Incentive-Plan 2012 Im Geschäftsjahr 2012 werden für ober Führungskräfte der HOCHTIEF Aktiengesellschaft und nachgeordneter verbunden Unternehmen sowie für der Mitglied der Vorstand auf Basis einen Beschluß der Aufsichtsrats einen Long-Term-Incentive-Plan 2012 (LTIP 2012) auflegen.
+Im vergleichen zu der Planbedingung der LTIP 2011 unterscheiden sich der Plan in zwei Punkt: 1.
+Die Kapitalrendite RONA (Return on Net Assets) müssen gemäß der zuletzt gebilligt Konzernabschluss mindestens 15 Prozent betragen.
+2.
+Die Wartezeit bei der Stock-Awards werden von drei auf vier Jahr und der Laufzeit entsprechen von fünf auf sechs Jahr verlängern.
+Der Gewinn pro Stock-Award sein auf 75,81 Euro begrenzen.
+Sonstiges Die Ausübungsbedingung all aufgelegt Plan sehen vor, dass bei Ausübung der SAR oder Stock-Awards- und bei vorliegen all ander hierzu erforderlich Voraussetzung - der HOCHTIEF Aktiengesellschaft grundsätzlich einen Wahlrecht haben, anstellen der Auszahlung der Gewinn auch HOCHTIEF-Aktien zu liefern.
+Soweit der Bezugsberechtigten nicht bei der HOCHTIEF Aktiengesellschaft beschäftigen sein, werden der mit der Ausübung entstehend Aufwendung durch der jeweilig verbunden Unternehmen tragen.
+Für der vorstehen genannt aktienbasierten Vergütungspläne sein zum Bilanzstichtag Rückstellung in Höhe von 10.690 Tsd.
+Euro (Vorjahr 19.306 Tsd.
+Euro) passiviert.
+Der Gesamtaufwand für der genannt Plan betragen im Berichtsjahr 4.115 Tsd.
+Euro (Vorjahr 8.033 Tsd.
+Euro).
+Der inner Wert der zum Ende der Berichtsperiode ausübbaren Option belaufen sich auf 5.080 Tsd.
+Euro (Vorjahr 1.904 Tsd.
+Euro).
+Für der Plan sein bislang der folgend Stückzahlen an SAR beziehungsweise Stock-Awards ausgeben werden, verfallen oder ausüben werden: Ursprünglich ausgeben Stand 31.12.2011 2012 neu währen 2012 verfallen 2012 ausüben/ abgelten Stand 31.12.2012 LTIP 2007 - SAR 430 450 61 550 - 11 600 49 950 - LTIP 2007 - Stock-Awards 110 650 10 400 - 300 10 100 - LTIP 2008 - SAR 304 575 223 570 - 21 375 7 500 194 695 LTIP 2008 - Stock-Awards 101 985 18 820 - 725 3 670 14 425 TERP 2008 - erst Tranche 130 900 73 000 - - 31 700 41 300 TERP 2008 - zweit Tranche 359 000 329 300 - - 196 100 133 200 TERP 2008 - dritt Tranche 174 100 167 900 - 8 400 - 159 500 RSA 2008 - zweit Tranche 347 478 347 478 - - 160 374 187 104 RSA 2008 - dritt Tranche 146 884 146 884 - - - 146 884 LTIP 2009 - SAR 414 000 2 900 - - 2 900 - LTIP 2009 - Stock-Awards 273 400 224 600 - 3 400 219 600 1 600 LTIP 2010 - SAR 353 200 283 650 - 23 950 12 500 247 200 LTIP 2010 - Stock-Awards 166 000 132 400 - 11 150 6 500 114 750 LTIP 2011 - SAR 275 250 254 250 1 250 25 700 10 500 219 300 LTIP 2011 - Stock-Awards 124 850 113 850 1 700 7 750 13 700 94 100 LTIP 2012 - SAR - - 457 406 18 000 - 439 406 LTIP 2012 - Stock-Awards - - 82 991 3 360 - 79 631 9.
+Rückstellung für Pension und ähnlich Verpflichtung Die betrieblich Altersversorgung bei der HOCHTIEF Aktiengesellschaft setzen sich aus ein Basisversorgung in Form ein beitragsorientierten Bausteinsystems und ein unternehmenserfolgsabhängigen Aufbauversorgung zusammen.
+Der Rentenbaustein für der Basisversorgung hängen vom Einkommen und vom Lebensalter der Beschäftigte ("Verrentungsfaktor") ab sowie von einer allgemein Versorgungsbeitrag, der durch der HOCHTIEF Aktiengesellschaft all drei Jahr prüfen werden.
+Der Rentenbaustein für der Aufbauversorgung sein abhängig von der Entwicklung der Ergebnis nach Steuer gemäß IFRS.
+Hieraus können zusätzlich bis zu 20 Prozent der Basisversorgung erzielen werden.
+Die bis zum 31. Dezember 1999 geltend Versorgungsregelung sehen tarifabhängige Leistungsgruppenbeträge vor.
+Diese werden in Form von "Initialbausteinen" in der neu Versorgungssystem integrieren.
+Die Leistung umfassen einennn Altersrente, einennn Invalidenrente sowie einennn Hinterbliebenenrente.
+Die Höhe der Rückstellung werden nach versicherungsmathematischen Methode berechnen, für der Schätzung unumgänglich sein.
+Als biometrische Rechnungsgrundlagen werden der Richttafeln 2005 ? von Professor Dr. Klaus Heubeck verwenden.
+Des Weitere liegen der Berechnung folgend versicherungsmathematische Prämisse zugrunde: (In Prozent) 2012 2011 Abzinsungsfaktor 5,07 5,13 Gehaltssteigerungsrate 3,00 3,00 Rentensteigerungsrate 2,00 1,75 Zur Finanzierung von Pensionszahlung werden bei der HOCHTIEF Aktiengesellschaft einen Contractual-Trust-Arrangement (CTA) gründen.
+Die übertragen Vermögensgegenstände werder treuhänderisch durch der HOCHTIEF Pension Trust e.
+?. verwalten und dienen ausschließlich der Finanzierung der Pensionsverpflichtung.
+Übertragene Barmittel werden am Kapitalmarkt nach Maßgabe der im Treuhandvertrag vereinbart Anlagegrundsätze investieren.
+Anteil an einer Spezialfonds, bei der ich sich um einer Mischfonds handeln, haben zum 31. Dezember 2012 einer Marktwert, der zugleich der Buchwert entsprechen, von 205.297 Tsd.
+Euro (Vorjahr 207.011 Tsd.
+Euro).
+Aus der Fond erhalten der HOCHTIEF Aktiengesellschaft - wie im Vorjahr - kein Ausschüttung.
+Die Vermögensgegenstände der Pensionsfonds erfüllen genauso wie an der Mitarbeiter verpfändet Rückdeckungsversicherung und Fondsanteile aus der Entgeltumwandlung der Mitarbeiter der Anforderung der § 246 Abs. 2 Satz 2 HGB.
+Demnach sein der beizulegende Zeitwert der Vermögensgegenstände mit der Wert der Pensionsverpflichtung und der Ertrag aus dersen Vermögensgegenständer mit der Aufwendung der Pensionsverpflichtung zu salderren.
+Die Saldierung erfolgen trennen nach der Art der Pensionszusage.
+Je nachdem, ob einen Über- oder Unterdeckung vorliegen, können ich zu einenm aktivischen oder passivischen Ausweis in der Bilanz kommen.
+In der Bilanz zum 31. Dezember 2012 werden folgend Verrechnung vornehmen: 31.12.2012 31.12.2011 (In Tsd.
+EUR) Aktiver Unterschieds-betrag aus der Vermögens-verrechnung Rückstellung für Pension und ähnlich Verpflichtung Gesamt Aktiver Unterschieds-betrag aus der Vermögens-verrechnung Rückstellung für Pension und ähnlich Verpflichtung Gesamt Erfüllungsbetrag der Pension und ähnlichn Verpflichtung -266.688 -10.521 -277.209 -266.462 -8.965 -275.427 Beizulegender Zeitwert der verrechnet Vermögensgegenstände (§ 246 Abs. 2 Satz 2 HGB) 282.712 9.620 292.332 283.432 8.472 291.904 Saldo 16.024 -901 15.123 16.970 -493 16.477 Anschaffungskosten der verrechnet Vermögensgegenstände (§ 246 Abs. 2 Satz 2 HGB) 272.988 9.448 282.436 290.408 8.286 298.694 Die laufend Leistung für der Pensionszahlung belaufen sich im Berichtsjahr auf 22.252 Tsd.
+Euro (Vorjahr 22.397 Tsd.
+Euro).
+Der aufwinden aus Pensionsverpflichtung setzen sich wie folgen zusammen: (In Tsd.
+EUR) 2012 2011 aufwinden für Altersversorgung 6.731 4.335 Personalaufwand 6.731 4.335 Zinsaufwand aus der Aufzinsung und der Änderung der Abzinsungssatzes 15.061 14.712 verrechnen Erträge/Aufwendung aus der Deckungsvermögen (§ 246 Abs. 2 Satz 2 HGB) -20.948 1.617 Zinsergebnis -5.887 16.329 Gesamtaufwand 844 20.664 10.
+Sonstige Rückstellung (In Tsd.
+EUR) 31.12.2012 31.12.2011 Steuerrückstellung 3.713 2.796 Übrige sonstig Rückstellung 90.247 111.990 93.960 114.786 Die sonstign Rückstellung betreffen unter ander Risiko im Immobilie- und Beteiligungsbereich, nicht an ander Stelle berücksichtigt drohend Verlust aus schwebend Geschäft, Jahresabschlusskosten, Abfindung, Stock-Appreciation-Rights (SAR) und Stock-Awards, ausstehend Urlaub von Mitarbeiter, Kosten der Altersteilzeit, Schadensersatzleistung sowie ander ungewiß Verbindlichkeit.
+11.
+Verbindlichkeit (In Tsd.
+EUR) 31.12.2012 Davon Restlaufzeit bis zu 1 Jahr 31.12.2011 Davon Restlaufzeit bis zu 1 Jahr Anleihe 521.322 21.322 - - Verbindlichkeit gegenüber Kreditinstituten 1.055.004 611.504 1.160.796 152.796 Verbindlichkeit aus Lieferung und Leistung 6.024 6.024 21.171 20.539 Verbindlichkeit gegenüber verbunden Unternehmen 149.855 131.071 647.040 628.164 Verbindlichkeit gegenüber Unternehmen, mit der einenn Beteiligungsverhältnis bestehen 1.172 1.172 1.175 1.175 Sonstige Verbindlichkeit 33.323 32.484 25.886 24.380 davon aus Steuer (29.380) (29.380) (15.160) (15.160) davon im Rahmen der sozial Sicherheit (13) (13) (23) (23) 1.766.700 803.577 1.856.068 827.054 Auf einenne im März der Berichtsjahres emittierte Inhaberschuldverschreibung der HOCHTIEF Aktiengesellschaft mit einennem Nominalvolumen von 500.000 Tsd.
+Euro entfallen einen Buchwert von 521.322 Tsd.
+Euro.
+Die Anleihe sein im März 2017 endfällig.
+Der Nominalzins betragen 5,50 Prozent.
+Die Zinszahlung erfolgen jeweils zum 23. März ein jed Jahr.
+Die Verbindlichkeit gegenüber Kreditinstituten enthalten einer Anteil in Höhe von 50.000 Tsd.
+Euro ein am 13. Dezember 2012 aufgenommen bilateral Schuldscheindarlehens.
+Das Darlehen haben einen vierjährige Laufzeit und sein mit einenr fix Verzinsung ausstatten.
+Des Weitere beinhalten dies Verbindlichkeit in Höhe von 84.500 Tsd.
+Euro einen über ursprünglich 120.600 Tsd.
+Euro am 25. November 2011 aufgenommen Schuldscheindarlehen mit ein ursprünglich Laufzeit von fünf Jahr.
+Das Darlehensvolumen werden bei national und international Banken platziert.
+Die Verzinsung sein an der Sechsmonats-EURIBOR koppeln und beinhalten einen angemessen Kreditmarge.
+Darüber hinaus bestehen einen von HOCHTIEF im Geschäftsjahr 2010 aufgelegt Schuldscheinendarlehen mit 240.000 Tsd.
+Euro, der sich aus zwei Tranchen zu 59.500 Tsd.
+Euro und zu 180.500 Tsd.
+Euro zusammensetzen.
+Das Darlehen haben einen fünfjährige Ursprungslaufzeit und werden mit der Sechsmonats-EURIBOR zuzüglich einenr angemessen Marge verzinsen.
+Von der im Geschäftsjahr 2009 insgesamt aufgenommen vier Schuldscheindarlehen mit einer Gesamtvolumen von 300.000 Tsd.
+Euro und hälftig aufgeteilt Laufzeiten von drei und fünf Jahr mit zum Teil fix und zum Teil variabel Verzinsung haben HOCHTIEF im aktuell Geschäftsjahr einen Volumen von 129.500 Tsd.
+Euro planmäßig bei Laufzeitende zurückführen.
+Dieses Darlehen valutiert zum Stichtag mit 30.000 Tsd.
+Euro.
+Des Weitere sein in dies Position mit 193.750 Tsd.
+Euro zwei weit im Jahr 2008 aufgenommen Schuldscheindarlehen enthalten.
+Davon haben einer Darlehen eineren Nominalwert von 154.750 Tsd.
+Euro mit ein Ursprungslaufzeit von fünf Jahr, der zweit belaufen sich auf nominal 39.000 Tsd.
+Euro und haben einen Ursprungslaufzeit von sieben Jahr.
+Beide Darlehen werden mit der Sechsmonats-EURIBOR zuzüglich ein angemessen Marge verzinsen.
+Ein international Bankenkonsortium haben im Dezember 2011 HOCHTIEF einennn Fünf-Jahres-Kreditlinie, der einennn Avaltranche in Höhe von 1,5 Mrd. Euro sowie einennn Bartranche in Höhe von 500.000 Tsd.
+Euro beinhalten, zu marktgerecht Kondition bereitstellen.
+Die Inanspruchnahme der Bartranche belaufen sich zum Stichtag auf 200.000 Tsd.
+Euro (Vorjahr 400.000 Tsd.
+Euro).
+Die Verbindlichkeit gegenüber verbunden Unternehmen resultieren im Wesentliche aus der Konzernfinanzverkehr.
+Die sonstig Verbindlichkeit enthalten Steuerverbindlichkeit, Verbindlichkeit aus der Lohn- und Gehaltsabrechnung, Verbindlichkeit im Rahmen der sozial Sicherheit sowie ander Verbindlichkeit außerhalb der Lieferungs- und Leistungsverkehrs und ander Verpflichtung.
+Verbindlichkeit mit ein Restlaufzeit von mehr als fünf Jahr bestehen - wie im Vorjahr - nicht.
+12.
+Haftungsverhältnisse und sonstig finanziell Verpflichtung (In Tsd.
+EUR) 31.12.2012 31.12.2011 Verpflichtung aus Bürgschaften und Patronatserklärung 852.402 1.115.952 davon für verbunden Unternehmen (834.925) (1.096.123) Die Haftungsverhältnisse sein überwiegen zur Sicherung aufgenommen Bankkredite, für Vertragserfüllung, Gewährleistungsverpflichtung und Vorauszahlung geben.
+Die HOCHTIEF Aktiengesellschaft bürgen am Bilanzstichtag im Wesentliche für Beteiligungsgesellschaften und Arbeitsgemeinschaften.
+Nach mein Einschätzung können all Gesellschaft mein zugrunde liegend Verpflichtung erfüllen, sodass der HOCHTIEF Aktiengesellschaft voraussichtlich nicht in Anspruch nehmen werden.
+Im Zusammenhang mit ein konzerninternen Umstrukturierung haben der HOCHTIEF Aktiengesellschaft für einenn Beteiligung einenn Wertgarantie auf der begrenzt Zeitraum von fünf Jahr übernehmen.
+Der im Dezember 2011 abgeschlossen syndizierte Aval- und Barkredit in Höhe von zwei Mrd. Euro bilden weiterhin der zentral langfristig Finanzierungsinstrument der HOCHTIEF Aktiengesellschaft.
+Diese syndizierte Fazilität haben einenn Tranche für Avalziehung im Volumen von 1,5 Mrd. Euro, der zum 31. Dezember 2012 mit 1,07 Mrd. Euro (Vorjahr 1,12 Mrd. Euro) in Anspruch nehmen werden sein, und enthalten einenn Barlinie in Höhe von 500.000 Tsd.
+Euro, der zum 31. Dezember 2012 mit einer betragen von 200.000 Tsd.
+Euro (Vorjahr 400.000 Tsd.
+Euro) ziehen sein.
+Der Kreditrahmen ermöglichen der Bereitstellung von Bürgschaften für der gewöhnlich Geschäftstätigkeit vornehmlich der Division HOCHTIEF Europe.
+Der angesprochen Aval- und Barkredit haben einen ursprünglich Laufzeit von fünf Jahr, der am 13. Dezember 2016 enden.
+Daneben bestehen für der HOCHTIEF Aktiengesellschaft weit Avalkreditlinien mit einer Gesamtbetrag von 927.350 Tsd.
+Euro (Vorjahr 1,4 Mrd. Euro) bei Versicherungsgesellschaften und Banken.
+Diese sein zum 31. Dezember 2012 mit 468.884 Tsd.
+Euro (Vorjahr 663.913 Tsd.
+Euro) in Anspruch nehmen.
+Die HOCHTIEF Aktiengesellschaft haben zugunsten amerikanisch Versicherungsgesellschaften einen unbegrenzt Garantie für Verpflichtung der Turner- und der Flatiron-Gruppe im Rahmen der sogenannt Bondings auslegen.
+Dieses in der USA gesetzlich vorgesehen Sicherungsmittel garantieren der Erfüllung von Projekt der öffentlich Hand.
+Weiterhin kommen ich bei ausgewählt sonstig Kunde zum Einsatz.
+Das gesamt Bondingvolumen belaufen sich unverändert zum Vorjahr auf 6.500 Mio. US-Dollar.
+Die Ausnutzung der Bondingvolumens betragen im Berichtsjahr 5.191 Mio. US-Dollar (Vorjahr 4.417 Mio. US-Dollar).
+Eine Inanspruchnahme aus ders HOCHTIEF-Garantie sein in der Vergangenheit nicht erfolgen und werden zurzeit auch für der Zukunft nicht erwarten.
+Darüber hinaus haften der HOCHTIEF Aktiengesellschaft für Joint-Venture-Garantien der Flatiron Construction Corporation höchstens in Höhe der Auftragswerte.
+Diese betragen zum 31. Dezember 2012 874.861 Tsd.
+Euro (Vorjahr 1.029.438 Tsd.
+Euro).
+Wie im Vorjahr unterliegen der Wertpapiere der Umlaufvermögens kein Verfügungsbeschränkung.
+Im Rahmen der sonstig finanziell Verpflichtung bestehen Abnahmeverpflichtung aus langfristig Liefer- und Leistungsverträgen in Höhe von 131.206 Tsd.
+Euro (Vorjahr 154.609 Tsd.
+Euro).
+Dabei handeln ich sich um Verpflichtung aus langfristig Mietvertrag.
+Diesen stehen erwartet Mietertrag in Höhe von 122.234 Tsd.
+Euro (Vorjahr 134.389 Tsd.
+Euro) gegenüber.
+Derivative Finanzinstrumente Darlehensverbindlichkeit mit einer Nominalvolumen von 518.250 Tsd.
+Euro (Vorjahr 751.500 Tsd.
+Euro), der ein variabel Verzinsung unterliegen, werden durch insgesamt zwölf (Vorjahr 16) Zinsswaps besichert und bilden mit dersen bilanzielle Bewertungseinheit.
+Die Höhe der Nominalvolumens erlauben Rückschlüsse auf der Umfang der Einsatz von Derivaten, geben aber nicht der Risiko aus der Einsatz von Derivaten wieder.
+Aufgrund der überwiegend Übereinenstimmung der "Critical Terms" in der Vertrag der jeweilig Grund- und Sicherungsgeschäfte seinen der aus der variabel Verzinsung der Grundgeschäfte resultierend Ergebnisrisiko annähern vollständig absichern, soders einen synthetisch Festzins aus der Bewertungseinenheiten resultieren.
+Der beizulegende Zeitwert der Zinsswaps berechnen sich aus der - auf Basis der am Bewertungsstichtag geltender Zinskurve - erwartet abgezinsten zukünftig Zahlungsströmen.
+Der Ausgleich der gegenläufig Zahlungsströme erfolgen je nach Restlaufzeit der Grund- und der zugehörig Sicherungsgeschäfts in der folgender sieben bis 47 Monat (Vorjahr fünf bis 59 Monat).
+Des Weitere werden - wie im Vorjahr - einenen Darlehensverlängerung an einen verbunden Unternehmen mit einenenm Nominalvolumen von 180.000 Tsd.
+Euro in einen Bewertungseinheit mit drei Zinsswaps einbeziehen.
+Der saldierte beizulegende Zeitwert der Zinsswaps liegen zum Bilanzstichtag bei -24.404 Tsd.
+Euro (Vorjahr -23.023 Tsd.
+Euro).
+Zur Absicherung mein aktienbasierten Vergütungspläne, der mittels Barausgleich erfüllen werden, bestehen zehn Aktienoptions- und sieben Aktientermingeschäfte (Vorjahr acht und sieben).
+Der beizulegende Zeitwert der Aktienoptionsgeschäfte betragen saldiert 4.622 Tsd.
+Euro (Vorjahr 1.263 Tsd.
+Euro).
+Der Buchwert der Aktienoptionsgeschäfte betragen saldiert 4.128 Tsd.
+Euro (Vorjahr 724 Tsd.
+Euro) und sein in der sonstig Vermögensgegenständer beziehungsweise sonstig Verbindlichkeit enthalten.
+Der beizulegende Zeitwert der Aktientermingeschäfte belaufen sich zum 31. Dezember 2012 saldiert auf 3.083 Tsd.
+Euro (Vorjahr 9.419 Tsd.
+Euro).
+Für Aktienoptionen und Aktientermingeschäfte, der am 31. Dezember 2012 einer negativ beizulegenden Zeitwert aufweisen, werden Rückstellung für drohend Verlust aus schwebend Geschäft in Höhe von 1.779 Tsd.
+Euro (Vorjahr 1.398 Tsd.
+Euro) bilder, da dies nicht in ein Bewertungseinheit mit der aktienbasierten Vergütungsplänen stehen.
+Die im Zusammenhang mit dies Derivaten entstanden Aufwendung und Ertrag werden im Personalaufwand ausweisen.
+Zur Absicherung von Fremdwährungsforderung mit einer Nominalvolumen von 63.710 Tsd.
+Euro (Vorjahr Fremdwährungsverbindlichkeit in Höhe von 225.050 Tsd.
+Euro) werden Devisentermingeschäfte in derselbe Währung und mit der gleich Laufzeit wie der jeweilig Grundgeschäft abschließen und als Bewertungseinheit abbilden.
+Der beizulegende Zeitwert der zur Fremdwährungskurssicherung abgeschlossen Devisentermingeschäfte ergeben sich als Differenz der Barwerte der Zahlungsströme auf Basis der vertraglich vereinbart Terminkurses sowie der Terminkurses zum Bilanzstichtag.
+Der saldierte beizulegende Zeitwert der Devisentermingeschäfte liegen zum Bilanzstichtag bei -617 Tsd.
+Euro (Vorjahr 7.758 Tsd.
+Euro).
+Für Devisentermingeschäfte mit negativ beizulegendem Zeitwert werden - wie im Vorjahr - kein Rückstellung für drohend Verlust aus schwebend Geschäft bilden.
+Der Ausgleich der gegenläufig Wertänderung beziehungsweise Zahlungsströme erfolgen je nach Restlaufzeit der Grund- und der zugehörig Sicherungsgeschäfts in der folgender sechs bis 15 Monat (Vorjahr einen bis sechs Monat).
+Die beizulegenden Zeitwerte von Derivaten, der nicht mit der beizulegendem Zeitwert bewerten werden sein, da ich in ein Bewertungseinheit designiert sein oder einer positiv Marktwert aufweisen, betragen zum 31. Dezember 2012 salderrt -14.574 Tsd.
+Euro (Vorjahr -559 Tsd.
+Euro).
+Erläuterung der Gewinn- und Verlustrechnung 13.
+Umsatzerlöse Die Umsatzerlöse der HOCHTIEF Aktiengesellschaft stehen im Zusammenhang mit der Ausübung der Holdingfunktion.
+Außerdem werden hier noch Umsatzerlöse aus Bauprojekten in Höhe von 1.008 Tsd.
+Euro (Vorjahr 27.041 Tsd.
+Euro) ausweisen, der im Zusammenhang mit der in der Vergangenheit erfolgt Ausgliederung der Baugeschäfts in der rechtlich selbstständig HOCHTIEF Solutions AG aus organisatorisch Grund bei der HOCHTIEF Aktiengesellschaft abwickeln werden.
+Des Weitere sein in der Umsatzerlösen Mietertrag enthalten.
+Von der Umsatzerlösen wurder 788 Tsd.
+Euro (Vorjahr 12.762 Tsd.
+Euro) im Ausland erzielen.
+14.
+Sonstige betrieblich Ertrag Diese Position enthalten hauptsächlich Ertrag aus Konzernumlagen, der Auflösung von Rückstellung, der Veräußerung von Wertpapieren der Umlaufvermögens und der Abgang von Gegenstand der Sachanlagevermögens.
+Des Weitere werder in der sonstig betrieblich Ertrag 2.258 Tsd.
+Euro (Vorjahr 9.133 Tsd.
+Euro) Währungskursgewinne ausweisen.
+15.
+Materialaufwand (In Tsd.
+EUR) 2012 2011 Aufwendung für Roh-, Hilfs- und Betriebsstoffe und für bezogen Ware 914 411 Aufwendung für bezogen Leistung 13.693 13.861 14.607 14.272 16.
+Personalaufwand (In Tsd.
+EUR) 2012 2011 Löhne und Gehalt 23.960 29.145 Soziale abgeben und Aufwendung für Unterstützung 2.125 2.480 Aufwendung für Altersversorgung 7.320 4.726 33.405 36.351 Mitarbeiter (Jahresdurchschnitt) 2012 2011 Gewerbliche Arbeitnehmer 6 7 Angestellte 177 183 183 190 17.
+Abschreibung (In Tsd.
+EUR) 2012 2011 Immaterielle Vermögensgegenstände 4.516 9.968 Sachanlagen 1.168 1.518 5.684 11.486 Die Abschreibung betreffen mit 5.684 Tsd.
+Euro (Vorjahr 11.320 Tsd.
+Euro) planmäßig Abschreibung.
+Im Vorjahr erfolgt außerplanmäßig Abschreibung in Höhe von 166 Tsd.
+Euro.
+18.
+Sonstige betrieblich Aufwendung Die sonstig betrieblichn Aufwendung betreffen überwiegen Miete und Pacht, Beratungskosten, Zuführung zu Rückstellung für Projektrisiken, Gericht-, Anwalt- und Notarkosten, Abfindung, Reise- und Werbungskosten, Forschungs- und Entwicklungskosten, Versicherungsprämien, Jahresabschlusskosten, Verlust aus Wertberichtigung und Abgang von Vermögensgegenständen der Umlaufvermögens sowie weit, nicht an ander Stelle auszuweisende Sozialleistung.
+Des Weitere enthalten dies Position mit 8.438 Tsd.
+Euro (Vorjahr 9.717 Tsd.
+Euro) Währungsverluste.
+Die in der sonstig betrieblich Aufwendung ausgewiesen sonstig Steuer belaufen sich auf 1.196 Tsd.
+Euro (Vorjahr 4.701 Tsd.
+Euro).
+19.
+Ergebnis Finanzanlagen (In Tsd.
+EUR) 2012 2011 Ertrag aus Gewinnabführungsverträgen 131.717 269.968 Ertrag aus Beteiligung 32.013 2 davon von verbunden Unternehmen (32.013) (2) Aufwendung aus Verlustübernahmen -224.024 -141.810 Ertrag aus ander Wertpapieren und Ausleihung der Finanzanlagevermögens 38.418 41.995 davon von verbunden Unternehmen (38.299) (41.991) -21.876 170.155 20.
+Zinsergebnis (In Tsd.
+EUR) 2012 2011 Sonstige Zins und ähnlich Ertrag 62.466 55.116 davon von verbunden Unternehmen (52.581) (49.891) Zins und ähnlich Aufwendung -107.805 -139.438 davon an verbunden Unternehmen (-12.613) (-23.291) davon aus der Aufzinsung sonstig langfristig Rückstellung (-461) (-439) -45.339 -84.322 Der aufwinden aus der Aufzinsung der Pensionsrückstellung in Höhe von 15.061 Tsd.
+Euro (Vorjahr 14.712 Tsd.
+Euro) werder im Zinsergebnis mit der Ertrag bzw. Aufwendung der für der Pensionsverpflichtung bestehender Deckungsvermögens in Höhe von 20.948 Tsd.
+Euro (Vorjahr -1.617 Tsd.
+Euro) verrechnen.
+Ein positiv Saldo werder unter der sonstig Zins und ähnlich Ertrag, einen negativ Saldo unter der Zins und ähnlich Aufwendung ausweisen.
+21.
+Abschreibung auf Finanzanlagen und auf Wertpapiere der Umlaufvermögens Diese Position enthalten in Höhe von 2.359 Tsd.
+Euro (Vorjahr - Tsd.
+Euro) Abschreibung auf Anteil an verbunden Unternehmen.
+22.
+Steuer vom Einkommen und vom ertragen In dies Position sein ertragensteuern auf ausländisch Gewinnanteile sowie Erstattung von inländisch ertragensteuern enthalten.
+Die sonstig Steuer werder unter der sonstig betrieblich Aufwendung ausweisen.
+23.
+Gesamtbezüge der Vorstand und der Aufsichtsrats Bezug der Vorstand für der Geschäftsjahr 2012 Das System der Vorstandvergütung sein auf einen langfrseinige und nachhaltig Unternehmensführung ausrichten.
+Die Gesamtbezüge der Vorstandsmitglieder werden vom Aufsichtsrat festsetzen.
+Auch der Vergütungssystem für der vorstehen werden vom Aufsichtsrat beschließen und regelmäßig überprüfen.
+Der Personalausschuss der Aufsichtsrats bereiten der entsprechend Beschlussfassung der Aufsichtsratsplenums vor.
+Die Vergütung der Vorstand setzen sich für der Geschäftsjahr 2012 zusammen aus 1. fest Bezug, 2.
+Sachbezügen und sonstig Zusatzvergütung, 3. ein variabel Vergütung sowie 4. ein Altersversorgung.
+1.
+Die fest Bezug werden in gleich monatlich Rate auszahlen.
+2.
+Zu der Sachbezügen zählen der nach steuerlich Richtlinie anzusetzende Wert der privat Nutzung der Dienstwagen und vermögenswerter Vorteil.
+Darüber hinaus werden für Herrn Fernández Verdes Mietkosten und Reisekosten für Heimflüge übernehmen.
+3.
+Die Berechnung der variabel Vergütung erfolgen auf der Basis der folgend gleichgewichteten Komponente: RONA absolut, RONA Delta, Konzerngewinn absolut und Konzerngewinn Delta.
+Für all vier Komponente können der Zielerfüllung bei nullen bis 200 Prozent der budgetierten Betrag liegen.
+Zusätzlich zu der wirtschaftlich Ziel legen der Aufsichtsrat jährlich bis zu vier strategisch Ziel fest, der einheitlich für all Vorstand Gültigkeit haben.
+Der Aufsichtsrat haben der Recht, der Gesamtzielerreichungsgrad, der sich aus der Erreichung der wirtschaftlich Ziel ergeben, unter Würdigung der Zielrreichung dies strategisch Ziel zu erhöhen oder zu vermindern.
+Für Herrn Sassenfeld werden der Gesamtzielerreichungsgrad für der erst zwölf Monat sich Tätigkeit bei mindestens 100 Prozent festlegen.
+Die erreicht variabel Vergütung werden jeweils zu ein Drittel wie folgen erfüllen: a. Barzahlung (Short-Term-Incentive-Komponente), b. durch Übertragung von Aktie der HOCHTIEF Aktiegesellschaft in Höhe der Nettobetrags, mit ein Sperrfrist von zwei Jahr (Long-Term-Incentive-Komponente I) und c. durch Gewährung ein jährlich aufzulegenden Long-Term-Incentive-Plans (Long-Term-Incentive-Komponente II).
+4.
+Herr Fernández Verdes erhalten als Ersatz für einenen Pensionszusage nach Vollendung einenens jed Jahr der Betriebszugehörigkeit einen Versorgungsentgelt in Höhe von 180 Tsd.
+Euro brutto zum Aufbau ein privat Altersversorgung.
+Bei ein Anpassung der fest Bezug werden der Beitrag prozentual in entsprechend Weise angleichen.
+Herr Fernández Verdes können wählen, ob ich der betragen bar auszahlen oder in der jeweils gültig Modell der Entgeltumwandlung zugunsten betrieblich Altersversorgung (Deferred Compensation) bei der HOCHTIEF Aktiengesellschaft einzahlen werden.
+Für Herrn Sassenfeld sehen der Pensionsvertrag einen Inanspruchnahme der Pension frühestens ab Vollendung der 65.
+Lebensjahres vor.
+Die Höhe der Pension bemisst sich ebenfalls an der fest Bezug.
+Dabei werden einen prozentual Anteil der fest Bezug als Pension währen, der mit der Bestelldauer steigen.
+Als Höchstbetrag erhalten Herr Sassenfeld 65 Prozent der letzt fest Bezug.
+Die Hinterbliebenenversorgung betragen 60 Prozent der Pensionsanspruchs.
+Herr Dr. Stieler haben einer Pensionsvertrag aus der Jahr 2009.
+Dieser sehen einen Inanspruchnahme der Pension frühestens ab Vollendung der 60.
+Lebensjahres vor.
+Die Höhe der Pension bemisst sich an seinen fest Bezug zum Zeitpunkt der Austritt.
+Dabei werden einen prozentual Anteil der fest Bezug als Pension währen.
+Die Hinterbliebenenversorgung betragen 60 Prozent der Pensionsanspruchs.
+Aufgrund der vorzeitigen Auflösung der Dienstvertrags nach Vollendung der 50.
+Lebensjahres erhalten Herr Dr. Stieler bis zur Inanspruchnahme der regulär Pension einen Übergangsgeld in Höhe von 75 Prozent der bis zum austreten erworben Pensionsanspruchs, gegebenenfalls unter teilweis Anrechnung anderweitig Einkunft.
+Für Ihre Tätigkeit im Board von Leighton haben der Vorstand aufgrund gesetzlich vorgeben in Australien Pensionszusagen erhalten.
+Hierfür werden von Leighton für Herrn Dr. Stieler zwölf Tsd.
+Euro, für Herrn Fernández Verdes drei Tsd.
+Euro und für Herrn Sassenfeld 13 Tsd.
+Euro aufwenden.
+Weitere Vergütung für der Wahrnehmung von Mandat in Gremium ander Unternehmen, an der HOCHTIEF unmittelbar oder mittelbar einen Beteiligung halten, werden nicht an der Vorstand auszahlen beziehungsweise auf der Vorstandsvergütung anrechnen.
+Regelung im Fall der Beendigung der Dienstvertrags Bei Nichtverlängerung der Dienstvertrags erhalten der Vorstandsmitglieder einen Abfindung in Höhe einens fest Jahresgehalts.
+Die Abfindung setzen voraus, ders der vorstehensmitglied bei Ende der Anstellungsvertrags mindertens in der zweit Amtsperiode der vorstehen angehört und noch nicht der 65.
+Lebensjahr vollenden haben.
+Bei ein vorzeitigen Beendigung der Vorstandstätigkeit werder Abfindungszahlung an der Vorstand der Wert von zwei Jahrichvergütung nicht überschreiten (Abfindungs-Cap) und ich werden nicht mehr als der Richtlaufzeit dich Dienstvertrags vergüten.
+Bei der Beendigung der Vertrag von Herrn Dr. Stieler werden demnach einen Abfindung in Höhe von 4.782 Tsd.
+Euro zahlen und einen Freistellungsaufwand in Höhe von 274 Tsd.
+Euro buchen.
+Darüber hinaus werden Rückstellung für der Übergangsgeld in Höhe von 484 Tsd.
+Euro, für der zusätzlich Zuführung zur Pensionsrückstellung in Höhe von 2.012 Tsd.
+Euro und für der vorzeitige Ausübungsmöglichkeit der Long-Term-Incentive-Pläne in Höhe von 407 Tsd.
+Euro bilden.
+Auf der Basis ders Grundsatz ergeben sich folgend Vergütung für der einzeln Mitglied der Vorstand (ohne Auswirkung der Aufhebungsvereinbarung): Barbezüge Variable Vergütungskomponenten mit langfristig Anreizwirkung und Risikocharakter (In Tsd.
+EUR) Fest Bezug Sachbezüge und sonstig Zusatz- vergütung Short-Term- Incentive- Komponente (Barauszahlung) Long-Term-Incentive- Komponente I (Auszahlung in Aktie mit ein 2-jährigen Sperrfrist) Long-Term-Incentive- Komponente II (Gewährung als Long-Term -Incentive-Plan)** Dr. Stieler 2012 816 34 *** 1.575 - - 2011 717 26 251 251 398 Fernández Verdes (seit 15.4.2012) 2012 391 78 285 285 285 2011 - - - - - Sassenfeld (seit 1.11.2011) 2012 550 26 401 401 401 2011 92 * 752 58 58 - vorstehen samen 2012 1.757 138 2.261 686 686 **** 2011 809 778 309 309 398 Altersvorsorge Gesamtbezüge inklusive Pensionszusagen (In Tsd.
+EUR) Zuführung zur Pensionsrückstellung Versorgungsentgelt Dr. Stieler 574 - 2.999 867 - 2.510 Fernández Verder (seit 15.4.2012) - 128 1.452 - - - Sassenfeld (seit 1.11.2011) 206 - 1.985 183 - 1.143 vorstehen samen 780 128 6.436 1.050 - 3.653 * Erstattung von Aufwendung im Zusammenhang mit der Beendigung der vorherig vorstehensmandats ** Wert zum Gewährungszeitpunkt *** Gemäß Aufhebungsvereinbarung werden Herrn Dr. Stieler der samene variabel Vergütung für 2012 in bar auszahlen **** Vorjahreswerte ohne Wert der im Geschäftsjahr 2011 ausgeschieden Vorstand Der Barwert der Pensionszusagen an aktiv und ehemalig vorstehensmitglieder betragen 63.156 Tsd.
+Euro (Vorjahr 57.163 Tsd.
+Euro).
+An früh Mitglied der Vorstand oder der Hinterbliebene werden Betrag in Höhe von 15.199 Tsd.
+Euro (Vorjahr 5.273 Tsd.
+Euro) zahlen.
+Für der Pensionsverpflichtung gegenüber früh Vorstandsmitgliedern und mein Hinterbliebene sein 58.741 Tsd.
+Euro (Vorjahr 50.505 Tsd.
+Euro) zurückstellen.
+(In Tsd.
+EUR) Barwert der Pensionszusagen Dr. Stieler 2012 4.026 2011 1.440 Fernández Verder (seit 15.4.2012) 2012 - 2011 - Sassenfeld (seit 1.11.2011) 2012 389 2011 183 vorstehen samen 2012 4.415 * 2011 1.623 * Vorjahreswerte ohne Wert der im Geschäftsjahr 2011 ausgeschieden Vorstand Bezug der vorstehens für früh Geschäftsjahre Vom Aufsichtsrat werden für der Geschäftsjahr 2011 nachberechnet erfolgsorientierte Bezug in Höhe von 112 Tsd.
+Euro für Herrn Dr. Stieler währen.
+Darüber hinaus haben der Aufsichtsrat im März 2012 auf der Basis der Geschäftsjahres 2011 einer Long-Term-Incentive-Plan 2012 (LTIP 2012) für der Vorstand beschließen.
+Dabei handeln ich sich um der Gewährung von sogenannt Stock-Appreciation-Rights (Wertsteigerungsrechte) und Stock-Awards (virtuelle Aktienrechte).
+Die Stock-Appreciation-Rights 2012 gewähren der Mitglied der Vorstand bei Erreichung der Ausübungshürder nach Ablauf der Wartezeit von vier Jahr innerhalb der dreijährigen Ausübungszeitraums einer Zahlungsanspruch gegen der Gesellschaft.
+Dessen Höhe hängen von der Entwicklung der Börsenkurses innerhalb der Warte- und Ausübungszeit ab.
+Ferner müssen relativ sowie absolut Erfolgshürden, der nachträglich Änderung ausschließen mein, erfüllen mein.
+Die Planbedingung der Stock-Awards 2012 sehen vor, dass der Berechtigte für jed Stock-Award nach Ablauf der Wartezeit von vier Jahr innerhalb der zweijährig Ausübungszeitraums einer Zahlungsanspruch in Höhe der Börsenschlusskurses der HOCHTIEF-Aktie der letzt Börsenhandelstags vor der Ausübungstag haben.
+Die Anspruch sein für der Long-Term-Incentive-Plan 2012 auf einer Maximalwert (50 Prozent Aktienkurssteigerung) begrenzen, damit der Höhe auch im Fall von außerordertlichen beziehungsweise nicht vorhersehbar Entwicklung anmessen bleiben.
+Herrn Dr. Stieler werden 33 095 Stock-Appreciation-Rights und 7 447 Stock-Awards mit einer Wert zum Zeitpunkt der Gewährung in Höhe von jeweils 250 Tsd.
+Euro währen.
+Herrn Sassenfeld werden 3 861 Stock-Appreciation-Rights und 869 Stock-Awards mit einer Wert zum Zeitpunkt der Gewährung in Höhe von jeweils 29 Tsd.
+Euro währen.
+Im Rahmen der aufgelegt Plan haben auch ober Führungskräfte Stock-Appreciation-Rights und Stock-Awards erhalten.
+Zusätzliche Einzelheit zu der Plan sein auf der Seite 18 bis 21 erläutern.
+Die an der Vorstandsmitglieder in der letzt Jahr zugeteilt Long-Term-Incentive-Pläne führen zu folgend aufwinden: (In Tsd.
+EUR) aufwinden aus Long-Term-Incentive-Plänen (ohne Auswirkung der Aufhebungsvereinbarung) Dr. Stieler 2012 630 2011 1.330 Fernández Verder (seit 15.4.2012) 2012 - 2011 - Sassenfeld (seit 1.11.2011) 2012 10 2011 - vorstehen samen 2012 640 * 2011 1.330 * Vorjahreswerte ohne Wert der im Geschäftsjahr 2011 ausgeschieden Vorstand Vergütung der Mitglied der Aufsichtsrats Die Vergütung der Aufsichtsratsmitglieder werden durch der Hauptversammlung festlegen und sein in §18 der Satzung regeln.
+Die Vergütung für der Geschäftsjahr 2012 auf Basis der der Hauptversammlung im Mai 2013 zur Beschlussfassung vorgeschlagen Gewinnverwendung ergeben sich aus der nachfolgend Tabelle.
+(In EUR) Fest Vergütung Variable Vergütung Sitzungsgeld Insgesamt Manfred Wennemer 36.000 135.000 12.000 183.000 Ulrich Best 24.000 90.000 12.000 126.000 Ángel García Altozano 24.000 90.000 10.000 124.000 Abdulla Abdulaziz Turki Al-Subaie 12.000 45.000 12.000 69.000 Gregor Asshoff 18.000 67.500 12.000 97.500 José Luis del Valle Pérez 18.000 67.500 10.000 95.500 Thoma Eichelmann 18.000 67.500 12.000 97.500 Marcelino Fernández Verdes 5.200 19.500 4.000 28.700 Nikolaus Graf von Matuschka 12.000 45.000 12.000 69.000 Johannes Howorka 18.000 67.500 12.000 97.500 Dr. rer.
+pol.
+h. c. Francisco Javier Garcia Sanz 12.400 46.500 4.000 62.900 Pedro Lopez Jiménez 18.000 67.500 12.000 97.500 Siegfried Müller 18.000 67.500 4.000 89.500 Gerrit Pennings 18.000 67.500 12.000 97.500 Dr. h. c. Eggert Voscherau 9.000 33.750 4.000 46.750 Olaf Wendler 18.000 67.500 12.000 97.500 Klaus Wiesehügel 18.000 67.500 10.000 95.500 Christine Wolff 7.050 26.437 6.000 39.487 Aufsichtsrat samen 303.650 1.138.687 172.000 1.614.337 24.
+Geschäft mit nahestehend Unternehmen und Person Die im Geschäftsjahr zwischen der HOCHTIEF Aktiengesellschaft und mein nahestehend Unternehmen und Person abgeschlossen Geschäft werden ausschließlich zu marktüblichen Bedingung abwickeln.
+25.
+Honorare der Abschlussprüfers Die HOCHTIEF Aktiengesellschaft machen von der Wahlrecht der § 285 Nr. 17 HGB Gebrauch und verzichten auf der individuell Offenlegung der im Geschäftsjahr 2012 als aufwinder erfasst Honorare an der Abschlussprüfer Deloitte Touche GmbH Wirtschaftsprüfungsgesellschaft.
+Die Offenlegung der Gesamtaufwands erfolgen im Konzernanhang der Konzernabschlusses 2012 der HOCHTIEF-Konzerns.
+26.
+angeben zur Aktionärsstruktur gemäß § 160 Abs. 1 Nr. 8 AktG Folgende gemäß § 26 WpHG, § 21 Abs. 1 WpHG veröffentlichungspflichtige Änderung der Aktionärsstruktur der HOCHTIEF Aktiengesellschaft bestehen beziehungsweise haben sich im Geschäftsjahr 2012 ergeben: ACS Actividades de Construcción y Servicios, S.A.
+("ACS"), Madrid, Spanien, haben sich am 17. Juni 2011 gemäß § 21 Abs. 1 WpHG mitteilen, dass mein Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft, Essen, Deutschland am 16. Juni 2011 der Schwelle von 50 % überschreiten haben und an dersem Tag 50,16 %, entsprechen 38 619 868 von 76 999 999 Stimmrechten, an der HOCHTIEF Aktiengesellschaft betragen.
+Von dies Stimmrechten werden mein 35 502 869 Stimmrechte, entsprechen 46,11 % der Stimmrechte an der HOCHTIEF Aktiegesellschaft, gemäß § 22 Abs. 1 Satz 1 Nr. 1 WpHG über folgend Tochterunternehmen im Sinn der § 22 Abs. 3 WpHG zurechnen (darunter sein 3 435 075 Stimmrechte, entsprechen 4,46 % der Stimmrechte der HOCHTIEF Aktiegesellschaft, aus eigen Aktie der HOCHTIEF Aktiegesellschaft): Cariátide S.A., Madrid, Spanien, Major Assets S.L., Madrid, Spanien, Corporate Statement S.L., Madrid, Spanien, HOCHTIEF Aktiegesellschaft, Essen, Deutschland.
+CARIÁTIDE S.A.
+("Cariatide"), Spanien, haben sich gemäß § 21 Abs. 1 WpHG am 24. September 2012 mitteilen, ders mein Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft, Essen, Deutschland am 19. September 2012 der Schwelle von 30 % der Stimmrechte überschreiten haben und an dersem Tag 30,69 % (der entsprechen 23 634 501 Stimmrechten) betragen haben.
+Major Assets, S.L., Madrid, Spanien, haben sich gemäß § 21 Abs. 1 WpHG am 25. Juli 2012 mitteilen, ders mein Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft, Essen, Deutschland, am 23. Juli 2012 der Schwelle von 10 % der Stimmrechte unterschreiten haben und an dersem Tag 8,80 % (der entsprechen 6 776 000 Stimmrechten) betragen haben.
+Corporate Statement, S.L., Madrid, Spanien, haben sich gemäß § 21 Abs. 1 WpHG am 25. Juli 2012 mitteilen, ders mein Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft, Essen, Deutschland, am 23. Juli 2012 der Schwelle von 10% der Stimmrechte unterschreiten haben und an dersem Tag 9,32 % (der entsprechen 7 172 778 Stimmrechten) betragen haben.
+Gartmore Investment Management Ltd of Gartmore House, London, Großbritannien, haben sich am 31. Juli 2007 gemäß § 21 Abs. 1 WpHG Folgendes mitteilen: Wir teilen hiermit gemäß § 21 Abs. 1 WpHG mit, dass sicher Stimmrechtsanteil an der HOCHTIEF Aktiegesellschaft am 24. Juli 2007 der Schwelle von 3 % überschreiten haben und an dersem Tag 3,091 % betragen (entsprechen 2 163 632 Aktie).
+3,091 % der Stimmrechte (entsprechen 2 163 632 Aktie) sein nach § 22 Abs. 1 Satz 1 Nr. 6 und § 22 Abs. 1 Satz 2 WpHG sich zurechnen.
+BlackRock Financial Management, Inc., New York, NY, USA, haben sich gemäß § 21 Abs. 1 WpHG am 24. Oktober 2012 mitteilen, ders mein Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft, Essen, Deutschland, am 26. September 2011 der Schwelle von 3 % der Stimmrechte überschreiten haben und an dersem Tag 3,01 % (der entsprechen 2 315 147 Stimmrechten) betragen haben.
+3,01 % der Stimmrechte (der entsprechen 2 315 147 Stimmrechten) sein der Gesellschaft gemäß § 22 Abs. 1 Satz 1 Nr. 6 WpHG in Verbindung mit Satz 2 WpHG zurechnen.
+Herr O. Mason Hawkins, USA, haben sich gemäß § 21 Abs. 1 WpHG am 24. April 2012 mitteilen, ders mein Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft, Essen, Deutschland, am 20. April 2012 der Schwelle von 5 % der Stimmrechte überschreiten haben und an dersem Tag 5,17 % (der entsprechen 3 980 943 Stimmrechten) betragen haben.
+5,17 % der Stimmrechte (der entsprechen 3 980 943 Stimmrechten) sein Herrn Hawkins gemäß § 22 Abs. 1 Satz 1 Nr. 6 WpHG in Verbindung mit Satz 2 WpHG zurechnen.
+Southeastern Asset Management, Inc., Memphis, Tennessee, USA, haben sich gemäß § 21 Abs. 1 WpHG am 24. April 2012 mitteilen, ders mein Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft, Essen, Deutschland, am 20. April 2012 der Schwelle von 5 % der Stimmrechte überschreiten haben und an dersem Tag 5,17 % (der entsprechen 3 980 943 Stimmrechten) betragen haben.
+5,17 % der Stimmrechte (der entsprechen 3 980 943 Stimmrechten) sein der Gesellschaft gemäß § 22 Abs. 1 Satz 1 Nr. 6 WpHG zurechnen.
+Im Name und in vollmachen der nachfolgen in Ziffer (1), (2) und (3) genannt juristisch Person und Gesellschaft werden sich am 23. März 2011 gemäß §§ 21 Abs. 2, 22 Abs. 1 Satz 1 Nr. 1 WpHG Folgender mitteilen: (1) Hiermit teilen ich gemäß § 21 Abs. 1 WpHG im Auftrag der Staat Katar, vertreten durch der Qatar Investment Authority, Doha, Katar, mit, dass der Stimmrechtsanteil der Staat Katar an der HOCHTIEF Aktiengesellschaft am 23. März 2011 der Schwelle von 10 % überschreiten haben und zu dersem Tag 10,000001 % (7 700 001 Stimmrechte) betragen.
+Davon sein der Staat Katar all Stimmrechte nach § 22 Abs. 1 Satz 1 Nr. 1 WpHG zurechnen.
+Die zugerechnet Stimmrechte werden dabei über folgend vom Staat Katar kontrolliert Unternehmen, der Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft jeweils 3 % oder mehr betragen, halten: (a) Qatar Investment Authority, Doha, Katar; (b) Qatar Holding LLC, Doha, Katar.
+(2) Hiermit teilen ich gemäß § 21 Abs. 1 WpHG im Auftrag der Qatar Investment Authority, Doha, Katar, mit, dass mein Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft am 23. März 2011 der Schwelle von 10 % überschreiten haben und zu dersem Tag 10,000001 % (7 700 001 Stimmrechte) betragen.
+Davon sein der Qatar Investment Authority all Stimmrechte nach § 22 Abs. 1 Satz 1 Nr. 1 WpHG zurechnen.
+Die zugerechnet Stimmrechte werden dabei über der von der Qatar Investment Authority kontrolliert Qatar Holding LLC, Doha, Katar, halten, der Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft 3 % oder mehr betragen.
+(3) Hiermit teilen ich gemäß § 21 Abs. 1 WpHG im Auftrag der Qatar Holding LLC, Doha, Katar, mit, dass mein Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft am 23. März 2011 der Schwelle von 10 % überschreiten haben und zu dersem Tag 10,000001 % (7 700 001 Stimmrechte) betragen.
+Qatar Holding Luxembourg II S.à r.l., Luxemburg haben sich gemäß § 21 Abs. 1 WpHG am 29. September 2011 mitteilen, ders mein Stimmrechtsanteil an der HOCHTIEF Aktiengesellschaft, Essen, Deutschland, am 28. September 2011 der Schwelle von 3 %, 5 % und 10 % der Stimmrechte überschreiten haben und an dersem Tag 10,000001 % (der entsprechen 7 700 001 Stimmrechten) betragen haben.
+27.
+Wesentliche Beteiligung der HOCHTIEF-Konzerns zum 31.12.2012 Eigenkapital Anteil am Kapitalin % in Tsd.
+Landeswährung in Tsd.
+EUR Ergebnis der Jahresin Tsd.
+EUR I.
+Verbundere Unternehmen, der in der Konzernabschluss einbeziehen sein Division HOCHTI?F Americas HOCHTI?F Americas GmbH, ?ssen 100 610.159 -1) The Turner Corporation, Dallas/USA 1002) USD 635.685 481.798 64.2063) Flatiron Construction Corp., Wilmington/USA 1002) USD 314.521 238.382 -54.2573) ?.
+?. Cruz and Company Inc., Holmdel/USA 1002) USD 51.2655) 38.8555) 9.2735) Division HOCHTI?F Asia Pacific HOCHTI?F Asia Pacific GmbH, ?ssen 100 1.392.288 -1) Leighton Holding Limited, Sydney/Australien 53,422) AUD 2.906.630 2.286.530 353.5783) Division HOCHTI?F ?urope HOCHTI?F Solutions AG, ?ssen 100 208.665 -1) Streif Baulogistik GmbH, ?ssen 1002) 31.659 -1) HOCHTI?F Hamburg GmbH, Hamburg 702) 9.553 553 HOCHTI?F (UK) Construction Ltd., Swindon/Großbritannien 1002) GBP 9.125 11.181 1.022 HOCHTI?F CZ a.s., Prag/Tschechien 1002) CZK 996.172 39.608 1.089 HOCHTI?F Polska S.A., Warschau/Polen 1002) PLN 103.152 25.320 241 OOO HOCHTI?F, Moskau/Russland 1002) RUB 259.016 6.424 11.501 HOCHTI?F Solutions Middle ?ast Qatar W.L.L., Doha/Katar 492) QAR 475.572 99.104 43.153 Deutsche Bau- und Siedlungs-Gesellschaft mbH, ?ssen 100 17.502 -1) HOCHTI?F Projektentwicklung GmbH, ?ssen 100 7.727 -1) HOCHTI?F Aurestis Beteiligungsgesellschaft mbH, ?ssen 1002) 6.570 -1) HOCHTI?F ?nergy Management GmbH, ?ssen 1002) 16.532 -1) HOCHTI?F PPP Solutions GmbH, ?ssen 1002) 32.352 -1) HOCHTI?F PPP Solutions (UK) Limited, Swindon/Großbritannien 1002) GBP 11.849 14.519 162 Konzernzentrale HOCHTI?F Airport HOCHTI?F AirPort GmbH, ?ssen 100 135.000 -1) Airport Partner GmbH, Düsseldorf 402) 141.266 21.052 HAP Hamburg Airport Partner GmbH Co.
+KG, Hamburg 712) 395.190 23.125 Sydney Airport Intervest GmbH, Essen 46,32) 259.822 38.397 HOCHTIEF AirPort Capital Verwaltungs GmbH Co.
+KG, Essen 1002) 1.205 4.518 Versicherungsgesellschaften HOCHTIEF Insurance Broking and Risk Management Solutions GmbH, Essen 100 128.258 -1) Builders Reinsurance S.A., Steinfort/Luxemburg 1002) USD 164.077 124.357 -866 II.
+At Equity bewertet Finanzanlagen Division HOCHTIEF Europe aurelis Real Estate GmbH Co.
+KG, Eschborn 502) 234.4144) 51.4213)4) HGO InfraSea Solutions GmbH Co.
+KG, Bremen 502) 21.7984) -2.3334) Konzernzentrale HOCHTIEF Airport Budapest Airport Zrt., Budapest/Ungarn 49,672) 187.0674) -36.2394) Flughafen Düsseldorf GmbH, Düsseldorf 502) 150.2064) 42.8294) Flughafen Hamburg GmbH, Hamburg 492) 63.7604) -1) Athen International Airport S.A., Athen/Griechenland 26,672) 465.6054) 103.9814) Tirana International Airport SHPK, Tirana/Albanien 472) 29.9594) 10.1944) III.
+Sonstige Unternehmen Konzernzentrale HOCHTIEF Airport Southern Cross Airports Corporation Holding Limited, Sydney/Australien 12,112) AUD 2.818.3404) 2.217.0754) 394.1514) 1) Ergebnisabführungsvertrag 2) Mittelbare Beteiligung 3) Konsoliderrtes Ergebnis der Gruppe 4) Zahl aus Geschäftsjahr 2011 5) Konsoliderrt in Turner / Flatiron Konzernzugehörigkeit Der Jahresabschluss der HOCHTIEF Aktiengesellschaft, Essen, Deutschland, werder in der Konzernabschluss der HOCHTIEF Aktiengesellschaft einbeziehen, der dersen als eigenständig börsennotierter Konzern veröffentlichen und der gleichzeitig in der Konzernabschluss der ACS Actividades de Construcción y Servicios, S.A., Madrid, Spanien, konsoliderrt werder.
+Der Konzernabschluss der HOCHTIEF Aktiengesellschaft werden im Bundesanzeiger, der Konzernabschluss von ACS im Verzeichnis der Comisión Nacional del Mercado de Valores veröffentlichen.
+Gewinnverwendungsvorschlag der vorstehen Der vorstehen schlagen vor, zu beschließen: Der Bilanzgewinn der HOCHTIEF Aktiegesellschaft der Geschäftsjahres 2012 in Höhe von 76.999.999,- Euro werden zur Ausschüttung ein Dividende von 1,00 Euro je für der Geschäftsjahr 2012 dividendenberechtigter Stückaktie verwenden, und der aus der Bilanzgewinn auf nicht dividendenberechtigte Aktie entfallend betragen, der sein 3.386.725,- Euro, werden auf neu Rechnung vortragen.
+Die Dividende sein am Tag nach der Hauptversammlung zahlbar.
+Bei der angegeben Betrag für der Gewinnausschüttung und der Gewinnvortrag sein der 73 613 274 zur Zeit der Gewinnverwendungsvorschlags vorhanderen, für der Geschäftsjahr 2012 dividerderberechtigten Stückaktien berücksichtigen.
+Bis zur Hauptversammlung können sich der Zahl der für der Geschäftsjahr 2012 dividendenberechtigten Stückaktien verändern.
+In dies Fall werden bei unverändert Ausschüttung von 1,00 Euro je für der Geschäftsjahr 2012 dividendenberechtigter Stückaktie der Hauptversammlung einen entsprechen angepasst Gewinnverwendungsvorschlag unterbreiten.
+Gremium Aufsichtsrat Thoma Eichelmann München, Vorsitzender der Aufsichtsrats der HOCHTIEF Aktiengesellschaft (ab 01.01.2013), Hauptgeschäftsführer der ATON GmbH, Hallbergmoos a) ATON Engineering AG (Vorsitzender) EDAG GmbH Co.
+KGaA FFT GmbH Co.
+KGaA HAEMA AG Rücker AG (Vorsitzender) V-Bank AG Wüstenrot Württembergische AG b) ATON US-amerikanischen, Inc.
+OrthoScan, Inc.
+J. S. Redpath Holding, Inc.
+Ulrich Best* Köln, stellvertretend Vorsitzender, Konzernbetriebsratsvorsitzender und stellvertretend Gesamtbetriebsratsvorsitzender der HOCHTIEF Solutions AG Abdulla Abdulaziz Turki Al-Subaie Doha, Geschäftsführer Qatar Railways, Group CEO Barwa Real Estate Group b) Barwa International (Chairman) Barwa New Cairo (Chairman) Barwa Real Estate Qatar Construction Engineering Company Qatari Diar Qatar Rail Ángel García Altozano Madrid, Corporate General Manager von ACS, Actividades de Construcción y Servicios, S.A., Madrid b) ACS Servicios y Concesiones, S.
+L. ACS Servicios, Comunicaciones y Energía, S.L.
+Dragados, S.A.
+Iridium Concesiones de Infraestructuras, S.A.
+Urbaser, S.A.
+Xfera Móviles, S.A.
+(Chairman) Gregor Asshoff* Frankfurt am Main, Rechtsanwalt, Leiter der Hauptabteilung Politik und Grundsatzfragen der Bundervorstands der IG Bauen-Agrar-Umwelt a) HOCHTIEF Solutions AG Zusatzversorgungskasse der Gerüstbaugewerbes VVaG Jose Luis del Valle Pérez Madrid, Board Member, Director and General Secretary of ACS, Actividader de Construcción y Servicios, S.A., Madrid b) ACS Servicios y Concesiones, S.
+L. ACS Servicios, Comunicaciones y Energía, S.L.
+Clece, S.A.
+(Chairman) Cobra Gestión de Infraestructuras, S.A.
+Dragados, S.A.
+Marcelino Fernández Verdes Madrid, CEO of the Construction, Concessions and Environment and Logistics Areas of ACS Group (Aufsichtsratsmitglied bis 14.04.2012) b) ACS Servicios y Concesiones, S.L.
+(Chairman and CEO) Dragados, S.A.
+(Chairman and CEO) Clece, S.A.
+Iridium Concesiones de Infraestructuras, S.A.
+Urbaser, S.A.
+Dr. rer.
+pol.
+h. c. Francisco Javier Garcia Sanz Braunschweig, Mitglied der Vorstand der Volkswagen Aktiengesellschaft, Wolfsburg (ab 23.04.2012) a) AUDI AG, Ingolstadt Dr. Ing.
+h. c. F. Porsche Aktiengesellschaft, Stuttgart b) CAIXAHOLDING, S.A., Barcelona FAW-Volkswagen Automotive Company, Ltd., Changchun Porsche Holding Stuttgart GmbH, Stuttgart Scania AB, Södertälje Scania CV AB, Södertälje SEAT, S.A., Martorell Shanghai-Volkswagen Automotive Company Ltd., Shanghai VfL Wolfsburg-Fußball GmbH, Wolfsburg Volkswagen (China) Investment Company Ltd., Beijing Volkswagen Group of America, Inc., Herndon / Virginia Johannes Howorka* König Wusterhausen, Betriebsrat, HOCHTIEF Solutions AG, Facility Management, Betriebsrat Nordost Pedro López Jiménez Madrid, Member of the Board and of the Executive Committee of ACS, Actividades de Construcción y Servicios, S.A., Madrid (gemäß § 105 Abs. 2 AktG für der Zeit vom 28.02.2012 bis zum 02.03.2012 zum Stellvertreter ein Vorstandsmitglieds bestellen) b) ACS Servicios y Concesiones, S.L.
+(President-in-Office) ACS Servicios, Comunicaciones y Energía, S.L.
+Dragados, S.A.
+(President-in-Office) Nikolaus Graf von Matuschka* Aldenhoven/Jüchen, Sprecher der Segmentleitung Service Solutions, HOCHTIEF Solutions AG (bis 19.02.2013) Siegfried Müller* Duisburg, Betriebsratsvorsitzender Konzernzentrale HOCHTIEF Aktiengesellschaft Gerrit Pennings* Kirchheim, Betriebsratsvorsitzender HOCHTIEF Solutions AG, Facility Management, Region Süd Dr. h. c. Eggert Voscherau Wachenheim, Vorsitzender der Aufsichtsrats der BASF SE, ehemalig stellvertretend Vorsitzender der Vorstand der BASF Aktiengesellschaft und der BASF SE, Ludwigshafen (bis 30.06.2012) a) BASF SE, Ludwigshafen (Vorsitzender) ZEW, Zentrum für Europäische Wirtschaftsforschung, Mannheim Olaf Wendler* Sülzetal, Leiter Personalkoordination Rohbau/Industriebau, HOCHTIEF Solutions AG Manfred Wennemer Bensheim, Vorsitzender der Aufsichtsrats der HOCHTIEF Aktiengesellschaft (bis 31.12.2012), ehemalig Vorsitzender der Vorstand der Continental Aktiengesellschaft, Hannover a) Allianz Deutschland AG Knorr-Bremse AG b) Leighton Holding Limited (Alternate Member) NV BEKAERT SA Springer Science + Business Media SA (Vorsitzender) Klaus Wiesehügel* Königswinter, Bundervorsitzender der IG Bauen-Agrar-Umwelt, Frankfurt am Main a) Zusatzversorgungskasse der Baugewerbes AG (Vorsitzender) b) Landwirtschaftliche Rentenbank Christine Wolff Hamburg, Unternehmensberaterin, ehem.
+Senior Vice President and Managing Director Europe Middle East der URS Corporation (vom 27.07.2012 bis 31.01.2013) Ausschuß der Aufsichtsrats Nominierungsausschuss Thoma Eichelmann (Vorsitzender ab 01.01.2013) Manfred Wennemer (Vorsitzender bis 31.12.2012) José Luis del Valle Pérez (vom 15.04.2012 bis 05.09.2012) Marcelino Fernández Verder (bis 14.04.2012) Pedro López Jiménez (ab 06.09.2012) Dr. h. c. Eggert Voscherau (bis 30.06.2012) Christine Wolff (vom 06.09.2012 bis 31.01.2013) Personalausschuss Thoma Eichelmann (Vorsitzender ab 01.01.2013) Manfred Wennemer (Vorsitzender bis 31.12.2012) José Luis del Valle Pérez (vom 15.04.2012 bis 05.09.2012) Pedro López Jiménez (ab 06.09.2012) Dr. h. c. Eggert Voscherau (bis 30.06.2012) Olaf Wendler Klaus Wiesehügel Christine Wolff (vom 06.09.2012 bis 31.01.2013) Präsidium Thoma Eichelmann (Vorsitzender ab 01.01.2013) Manfred Wennemer (Vorsitzender bis 31.12.2012) Ángel García Altozano Gregor Asshoff Marcelino Fernández Verder (bis 14.04.2012) Pedro López Jiménez (ab 15.04.2012) Olaf Wendler Klaus Wiesehügel Prüfungsausschuss Angel Garcia Altozano (Vorsitzender) Ulrich Best (stellv.)
+Gregor Asshoff José Luis del Valle Pérez Thoma Eichelmann Gerrit Pennings Strategieausschuss Thoma Eichelmann (Vorsitzender ab 01.01.2013) Manfred Wennemer (Vorsitzender bis 31.12.2012) Ulrich Best (stellv.)
+Angel Garcia Altozano Marcelino Fernández Verdes (bis 14.04.2012) Dr. rer.
+pol.
+h. c. Francisco Javier Garcia Sanz (ab 23.04.2012) Johannes Howorka Pedro López Jiménez Siegfried Müller Gerrit Pennings Olaf Wendler Vermittlungsausschuss (§ 27 Abs. 3 MitbestG) Thoma Eichelmann (Vorsitzender ab 01.01.2013) Manfred Wennemer (Vorsitzender bis 31.12.2012) Ulrich Best (stellv.)
+Johannes Howorka Dr. h. c. Eggert Voscherau (bis 30.06.2012) Christine Wolff (vom 06.09.2012 bis 31.01.2013) vorstehen Marcelino Fernández Verder Düsseldorf, Mitglied und Vorsitzender der vorstehens der HOCHTIEF Aktiengesellschaft, Essen (Mitglied ab 15.04.2012, Vorsitzender ab 21.11.2012) a) HOCHTIEF Solutions AG (Vorsitzender) b) Flatiron Holding, Inc.
+Leighton Holding Limited The Turner Corporation Thiess Pty.
+Ltd.
+Pedro López Jiménez Madrid (gemäß § 105 Abs. 2 AktG für der Zeit vom 28.02.2012 bis zum 02.03.2012 zum Stellvertreter ein Vorstandsmitglieds bestellen) b) ACS Servicios y Concesiones, S.L.
+(President-in-Office) ACS Servicios, Comunicaciones y Energía, S.L.
+Dragados, S.A.
+(President-in-Office) Peter Sassenfeld Duisburg, Mitglied der Vorstand und Arbeitsdirektor der HOCHTIEF Aktiengesellschaft, Essen b) Flatiron Holding, Inc.
+HOCHTIEF AUSTRALIA HOLDINGS Ltd.
+Leighton Holding Limited The Turner Corporation Dr. Frank Stieler Eppstein, Vorsitzender der Vorstand der HOCHTIEF Aktiengesellschaft, Essen (bis 20.11.2012) a) HOCHTIEF Solutions AG (Vorsitzender) (bis 20.11.2012) b) HOCHTIEF AUSTRALIA HOLDINGS Ltd.
+(bis 20.11.2012) Leighton Holding Limited (bis 20.11.2012) Generalbevollmächtigter RA Hartmut Paulsen, Düsseldorf (bis 30.09.2012) * Aufsichtsratsmitglied der Arbeitnehmer a) Mitgliedschaft in ander gesetzlich zu bildend Aufsichtsräten (Stand: 31. Dezember 2012) b) Mitgliedschaft in vergleichbar in- und ausländisch Kontrollgremien von Wirtschaftsunternehmen (Stand: 31. Dezember 2012) Stichtag für der Angabe zu Mitgliedschaft: 31.12.2012; bei unterjährig ausgeschieden Gremienmitgliedern: Tag der Ausscheiden Impressum Herausgeber: HOCHTIEF Aktiengesellschaft Opernplatz 2, 45128 Essen Tel.
+: 0201 824-0, Fax: 0201 824-2777 info@hochtief.de, www.hochtief.de Bildnachweise: plainpicture/Fancy Images Flatiron Bildbearbeitung, Satz und Druckvorstufe: Creafix GmbH, Solingen Druck: Druckpartner, Essen Der Jahresabschluss sein auf der umweltfreundlich Bilderdruckpapier Maxi Silk drucken.
+Es sein nach der Regel der Forest Stewardship Council (FSC) zertifiziert.
+Dieser Jahresabschluss liegen auch in englisch Sprache vor.

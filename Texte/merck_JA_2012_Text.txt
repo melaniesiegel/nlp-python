@@ -1,0 +1,1100 @@
+ var htdocs = '/ebanzwww/..'; var css = '/ebanzwww/../css'; var images = '/ebanzwww/../images'; var path = '/ebanzwww/wexsservlet'; var wexsservlet_url = 'https://publikations-plattform.de/sp/wexsservlet'; var contentloader_url = '/ebanzwww/contentloader'; var session = 'session.sessionid=0c20b7b2f963372e84459686a04d3c05'; var search_field_placeholder = 'ISIN, WKN, Fondsname, Gesellschaft'; Bundesanzeiger Schnellsuche |Kontakt |Übersicht |Fragen Antworten |Newsletter |Mobil Publikations-Plattform Unternehmensregister »Startseite »Suchen »Wissenswertes »Info-Dienst »Anmelden »Registrieren »Startseite ›Schnellsuche Suchen Suchbegriff: Welchen Bereich möchten Sie durchsuchen?
+Alle Bereiche Amtlicher Teil Gerichtlicher Teil Gesellschaftsbekanntmachungen Kapitalmarkt Nichtamtlicher Teil Rechnungslegung/Finanzberichte Verschiedene Bekanntmachungen »Erweiterte Suche Eine Volltextrecherche über den Veröffentlichungsinhalt ist bei Jahresabschlüssen/ Jahresfinanzberichten und Veröffentlichungen nach §§264Abs.3, 264bHGB nicht möglich.
+Hinterlegte Jahresabschlüsse (Bilanzen) stehen im Unternehmensregister zur Beauskunftung zur Verfügung.
+« Vorheriger Eintrag »Zurück zur Ergebnisseite Nächster Eintrag » Name Bereich Information V.-Datum Relevanz MERCK Kommanditgesellschaft auf AktienDarmstadt Rechnungslegung/Finanzberichte Jahresabschluss zum Geschäftsjahr vom 01.01.2012 bis zum 31.12.2012 03.06.2013 100% »Druckversion Merck KGaA Darmstadt Jahresabschluss zum Geschäftsjahr vom 01.01.2012 bis zum 31.12.2012 Jahresabschluss 2012 der Merck KGaA Lagebericht Merck KGaA Die Merck KGaA mit Sitz in Darmstadt ist die Obergesellschaft der Merck-Gruppe und umfasst im Wesentlichen die Werke Darmstadt und Gernsheim.
+Darmstadt ist Sitz und Hauptstandort der Merck-Gruppe und damit zentraler Produktions- und Forschungsstandort.
+Hier sind auch zahlreiche Abteilungen beheimatet, deren Mitarbeiter die Tochtergesellschaften unterstützen oder zentrale Dienstleistungen erbringen, beispielsweise in den Bereichen Personal, Recht und Patente, Steuer, Technik, IT, Einkauf, Logistik, Marketing und Vertrieb sowie Rechnungswesen und Controlling.
+Wegen der engen wirtschaftlichen Verflechtung mit allen anderen Gesellschaften der Merck-Gruppe ist die Vermögens-, Finanz- und Ertragslage der Merck KGaA nicht separat, sondern nur für die Merck-Gruppe insgesamt zutreffend zu beurteilen.
+Wir verweisen insoweit auf den Konzernabschluss der Merck-Gruppe und die dort getroffenen Aussagen.
+Geschäftsentwicklung ...
+Mit Ausnahme des 4.
+Quartals konnten in allen Quartalen die Umsatzzahlen des Vorjahres deutlich überschritten werden.
+Der ausgewiesene Umsatz lag mit 3.199 Mio € um 6,5 % über dem Vorjahr (3.004 Mio €).
+Der Unternehmensbereich Pharma zeigte in allen Quartalen, mit Ausnahme des 3.
+Quartals, einen Anstieg im Vergleich zum Vorjahr.
+Insgesamt ergibt sich damit für den Unternehmensbereich Pharma ein Umsatzanstieg von 4,7 %.
+Im Unternehmensbereich Chemie war der Quartalsverlauf unterschiedlich, 2. und 3.
+Quartal über Vorjahr, dagegen 1. und 4.
+Quartal unter Vorjahr.
+Für das Gesamtjahr ergab sich dadurch für den Chemiebereich ein Umsatzanstieg von 7,8 %.
+Insbesondere das Geschäft mit Liquid Crystals hat mit einem Anstieg von 14,1 % diese gute Entwicklung getragen.
+Das Pigmentgeschäft war um 4,2 % schwächer als im Vorjahr.
+... in den regionalen Märkten Umsatzveränderung zum Vorjahr Mio € % Deutschland -9,9 -2,0 Export 204,9 8,1 Gesamt 195,0 6,5 Der Rückgang in Deutschland zeigt sich in allen Geschäftsbereichen.
+Insbesondere das Pigmentgeschäft war mit -9,9 % (4,5 Mio €) deutlich schwächer als in 2011.
+Im Exportgeschäft konnte insbesondere in den Emerging Markets (Latein Amerika, Asien ohne Japan) mit 16,7 % ein kräftiges Wachstum erzielt werden.
+In Afrika wurden mit 16,1 % ebenfalls ein deutliches Wachstum erreicht.
+Die anderen großen Regionen zeigen eine Stagnation, wie Europa (-0,4 %) oder einen Rückgang, wie Nord Amerika (-7,4 %).
+Hohe Anstiege in den Emerging Markets wurden in der Republik Korea (+52,1 %), Mexiko (+36,3 %) und China (+34,0 %) erwirtschaftet, wobei in der Republik Korea die Geschäfte mit den Flüssigkristallen (+54,6 %) und das Pharmageschäft (+39,9 %) hohe Zuwächse erzielen konnten.
+In Mexiko konnte das Pharmageschäft mehr als verdoppelt werden (+106,3 %), insbesondere durch höhere Lieferungen von Erbitux® und Cardiovascular.
+Ebenso in China war das Pharmageschäft deutlich besser (+51,8 %).
+... in den Unternehmensbereichen Der Umsatzzuwachs im Unternehmensbereich Pharma von 1.287,1 Mio € auf 1.347,4 Mio € wurde durch Zuwächse im Export (6,6 %) erzielt.
+Das Inland zeigt einen leichten Rückgang (-1,2 %).
+Die Umsätze von Erbitux® konnten in 2012 um 62,8 Mio € (+10,8 %) verbessert werden.
+Hintergrund hierfür ist hauptsächlich der Umsatzanstieg in China (+119,1 %) und Afrika (+82,4 %).
+In Afrika konnten in mehreren Ländern die Erbitux®-Umsätze erhöht werden, u. a. durch erstmalige Zulassungen und Tendergeschäfte.
+Dagegen waren insbesondere die Umsätze in Polen (-66,8 %) und Italien (-14,1 %) schwächer.
+Der Rückgang in Polen liegt daran, dass Merck für Erbitux® den 1st line reimbursement Status verloren hat.
+Der Anteil des Unternehmensbereichs Pharma am Gesamtumsatz der Merck KGaA beträgt 42 % (i. Vj.
+43 %).
+Der Unternehmensbereich Chemie erzielte einen Umsatz von 1.852,1 Mio € (i. Vj.
+1.717,3 Mio €).
+Der Umsatzanstieg gegenüber dem Vorjahr von 7,8 % resultierte insbesondere aus der Sparte Perfomance Materials (10,9 %).
+Das Geschäft mit den Flüssigkristallen konnte aufgrund erhöhter Nachfrage nach neuen Produkten (3D-TV, Tablets) mit einem Anstieg von 14,1 % (133,4 Mio €) deutlich zulegen.
+Hier sind insbesondere höhere Lieferungen an die Hersteller der oben genannten Produkte in die Republik Korea (+54,6 %; 156,3 Mio €) zu nennen.
+Das Geschäft an die Hersteller in Japan war dagegen mit -7,4 % (11,5 Mio €) rückläufig.
+Der Anteil des Unternehmensbereichs Chemie am Gesamtumsatz der Merck KGaA beträgt 58 % (i. Vj.
+57 %).
+Ertragslage Das Ergebnis der gewöhnlichen Geschäftstätigkeit ist gegenüber dem Vorjahr von +1.326,9 Mio € auf -17,2 Mio € gesunken.
+Die sonstigen betrieblichen Erträge verminderten sich um 115,2 Mio € auf 375,6 Mio €.
+Die Reduktion ist im Wesentlichen auf Einmaleffekte im Vorjahr zurückzuführen; insbesondere die im Vorjahr realisierten Patent- und Lizenzerlöse aus der Auslizensierung an Clinical Data bzw. Ono sowie der Veräußerungsgewinn aus den Beteiligungen an Clinical Data und Crop Biosciences Gesellschaften haben hierzu beigetragen.
+Die Materialeinsatzquote (Materialaufwand / Gesamtleistung) hat sich von 26,4 % auf 25,8 % gegenüber dem Vorjahr verbessert.
+Der Personalaufwand ist, vor allem infolge von Restrukturierungsmaßnahmen, deutlich angestiegen.
+Die sonstigen betrieblichen Aufwendungen erhöhten sich von 1.295,6 Mio € im Vorjahr um 184,1 Mio € auf 1.479,7 Mio €.
+Wesentliche Bestandteile, die in dieser Position ausgewiesen werden, sind Fremdleistungen für Forschung und Entwicklung, Fremdleistungen für Vertrieb und Werbung, Ausgleichszahlungen an Konzerngesellschaften für nicht dem at-arms-length Prinzip entsprechende Transferpreise, Fremdleistungen für Reparaturen, externe IT-Leistungen, Gebühren, Beiträge und Versicherungen, Verluste aus dem Abgang von Anlagevermögen sowie Aufwendungen für Umweltschutzmaßnahmen.
+Die Erhöhung der sonstigen betrieblichen Aufwendungen beruht zu einem wesentlichen Teil auf gestiegenen Forschungsaufwendungen.
+Das Beteiligungsergebnis hat sich gegenüber dem Vorjahr um 990,4 Mio € auf -40,6 Mio € verringert.
+Der Rückgang resultiert im Wesentlichen daraus, dass im laufenden Jahr keine Dividende von der Merck S.A., Frankreich, erfolgte (i. Vj.
+889,5 Mio €).
+Das Finanzergebnis hat sich im Geschäftsjahr nur geringfügig verändert.
+Es hat sich von -30,3 Mio € im Vorjahr um 3,4 Mio € auf -33,7 Mio € verschlechtert.
+Die Ursache hierfür liegt in dem weiter gesunkenen Zinsniveau für Geldanlagen und dem hohen Zinsertrag aus Steuererstattungen im Vorjahr, die weitgehend durch eine positive Änderung bei Kursdifferenzen aus Finanzierungstätigkeit kompensiert werden.
+Der Anstieg des außerordentlichen Aufwands von 20,5 Mio € im Vorjahr um 493,3 Mio € auf 513,8 Mio € resultiert zum einen aus der vollumfänglichen Aufstockung der Pensionsrückstellungen auf den Erfüllungsbetrag anstelle der weiteren Verteilung bis zum Jahr 2024 (gemäß Art.
+67 Abs. 1 Satz 1 EGHGB i.
+V. m. Art.
+67 Abs. 7 EGHGB), zum anderen aus der Aufstockung des Teils der im Rahmen des Schuldbeitritts durch die Merck Pensions GmbH Co KG erfassten Pensionsverpflichtungen auf den Marktwert.
+Nach der satzungsgemäßen Ergebnisabführung an bzw. von E. Merck KG weist die Merck KGaA einen Jahresfehlbetrag von 151,1 Mio € (i. Vj.
+Jahresüberschuss 374,2 Mio €) aus.
+Die satzungsmäßige Ergebnisaufteilung und die vorgeschlagene Gewinnverwendung ergeben sich aus folgender Übersicht: Ergebnisaufteilung in Mio € E. Merck KG Merck KGaA Jahresüberschuss von E. Merck KG 7,5 Ergebnis der gewöhnlichen Geschäftstätigkeit der Merck KGaA - -17,2 Außerordentliches Ergebnis -513,8 Gewerbeetragsteuer gem.
+§ 27 (1) der Satzung der Merck KGaA -0,0 Gewerbeertragsteuer gem.
+§ 30 (1) der Satzung der Merck KGaA 1,7 Basis für Ergebnisaufteilung (100,0 %) 7,5 -529,3 Ergebnisabführung an E. Merck KG Verhältnis Komplementärkapital zum Gesamtkapital (70,274 %) -372,0 372,0 Ergebnisabführung von E. Merck KG Verhältnis Grundkapital zum Gesamtkapital (29,726 %) -2,2 2,2 Gewerbesteuer -0,0 Körperschaftsteuer 4,0 Jahresfehlbetrag -366,7 -151,1 Gewinnverwendung (Vorschlag) Ergebnisanteil E. Merck KG -366,7 Jahresfehlbetrag Merck KGaA -151,1 Gewinnvortrag Vorjahr 502,5 212,6 Entnahme aus den Gewinnrücklagen 114,4 48,4 Bilanzgewinn Merck KGaA 109,9 Entnahme E. Merck KG -250,2 Dividende Aktionäre -109,9 Gewinnvortrag gem.
+§ 31 (3) der Satzung der Merck KGaA 0,0 0,0 Vermögens- und Finanzlage Die Bilanzsumme hat sich gegenüber dem Vorjahr um 152,9 Mio € auf rd.
+7.201,2 Mio € vermindert.
+Die Minderung ist vor allem auf den partiellen Abgang der Pensionsrückstellungen infolge des Schuldbeitritts der Merck Pensions GmbH Co KG sowie auf die Erhöhung des mit den Pensionsrückstellungen verrechneten Deckungsvermögens zur Absicherung von Pensionsverpflichtungen und Altersteilzeitverpflichtungen zurückzuführen.
+Dem stehen Erhöhungen der Beteiligungsbuchwerte im Finanzanlagevermögen gegenüber.
+Infolge des ergebnisbedingten Rückgangs des Eigenkapitals hat sich das Verhältnis Eigenkapital zur Bilanzsumme von 82,3 % im Vorjahr um 10,2 Prozentpunkte auf 72,1 % vermindert.
+Die Anlagendeckung (Eigenkapital im Verhältnis zum Anlagevermögen) liegt zum Bilanzstichtag mit 84,2 % infolge des deutlich gestiegenen Finanzanlagevermögens bei gleichzeitig gesunkenem Eigenkapital unter Vorjahresniveau (116,8 %).
+Das Verhältnis von langfristigem Kapital und Pensionsrückstellungen im Verhältnis zum Anlagevermögen hat sich infolge der Erhöhung des Finanzanlagevermögens und der Reduktion der Pensionsrückstellungen vermindert und beträgt nun 84,2 % gegenüber 125,6 % im Vorjahr.
+Die Sachinvestitionen verringerten sich um 28,3 Mio € auf 105,7 Mio € (i. Vj.
+134,0 Mio €).
+Forschung und Entwicklung Die Aufwendungen für Forschung und Entwicklung betrugen im Berichtsjahr 759,5 Mio € (i. Vj.
+641,4 Mio €).
+Beide Unternehmensbereiche tragen zu diesem Anstieg von 118,1 Mio € bei, Pharma 106,1 Mio € (21,3 %) und Chemie 10,9 Mio € (7,8 %).
+Die Forschungsquote betrug, bezogen auf den Umsatz, 23,7 %.
+Insgesamt waren durchschnittlich 1.775 Mitarbeiter mit Forschungs- und Entwicklungsaufgaben beschäftigt.
+Die Merck KGaA ist mit einem Anteil von 50,3 % (i. Vj.
+42,3 %) an den gesamten Forschungsausgaben der Merck-Gruppe einer der zentralen Forschungsstandorte.
+Mit 605,5 Mio € (i. Vj.
+499,4 Mio €) entfiel der wesentliche Teil der Forschungs- und Entwicklungsaufwendungen auf den Unternehmensbereich Pharma, der in Darmstadt insbesondere auf den Gebieten Onkologie, Autoimmun- und Entzündungserkrankungen tätig ist.
+Für Forschung und Entwicklung im Unternehmensbereich Chemie sind 152,9 Mio € (i. Vj.
+142,0 Mio €) ausgegeben worden.
+Forschungsschwerpunkte der Sparte Performance Materials sind die Entwicklung neuer bzw. verbesserter Basismaterialien und Mischungen für LC-Displays sowie für innovative OLED-Anwendungen.
+Zur Stärkung des Pigmentgeschäfts werden neue Effektpigmente für den Automobil-, Kosmetik- und Druckfarbensektor entwickelt.
+In der Sparte Merck Millipore dominieren Technologien im Labor- und Life Science Bereich.
+Dazu zählen verbesserte Test-Kits, Chromatographie-Methoden, Trägermaterialien zur Auftrennung von Wirkstoffen sowie Innovationen im Bereich der Mikrobiologie und Hygienekontrolle.
+Nicht auf die Unternehmensbereiche zugeordnet sind globale Verwaltungskosten von 1,1 Mio € (i. Vj.
+0,0 Mio €).
+Wir verweisen auf den Konzernabschluss der Merck KGaA, in dem ausführliche Informationen zur Forschung und Entwicklung gegeben werden.
+Personal Die Mitarbeiterzahl der Merck KGaA lag zum 31. Dezember 2012 bei 9.203 Beschäftigten.
+Die Anzahl der Mitarbeiter hat sich gegenüber dem Vorjahr leicht reduziert (2011: 9.296).
+Aufgrund der Neuausrichtung lokaler Funktionen in globale Einheiten zu Beginn des Jahres kam es in allen Bereichen zu Veränderungen der Mitarbeiterstruktur Der Frauenanteil in der Belegschaft der Merck KGaA lag zum Ende des Jahres 2012 bei 35 % analog zum Vorjahr.
+Merck hat weiterhin das Ziel, den Frauenanteil zu erhöhen - insbesondere dort, wo dieser unterrepräsentiert ist, beispielsweise in Führungspositionen.
+Derzeit liegt der Anteil von Frauen in Führungspositionen konzernweit bei 24 % (2011: 23 %), in der Merck KGaA bei 20 % (2011: 17 %).
+Um den Anteil von Frauen in Führungspositionen bis 2016 weltweit auf 25 % bis 30 % zu erhöhen, sind zusätzlich zu den bereits bestehenden Maßnahmen wie Mentoring, Netzwerke oder Angebote zur Vereinbarkeit von Beruf und Familie weitere lokale und globale Aktivitäten in Planung.
+Für Darmstadt liegt der Fokus 2013 auf der Etablierung von Trainings zu Selbstmarketing und Führung.
+Die Arbeit, der Einfallsreichtum und das unternehmerische Handeln unserer Mitarbeiter sind entscheidend, damit das Unternehmen langfristig erfolgreich ist.
+Wir fordern von unseren Beschäftigten eine hohe Leistung und honorieren diese entsprechend.
+Alle Mitarbeiter erhalten in Abhängigkeit vom Erfolg des Unternehmens einen Unternehmensbonus.
+Die Zielwerte hierfür wurden für 2012 für alle Mitarbeiter über Merck Scorecards, die Kennzahlen aus den Bereichen Finanzen, Mitarbeiter und Innovation enthalten, definiert.
+Je nach organisatorischer Zuordnung des Mitarbeiters ist die Scorecard der Division, des Business Sektors oder der Merck-Gruppe bonusrelevant.
+Ein Unternehmensbonus kommt im April 2013 zur Auszahlung, sofern die Zielerreichung der jeweiligen Scorecard für das Jahr 2012 über 50 % liegt.
+Bei einer Zielerreichung der Scorecard von 100 %, beläuft sich der Unternehmensbonus im Tarifbereich auf 40 % eines Monatsentgelts.
+Bei den außertariflichen Angestellten inklusive den Führungskräften liegt der Unternehmensbonus je nach Funktion in der Spanne zwischen 39 % eines Monatsgehalts und mehreren Monatsgehältern.
+Zusätzlich gibt es im außertariflichen Bereich individuelle leistungsbezogene Vergütungskomponenten, die davon abhängen, wie der Einzelne seine Ziele erreicht hat.
+Insgesamt liegt die variable Vergütung (individueller Bonus und Unternehmensbonus) bei den außertariflichen Angestellten und Führungskräften zwischen 10 % und 45 % des Jahresfixeinkommens.
+Seit 2009 gewährt Merck berechtigten Führungskräften eine langfristige erfolgsabhängige Vergütungskomponente, den Merck Long-Term Incentive Plan.
+Die Höhe der Auszahlung für die Tranchen 2010 und 2011 ist abhängig von dem Erreichen der beiden Verhältniskennzahlen "auf die Gesamterlöse bezogener Basis Free Cash Flow (FCR)" und "Umsatzrendite (ROS)" am Ende eines Zeitraums von drei Jahren.
+Bei dem Plan sind die potenziellen Auszahlungen in der Zukunft bei hohem Zielereichungsgrad nach oben begrenzt - bei einem zu geringen Zielereichungsgrad erfolgt dagegen keine Auszahlung.
+Die Auszahlung für die Tranche 2012 richtet sich danach, wie sich die Merck-Aktie im Vergleich zur Entwicklung des DAX30 sowie wie sich die beiden Finanzkennzahlen Net Sales und EBITDApre während der Planlaufzeit entwickelt haben.
+Die Merck KGaA verzeichnete eine Fluktuationsrate von (bereinigt um Austritte wegen Pensionierung, Tod, befristete Arbeitsverhältnisse sowie Wechsel zu Tochterfirmen): 2012: 2,20 % 2011: 1,21 % 2010: 0,99 % und einer durchschnittlichen Betriebszugehörigkeit (durchschnittliches Dienstalter): 2012: 15,1 Jahre 2011: 14,7 Jahre 2010: 14,6 Jahre Umwelt Als Beitrag zum Klimaschutz hat sich die Merck-Gruppe in 2009 ein ambitioniertes Ziel gesetzt: bis zum Jahr 2020 wollen wir unsere gesamten (direkten und indirekten) Treibhausgas-Emissionen um 20 % verringern - gemessen am Stand von 2006.
+Die Treibhausgas-Emissionen werden seit 2008 nach dem GHG Protocol (GHG = Green House Gas) erfasst, einem anerkannten System, das von World Resources Institute (WRI) und dem World Business Council for Sustainable Development (WBCSD) entwickelt wurde.
+Um unser Klimaziel bis zum Jahr 2020 zu erreichen, legen wir im Rahmen unseres Klimaschutzprogramms EDISON den Schwerpunkt auf ca.
+20 Standorte, die zusammen über 80 % der weltweiten Gesamtemissionen des Unternehmens verursachen.
+Hierzu gehören auch die Standorte Darmstadt und Gernsheim, mit ca.
+160.000 Tonnen CO2 in 2012.
+An diesen beiden Standorten wurde in 2010 ein neuer Energieeinsparprozess etabliert.
+Hierbei werden von freigestellten Mitarbeitern systematisch rund 100 Produktionsbetriebe und Gebäude auf Energieeinsparpotenziale hin untersucht.
+Hiervon wurden zwischenzeitlich die 20 Produktionsbetriebe mit dem höchsten Energieverbrauch untersucht.
+In 2012 haben sich die beiden Standorte zudem nach dem Standard ISO 50001 Energiemanagementsysteme zertifizieren lassen.
+Ein Großteil der Kohlendioxid-Emissionen erzeugen die beiden Kraftwerke in Darmstadt und Gernsheim, die 2012 mit ca.
+87.500 Tonnen CO2 zu Buche schlugen (2011: ca.
+84.400 Tonnen, 2010: ca.
+90.200 Tonnen).
+Risikobericht Risiken sind Teil unternehmerischen Handelns.
+Wir haben Instrumente installiert, Risiken früh zu erkennen und sie mit entsprechenden Maßnahmen zu minimieren.
+Derzeit sind uns keine Risiken bekannt, die den Fortbestand der Merck-Gruppe gefährden könnten.
+Risiko- und Chancenmanagement Merck ist Teil einer komplexen, globalen Geschäftswelt und daher einer Vielzahl von externen und internen Einflüssen ausgesetzt.
+Jede unternehmerische Entscheidung wird daher vor dem Hintergrund der damit verbundenen Risiken und Chancen getroffen.
+Mit Hilfe der Risikomanagementaktivitäten wollen wir Risiken frühzeitig erkennen, sie bewerten, steuern und mit entsprechenden Maßnahmen minimieren.
+Das Chancenmanagement wird auf Grundlage der Unternehmensstrategie in den operativen Geschäftseinheiten durchgeführt.
+Weitere Informationen dazu können dem Prognosebericht ab Seite 17 entnommen werden.
+Im unternehmensweiten Risikomanagementprozess sind Spartenleiter, Geschäftsführer und Finanzleiter von Merck-Gesellschaften und Leiter der Konzernfunktionen als Risikoverantwortliche definiert.
+Diese Risikoverantwortlichen bewerten halbjährlich ihre aktive Risikolage neu und melden ihr gesamtes Risikoportfolio an das zentrale Risikomanagement.
+Die Bewertung der Risiken erfolgt dabei anhand ihres möglichen Einflusses auf EBIT und Cash Flow sowie ihrer Eintrittswahrscheinlichkeit.
+Signifikante Veränderungen der Einschätzung bereits bekannter Risiken sowie neue signifikante Risiken werden jederzeit gemeldet und an die Gremien ad hoc berichtet.
+Für den Standardprozess ist eine Wertuntergrenze zur Meldung von 5 Mio €, für den Ad hoc Prozess eine Wertuntergrenze von 25 Mio € festgesetzt.
+Risiken unterhalb dieser Wertgrenzen werden in den Bereichen selbständig gesteuert.
+Die interne Revision überprüft im Rahmen von Audits unter anderem die Funktionsfähigkeit der bereichsinternen Risikomanagementprozesse und gleichzeitig die Informationsweitergabe relevanter Risiken an das Konzernrisikomanagement.
+Zusätzlich zu den genannten Bottom-up-Prozessen adressiert das zentrale Risikomanagement mögliche Risiken und Risikofelder top down.
+Grundlage für diesen Prozess bilden eigenständige Analysen sowohl von internen als auch externen Informationen.
+Darüber hinaus hat in 2012 die Bewertung der Effektivität von Minimierungsmaßnahmen weiter an Bedeutung gewonnen.
+Die wesentlichen Maßnahmen werden in Bezug auf die geplante zeitliche Umsetzung und den angenommenen Minimierungseffekt durch das zentrale Risikomanagement nachverfolgt.
+Das zentrale Risikomanagement ermittelt auf Basis dieser Informationen das aktuelle Risikoportfolio des Konzerns und stellt diese der Geschäftsleitung, dem Aufsichtsrat und dem Finanzausschuss in einem Bericht zwei Mal im Jahr zur Verfügung.
+Geschäftsbezogene Risiken Merck integriert sein Risikomanagement in die Prozesse der kontinuierlichen Geschäftsplanung.
+Mögliche negative Entwicklungen, beispielsweise Änderungen der Kundennachfrage oder geänderte politische Rahmenbedingungen, werden im Rahmen des internen Risikomanagementprozesses identifiziert, beschrieben und bewertet.
+Somit können wir bei von der Planung abweichenden Ereignissen frühzeitig Gegenmaßnahmen ergreifen.
+Risiken bei Investitionsvorhaben werden durch die Anwendung detaillierter Richtlinien gemindert.
+Gesamterlöse und wirtschaftlicher Erfolg der Merck-Gruppe stützen sich auf eine Vielzahl pharmazeutischer und chemischer Produkte für verschiedene Branchen.
+Diese Diversifikation trägt zu einer Risikominderung bei, da sich die Märkte in ihrer Struktur und ihren Konjunkturzyklen unterscheiden.
+Sie ist auch Ausdruck der Merck-Strategie, ein integriertes Pharma- Chemie- und Life-Science-Unternehmen bleiben zu wollen.
+Politische und regulatorische Risiken Als global operierendes Unternehmen sieht sich Merck politischen und regulatorischen Veränderungen in vielen Ländern und Märkten ausgesetzt.
+2012 setzte sich im Arzneimittelumfeld der in vielen Ländern zu beobachtende Trend zu zunehmend restriktiven Vorgaben betreffend Preisbildung, Kostenerstattung und Zulassung für Arzneimittel fort.
+Diese Vorgaben können die Rentabilität unserer Produkte negativ beeinflussen sowie den Erfolg von Markteinführungen und Neuzulassungen gefährden.
+Eine enge Kommunikation mit Gesundheits- und Zulassungsbehörden dient als Maßnahme zur präventiven Risikoabwehr.
+Die Destabilisierung politischer Systeme und die mögliche Errichtung von Handelsschranken können ebenso wie währungspolitische Veränderungen zu Absatzrückgang in bestimmten Ländern und Regionen führen.
+Durch Diversifikation hinsichtlich Produkten, Branchen und Regionen ist eine Abschwächung potenzieller negativer Auswirkungen möglich.
+Risiken aus Forschung und Entwicklung Innovation ist für Merck wesentlicher Bestandteil der Konzernstrategie.
+Forschungs- und Entwicklungsprojekte können sich verzögern, erwartete Budgets überschreiten oder anvisierte Ziele nicht erreichen.
+Für das Pharmageschäft ist Forschung und Entwicklung von besonderer Bedeutung.
+Die Forschungs- und Entwicklungsprojekte werden daher durch Portfoliomanagement permanent überwacht.
+Im Zuge des Portfoliomanagements bewerten wir die Forschungsgebiete und alle Projekte in der Entwicklungs-Pipeline regelmäßig und richten sie gegebenenfalls neu aus.
+Mitunter werden Entwicklungsprojekte erst nach hohen Investitionen in einer späten klinischen Phase abgebrochen.
+Entscheidungen - etwa beim Übergang in die nächstePhase der klinischen Entwicklung - werden so getroffen, dass Risiken so gering wie möglich gehalten werden.
+Es besteht auch das Risiko, dass Zulassungsbehörden eine Zulassung nicht oder nur verzögert erteilen, was Auswirkungen auf die Ertragslage haben kann.
+Zudem besteht die Gefahr, dass unerwünschte Nebenwirkungen unserer pharmazeutischen Produkte erst nach der Zulassung beziehungsweise Registrierung entdeckt werden und eine Einschränkung der Zulassung oder Rücknahme vom Markt zur Folge haben.
+Risiken der Qualität und Verfügbarkeit von Produkten Merck ist Produkthaftungsrisiken ausgesetzt.
+Darunter fällt auch die Einhaltung von höchsten Qualitätsstandards in der Produktion von pharmazeutischen Präparaten ("Good Manufacturing Practices").
+Diese unterliegt der Überwachung durch die Zulassungsbehörden.
+Qualitätskontrollen entlang der gesamten Wertschöpfungskette minimieren diese Risiken.
+Dies beginnt bei der Qualifikation unserer Lieferanten und setzt sich fort mit umfassenden Qualitätsanforderungen für Rohstoffe, fremdbezogene Halbfertigprodukte und Anlagen sowie mit langfristigen strategischen Kooperationen bei versorgungs- oder preiskritischen Vorprodukten.
+Finanzrisiken Merck ist als international tätiges Unternehmen und durch seine Präsenz am Kapitalmarkt verschiedenen Finanzrisiken ausgesetzt.
+Dies sind vor allem Liquiditäts-, Ausfall- und Marktpreisrisiken sowie Schwankungen von Pensionszusagen und Marktwerten operativer materieller und immaterieller Vermögenswerte.
+Um den eigenen Fortbestand zu sichern, muss ein Unternehmen zu jedem Zeitpunkt seine fälligen Verpflichtungen aus operativer und finanzieller Tätigkeit erfüllen können.
+Zur Reduzierung potenzieller Liquiditätsrisiken verfügt Merck daher über eine zentrale Liquiditätssteuerung im gesamten Konzern.
+Darüber hinaus steht eine 2014 fällige "Syndicated Multicurrency Credit Facility" über 2 Mrd € zur Verfügung, die trotz des positiven operativen Cash Flow der Gruppe bei möglichen Liquiditätsengpässen die weitere Zahlungsfähigkeit von Merck sicherstellt.
+Da in unseren Kreditverträgen keine "Financial Covenants" vereinbart wurden, sind diese kontrahierten Kreditzusagen auch bei schlechterer Bonität von Merck abrufbar.
+Zusätzlich hat Merck im Geschäftsjahr 2009 ein "Debt-Issuance Program" aufgesetzt, das den vertraglichen Rahmen für die Begebung von Anleihen darstellt.
+Im Jahr 2010 wurde das Volumen dieses Programms von bisher 5 Mrd € auf 10 Mrd € aufgestockt.
+Ausfallrisiken entstehen sowohl im Zusammenhang mit finanziellen Anlagen, Aufnahmen und Finanzierungszusagen als auch bei operativen Forderungen.
+Durch die Auswirkungen der Finanzkrise im Euroraum besteht weiterhin ein erhöhtes Ausfallrisiko.
+Merck hat daher alle Positionen gegenüber Handelspartnern in den betroffenen Ländern kritisch überprüft und, sofern erforderlich, die Vorsorge für die Ausfallrisiken angepasst.
+Merck minimiert diese Risiken durch die Streuung seiner Finanzpositionen und die damit verbundene aktive Steuerung seiner Handelspartner.
+Wesentliche Finanztransaktionen mit Kreditrisiko werden ausschließlich mit Banken und Industrieunternehmen guter Bonität abgeschlossen.
+Darüber hinaus reduziert der große Bankenkreis von Merck - die bestehende Kreditlinie über 2 Mrd € wurde mit 17 Banken syndiziert - mögliche Verluste bei einem Ausfall.
+Trotzdem kann dadurch der Ausfall einzelner Handelspartner, auch bei hervorragender Bonitätseinstufung, nicht grundsätzlich ausgeschlossen werden.
+Durch die internationale Geschäftstätigkeit in unterschiedlichen Währungs- und Zinsregionen ist ein Unternehmen zwangsläufig auch Währungs- und Zinsrisiken unterworfen.
+Auch Merck ist durch seine globale Konzernstruktur und die damit verbundenen Finanzgeschäften und operativen Forderungen und Verbindlichkeiten sowie erwarteten zukünftigen Zahlungsströmen aus Umsätzen und Kosten in Fremdwährung von diesen Marktpreisrisiken betroffen.
+Merck nutzt daher Derivate, um Währungsrisiken beziehungsweise Finanzierungskosten zu minimieren, die durch Wechselkurs- oder Zinsschwankungen bedingt sind.
+Der Wechselkurs für Finanzgeschäfte, operative Außenstände und Verpflichtungen in Fremdwährung wird im Wesentlichen gesichert.
+In bestimmten Fällen sichert das Unternehmen zusätzlich den Wechselkurs für erwartete Umsätze und künftige Kosten in Fremdwährung mit einer Laufzeit von bis zu drei Jahren ab (Details finden sich im Anhang zum Konzernabschluss).
+Die Wertansätze einzelner Bilanzposten sind dem Risiko sich verändernder Markt- und Geschäftsverhältnisse und damit auch Änderungen der beizulegenden Zeitwerte ausgesetzt.
+Im Fall notwendiger Wertminderungen können sich signifikante Ergebnisbelastungen und Auswirkungen auf die Bilanzrelationen ergeben.
+Dies gilt insbesondere für die hohen immateriellen Vermögenswerte einschließlich der Firmenwerte, die durch die Akquisitionen von Serono im Jahr 2007 sowie von Millipore im Jahr 2010 und die damit verbundenen Kaufpreisallokationen deutlich an Bedeutung für den Konzernabschluss gewonnen haben (Details siehe Anhang zum Konzernabschluss Immaterielle Vermögenswerte).
+Merck hat Verpflichtungen im Zusammenhang mit Pensionszusagen.
+Der Barwert dieser Versorgungsverpflichtungen kann sich durch Veränderungen relevanter Bewertungsparameter, zum Beispiel des Zinssatzes oder der Sterbewahrscheinlichkeiten, wesentlich erhöhen oder verringern.
+Die Pensionsverpflichtungen werden mit jährlichen versicherungsmathematischen Gutachten regelmäßig bewertet.
+Ein Teil der Verpflichtungen ist durch die in der Bilanz ausgewiesenen Pensionsrückstellungen abgedeckt, während weitere Verpflichtungen mit fondsfinanzierten Versorgungszusagen unterlegt sind (Details siehe Anhang zum Konzernabschluss Rückstellungen für Pensionen und ähnliche Verpflichtungen).
+Soweit Altersversorgungszusagen durch Planvermögen gedeckt sind, welche aus verzinslichen Wertpapieren, Aktien, Immobilien und anderen Vermögensanlagen bestehen, können sich sinkende oder negative Renditen dieser Anlagen ungünstig auf den Wert des Planvermögens auswirken und somit weitere Zuführungen bedingen.
+Wir reduzieren das Risiko von Marktwertschwankungen des Planvermögens durch eine diversifizierte Anlagestrategie.
+Einschätzung durch unabhängige Rating-Agenturen Der Kapitalmarkt nutzt Einschätzungen von Rating-Agenturen, um Fremdkapitalgeber bei der Beurteilung der Risikosituation eines Finanzinstruments zu unterstützen.
+Derzeit wird Merck von Standard Poor's und Moody's bewertet, deren Kreditratings sich im abgelaufenen Geschäftsjahr verbessert haben: Standard Poor's vergibt ein Langfrist-Kreditrating von A- mit stabilem Ausblick, Moody's eines von Baa1 mit stabilem Ausblick.
+Rechtliche Risiken Merck ist Risiken aus Rechtsstreitigkeiten ausgesetzt.
+Dazu gehören insbesondere Risiken aus den Bereichen Produkthaftung, Wettbewerbs- und Kartellrecht, Pharmarecht, Patentrecht, Steuerrecht und Umweltschutz.
+Als forschendes Unternehmen besitzt Merck ein wertvolles Portfolio an gewerblichen Schutzrechten wie Patenten und Marken.
+Diese können zum Ziel von Angriffen und Verletzungen werden.
+Wir sind Partei in gerichtlichen Verfahren und behördlichen Ermittlungen, deren Ausgang derzeit nicht sicher ist.
+Wir tragen auch weiterhin die Risiken aus gewissen Verfahren gegen Gesellschaften der Generics-Gruppe, die wir im Jahr 2007 an Mylan veräußert haben.
+So steht Merck in diesem Zusammenhang weiter für die Risiken aus Fällen in den USA ein, die die Gestaltung von Preisen für Arzneimittel betreffen.
+Im Zusammenhang mit dem veräußerten Generika-Geschäft ist ein Bußgeldverfahren der Europäischen Kommission gegen Merck anhängig.
+Merck wird wettbewerbswidriges Verhalten im Zusammenhang mit der Markteinführung des Produktes Citalopram vorgeworfen.
+In Deutschland ist Merck in ein kartellrechtliches Verfahren einbezogen, welches das exklusive Distributionsabkommen von Merck mit dem Laborgroßhändler VWR International betrifft.
+Aufgrund einer Entscheidung des Bundeskartellamtes ist Merck verpflichtet, einige zum Laborgeschäft gehörende Produkte auch an andere Laborgroßhändler in Deutschland zu liefern.
+Für Risiken aus in der Vergangenheit getroffenen Betriebsrentenzusagen wurde eine im Jahresabschluss 2010 erstmals gebildete Rückstellung auf Basis neuer Gutachten im Jahresabschluss 2012 angepasst.
+Das Unternehmen hat alle Maßnahmen zur Wahrung der eigenen Rechtsposition ergriffen.
+Soweit wir es nach der Einschätzung im Einzelfall für erforderlich gehalten haben, haben wir als Risikovorsorge für den Fall eines ungünstigen Ausgangs gerichtlicher Verfahren und behördlicher Ermittlungen Rückstellungen gebildet.
+Weitere Angaben zu rechtlichen Verfahren befinden sich im Konzern-Anhang.
+Generell ist Merck bestrebt, seine rechtlichen Risiken möglichst gering zu halten und zu kontrollieren.
+Wir haben die notwendigen Vorkehrungen getroffen, um Gefährdungen zu entdecken und gegebenenfalls unsere Rechte zu verteidigen.
+Für unsere Mitarbeiter weltweit besitzt ein "Compliance"-Programm Gültigkeit, das sie zur Einhaltung von Gesetzen und Richtlinien anhält, entsprechend schult und unterstützt.
+Kernstück des Programms ist ein Verhaltenskodex - der "Merck Code of Conduct" -, der ethische Verhaltensrichtlinien festlegt.
+Soweit es möglich und sinnvoll ist, begrenzt das Unternehmen Haftungs- und Schadensrisiken durch Versicherungsschutz, dessen Art und Umfang fortlaufend aktuellen Anforderungen angepasst werden.
+Risiken im Personalbereich Das zukünftige Wachstum von Merck wird maßgeblich von seiner Innovationskraft beeinflusst.
+Demzufolge sind die Kompetenz und das Engagement der Mitarbeiter in allen Bereichen, in denen Merck tätig ist, entscheidend für den Erfolg des Unternehmens.
+Die für Merck relevanten Märkte sind gekennzeichnet durch intensiven Wettbewerb um qualifizierte Fachkräfte sowie durch demografische Herausforderungen.
+Zu den höchsten Prioritäten des Unternehmens gehören demzufolge die Beschaffung, Rekrutierung und das Binden von Fachkräften und Talenten an Merck.
+Diesen Herausforderungen begegnen wir u. a. mit der weltweiten Einführung integrierter Prozesse, wie etwa dem Talentprozess, in den seit langem investiert wird.
+Im Rahmen des unternehmensweiten "Talent Succession Management"-Prozesses analysiert Merck z.B. aktuelle und zukünftige Kapazitätsengpässe.
+Die Sourcing-Strategie des Unternehmens ist direkt mit den Ergebnissen des "Talent Succession Management"-Prozesses verknüpft.
+Ein weiteres Beispiel für die Anpassung der Personalstrategie an die Bedürfnisse des Geschäfts ist die "Total Rewards Policy", mit der sichergestellt wird, dass wettbewerbsfähige Vergütungen in allen relevanten Märkten angeboten werden.
+Merck investiert außerdem in den Aufbau einer globalen Arbeitgebermarke, welche die Unternehmenswerte vermittelt sowie den einzigartigen Wertbeitrag als Arbeitgeber, den Merck heutigen und zukünftigen Arbeitnehmern bietet.
+In regelmäßigen Abständen wird auch das Engagement der Merck-Mitarbeiter überprüft.
+Die Ergebnisse der Mitarbeiterbefragungen geben den Führungskräften und Mitarbeitern wichtige Hinweise hinsichtlich aktueller Herausforderungen im Personalbereich.
+Auf diese Weise kann Merck Verbesserungen erarbeiteten, welche die Motivation der Mitarbeiter fördern und dabei helfen sollen, sie an das Unternehmen zu binden.
+Risiken der Informationstechnologie Die Globalisierung von Merck erfordert eine optimale Ausrichtung und angemessene Unterstützung durch die Nutzung einer Vielzahl von IT-Systemen und Prozessen.
+Damit ist eine Reihe von möglichen Risiken verbunden.
+Risiken durch Komplexität interner und externer Anforderungen IT-Risiken mit Auswirkungen auf das Geschäftsergebnis entstehen, wenn Informationen nicht rechtzeitig verfügbar oder fehlerhaft sind, ungewünscht veröffentlicht werden oder die abgebildeten Prozesse zu unflexibel, zu aufwändig oder gar gesetzeswidrig in IT-Systemen umgesetzt sind.
+Sicherheitslücken in IT-Lösungen oder unzureichende Notfallplanungen können schnell zu Vorfällen werden, die das gesamte Unternehmen betreffen.
+Datenschutzverstöße aufgrund fehlerhafter Berechtigungsvergabe können eine negative Außenwirkung erzeugen.
+Die zunehmende Vernetzung der IT-Landschaften und die wachsende Abhängigkeit von der IT erfordern hohe Aufwendungen für Wartung und Weiterentwicklung.
+In Verbindung mit immer neuen gesetzlichen Anforderungen gestaltet sich die Datenverarbeitung immer zeitintensiver und kostspieliger.
+Mit zunehmender Komplexität der IT-Landschaft steigen auch die potenziellen Risiken.
+Risiken durch externe Bedrohungen Weltweit ist eine Professionalisierung der externen Bedrohungen hin zu gezielter Industriespionage und -sabotage zu erkennen.
+Zusätzlich werden Cyberattacken als Mittel der Gewinnung von Aufmerksamkeit und als Protestmaßnahmen benutzt.
+Daraus ergeben sich als Risiko-Szenarien für Merck der Ausfall zentraler IT-Systeme, die Preisgabe von vertraulichen Daten aus der Forschung und Geschäftsentwicklung, die Manipulation von IT-Systemen in der chemischen Prozess-Steuerung, eine erhöhte Belastung oder Beeinträchtigung von IT- Systemen durch Virusattacken, die vorübergehende Übernahme von exponierten Systemen durch Hacker sowie daraus folgend der mögliche Widerruf von Medikamentenzulassungen aufgrund mangelbehafteter Validierung relevanter IT-Systeme.
+Risikominimierungsstrategie Die generelle Behandlung und Minimierung dieser Risiken wird bei Merck seit mehreren Jahren durch ein zertifiziertes Informationsschutz-Managementsystem auf Basis ISO 27001 unterstützt.
+Dieses umfasst die redundante Auslegung von technischen Komponenten, Netzwerken und Standorten sowie eine geeignete und getestete Notfallvorsorge.
+Damit gewährleistet Merck die erforderliche Verfügbarkeit seiner geschäftskritischen Anwendungssysteme und den Zugriff auf geschäftsrelevante Daten.
+Für die gesamte Merck-Gruppe existieren weltweit gültige Sicherheitsrichtlinien mit geeigneten organisatorischen und technischen Vorkehrungen für Zugangskontrolle, Zugriffsrechte, Viren- und Datenschutz.
+Die Wirksamkeiten dieser Maßnahmen werden im Zusammenhang mit dem Informationsschutz Managementsystem kontinuierlich überwacht und durch die interne Revision und externe Auditoren überprüft.
+Ein weiterer Prozess stellt sicher, dass IT-Risiken evaluiert und angemessene Maßnahmen umgesetzt werden.
+Basierend auf diesen getroffenen Maßnahmen gehen wir davon aus, dass die Eintrittswahrscheinlichkeit eines schwerwiegenden IT-Risiko-Vorfalls gering ist.
+Umwelt- und Sicherheitsrisiken Merck als globales, produzierendes Unternehmen ist Risiken durch mögliche Schäden an Menschen, Gütern und Image ausgesetzt.
+Audits, Beratung und Schulung zum Umwelt-, Arbeits- und Gesundheitsschutz minimieren diese Risiken für Mensch und Umwelt.
+Merck kontrolliert diese Risiken sowohl in den eigenen Standorten als auch bei Lieferanten und Lohnherstellern zur Sicherung des Fortbestandes von Anlagen und Sachwerten.
+Wir halten nicht nur hohe technische Standards, sondern auch unsere Verhaltensregeln und alle rechtlichen Vorgaben im Umwelt-, Arbeits- und Gesundheitsschutz ein und sorgen so für den Erhalt von Gütern und Werten.
+Einschätzung des Managements zur Gesamtrisikosituation Derzeit sind uns keine Risiken bekannt, die den Fortbestand der Merck-Gruppe gefährden könnten.
+Dies stellt dieser in Anwendung des Deutschen Rechnungslegungsstandards 5 verfasste Risikobericht fest.
+Sonstige Angaben gemäß § 289 Absatz 4 HGB und § 176 Absatz 1 Satz 1 AktG Die folgenden Informationen enthalten neben den Angaben nach § 289 Absatz 4 HGB zugleich den erläuternden Bericht der Geschäftsleitung gemäß § 176 Absatz 1 Satz 1 AktG.
+Das gezeichnete Kapital der Gesellschaft ist zum Bilanzstichtag in 64.621.125 auf den Inhaber lautende Stückaktien ohne Nennbetrag sowie eine Namensaktie eingeteilt.
+Damit entfällt auf jede Aktie ein rechnerischer Anteil am Grundkapital in Höhe von 2,60 €.
+Der Inhaber der Namensaktie ist die E. Merck Beteiligungen KG.
+Sie ist berechtigt und verpflichtet, ein Drittel der Aufsichtsratsmitglieder der Kommanditaktionäre in den Aufsichtsrat zu entsenden.
+Das Entsendungsrecht besteht nicht, sofern der Inhaber der Namensaktie ein persönlich haftender Gesellschafter ist.
+Die Übertragung der Namensaktie bedarf der Zustimmung der Gesellschaft.
+Über die Erteilung der Zustimmung entscheidet die persönlich haftende Gesellschafterin mit Kapitalanteil, E. Merck KG, nach freiem Ermessen.
+Die Satzung von Merck sieht vor, dass die persönlich haftenden Gesellschafter ohne Kapitalanteil, die die Geschäftsleitung bilden, durch die E. Merck KG mit Zustimmung der einfachen Mehrheit der anderen persönlich haftenden Gesellschafter aufgenommen werden.
+Persönlich haftender Gesellschafter ohne Kapitalanteil kann nur sein, wer zugleich persönlich haftender Gesellschafter der E. Merck KG ist.
+Darüber hinaus können in die Geschäftsleitung auf Vorschlag der E. Merck KG und mit Zustimmung aller persönlich haftenden Gesellschafter ohne Kapitalanteil weitere Personen aufgenommen werden, die nicht persönlich haftender Gesellschafter ohne Kapitalanteil sind.
+Die Satzung kann durch einen Beschluss der Hauptversammlung geändert werden, der der Zustimmung der persönlich haftenden Gesellschafter bedarf.
+Die Beschlüsse der Hauptversammlung werden - soweit nicht zwingende gesetzliche Vorschriften entgegenstehen - mit einfacher Mehrheit der abgegebenen Stimmen gefasst.
+Soweit das Gesetz außer der Stimmenmehrheit eine Kapitalmehrheit vorschreibt, werden sie auch mit der einfachen Mehrheit des bei der Beschlussfassung vertretenen Grundkapitals gefasst.
+Die Satzung umfasst ein genehmigtes Kapital.
+Die Geschäftsleitung ist ermächtigt, mit Zustimmung des Aufsichtsrats sowie der E. Merck KG das Grundkapital bis zum 3. April 2014 um bis zu insgesamt 56.521.124,19 € durch ein- oder mehrmalige Ausgabe neuer Aktien gegen Bar- oder Sacheinlage zu erhöhen.
+Die neuen Aktien können von durch die Geschäftsleitung bestimmten Kreditinstituten mit der Verpflichtung übernommen werden, diese den Kommanditaktionären anzubieten (Mittelbares Bezugsrecht).
+Die Geschäftsleitung ist ermächtigt, bei Ausnutzung des genehmigten Kapitals mit Zustimmung des Aufsichtsrats das Bezugsrecht der Kommanditaktionäre bei einer Kapitalerhöhung für einen Betrag von bis zu 10 % des Grundkapitals durch Ausgabe von neuen Aktien gegen Bareinlage auszuschließen, wenn der Ausgabebetrag der neuen Aktien den Börsenkurs nicht wesentlich unterschreitet.
+Das Bezugsrecht der Kommanditaktionäre kann mit Zustimmung des Aufsichtsrats zudem zur Durchführung des der E. Merck KG in § 32 Absatz 3 der Satzung gewährten Rechts auf Beteiligung an einer Kapitalerhöhung durch Ausgabe von Aktien oder von frei übertragbaren Rechten auf Bezug von Kommanditaktien ausgeschlossen werden.
+Zuletzt kann das Bezugsrecht mit Zustimmung des Aufsichtsrats auch ausgeschlossen werden, um eine Durchführung des der E. Merck KG in § 33 der Satzung gewährten Rechts auf Umwandlung des Kapitalanteils in Grundkapital zu ermöglichen.
+Die Satzung umfasst zudem ein bedingtes Kapital.
+Danach ist das Grundkapital um bis zu 66.406.298,40 € eingeteilt in 25.540.884 Aktien bedingt erhöht.
+Die bedingte Kapitalerhöhung dient der Gewährung von Umtauschrechten an die E. Merck KG zur Erfüllung ihres Rechts auf Umwandlung des Kapitalanteils in Aktien nach § 33 der Satzung.
+Eine Ermächtigung zum Erwerb eigener Aktien besteht bei der Gesellschaft nicht.
+Die Gesellschaft unterhält keine wesentlichen Vereinbarungen, die unter der Bedingung eines Kontrollwechsels infolge eines Übernahmeangebots stehen und keine Entschädigungsvereinbarungen, die für den Fall eines Übernahmeangebots mit den Mitgliedern der Geschäftsleitung oder den Arbeitnehmern getroffen Erklärung zur Unternehmensführung gemäß § 289a HGB Die Pflicht zur Abgabe einer Erklärung zur Unternehmensführung gemäß § 289a HGB richtet sich explizit nur an Aktiengesellschaften.
+Die Merck KGaA hat sich entschlossen, diese Erklärung freiwillig abzugeben.
+Die Erklärung zur Unternehmensführung ist abrufbar unter: DE - www.merckgroup.com/erklaerung_zur_unternehmensfuehrung EN - www.merckgroup.com/corporate_governance_statement.
+Das interne Kontrollsystem im Hinblick auf den Rechnungslegungsprozess gemäß § 289 Absatz 5 HGB Die Erstellung des Jahresabschlusses der Merck KGaA erfolgt durch eine Einheit im Zentralbereich Finanzen in Zusammenarbeit mit einem Shared Service Center (eigene Gesellschaft innerhalb der Merck Gruppe: Merck Shared Service Center Europe, Kurzform MSSE).
+Der Abschlussprozess der Merck KGaA basiert auf den Bilanzierungsvorschriften des Handelsgesetzbuchs unter Berücksichtigung wesentlicher Prozesse und einheitlicher Termine.
+Die Zielsetzung des internen Kontrollsystems (IKS) für den Rechnungslegungsprozess ist es, durch die Implementierung von Kontrollen hinreichende Sicherheit zu gewähren, dass ein regelungskonformer Abschluss erstellt wird.
+Es umfasst Maßnahmen, die eine vollständige, richtige und zeitnahe Übermittlung und Darstellung von Informationen gewährleisten sollen, die für die Aufstellung des Abschlusses relevant sind.
+Die Rechnungslegungsprozesse werden durch ein stringentes internes Kontrollsystem überwacht, welches sowohl die Ordnungsmäßigkeit der Rechnungslegung als auch die Einhaltung der relevanten gesetzlichen Bestimmungen sichert.
+Wesentliche Regelungen und Instrumentarien sind: - Bilanzierungsrichtlinien auf der Grundlage konzernweiter Richtlinien.
+Diese konzernweiten Bilanzierungsrichtlinien liegen in der Verantwortung des Zentralbereichs Group Accounting Subsidiaries und sind über das Merck Intranet allen Mitarbeitern der betroffenen Bereiche verfügbar.
+Hier sind detaillierte Kontierungsanweisungen für alle wesentlichen Sachverhalte geregelt.
+Diese umfassen zum Beispiel auch klare Vorgaben für den Prozess der Vorratsbewertung oder die Transferpreisbestimmung im Rahmen der konzerninternen Liefer- und Leistungsbeziehungen.
+- Klar definierte Aufgabentrennung und Zuordnung von Verantwortlichkeiten zwischen den am Rechnungslegungsprozess beteiligten Bereichen.
+Hierzu gehören auch eindeutige Verantwortlichkeiten auf Basis eines "activity splits" zwischen lokalen Accountingbereichen innerhalb der Merck KGaA und dem Shared Service Center.
+Durch entsprechende organisatorische Maßnahmen stellen wir in den Rechnungslegungssystemen eine Aufgabentrennung zwischen Eingaben von Vorgängen sowie deren Prüfung und Freigabe sicher.
+Hier sind auch die von der Geschäftsleitung genehmigten Verfügungsberechtigungen im Rahmen der Autorisierung von Verträgen oder Gutschriften ebenso zu nennen wie das durchgehend implementierte Vier-Augen-Prinzip.
+- Einbeziehung externer Sachverständiger - soweit erforderlich, wie zum Beispiel für die Bewertung von Pensionsverpflichtungen - Verwendung geeigneter weitgehend einheitlicher IT-Finanzsysteme und Anwendung von detaillierten Berechtigungskonzepten zur Sicherstellung aufgabengerechter Befugnisse und unter Beachtung von Funktionstrennungsprinzipien - Systemseitig implementierte EDV-technische Kontrollen sowie manuelle prozessintegrierte Kontrollen insbesondere im Rahmen des Rechnungslegungsprozesses - Berücksichtigung von im Risikomanagementsystem erfassten und bewerteten Risiken in den Jahresabschlüssen, soweit dies nach bestehenden Bilanzierungsregeln erforderlich ist Für die Umsetzung dieser Regelungen und die Nutzung der Instrumentarien sind die Leitungen des jeweiligen Bereichs verantwortlich.
+Der Jahresabschluss der Gesellschaft liegt in der Verantwortung des für die Finanzen zuständigen Mitglieds der Geschäftsleitung der Merck KGaA.
+Diese Verantwortung ist in der Geschäftsordnung der Geschäftsleitung dargestellt.
+Alle beschriebenen Strukturen und Prozesse unterliegen der ständigen Überprüfung durch die interne Revision.
+Welche Strukturen und Prozesse jeweils einer Prüfung unterzogen werden, legt die Geschäftsleitung in einem jährlichen Prüfungsplan fest.
+Die Ergebnisse dieser Prüfungen werden regelmäßig in den Sitzungen der Geschäftsleitung, des Aufsichtsrats und des Finanzausschusses behandelt.
+Ereignisse nach dem Bilanzstichtag bis zum 20. Februar 2013 Nach dem Bilanzstichtag sind keine weiteren Ereignisse von besonderer Bedeutung eingetreten, von denen ein wesentlicher Einfluss auf die Ertrags-, Finanz- und Vermögenslage der Merck KGaA zu erwarten ist.
+Prognose Wegen der engen wirtschaftlichen Verflechtung mit allen anderen Gesellschaften der Merck-Gruppe ist der Prognosebericht der Merck KGaA nicht separat, sondern nur für die Merck-Gruppe insgesamt zutreffend zu beurteilen.
+Prognose der Merck-Gruppe Prognostizierte weltweite gesamtwirtschaftliche Entwicklung Die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) erwartet für ihre 34 Mitgliedstaaten eine Zunahme des Bruttoinlandsprodukts (BIP) von 1,4 % im Jahr 2013 und 2,3 % im darauf folgenden Jahr.
+Die Prognose für die Eurozone geht von einem nahezu unveränderten BIP im Jahr 2013 aus (-0,1%) und nimmt für 2014 ein Wachstum von 1,3 % an.
+Für die USA erwartet die OECD ein BIP-Wachstum von 2,0 % im Jahr 2013 und eine weitere Steigerung um 2,8 % im darauf folgenden Jahr.
+Brasilien dürfte der OECD zufolge 2013 und 2014 einen Anstieg des BIP von 4,0 % bzw. 4,1 % verzeichnen, während in diesen Zeiträumen das BIP-Wachstum in China mit 8,5 % bzw. 8,9 % und in Indien mit 5,9 % bzw. 7,0 % veranschlagt wird.
+Zugleich weist die OECD in ihrem Ausblick auf eine deutlich gesunkene Zuversicht hin, was größtenteils darauf zurückzuführen ist, dass die politischen Maßnahmen zur gemeinsamen Bewältigung der globalen Wirtschaftskrise als zu wenig ausreichend oder effektiv empfunden werden.
+Ferner stellt die OECD fest, dass die Lage in der Eurozone nach wie vor die größte Bedrohung für die Weltwirtschaft darstellt.
+Die Krise in der Eurozone wird von drei negativen Rückkoppelungseffekten geprägt: Bedenken über die Solvabilität des Bankensektors, ein mögliches Auseinanderbrechen der Währungsunion und die Staatsschuldenkrise.
+Laut OECD ist eine voll ausgebaute Bankenunion unabdingbar, um das Konstrukt der Eurozone zu vervollständigen.
+Eine solche Bankenunion würde eine Aufsicht auf EU-Ebene und effektive Verfahrensweisen zur länderübergreifenden Krisenbewältigung schaffen.
+Für die USA erachtet die OECD die gegenwärtige Politik für angemessen, da sich die Aussichten am Arbeitsmarkt verbessern und die Inflationserwartungen überschaubar sind.
+Sollten ernstzunehmende Abwärtsrisiken zutage treten, müssten weitere geld- und fiskalpolitische Anreize geschaffen werden.
+Zu den Risiken zählen die Krise in der Eurozone und übermäßige Haushaltskürzungen in den USA (die "Fiskalklippe") sowie Risiken geopolitischer Natur.
+Der Internationale Währungsfonds (IWF) stuft die Abwärtsrisiken höher ein als zuvor.
+Ausschlaggebend für seine Prognose ist, ob die globale Wirtschaft lediglich in eine weitere turbulente Phase eintritt oder der gegenwärtigen Abkühlung eine längerfristige Komponente anhaftet.
+Die IWF-Prognosen basieren auf der Annahme, dass die politischen Entscheidungsträger in Europa und den USA ihre wesentlichen kurzfristigen Herausforderungen pro-aktiv angehen werden.
+Aus diesem Grund geht der IWF in seinen Prognosen davon aus, dass die Konjunktur weltweit wieder an Fahrt gewinnen wird.
+Mittelfristig erachtet der IWF die Frage weiterhin wichtig, wie sich die globale Wirtschaft angesichts einer hohen Staatsverschuldung entwickeln wird, und ob die Schwellenländer ihre starken Wachstumsraten aufrechterhalten können, während sie sich zugleich von exportdominierten Wirtschaftsräumen hin zu von der Binnennachfrage angetriebenen Volkswirtschaften entwickeln.
+Allgemeine Prognose für die Pharmabranche Das IMS Institute, ein weltweites Pharmamarktforschungsinstitut, geht für die Jahre 2012 bis 2016 von einem Wachstum des weltweiten Pharmamarktes zwischen 220 Mrd US$ und 250 Mrd US$ aus.
+Dieses Wachstum wird in Schwellenländern in erster Linie von dem erhöhten Zugang zu Medikamenten angetrieben werden.
+Die betreffenden Märkte werden sich ihrer Größe nach beinahe verdoppeln und zum weltweiten Anstieg der Ausgaben für pharmazeutische Produkte 150 Mrd US$ bis 165 Mrd US$ beitragen.
+Ausgereifte Märkte wie die USA, die fünf größten Märkte in Europa und Japan werden dagegen anteilmaßig weniger zum Gesamtwachstum beisteuern.
+Nichtsdestotrotz werden in Folge der neuen Gesetze der Obama Regierung, die Ausgaben im Gesundheitssektor in den USA in den Jahren 2013 und 2014 ansteigen.
+Bis 2016 dürfte der US-Markt zwischen 1 % und 4 % bzw. 35 Mrd US$ und 45 Mrd US$ wachsen.
+Die fünf größten europäischen Märkte werden weiterhin unter Einsparungsmaßnahmen zu leiden haben und bis 2016 um nur 1 % bis 2 % expandieren.
+Die für Japan bis 2016 erwarteten Wachstumsraten dürften zwischen 1 % und 4 % liegen.
+Laut IMS Institute werden die USA bis 2016 weltweit weiterhin als wichtigster Markt dominieren, gefolgt von China, das Japan wahrscheinlich von Rang 2 verdrängen wird.
+Brasilien wird den Prognosen zufolge in diesem Zeitraum von Platz 6 auf 4 aufsteigen, gefolgt von Deutschland, das derzeit die 4.
+Position hält.
+Evaluate Pharma, ein weiteres Marktforschungsunternehmen für die Pharmabranche, prognostiziert bis 2018 eine weltweite Steigerung der Umsätze mit verschreibungspflichtigen Medikamenten mit einer durchschnittlichen Wachstumsrate von beinahe 3 % auf ein Volumen von 885 Mrd US$.
+Die Experten gehen für 2013 von einem Wachstum des weltweiten Marktes um 3,3 % auf 732 Mrd US$ und für 2014 um weitere 3,7 % auf 760 Mrd US$ aus.
+Das IMS Institute erwartet, dass bis 2016 die neu zum Vertrieb zugelassenen Medikamente jedes Jahr auf durchschnittlich 32 bis 37 ansteigen werden.
+Allgemeine Prognose für die Chemiebranche In einer jüngsten Studie geht der Verband der Chemischen Industrie (VCI) für 2013 von einem Anstieg der weltweiten Chemikalien-Produktion von 3,5 % aus.
+Dieser Studie zufolge wird die chemische Industrie in Europa ihre Produktion um 1,0 % steigern, während sie in den USA um 1,5 %, in Japan um 1,5 %, in Südkorea um 3,0 %, in Indien um 4,5 % und in China um 9,5 % zulegen wird.
+Der europäische Chemieverband Conseil Européen de l'Industrie Chimique (CEFIC) geht für 2013 in Europa von einem leichten Produktionsanstieg der chemischen Industrie (+0,5 %) aus.
+Dieser Ausblick für die gesamte chemische Industrie, ohne pharmazeutische Produkte, basiert auf der optimistischen Annahme, dass jedes Quartal ein moderates Wachstum erzielt wird.
+Bei den Verbraucherprodukten dürfte 2013 ohne pharmazeutische Produkte ein Wachstum von lediglich 1,0 % verbucht werden.
+Der deutsche Chemieverband VCI rechnet damit, dass die chemische Produktion in Deutschland (ohne Pharmazie) 2013 um 1,5 % zulegen wird.
+Bei Fein- und Spezialchemikalien wird für 2013 ein Produktionsanstieg von 1,5 % erwartet, während die Produktion von pharmazeutischen Produkten durch deutsche Unternehmen laut VCI um 2,5 % steigen wird.
+Die Umsätze (inklusive pharmazeutische Produkte) werden 2013 um 2,0 % auf 188 Mrd € steigen.
+China, das aktuell an 11.
+Stelle unter den wichtigsten Exportmärkten der chemischen Industrie in Deutschland rangiert, dürfte laut VCI als Markt laufend an Bedeutung gewinnen.
+Umsatz- und Ergebnisprognose für die Merck-Gruppe Die Prognosen gehen insgesamt von einer moderaten Energie- und Rohstoffpreisentwicklung sowie von steigenden Personalkosten aus.
+Die Volatilität des Ölpreises wirkt sich nicht unmittelbar auf die Geschäftstätigkeit der Merck-Gruppe aus.
+Als global tätiges Unternehmen ist Merck unterschiedlichsten Wechselkursrisiken ausgesetzt, insbesondere dem US-Dollar, denen in bestimmtem Maße durch gezielte Risikoabsicherung entgegengewirkt wird.
+Vor dem Hintergrund der erwarteten und vorstehend erläuterten wirtschaftlichen Entwicklungen geht die Geschäftsleitung davon aus, dass die Merck-Gruppe 2013 und 2014 ein moderates organisches Umsatzwachstum erzielen wird.
+Wie schon in den letzten beiden Jahren dürften alle unsere Geschäftsbereiche in der Europäischen Union infolge der strukturellen Schwierigkeiten, die sich aus der Staatsverschuldung und dem erhöhten Wettbewerb ergeben, allerdings weiterhin Preisdruck ausgesetzt sein.
+In der Sparte Performance Materials können bezüglich der Geschäftseinheit Liquid Crystals gewisse Einbußen des hohen Marktanteils nicht ausgeschlossen werden.
+All diese Faktoren könnten sich auf unsere Umsatzzahlen negativ auswirken.
+Im Hinblick auf unsere wichtigste Kennzahl - das EBITDA vor Sondereinflüssen - geht die Geschäftsleitung davon aus, dass die Merck-Gruppe dank Einsparungen im Zuge des Effizienzsteigerungsprogramms auch 2013 und 2014 Zuwächse vorweisen kann.
+Das berichtete EBITDA sollte 2013 deutlich ansteigen, da der Großteil der Sondereinflüsse in Zusammenhang mit dem Effizienzsteigerungsprogramm bereits 2012 erfolgte.
+Wir rechnen weiterhin mit einer Steuerquote von rund 25 % in den beiden folgenden Geschäftsjahren.
+Auch für 2013 und 2014 gehen wir wieder von einem hohen Free Cash Flow aus.
+Die Mehrheit der Mittelabflüsse im Zuge des Effizienzsteigerungsprogramms werden 2013 zahlbar und dürften gegenüber 2012 zusätzliche Zahlungsmittelabflüsse von ca.
+300 Mio € mit sich bringen.
+Die Finanzschulden der Merck-Gruppe sollten in den nächsten Jahren, auch aufgrund unseres hohen Free Cash Flows, weiter zurückgeführt werden.
+Die Investitionen in Sachanlagen werden im Jahr 2013 auf ca.
+450 Mio € steigen und beinhalten u. a. Investitionsmaßnahmen für das Effizienzsteigerungsprogramms "Fit für 2018".
+Für 2014 erwarten wir einen konstanten Verlauf.
+Bei der Eigenkapitalquote erwarten wir für die kommenden beiden Jahre einen leichten Anstieg auf hohem Niveau.
+Für Merck sind neben Europa die Länder Brasilien, China, Indien, Japan, Mexiko, Südkorea und die USA strategisch wichtig.
+Ausführungen zur jeweiligen Geschäftserwartung und erwarteten Entwicklung dieser Länder finden sich in den Prognosen der Sparten.
+Für das Geschäftsjahr 2012 behalten wir unsere bisherige, langfristig orientierte Dividendenpolitik bei und schlagen der Hauptversammlung eine höhere Dividende von 1,70 € je Aktie vor.
+Prognose für die Sparte Merck Serono Von besonderer Bedeutung für die Sparte Merck Serono sind die Märkte der Krebstherapeutika und der Multiple-Sklerose-Behandlung mit den jeweils angebotenen Behandlungsoptionen.
+Bei der Behandlung von Diabetes haben wir mit Glucophage® den sogenannten Gold-Standard gegen Typ-II-Diabetes.
+Dem IMS Institute nach wird der Bereich Biopharmazeutika an Bedeutung hinzugewinnen.
+Bis 2016 wird davon ausgegangen, dass sieben der zehn wichtigsten Medikamente biopharmazeutischen Ursprungs sein werden.
+Die Produkte von Merck Serono in den Bereichen Onkologie und Multiple Sklerose sind Biopharmazeutika und machen einen großen Anteil der Spartenerlöse aus.
+Schätzungen von Evaluate Pharma zufolge wird der Marktanteil von Biopharmazeutika 2013 bei 21 % liegen und im darauf folgenden Jahr 22 % betragen.
+Das Marktforschungsunternehmen geht in seinen Prognosen ferner davon aus, dass Krebsmedikamente bis 2018 mit Abstand weiterhin das wichtigste Therapiegebiet bilden werden.
+In diesem Bereich wird ein durchschnittlich-jährliches Wachstum von 7,1 % auf ein Volumen von 104,1 Mrd US$ gegenüber 64,6 Mrd US$ im Jahre 2011 erwartet.
+Antidiabetika dürften mit einer jährlichen Wachstumsrate von 7,8 % und einem Gesamtvolumen von 58,2 Mrd US$ bis 2018 weiterhin das zweitgrößte Therapiegebiet ausmachen.
+Therapien zur Behandlung von Multipler Sklerose werden mit einem Volumen von 15,1 Mrd US$ und einem Wachstum von 2,6 % (CAGR) voraussichtlich an 12.
+Stelle rangieren.
+Das IMS Institute bestätigt diese Prognosen und geht weiter davon aus, dass der Bereich Onkologie bis 2016 auf ein Volumen von 83 bis 88 Mrd US$.
+Für den Antidiabetika-Markt wird bis 2016 ein Volumenzuwachs auf 48 bis 53 Mrd US$ erwartet.
+Medikamente für Patienten, die an Multipler Sklerose erkrankt sind, werden dem IMS Institute zufolge bis 2016 mit einem Marktvolumen von 14 - 16 Mrd US$ Rang 13 einnehmen.
+Für die Sparte Merck Serono erwarten wir 2013 und 2014 ein leichtes organisches Wachstum bei den Umsätzen, das jedoch hinter dem von 2012 zurückbleiben wird.
+Derzeit gehen wir in unseren Prognosen von keinen wesentlichen Produktneueinführungen aus.
+Das Effizienzsteigerungsprogramm dürfte sowohl 2013 als auch 2014 weitere Kosteneinsparungen und somit eine weitere Verbesserung des EBITDA vor Sondereinflüssen erbringen.
+Wir gehen für diese beiden Jahre in Zusammenhang mit dem Effizienzsteigerungsprogramm von weiteren Sonderaufwendungen aus, die jedoch unter denen von 2012 liegen werden.
+Für 2013 prognostizieren wir in etwa 150 Mio €, für 2014 nur noch 50 Mio €.
+Auch der Free Cash Flow wird von den Zahlungen im Zusammenhang mit dem Effizienzsteigerungsprogramm beeinträchtigt werden, weshalb davon auszugehen ist, dass er 2013 eventuell unter dem Niveau des Vorjahrs liegen wird.
+Da die Zahlungsmittelabflüsse für das Restrukturierungsprogramm 2014 zurückgehen dürften, sollte sich der Cash Flow in diesem Jahr wieder erholen.
+Das EBIT auf Spartenebene beinhaltet die Abschreibungen auf immaterielle Vermögenswerte mit bestimmter Nutzungsdauer, welche im Rahmen der Serono-Akquisition zum beizulegenden Zeitwert angesetzt wurden.
+Die planmäßigen Abschreibungen werden im Jahr 2013 voraussichtlich rund 600 Mio € betragen und 2014 wegen der Beendigung der Abschreibungsdauer einiger Vermögenswerte auf rund 570 Mio € sinken.
+Die Kosten für Marketing und Vertrieb, Verwaltung sowie FE sollten in den folgenden zwei Jahren im Zuge des Effizienzsteigerungsprogramms leicht sinken.
+Bis Ende 2014 dürften jährliche Einsparungen von insgesamt 300 Mio € erzielt werden.
+Die FE-Ausgaben hängen von den weiteren Investitionen in Biosimilars ab.
+Merck Serono geht davon aus, dass die Umsätze von Rebif®, dem verkaufsstärksten Produkt der Sparte, wegen des gestiegenen Wettbewerbsdrucks 2013 stagnieren und ab 2014 zurückgehen werden.
+Die Umsätze mit dem Krebsmedikament Erbitux® werden sich 2013 und 2014, ebenfalls aufgrund der erhöhten Konkurrenz - wenn überhaupt - nur leicht verbessern.
+Auch die anderen Geschäftsbereiche wie Fruchtbarkeit, Endokrinologie und CardioMetabolic Care dürften unseres Erachtens 2013 und 2014 leicht wachsen.
+Geografische Wachstumstreiber in den kommenden Jahren werden weiterhin die Märkte in Asien und Lateinamerika sein.
+Chancen für Europa und die USA, die derzeit wichtigsten Absatzmärkte der Sparte, ergeben sich durch die Weiterentwicklung bestehender Produkte (Life-Cycle-Management), beispielsweise die Entwicklung neuer Darreichungsformen.
+Die Lizenzerlöse werden bis 2014 auf ca.
+180 - 200 Mio € zurückgehen.
+Die anhaltend hohe Staatsverschuldung in einigen Ländern und die damit verbundene mögliche Senkung von Ausgaben im Gesundheitswesen könnten bei einigen Produkten zu weiteren Umsatzeinbußen führen.
+Des Weiteren sind seit Jahren Rechtsstreitigkeiten in der Pharmabranche ausgeprägt, die auch in der Vergangenheit Merck Serono belastet haben.
+Es ist nicht auszuschließen, dass dies auch in den kommenden Jahren der Fall sein wird.
+Prognose für die Sparte Consumer Health Consumer Health will mit innovativen Produkten im Bereich Gesundheitsvorsorge die Lebensqualität der Menschen verbessern.
+Das Marktforschungsunternehmen Nicholas Hall sieht für den globalen Selbstmedikationsmarkt im Jahr 2013 einen Volumenzuwachs um 4,6 % auf fast 92 Mrd US$ voraus und geht davon aus, dass im darauf folgenden Jahr mit einem weiteren Wachstum von 5,1 % auf rund 97 Mrd US$ zu rechnen sei.
+Der Asien-Pazifik-Raum (ohne Japan) dürfte mit +7,7 % und +7,5 % in den Jahren 2013 bzw. 2014 den größten Wachstumsbeitrag leisten.
+Mit einem Wachstum von 6,4 % 2013 und rund 6,8 % 2014 wird sich auch Lateinamerika gut entwickeln.
+Für Europa gehen die Marktforscher von +3,6 % im Jahr 2013 und +4,1 % im darauf folgenden Jahr aus.
+Nordamerika dürfte bei den rezeptfreien Medikamenten 2013 ein Wachstum von 2,6 % und 2014 einen Zuwachs von 4,1 % verzeichnen.
+Merck geht davon aus, dass die Umsätze der Sparte Consumer Health 2013 stabil bleiben und 2014 wieder wachsen werden.
+Die Umsatzentwicklung spiegelt die Entscheidung des Unternehmens wider, weniger Gewicht auf Marken, Produkte und Märkte mit niedriger oder negativer Profitabilität zu legen, den Produktionsstandort in Großbritannien stillzulegen und auf einen Teil des britischen Produktportfolios zu verzichten.
+Diese Neuausrichtung hat für das Geschäft zunächst niedrigere Umsätze insbesondere in Europa zur Folge, die sich mit dem Wachstum strategischer Marken in wichtigen Märkten aber wieder erholen werden.
+Sowohl 2013 als auch 2014 wird der Schwerpunkt in der Sparte auf der Steigerung der Profitabilität liegen.
+Daher dürfte das EBITDA vor Sondereinflüssen 2013 und 2014 leicht steigen.
+Ferner ist in diesem Zeitraum von einer verbesserten EBITDA-Marge vor Sondereinflüssen (in % der Umsätze) in Höhe von 15-17 % auszugehen.
+Dies wird durch eine strenge Kostenkontrolle über alle Geschäftsbereiche sowie durch die Fokussierung auf profitable Elemente des Markenportfolios und der Märkte gewährleistet werden.
+Ein Großteil der Sonderaufwendungen fiel bereits 2012 an; rund 10 bis 15 Mio € dürften 2013 noch zu Buche schlagen.
+Parallel zur Steigerung des EBITDA vor Sondereinflüssen wird in den nächsten zwei Jahren eine positive Entwicklung des Free Cash Flow erwartet.
+In den kommenden zwei Jahren stehen Chancen und Risiken der Sparte Consumer Health in engem Zusammenhang mit der erfolgreichen Vermarktung des vorhandenen Produktportfolios und einer Stärkung der schneller wachsenden Regionen.
+Der Fokus liegt dabei sowohl auf unseren strategischen Marken mit globaler und regionaler Präsenz als auch auf einigen starken lokalen Marken.
+Die Steigerung der Profitabilität vorhandener Produkte und des Produktportfolios insgesamt steht im Vordergrund.
+Geografisch bleibt die Sparte Consumer Health weiterhin auf den Kernmarkt Europa konzentriert.
+Zugleich werden mehr Ressourcen dafür eingesetzt werden, die Präsenz in den Wachstumsmärkten Asiens, Lateinamerikas und Osteuropas zu stärken.
+Risiken bestehen dabei insbesondere in den sich global ändernden gesundheitspolitischen Rahmenbedingungen für Nahrungsergänzungsmittel, in Bezug auf wesentliche Wachstumsmärkte wie Venezuela, Mexiko und Brasilien sowie im Hinblick auf das Kaufverhalten der Konsumenten.
+Prognose für die Sparte Performance Materials Merck ist der weltweit führende Hersteller von Flüssigkristallen für LCD-Bildschirme.
+Display Search, ein Marktforschungsunternehmen für den Display-Sektor, prognostiziert einen Anstieg der verkauften LCD-Bildschirme für 2013 von 7 % und für 2014 von 8 %.
+Hauptwachstumsfaktoren werden zunehmende durchschnittliche Bildschirmdiagonalen und der Markt für Tablet-Computer sein.
+Ein wichtiger Markt für unser Geschäft mit Perlglanzpigmenten in der Sparte Performance Materials sind Automobillacke.
+Für den weltweiten Pkw-Markt erwartet der deutsche Verband der Automobilindustrie (VDA) 2013 ein Wachstum von 3 % auf 70 Mio Einheiten.
+Für die USA und China wird von einer Expansion ausgegangen.
+In Bezug auf die USA erwartet der VDA einen Zuwachs von 5 %, während die Nachfrage aus China um 6 % zulegen dürfte.
+Andererseits wird die Nachfrage aus der Automobilbranche in Westeuropa und Japan um jeweils 3 % schrumpfen.
+Nach einem sehr starken Jahr 2012 gehen wir in der Sparte Performance Materials 2013 von einem leichten Rückgang des Umsatzes aus.
+Im darauf folgenden Jahr dürfte es wieder leichte Steigerungen geben.
+Das EBITDA vor Sondereinflüssen wird 2013 noch hoch bleiben, allerdings bestenfalls auf dem sehr starken Niveau des Vorjahres liegen.
+Aufgrund des konjunkturanfälligeren Geschäfts in dieser Sparte sind langfristige Entwicklungen nur schwer auszumachen.
+Falls wir in den kommenden Jahren eine neue Technologie auf den Markt bringen, sollte die Sparte ein dementsprechend höheres EBITDA vor Sondereinflüssen erzielen können.
+Bei ausbleibenden Technologieneuerungen dürfte das EBITDA vor Sondereinflüssen 2014 kaum über dem für 2013 prognostizierten Niveau liegen.
+Die Sparte geht davon aus, dass die Geschäftseinheit Liquid Crystals ihre führende Marktposition bei LC-Mischungen in den kommenden Jahren beibehalten wird, im Vergleich zu der außergewöhnlichen Marktführerschaft von 2012 jedoch zunehmenden Konkurrenzdruck ausgesetzt sein könnte.
+Der Preisdruck auf LC-Mischungen wird aufgrund des Wettbewerbs weiter anhalten.
+Ein weiteres Volumenwachstum dürfte über neue LC-Mischungen für innovative LCD-Technologien erzielt werden.
+Wir gehen jedoch weder für 2013 noch für 2014 von wesentlichen technologischen Neuerungen aus.
+Zur Beibehaltung der Technologieführerschaft bei innovativen Flüssigkristallen werden die FE-Aktivitäten auf hohem Niveau weitergeführt.
+Dies gilt auch für die zukunftsträchtigen Geschäfte mit reaktiven Mesogenen, OLEDs und LEDMaterialien, die überdurchschnittlich zum Wachstum der Performance-Materials-Sparte beitragen werden.
+Auf das dynamisch wachsende Displaygeschäft in China sind wir vorbereitet und begleiten dieses mit lokalen Investitionen.
+Zudem rechnet die Sparte Performance Materials damit, dass die Geschäftseinheit Pigments Cosmetics nur leicht wachsen wird, allerdings ihre Profitabilität dank der fortlaufenden Kosteneinsparungsbemühungen steigern kann.
+Der Free Cash Flow wird 2013 und 2014 auf den hohen Niveaus der Vorjahre verbleiben.
+Dies wird durch eine kontrollierte Steuerung der Investitionen und des Umlaufvermögens sichergestellt.
+Prognose für die Sparte Merck Millipore Merck Millipore ist ein führender Partner der Life-Science-Industrie.
+Die Produkte und Dienstleistungen der Sparte werden in der Forschung, Entwicklung und Herstellung von Arzneimitteln chemischen und biotechnologischen Ursprungs sowie für allgemeine Laboranwendungen eingesetzt.
+Evaluate Pharma sieht die weltweiten Forschungs- und Entwicklungsausgaben der Pharmaindustrie, und damit der Hauptkunden von Merck Millipore, von 2011 bis 2018 jährlich im Durchschnitt um 1,5 % steigen.
+Das Unternehmen prognostiziert für 2013 und 2014 FE-Kosten von insgesamt 136 Mrd US$ bzw. 138 Mrd US$.
+Abgesehen von einem insgesamt wachsenden Geschäft in der Pharmabranche geht Evaluate Pharma davon aus, dass im biotechnologischen Verfahren hergestellte Produkte bis 2018 mit jährlichen Zuwächsen von 6,2 % rechnen können.
+Hierbei handelt es sich um einen Bereich, in dem Merck Millipore Produkte und Dienstleistungen zur Unterstützung seiner Kunden über den gesamten Produktentwicklungsprozess hinweg, von der Entwicklung neuer Medikamente bis hin zu ihrer Herstellung, anbietet und somit von über dem Marktdurchschnitt liegenden Wachstumsraten profitieren sollte.
+Niedrigmolekulare Arzneimittel, ein Bereich, in dem Merck Millipore Produkte für die Forschung und Entwicklung anbietet, machen weiterhin den größten Anteil an chemischen Arzneimitteln aus und dürften bis 2018 um jährlich 1 % wachsen.
+Die künftige Entwicklung von Merck Millipore hängt abgesehen von der Ausgabenentwicklung in der pharmazeutischen Industrie auch von der Nachfrage nach Laborchemikalien ab.
+Die Marktforscher von Frost Sullivan gehen für 2013 von einem Marktwachstum für Laborchemikalien von 3,5 % aus.
+Die Geschäftsleitung von Merck erwartet für Merck Millipore 2013 und 2014 ein moderates organisches Umsatzwachstum.
+Das EBITDA vor Sondereinflüssen wird in beiden Jahren im Einklang mit den Umsätzen weiter steigen.
+Das EBIT der Sparte beinhaltet die planmäßigen Abschreibungen immaterieller Vermögenswerte, die im Zusammenhang mit der Millipore-Akquisition zum beizulegenden Zeitwert angesetzt wurden.
+Diese werden in den beiden Folgejahren voraussichtlich rund 190 Mio € betragen.
+Ein Schwerpunkt für das zukünftige Wachstum der Sparte sind Innovationen und Produktneueinführungen.
+Aus diesem Grund werden sich die FE-Kosten voraussichtlich in den Jahren 2013 und 2014 weiter erhöhen.
+In Zusammenhang mit dem Effizienzsteigerungsprogramm gehen wir sowohl für 2013 als auch 2014 von weiteren Sondereinflüssen aus, die vor allem die Produktion und Logistik betreffen.
+Trotz der 2013 und 2014 steigenden Investitionen in Sach- und Produktionsanlagen zur Unterstützung des Wachstums wird der Free Cash Flow in den nächsten Jahren dank der strengen Kontrolle von Lagerbeständen positiv sein.
+Die Merck-Millipore-Geschäftseinheit BioScience entwickelt Produkte, die zu einem schnelleren Verständnis von biologischen Zusammenhängen und der Entwicklung von Therapien führen.
+Das umfangreiche Produktportfolio dieser Geschäftseinheit ist gut positioniert, um in dem dynamischen Markt zu wachsen.
+Schlüsselkomponente für die Umsatzentwicklung auf dem BioScience-Markt bleiben die Entwicklung und Einführung neuer Produkte.
+Teile dieses Geschäfts werden weiterhin vor Schwierigkeiten stehen, denn die Verlangsamung des weltweiten Wirtschaftswachstums und die Kürzung staatlicher Forschungsgelder sorgen momentan für eine Abschwächung am Life-Science-Markt.
+Wir können potenzielle Risiken bedingt durch die anhaltende Konsolidierung und Restrukturierung der pharmazeutischen Industrie sehen.
+Die Geschäftseinheit Lab Solutions bietet ein breites Portfolio an innovativen, hochwertigen und zuverlässigen Produkten inklusive Wasseraufbereitungsgeräten, die für allgemeine Laboranwendungen geeignet sind.
+Sie dürfte ein moderates Wachstum verzeichnen.
+Für die Geschäftseinheit Process Solutions, die großen Pharma- und Biotechnologieunternehmen Verbrauchsmaterialien zur Herstellung von Arzneimitteln sowie integrierte Lösungen bietet, liegen die Chancen in einem umfassenden Produkt- und Dienstleistungsportfolio und der geografischen Präsenz in zukünftigen Wachstumsmärkten.
+Ein Volumenwachstum könnte durch die Nachfrage nach neuen Produkten und Dienstleistungen erzielt werden.
+Geografische Wachstumstreiber in der Sparte Merck Millipore werden neben den etablierten Märkten Europas und Nordamerikas insbesondere China und Indien und auch Lateinamerika sein.
+Für die Sparte ergeben sich unterdessen Risiken aufgrund des Kostendrucks in der Life-Science-, der biotechnologischen und der pharmazeutischen Industrie.
+Insgesamt ist es unser Ziel, in einem unsicheren Marktumfeld durch ein breites Produktportfolio, die weltweite Ausrichtung des Geschäfts, die fortlaufende Entwicklung innovativer Produkte und Lösungen sowie die Nutzung der regionalen Stärken im Ergebnis weiter zu wachsen.
+Prognose für die Merck KGaA Abweichungen der tatsächlichen Geschäftsentwicklungen im Jahr 2012 von früher berichteten Prognosen Im Jahresabschluss 2011 wurde für das Geschäftsjahr 2012 die folgende Prognose gegeben: Umsatzerlöse - insgesamt leichter Anstieg der Umsatzerlöse - im Unternehmensbereich Pharma auf Vorjahresniveau - im Unternehmensbereich Chemie leicht wachsend bei Performance Materials und moderat wachsend bei Merck Millipore.
+Ergebnis der gewöhnlichen Geschäftstätigkeit - niedriger als 2011.
+Die Umsatzerlöse konnten gegenüber Vorjahr um 6,5 % gesteigert werden.
+Beide Unternehmensbereiche haben zu dieser guten Entwicklung beigetragen.
+Der Unternehmensbereich Pharma konnte die Umsatzerlöse um 4,7 % verbessern, der Unternehmensbereich Chemie um 7,8 %.
+Im Unternehmensbereich Pharma konnte das Geschäft mit Erbitux® deutlich stärker erweitert werden als angenommen.
+Die deutlich höhere Nachfrage nach neuen Produkten (3D-TV, Tablets) führte im Unternehmensbereich Chemie bei den Geschäften mit Flüssigkristallen zu höheren Verkäufen.
+Die Prognose für das Ergebnis der gewöhnlichen Geschäftstätigkeit hat sich bestätigt.
+Insbesondere eine Vielzahl von einmaligen Sondereinflüssen (wie z.
+B. Restrukturierungskosten) führen zu diesem Bild.
+Prognose 2013 Die Merck KGaA ist der zentrale Produktionsstandort innerhalb der Merck-Gruppe und tätigt damit einen wesentlichen Teil des Geschäfts mit anderen Gesellschaften der Merck-Gruppe.
+Ausgehend von den Umsatzerlösen in Höhe von 3.199 Mio € in 2012 rechnet Merck KGaA mit einem leichten Anstieg der Umsatzerlöse.
+Für den Unternehmensbereich Pharma erwarten wir, dass die Umsatzerlöse moderat steigen.
+Die im Unternehmensbereich Chemie enthaltenen Sparten werden wie folgt erwartet - leicht wachsend bei Merck Millipore - leichter Rückgang bei Performance Materials, da die sehr gute Geschäftsentwicklung 2012 bei den Flüssigkristallen in 2013 wegen steigender Konkurrenzsituation bei Standardanwendungen schwächer erwartet wird.
+Das Ergebnis der gewöhnlichen Geschäftstätigkeit wird in 2013 auf höherem Niveau als 2012 erwartet.
+Die folgenden Effekte prägen die Ergebniserwartung: - höhere Erträge aus dem Anstieg der Umsatzerlöse - weniger einmalige Sondereffekte - Einsparungen aus dem "Fit für 2018" Effizienzprogramm.
+Auch für 2014 erwartet Merck KGaA weiterhin moderat steigende Umsatzerlöse und eine stabile Situation bei dem Ergebnis der gewöhnlichen Geschäftstätigkeit gegenüber 2013.
+Dividendenentwicklung Für das Jahr 2012 schlagen wir der Hauptversammlung eine Dividende von 1,70 Euro je Aktie vor.
+Aufgrund unserer Ergebniserwartung stellt Merck seinen Eigentümern - der Merck-Familie und den Aktionären - eine weiterhin ertragsorientierte Ausschüttung in Aussicht.
+Zusammenfassung In Anbetracht der vorstehend aufgeführten Erwartungen zur wirtschaftlichen Entwicklung geht die Geschäftsleitung insgesamt von einem stabileren Konjunkturumfeld und einem leicht positiven Ausblick für die globale Wirtschaft aus.
+Die Merck-Gruppe dürfte sowohl 2013 als auch 2014 ein moderates organisches Umsatzwachstum erzielen.
+Merck geht in den nächsten zwei Jahren weder von wesentlichen Technologieneuerungen in seinem Chemiegeschäft noch von großen Produktneueinführungen in seinem Pharmageschäft aus.
+Ein stärkerer Euro könnte im Vergleich zum Vorjahr negative Währungseffekte nach sich ziehen und sich gegebenenfalls reduzierend auf die berichteten Umsätze auswirken.
+Auf Konzernebene sollte das EBITDA vor Sondereinflüssen aufgrund der Einsparungen des konzernweiten Effizienzsteigerungsprogramms "Fit für 2018" stärker steigen als der Umsatz.
+Für das Geschäftsjahr 2012 behalten wir unsere bisherige, langfristig orientierte Dividendenpolitik bei und schlagen der Hauptversammlung eine höhere Dividende von 1,70 € je Aktie vor.
+Das verhältnismäßig höhere EBITDA vor Sondereinflüssen und niedrigere Sonderaufwendungen sollten 2013 und 2014 das Konzernergebnis deutlich steigen lassen.
+Merck verfügt über ein umfangreiches Risiko- und Chancenmanagement, das im Risikobericht beschrieben ist (siehe Seite 9).
+Bezogen auf den hier dargestellten Prognosezeitraum von zwei Jahren sehen wir im Wesentlichen geschäftsbezogene Chancen und Risiken.
+Durch die Diversifizierung und das breit angelegte Produktportfolio von Merck ergeben sich je Sparte sehr unterschiedliche Spektren wichtiger Chancen und Risiken.
+Erläuterungen hierzu finden sich bei den jeweiligen Spartenkommentierungen im Lagebericht.
+Unsere Prognosen für Merck berücksichtigen die Risiko- und Chancenabwägungen des Unternehmens nach Maßgabe unserer operativen Planung und mittelfristiger Annahmen.
+Mögliche Akquisitionen, Veräußerungen und andere Sondereffekte dagegen sind nicht enthalten.
+Bilanz zum 31. Dezember 2012 Aktiva in Mio € Anhang 31.12.2012 31.12.2011 Anlagevermögen Immaterielle Vermögensgegenstände → 1 372,7 259,1 Sachanlagen → 2 815,1 847,2 Finanzanlagen → 3 4.976,4 4.079,1 6.164,2 5.185,4 Umlaufvermögen Vorräte → 4 633,6 662,4 Forderungen und sonstige Vermögensgegenstände Forderungen aus Lieferungen und Leistungen → 5 92,7 87,0 Andere Forderungen und sonstige Vermögensgegenstände → 6 169,6 1.416,8 Flüssige Mittel → 7 0,5 0,1 262,8 1.503,9 Rechnungsabgrenzungsposten 1,3 2,4 Aktiver Unterschiedsbetrag aus der Vermögensverrechnung → 8 139,3 0,0 7.201,2 7.354,1 Passiva in Mio € Anhang 31.12.2012 31.12.2011 Eigenkapital → 9 Gezeichnetes Kapital 168,0 168,0 Komplementärkapital 397,2 397,2 Kapitalrücklagen 3.813,7 3.813,7 Gewinnrücklagen 701,6 864,4 Gewinnvortrag E. Merck KG 0,0 502,5 Bilanzgewinn Kommanditaktionäre 109,9 309,5 5.190,4 6.055,3 Rückstellungen → 10 Rückstellungen für Pensionen und ähnliche Verpflichtungen 0,0 455,3 Andere Rückstellungen 664,4 382,6 664,4 837,9 Verbindlichkeiten → 11 Finanzschulden → 12 17,4 20,8 Verbindlichkeiten aus Lieferungen und Leistungen → 13 122,5 87,5 Andere Verbindlichkeiten → 14 1.206,1 352,4 1.346,0 460,7 Rechnungsabgrenzungsposten 0,4 0,2 7.201,2 7.354,1 Gewinn- und Verlustrechnung für den Zeitraum vom 1. Januar bis 31. Dezember 2012 in Mio € Anhang 2012 2011 Umsatzerlöse → 15 3.199,4 3.004,4 Bestandsveränderungen -58,6 -14,5 Andere aktivierte Eigenleistungen 28,5 25,8 Sonstige betriebliche Erträge → 16 375,6 490,8 Summe Leistungen und Erträge 3.544,9 3.506,5 Materialaufwand → 17 -816,5 -796,8 Personalaufwand → 18 -1.020,2 -796,7 Abschreibungen -171,4 -209,2 Sonstige betriebliche Aufwendungen → 19 -1.479,7 -1.295,6 Summe betriebliche Aufwendungen -3.487,8 -3.098,3 Erträge / Aufwendungen aus Beteiligungen → 20 -40,6 949,8 Abschreibungen auf Finanzanlagen - -0,8 Finanzergebnis → 21 -33,7 -30,3 Ergebnis der gewöhnlichen Geschäftstätigkeit -17,2 1.326,9 Außerordentliches Ergebnis → 22 -513,8 -20,5 Ergebnisabführung an E. Merck KG → 23 372,0 -938,5 Ergebnisabführung von E. Merck KG → 23 2,2 0,8 Steuern vom Einkommen und vom Ertrag → 24 5,7 5,5 Jahresfehlbetrag (i. Vj.
+Jahresüberschuss) -151,1 374,2 Entwicklung des Anlagevermögens in Mio € Immaterielle Vermögensgegenstände Sachanlagen Finanzanlagen Gesamt Kumulierte Anschaffungswerte zum 01.01.2012 544,8 2.864,3 4.090,2 7.499,3 Zugänge 147,4 105,8 920,5 1.173,7 Abgänge -4,5 -71,2 -23,2 -98,9 Umbuchungen 0,5 -0,5 - - Kumulierte Anschaffungswerte zum 31.12.2012 688,2 2.898,4 4.987,5 8.574,1 Kumulierte Abschreibungen zum 01.01.2012 285,7 2.017,1 11,1 2.313,9 Abschreibungen 34,3 137,1 - 171,4 Abgänge -4,5 -70,0 - -74,5 Zuschreibungen - -0,9 - -0,9 Kumulierte Abschreibungen zum 31.12.2012 315,5 2.083,3 11,1 2.409,9 Restbuchwerte zum 31.12.2012 372,7 815,1 4.976,4 6.164,2 Anhang zum Jahresabschluss 2012 der Merck KGaA Allgemeine Erläuterungen Der Jahresabschluss der Merck KGaA, Darmstadt, ist entsprechend den Vorschriften für große Kapitalgesellschaften des Handelsgesetzbuchs in der Fassung des Bilanzrechtsmodernisierungsgesetzes (HGB n.F.
+), des Aktiengesetzes sowie den ergänzenden Bestimmungen der Satzung aufgestellt.
+Die Gewinn- und Verlustrechnung wird nach dem Gesamtkostenverfahren gegliedert.
+Latente Steuern werden nicht ausgewiesen, da ein Überhang aktiver latenter Steuern besteht.
+Des Weiteren wurde von dem Wahlrecht zur Bildung von Bewertungseinheiten des § 254 HGB Gebrauch gemacht, Planvermögen wurde mit den zugehörigen Rückstellungen gemäß § 246 HGB verrechnet.
+Im Detail siehe die Erläuterungen bei den einzelnen Posten der Bilanz bzw. der Gewinn- und Verlustrechnung.
+Die Merck KGaA erstellt einen Konzernabschluss, der im Geschäftsbericht der Merck-Gruppe enthalten ist.
+Außerdem wird die Merck KGaA in den Konzernabschluss der E. Merck KG, Darmstadt (nachfolgend auch E. Merck genannt), einbezogen.
+Beide Abschlüsse werden beim elektronischen Bundesanzeiger eingereicht und sind unter www.ebundesanzeiger.de abrufbar.
+Einige Posten der Bilanz und der Gewinn- und Verlustrechnung wurden zusammengefasst, um die Klarheit der Darstellung zu erhöhen; diese Posten sind im Anhang im Einzelnen ausgewiesen.
+Erläuterungen zur Bilanz (1) Immaterielle Vermögensgegenstände in Mio € Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten Geschäfts- oder Firmenwerte Geleistete Anzahlungen Gesamt Kumulierte Anschaffungswerte zum 01.01.2012 517,0 13,5 14,3 544,8 Zugänge 121,5 - 25,9 147,4 Abgänge -4,5 - -0,0 -4,5 Umbuchungen 10,3 - -9,8 0,5 Kumulierte Anschaffungswerte zum 31.12.2012 644,3 13,5 30,4 688,2 Kumulierte Abschreibungen zum 01.01.2012 276,2 9,5 - 285,7 Abschreibungen 33,4 0,9 - 34,3 Abgänge -4,5 - - -4,5 Zuschreibungen - - - - Kumulierte Abschreibungen zum 31.12.2012 305,1 10,4 - 315,5 Restbuchwerte zum 31.12.2012 339,2 3,1 30,4 372,7 Erworbene immaterielle Vermögensgegenstände werden zu Anschaffungskosten, vermindert um planmäßige Abschreibungen nach der linearen Methode, angesetzt.
+Bei Konzessionen, Schutzrechten, Lizenzen, Patenten und Software beträgt die Nutzungsdauer zwischen 3 und 15 Jahren.
+Bei voraussichtlich dauernden Wertminderungen wird eine außerplanmäßige Abschreibung vorgenommen.
+Geschäfts- oder Firmenwertzugänge werden über 5 Jahre abgeschrieben.
+Im Geschäftsjahr wurden immaterielle Vermögensgegenstände mit 6,7 Mio € (i. Vj.
+44,0 Mio €) außerplanmäßig abgeschrieben.
+(2) Sachanlagen in Mio € Grundstücke, grundstücksgleiche Rechte und Bauten einschl.
+Bauten auf fremden Grundstücken Technische Anlagen und Maschinen Andere Anlagen, Betriebs- und Geschäftsausstattung Geleistete Anzahlungen und Anlagen im Bau Gesamt Kumulierte Anschaffungswerte zum 01.01.2012 719,5 1.450,6 600,7 93,5 2.864,3 Zugänge 2,8 17,7 21,8 63,5 105,8 Abgänge -2,7 -31,6 -36,8 -0,1 -71,2 Umbuchungen 4,5 32,2 15,4 -52,6 -0,5 Kumulierte Anschaffungswerte zum 31.12.2012 724,1 1.468,9 601,1 104,3 2.898,4 Kumulierte Abschreibungen zum 01.01.2012 365,9 1.176,9 465,2 9,1 2.017,1 Abschreibungen 22,4 68,1 46,6 - 137,1 Abgänge -2,7 -31,1 -36,2 - -70,0 Zuschreibungen -0,4 -0,5 - - -0,9 Kumulierte Abschreibungen zum 31.12.2012 385,2 1.213,4 475,6 9,1 2.083,3 Restbuchwerte zum 31.12.2012 338,9 255,5 125,5 95,2 815,1 Sachanlagen werden mit den Anschaffungs- oder Herstellungskosten angesetzt, vermindert um planmäßige nutzungsbedingte Abschreibungen.
+Bei selbsterstellten Sachanlagen werden die Herstellungskosten anhand der direkt zurechenbaren Einzelkosten sowie angemessener Teile der Gemeinkosten ermittelt.
+Die Abschreibungsdauer bei Produktionsgebäuden beträgt 25 Jahre und bei Verwaltungs- und Sozialgebäuden 40 Jahre.
+Die Nutzungsdauer der Technischen Anlagen beträgt i. W. zwischen 10 und 15 Jahren.
+Die Nutzungsdauer der heterogen zusammengesetzten anderen Sachanlagen liegt zwischen 2 und 20 Jahren.
+Außerplanmäßige Abschreibungen werden durchgeführt, soweit eine voraussichtlich dauernde Wertminderung vorliegt.
+Sie betrugen im Jahr 2012 3,7 Mio € (i.
+Vj.
+: 0,0 Mio €).
+(3) Finanzanlagen Anteile an: Ausleihungen an: in Mio € verbundene Unternehmen übrige Beteiligungen verbundene Unternehmen Sonstige Gesamt Kumulierte Anschaffungswerte zum 01.01.2012 4.056,4 1,2 20,9 11,7 4.090,2 Zugänge 916,2 2,4 - 1,9 920,5 Abgänge - - -20,9 -2,3 -23,2 Kumulierte Anschaffungswerte zum 31.12.2012 4.972,6 3,6 - 11,3 4.987,5 Kumulierte Abschreibungen zum 01.01.2012 10,3 0,8 - - 11,1 Abschreibungen - - - - - Abgänge - - - - - Zuschreibungen - - - - - Kumulierte Abschreibungen zum 31.12.2012 10,3 0,8 - - 11,1 Restbuchwerte zum 31.12.2012 4.962,3 2,8 - 11,3 4.976,4 Finanzanlagen werden grundsätzlich zu Anschaffungskosten, gegebenenfalls vermindert um Abschreibungen auf den niedrigeren beizulegenden Wert angesetzt.
+Die Aufstellung des Anteilsbesitzes ist ab Seite 55 dargestellt.
+Die Zugänge bei den Anteilen an verbundenen Unternehmen resultieren im Wesentlichen aus der Kapitalerhöhung bei der Merck S.A., Frankeich, bei der Merck Ltd., Malta, sowie den Einlagen in die Gesellschaften Merck Financial Trading GmbH und Merck Pensions GmbH Co KG.
+Außerplanmäßige Abschreibungen von Finanzanlagen waren in 2012 praktisch nicht zu verzeichnen (i. Vj.
+0,8 Mio €).
+(4) Vorräte in Mio € 31.12.2012 31.12.2011 Roh-, Hilfs- und Betriebsstoffe 88,6 89,8 Unfertige Erzeugnisse 145,5 163,4 Fertige Erzeugnisse sowie Handelswaren 397,8 405,8 Geleistete Anzahlungen 1,7 3,4 633,6 662,4 Unfertige und fertige Erzeugnisse werden zu Herstellungskosten, die neben den direkt zurechenbaren Einzelkosten auch Material- und Fertigungsgemeinkosten sowie angemessene Teile der Abschreibungen auf Fertigungsanlagen beinhalten, angesetzt.
+Die Bewertung der übrigen Vorräte erfolgt unter Beachtung des Niederstwertprinzips zu Anschaffungskosten.
+Sofern erforderlich, erfolgt eine Abwertung auf den niedrigeren beizulegenden Wert.
+(5) Forderungen aus Lieferungen und Leistungen in Mio € Gesamt 31.12.2012 davon Restlaufzeit über 1 Jahr Gesamt 31.12.2011 davon Restlaufzeit über 1 Jahr Gegen verbundene Unternehmen 12,3 - 11,3 - Gegen andere Unternehmen 80,4 - 75,7 - 92,7 - 87,0 - Die Forderungen aus Lieferungen und Leistungen sind grundsätzlich zum Nennwert bilanziert.
+Ausfall- und Transferrisiken - soweit nicht durch Versicherungen abgedeckt - sind durch Einzel- und pauschale Wertberichtigungen angemessen berücksichtigt.
+Kurzfristige Forderungen in Fremdwährungen wurden zu Stichtagskursen umgerechnet.
+(6) Andere Forderungen und sonstige Vermögensgegenstände in Mio € Gesamt 31.12.2012 davon Restlaufzeit über 1 Jahr Gesamt 31.12.2011 davon Restlaufzeit über 1 Jahr Gegen verbundene Unternehmen 48,4 - 1.374,0 - - davon gegen die Gesellschafterin E. Merck KG (0,0) - (0,1) - Gegen andere Unternehmen 17,3 - 25,4 - Steuerforderungen 102,9 - 15,7 Sonstige Vermögensgegenstände 1,0 - 1,7 - 169,6 - 1.416,8 - Die anderen Forderungen und sonstigen Vermögensgegenstände sind grundsätzlich zum Nennwert bilanziert.
+Sofern Ausfall- oder andere Risiken bestehen, sind diese durch entsprechende Wertberichtigungen berücksichtigt.
+Kurzfristige Forderungen in Fremdwährungen wurden zu Stichtagskursen umgerechnet.
+In diesen Posten werden vor allem Verrechnungskonten und kurzfristige Darlehen mit anderen Gesellschaften der Merck-Gruppe, Steuererstattungsansprüche, Zinsforderungen sowie sonstige geleistete Anzahlungen ausgewiesen.
+(7) Flüssige Mittel Die flüssigen Mittel enthalten im Wesentlichen Guthaben bei verschiedenen Banken in unterschiedlichen Währungen.
+Sie sind zum Stichtagskurs bewertet.
+(8) Aktiver Unterschiedsbetrag aus der Vermögensverrechnung Der aktive Unterschiedsbetrag aus der Vermögensverrechnung resultiert aus einer Überdeckung des Planvermögens, das zur Abdeckung von Verpflichtungen aus Altersteilzeitverhältnissen und bilanzierten Pensionsverpflichtungen dient [zu Details verweisen wir auf Ziffer 10].
+(9) Eigenkapital Als Gezeichnetes Kapital wird das Grundkapital ausgewiesen.
+Das Gesamtkapital setzt sich zusammen aus dem in Aktien eingeteilten Grundkapital (§ 5 Absatz 1 der Satzung der Gesellschaft) in Höhe von 168.014.927,60 € (in Worten: einhundertachtundsechzig Millionen vierzehntausendneunhundertsiebenundzwanzig € und sechzig Cent) und dem von dem persönlich haftenden Gesellschafter E. Merck KG, Frankfurter Straße 250, 64293 Darmstadt, gehaltenen Kapitalanteil (§ 8 Absatz 1 der Satzung der Gesellschaft) in Höhe von 397.196.314,35 € (in Worten: dreihundertsiebenundneunzig Millionen einhundertsechsundneunzigtausenddreihundertvierzehn € und fünfunddreißig Cent).
+Das Grundkapital der Gesellschaft ist eingeteilt in 64.621.126 Aktien.
+Die Geschäftsleitung ist gemäß Beschluss der Hauptversammlung vom 3. April 2009 ermächtigt, mit Zustimmung des Aufsichtsrats sowie von E. Merck das Grundkapital bis zum 3. April 2014 um bis zu insgesamt 56.521.124,19 € (in Worten: sechsundfünfzig Millionen fünfhunderteinundzwanzigtausendeinhundertvierundzwanzig € und neunzehn Cent) durch ein- oder mehrmalige Ausgabe neuer Aktien gegen Bar- oder Sacheinlagen zu erhöhen (genehmigtes Kapital).
+Die neuen Aktien können von durch die Geschäftsleitung bestimmten Kreditinstituten mit der Verpflichtung übernommen werden, diese den Kommanditaktionären anzubieten (mittelbares Bezugsrecht).
+Die Geschäftsleitung ist gemäß Beschluss der Hauptversammlung vom 3. April 2009 ermächtigt, bei Ausnutzung des genehmigten Kapitals mit Zustimmung des Aufsichtsrats das Bezugsrecht der Kommanditaktionäre bei einer Kapitalerhöhung für einen Betrag von bis zu 10 % des Grundkapitals durch Ausgabe von neuen Aktien gegen Bareinlagen auszuschließen, wenn der Ausgabebetrag der neuen Aktien den Börsenpreis nicht wesentlich unterschreitet.
+Die Geschäftsleitung ist ferner ermächtigt, bei Ausnutzung des genehmigten Kapitals mit Zustimmung des Aufsichtsrats das Bezugsrecht der Kommanditaktionäre für folgende Zwecke auszuschließen: - zur Durchführung des E. Merck in § 32 Absatz 3 der Satzung der Gesellschaft gewährten Rechts auf Teilhabe an einer Kapitalerhöhung durch Ausgabe von Aktien oder von frei übertragbaren Rechten auf Bezug von Kommanditaktien; - und zur Durchführung des E. Merck in § 33 der Satzung der Gesellschaft gewährten Rechts auf Umwandlung des Kapitalanteils in Grundkapital.
+Die Geschäftsleitung wird in der Hauptversammlung über jede Ausnutzung des genehmigten Kapitals berichten.
+Die Geschäftsleitung ist ermächtigt, die weiteren Einzelheiten der Kapitalerhöhung und ihrer Durchführung für den Fall der Ausnutzung des genehmigten Kapitals mit Zustimmung des Aufsichtsrats festzusetzen.
+Der Aufsichtsrat ist ermächtigt, für den Fall der Ausnutzung des genehmigten Kapitals nach teilweiser oder vollständiger Durchführung der Kapitalerhöhung die Bestimmungen der Satzung insoweit zu ändern.
+Das Grundkapital ist um bis zu 66.406.298,40 € (in Worten: sechsundsechzig Millionen vierhundert sechstausendzweihundertachtundneunzig € und vierzig Cent) eingeteilt in 25.540.884 Aktien, bedingt erhöht (Bedingtes Kapital I).
+Die bedingte Kapitalerhöhung dient der Gewährung von Umtauschrechten an E. Merck zur Erfüllung ihres Rechts auf Umwandlung des Kapitalanteils in Aktien nach § 33 der Satzung der Gesellschaft.
+Die Aktien sind gewinnberechtigt ab dem Beginn des auf die Erklärung des Umwandlungsverlangens folgenden Geschäftsjahres.
+Entwicklung Eigenkapital der Merck KGaA in Mio € 01.01.2012 Kapitalverhältnisse 01.01.2011 Ausschüttung Dividende 2011 Jahresfehlbetrag 2012 Entnahme aus den Gewinnrücklagen Grundkapital 168,0 (29,726%) - - - Komplementärkapital E. Merck KG 397,2 (70,274%) - - - Gesamtkapital 565,2 (100%) - - - Kapitalrücklagen 3.813,7 - - - Gewinnrücklagen 864,4 - - -162,8 Gewinnvortrag E. Merck KG 502,5 - - - Bilanzgewinn Kommanditaktionäre 309,5 -96,9 -151,1 +48,4 Gesamt 6.055,3 -96,9 -151,1 -114,4 in Mio € Entnahme aus dem Gewinnvortrag 31.12.2012 Ausschüttung Dividende (Vorschlag) voraussichtlicher Stand: 26.04.2013 Kapitalverhältnisse 26.04.2013 Grundkapital - 168,0 - 168,0 (29,726%) Komplementärkapital E. Merck KG - 397,2 - 397,2 (70,274%) Gesamtkapital - 565,2 - 565,2 (100%) Kapitalrücklagen - 3.813,7 - 3.813,7 Gewinnrücklagen - 701,6 - 701,6 Gewinnvortrag E. Merck KG -502,5 0,0 - 0,0 Bilanzgewinn Kommanditaktionäre - 109,9 -109,9 0,0 Gesamt -502,5 5.190,4 -109,9 5.080,5 Gemäß den Bestimmungen in § 31 Absatz 1 der Satzung wurde durch Beschluss der Geschäftsleitung und mit Zustimmung von der E. Merck KG den Gewinnrücklagen ein Betrag in Höhe von insgesamt 162,8 Mio € entnommen.
+Von diesem Betrag wurden entsprechend dem Verhältnis der Kapitalanteile 48,4 Mio € in den Bilanzgewinn eingestellt und 114,4 Mio € von E. Merck KG entnommen.
+Die persönlich haftenden Gesellschafter und der Aufsichtsrat schlagen der Hauptversammlung vor, aus dem nun ausgewiesenen Bilanzgewinn in Höhe von 109,9 Mio € eine Dividende von 1,70 € je Aktie auszuschütten.
+Dies entspricht bei dem derzeitigen Grundkapital einem Ausschüttungsbetrag in Höhe von 109,9 Mio €.
+Ein verbleibender Bilanzgewinn ergibt sich somit nicht.
+In Erwartung, dass die Hauptversammlung über die Verwendung des zum 31. Dezember 2012 festgestellten Bilanzgewinns gemäß § 31 Absatz 3 in Verbindung mit § 31 Absatz 1 der Satzung eine Dividende von 1,70 € pro Aktie beschließen wird, hat die E. Merck KG entsprechend ihrem Kapitalverhältnis einen Betrag in Höhe von 0,0 Mio € in den Gewinnvortrag einzustellen.
+Entsprechend wurden die im Gewinnvortrag im Vorjahr ausgewiesenen 502,5 Mio € zur Verlustdeckung verwendet bzw. entnommen.
+Für den Fall, dass entgegen dieser Erwartung die Hauptversammlung einen anderen Beschluss über die Verwendung des Bilanzgewinns beschließt, wird die vorgenannte Entnahme seitens E. Merck KG entsprechend korrigiert.
+(10) Rückstellungen in Mio € Rückstellungen für Pensionen und ähnliche Verpflichtungen Rückstellungen für Steuerverpflichtungen Verpflichtungen aus Personalaufwand Rückstellungen für Lizenzen, Provisionen und Rabatte Stand 01.01.2012 455,3 34,9 117,4 33,0 Verbrauch -944,5 -31,9 -70,9 -30,4 Auflösung - - -3,0 -0,8 Zuführung 625,9 - 162,1 25,9 Δ Verrechnung Planvermögen -136,7 - -6,8 - Stand 31.12.2012 - 3,0 198,8 27,7 in Mio € Rückstellungen für ausstehende Lieferantenrechnungen Rückstellungen für Rechtsstreitigkeiten übrige Rückstellungen Gesamt Stand 01.01.2012 83,2 3,2 110,9 837,9 Verbrauch -63,4 -0,7 -41,9 -1.183,7 Auflösung -8,7 -0,6 - -13,1 Zuführung 110,6 76,6 165,7 1.166,8 Δ Verrechnung Planvermögen - - - -143,5 Stand 31.12.2012 121,7 78,5 234,7 664,4 Die Pensionsrückstellungen beruhen auf versicherungsmathematischen Berechnungen.
+Die Bewertung erfolgt nach dem international anerkannten Anwartschaftsbarwertverfahren (Projected Unit Credit Method).
+Der Ermittlung der handelsrechtlichen Werte liegen die Richttafeln Heubeck 2005 G zugrunde.
+Der ermittelte Betrag wird pauschal mit dem durchschnittlichen Marktzins abgezinst, der sich bei einer angenommenen Laufzeit von 15 Jahren ergibt.
+Die Diskontierung erfolgte entsprechend den Vorgaben der Deutsche Bundesbank mit einem Zinssatz von 5,06% (i.
+Vj.
+: 5,13%).
+Wesentliche weitere Parameter sind, unverändert zum Vorjahr, ein Gehaltstrend von 3% für außertarifliche Mitarbeiter bzw. 2,5% für die Mitarbeiter im Tarifbereich sowie ein Rententrend von 1% für Zusagen nach Pensionsplan 2005 bzw. 1,75% für davor gewährte Zusagen.
+Infolge der Anwendung der Vorschriften des HGB n.
+F. ergab sich zum 01.01.2010 ein Differenzbetrag i.H.v.
+307,8 Mio €, der in jedem Geschäftsjahr bis 2024 zu mindestens 1/15, d. h. in Höhe von 20,5 Mio € den Rückstellungen für Pensionen zuzuführen ist.
+Im laufenden Geschäftsjahr wurde von dem Wahlrecht Gebrauch gemacht, den verbleibenden Betrag in einer Summe zuzuführen.
+Hierdurch wurden im laufenden Jahr 266,8 Mio € aufwandwirksam als außerordentlicher Aufwand gebucht und erhöhten somit die Pensionsverpflichtungen.
+Ein verbleibender Unterschiedsbetrag aus der BilMoG-Änderung ergibt sich somit nicht mehr.
+Im Berichtsjahr fand ein Schuldbeitritt der Merck Pensions GmbH Co KG zu einem Teil der Pensionsverpflichtungen der Merck KGaA statt, begrenzt auf die Pensionsverpflichtungen der Merck KGaA, die auf Rentner und mit unverfallbarer Anwartschaft ausgeschiedene Mitarbeiter entfallen.
+Die Merck Pensions GmbH Co KG ist ein Tochterunternehmen der Merck KGaA.
+Im Gegenzug erhielt die Merck Pensions GmbH Co KG eine Zahlung in Höhe des Marktwertes der übertragenen Pensionsverpflichtungen (889,7 Mio €).
+Der Differenzbetrag zwischen dem Erfüllungsbetrag der vom Schuldbeitritt umfaßten Pensionsverpflichtungen (642,7 Mio €) und deren Marktwert wird als außerordentlicher Aufwand in Höhe von 247,0 Mio € ausgewiesen.
+Die Merck Pensions GmbH Co KG ist in der Lage, die Verpflichtungen aus dem Schuldbeitritt zu erfüllen und die Merck KGaA insofern von den künftigen Pensionsverpflichtungen freizustellen, so dass die Verpflichtung der Merck KGaA insoweit bilanziell nicht mehr als Rückstellung auszuweisen ist.
+Im Rückstellungsspiegel wird daher ein Verbrauch an Pensionsverpflichtungen in Höhe des Marktwertes von 889,7 Mio € ausgewiesen.
+Durch den Schuldbeitritt sind die Zinsänderungsrisiken sowie biometrische Risiken für die übertragenen Pensionsverhältnisse vollständig auf die Merck Pensions GmbH Co KG übergegangen.
+Merck KGaA bleibt Auszahlungsstelle für die Pensionsverpflichtungen und hat für die geleisteten Zahlungen einen Ausgleichsanspruch gegen die Merck Pensions GmbH Co KG.
+Das im Jahr 2011 erstmalig zugunsten der Pensionäre gebildete Planvermögen wurde nicht übertragen.
+Zusätzlich zu dem Schuldbeitritt wurden zur Sicherung künftiger Pensionsansprüche der Mitarbeiter weitere 250 Mio € bei der Merck Pensionstreuhand e.
+V. auf der Grundlage eines Treuhandvertrages angelegt (i. Vj.
+520 Mio €).
+Die Einzahlungen in das Treuhandvermögen betragen somit insgesamt 770 Mio €.
+Diese Einlagen qualifizieren als Planvermögen, das gemäß § 246 Abs. 2 Satz 2 HGB mit den entsprechenden Rückstellungen aus Pensionen zu verrechnen ist.
+Das Planvermögen, das im Wesentlichen aus börsennotierten Wertpapieren besteht, und zum aktuellen Marktwert bewertet wurde, hatte zum 31.12.2012 einen Marktwert in Höhe von 799,5 Mio € und wurde in Höhe von 660,6 Mio € mit den Pensionsrückstellungen verrechnet bzw. mit 138,9 Mio € als Unterschiedsbetrag aus Vermögensverrechnung gemäß § 246 Abs. 2 Satz 3 HGB ausgewiesen.
+Der Differenzbetrag zwischen dem um die Einzahlung erhöhten Marktwert zum Ende des Vorjahres und dem Marktwert am 31.12.2012 in Höhe von 25,7 Mio € wurde beim Zinsaufwand aus der Zuführung zu Pensionsrückstellungen gekürzt.
+Es handelt sich aus handelsrechtlicher Sicht um einen unrealisierten Gewinn.
+Gemäß § 268 Abs. 8 HGB besteht eine Ausschüttungssperre in Höhe von 29,2 Mio € (i. Vj.
+3,8 Mio €).
+Die Auswirkung latenter Steuern ist hierbei berücksichtigt.
+Der Erfüllungsbetrag der bilanzierten Pensionsverpflichtungen beläuft sich auf 660,6 Mio €.
+Die anderen Rückstellungen berücksichtigen alle erkennbaren Risiken und ungewissen Verpflichtungen.
+Diese sind in Höhe des nach kaufmännischer Vorsicht erforderlichen Erfüllungsbetrags unter Berücksichtigung etwaiger Preis- und Kostensteigerungen angesetzt.
+Langfristige Rückstellungen werden mit dem ihrer Laufzeit entsprechenden durchschnittlichen Marktzinssatz der vergangenen sieben Jahre abgezinst.
+Die Verpflichtungen aus Personalaufwand enthalten Rückstellungen für Gratifikationen, Jubiläen sowie Urlaubs- und Zeitarbeitsguthaben in Höhe von 115,8 Mio € (i. Vj.
+93,2 Mio €).
+Des Weiteren werden Rückstellungen für Altersteilzeitverpflichtungen in Höhe von 65,2 Mio € (i. Vj.
+12,1 Mio €) ausgewiesen.
+Die Rückstellung für Altersteilzeitverpflichtungen betrifft den Aufstockungsbetrag sowie die Abfindungszahlungen als Ausgleich für Rentenkürzungen infolge des früheren Renteneintritts.
+Die Erhöhung gegenüber dem Vorjahr resultiert aus einem in 2012 aufgelegten Restrukturierungsprogramm, das als einen wesentlichen Bestandteil ein neues Altersteilzeitprogramm umfaßt.
+Am Jahresende waren 19,9 Mio € (i. Vj.
+19,8 Mio €) als Termingeld bei der Deutsche Treuinvest Stiftung auf der Grundlage eines Treuhandvertrages hinterlegt.
+Diese Anlage dient der Abdeckung von Ansprüchen aus Mehrarbeitsleistungen der Mitarbeiter ab Beginn des Altersteilzeitverhältnisses.
+Die hinterlegten Geldmittel qualifizieren als Planvermögen, das gemäß § 246 Abs. 2 Satz 2 HGB mit den entsprechenden Rückstellungen aus Altersteilzeitverhältnissen zu verrechnen ist.
+Der Marktwert des Planvermögens beläuft sich auf 19,9 Mio € (i. Vj.
+19,8 Mio €).
+Der Erfüllungsbetrag der durch Planvermögen gedeckten Verpflichtungen beläuft sich auf 19,5 Mio € (i. Vj.
+19,8 Mio €).
+Der Überschuss des Planvermögens über den Erfüllungsbetrag 0,4 Mio € (i. Vj.
+0,0 Mio €) wird als gesonderter Posten auf der Aktivseite der Bilanz ausgewiesen (siehe Ziffer [8]).
+Die der Stiftung aus dem Planvermögen zugeflossenen Zinserträge in Höhe von 0,1 Mio € (i. Vj.
+0,2 Mio €) wurden mit dem Aufzinsungsaufwand aus Altersteilzeitverpflichtungen verrechnet und verringerten diesen hierdurch in gleichem Umfang.
+Die Rückstellungen für Altersteilzeit und Jubiläen beruhen auf versicherungsmathematischen Berechnungen.
+Die übrigen Rückstellungen betreffen vor allem Abgaben und Beiträge, Versicherungsprämien, Vorsorgen für noch zu leistende Umweltschutzmaßnahmen an den Standorten Darmstadt und Gernsheim sowie andere ungewisse Verpflichtungen.
+Im Berichtsjahr wurden die Rückstellungen für Umweltschutzmaßnahmen um 29,0 Mio € erhöht.
+Auf Basis des Tarifvertrages Lebensarbeitszeit und Demografie Chemie vom 16.04.2008 wurde ein Demografiefonds für alle Tarifmitarbeiter gebildet.
+In diesen erfolgen regelmäßig Einzahlungen, die bei einem Trust auf der Grundlage eines Treuhandvertrages angelegt werden.
+Die entsprechenden Rückstellungen und die zugehörigen Forderungen gegen den Trust aus den angelegten Mitteln (Planvermögen) werden gemäß § 246 Abs. 2 Satz 2 HGB miteinander verrechnet.
+Die Anschaffungskosten der verrechneten Vermögensgegenstände, die, soweit es sich um Anlagen in Wertpapieren handelt, mittels der Durchschnittsmethode ermittelt wurden, betragen 16,6 Mio € (i. Vj.
+10,5 Mio €), der Marktwert 17,5 Mio € (i. Vj.
+10,5 Mio €).
+Der Erfüllungsbetrag der verrechneten Schulden beläuft sich auf 17,5 Mio € (i. Vj.
+10,5 Mio €).
+Eine Verrechnung von Aufwendungen und Erträgen fand im Berichtsjahr in Höhe von 0,9 Mio € (i. Vj.
+0,0 Mio €) statt.
+Die verbleibenden hier ausgewiesenen Verpflichtungen i. H. v. 2,1 Mio € (i. Vj.
+1,6 Mio €) betreffen Ansprüche der Mitarbeiter auf Urlaub im Rahmen der künftigen Inanspruchnahme der Langzeitkonten.
+(11) Verbindlichkeiten Die Verbindlichkeiten sind grundsätzlich zum Erfüllungsbetrag angesetzt, Renten- und Ratenverbindlichkeiten zum Barwert.
+Kurzfristige Verbindlichkeiten in Fremdwährungen wurden zu Stichtagskursen umgerechnet.
+Neben den branchenüblichen Eigentumsvorbehalten bestehen keine Besicherungen.
+(12) Finanzschulden in Mio € Restlaufzeit bis 1 Jahr Restlaufzeit 1 bis 5 Jahre Restlaufzeit über 5 Jahre Gesamt 31.12.2012 31.12.2011 Bankkredite - 6,3 11,1 17,4 20,8 (13) Verbindlichkeiten aus Lieferungen und Leistungen in Mio € Restlaufzeit bis 1 Jahr Restlaufzeit 1 bis 5 Jahre Restlaufzeit über 5 Jahre Gesamt 31.12.2012 31.12.2011 Gegenüber verbundenen Unternehmen 0,2 - - 0,2 0,1 Gegenüber anderen Unternehmen 122,0 0,3 - 122,3 87,4 122,2 0,3 - 122,5 87,5 (14) Andere Verbindlichkeiten in Mio € Restlaufzeit bis 1 Jahr Restlaufzeit 1 bis 5 Jahre Restlaufzeit über 5 Jahre Gesamt 31.12.2012 31.12.2011 Gegenüber verbundenen Unternehmen 1.162,2 - - 1.162,2 334,0 - davon gegenüber der Gesellschafterin E. Merck (242,7) - - (242,7) (282,3) Erhaltene Anzahlungen auf Bestellungen 0,8 - - 0,8 0,5 Sonstige Verbindlichkeiten 43,1 43,1 17,9 - davon Steuerverbindlichkeiten (20,7) (20,7) (10,3) - davon Verbindlichkeiten im Rahmen der sozialen Sicherheit (1,4) - - (1,4) (2,7) 1.206,1 - - 1.206,1 352,4 Der Anstieg bei den anderen Verbindlichkeiten resultiert im Wesentlichen aus dem Anstieg der Verbindlichkeiten gegenüber verbundenen Unternehmen.
+Hier werden vor allem Verrechnungskonten und kurzfristige Darlehen mit anderen Gesellschaften der Merck-Gruppe ausgewiesen.
+Die sonstigen Verbindlichkeiten beinhalten mit 11,3 Mio € Verpflichtungen aus einem unechten Factoring.
+Es wurden Mitarbeiterdarlehen unter Beibehaltung der Ausfallhaftung übertragen.
+Insofern sind diese Verbindlichkeiten durch Forderungen gegen Mitarbeiter besichert.
+Erläuterungen zur Gewinn- und Verlustrechnung (15) Umsatzerlöse in Mio € 2012 2011 Nach Absatzmärkten Deutschland 479,3 489,2 Übriges Europa 878,1 881,5 Nordamerika 70,0 75,6 Lateinamerika 217,4 197,8 Asien 1.427,8 1.304,8 Afrika, Ozeanien, Australien 126,8 55,5 3.199,4 3.004,4 Nach Unternehmensbereichen Pharma 1.347,3 1.287,1 Chemie 1.852,1 1.717,3 3.199,4 3.004,4 (16) Sonstige betriebliche Erträge in Mio € 2012 2011 Patent-, Lizenz- und Provisionserlöse 41,1 70,3 Erträge aus Nebengeschäften 4,5 5,4 Erträge aus Leistungsvergütungen 163,8 169,6 Transferpreisausgleichszahlungen 8,7 24,4 Währungskursgewinne aus operativer Tätigkeit 14,2 24,3 Gewinne aus dem Abgang von Anlagevermögen 0,3 58,0 Forschungskostenerstattungen 75,9 92,5 Erhaltene Zuschüsse 23,1 19,9 Erträge aus der Auflösung von Rückstellungen 13,1 15,2 Sonstige Erträge 30,9 11,2 375,6 490,8 In den Patent- und Lizenzerlösen des Vorjahres sind Einmalerträge aus der Auslizensierung an Clinical Data sowie an ONO enthalten.
+Die Erträge aus dem Abgang von Anlagevermögen resultieren im Vorjahr im Wesentlichen aus der Veräußerung von Crop Biosciences sowie der Anteile an Clinical Data.
+Im Berichtsjahr waren keine nennenswerten Erträge aus Anlagenabgängen zu verzeichnen.
+In den sonstigen Erträgen ist der Ertrag aus dem Verkauf der Batterie-Elektrolyten-Aktivitäten an BASF enthalten.
+(17) Materialaufwand in Mio € 2012 2011 Aufwendungen für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren 801,1 786,9 Aufwendungen für bezogene Leistungen 15,4 9,9 816,5 796,8 (18) Personalaufwand und Mitarbeiter in Mio € 2012 2011 Löhne und Gehälter 822,8 623,3 Aufwendungen für Altersversorgung 70,0 51,6 Soziale Abgaben und Aufwendungen für Unterstützungen 103,2 96,6 Sonstige Personalaufwendungen 24,2 25,2 1.020,2 796,7 Anzahl der im Jahresdurchschnitt beschäftigten Mitarbeiter Produktion 3.250 3.237 Vertrieb 533 432 Forschung 1.775 1.687 Verwaltung 1.327 1.214 Technik 1.141 1.242 Logistik 601 593 Sonstige 684 721 9.311 9.126 Der Anstieg der Personalaufwendungen resultiert im Wesentlichen aus dem im laufenden Jahr aufgelegten Restrukturierungsprogramm.
+Den Mitarbeitern wurde je nach Alter entweder ein freiwilliges Abfindungsprogramm oder ein Altersteilzeitprogramm angeboten.
+In den ausgewiesenen Zahlen sind die Auszubildenden nicht enthalten.
+In 2012 wurden durchschnittlich 473 (i. Vj.
+478) Auszubildende beschäftigt.
+(19) Sonstige betriebliche Aufwendungen in Mio € 2012 2011 Fremdleistungen für Vertrieb und Werbung 322,5 317,1 Transferpreisausgleichszahlungen 59,5 85,6 Fremdleistungen für Reparaturen 42,8 71,6 Fremdleistungen für Forschung 486,5 386,3 Andere Fremdleistungen und Bezüge 249,6 226,2 Gebühren, Beiträge und Versicherungen 143,1 117,9 Währungskursverluste aus operativer Tätigkeit 58,4 28,0 Verluste aus dem Abgang von Anlagevermögen 0,7 0,9 Sonstiges 116,6 62,0 1.479,7 1.295,6 Der Anstieg resultiert im Wesentlichen aus gestiegenen Forschungskosten und Rückstellungen für Rechtsstreitigkeiten.
+(20) Erträge / Aufwendungen aus Beteiligungen in Mio € 2012 2011 Erträge aus Ergebnisabführungsverträgen 25,3 67,3 Beteiligungserträge von verbundenen Unternehmen 6,8 911,3 Aufwendungen aus Ergebnisabführungsverträgen -72,7 -28,8 -40,6 949,8 Das Beteiligungsergebnis des Vorjahres ist geprägt durch die Dividende der Merck S.
+A., Frankreich, in Höhe von 889,5 Mio €.
+(21) Finanzergebnis in Mio € 2012 davon verbundene Unternehmen 2011 davon verbundene Unternehmen Erträge aus Ausleihungen des Finanzanlagevermögens 0,3 - 0,3 - Sonstige Zinsen und ähnliche Erträge 6,1 5,8 47,8 32,0 Zinsen und ähnliche Aufwendungen -4,3 -1,2 -3,4 -0,2 Zinsergebnis 2,1 4,6 44,7 31,8 Kursdifferenzen aus Finanzierungstätigkeit 9,3 - -12,6 - Zinsanteil der Zuführung zu Pensionsrückstellungen und anderen langfristigen Rückstellungen -45,1 - -62,4 - -33,7 4,6 -30,3 31,8 Das gesunkene Zinsergebnis ist im Wesentlichen auf gesunkene Zinssätze für Geldanlagen sowie geringere Geldanlagen infolge von Einzahlungen in das Pensions-Planvermögen (Merck Pensionstreuhand e.
+V.) und Kapitalerhöhungen bei Tochtergesellschaften zurückzuführen.
+Darüber hinaus wurden im Vorjahr hohe Erträge aus Erstattungen nach § 233a AO ausgewiesen, die im Berichtsjahr nicht angefallen sind.
+Der Rückgang bei den Zinsanteilen aus der Zuführung zu den Pensionsrückstellungen und anderen langfristigen Rückstellungen resultiert mit 25,7 Mio € (i. Vj.
+3,8 Mio €) aus der Verrechnung von unrealisierten Erträgen aus dem Planvermögen, das für Pensionsrückstellungen gebildet wurde, mit dem Zinsaufwand aus der Zuführung zu Pensionsrückstellungen.
+(22) Außerordentliches Ergebnis Die hier ausgewiesenen Aufwendungen resultieren aus der Erhöhung der Pensionsverpflichtungen auf den Erfüllungsbetrag 266,8 Mio € (i. Vj.
+20,5 Mio €) sowie aus den infolge des Schuldbeitritts auf den Marktwert zu erhöhenden Pensionsverpflichtungen 247,0 Mio € (i. Vj.
+0,0 Mio €).
+Zu weiteren Details siehe Ausführungen zu Pensionsverpflichtungen Ziffer [10].
+(23) Ergebnisverrechnungen zwischen Merck KGaA und E. Merck KG Die Aufteilung des Ergebnisses der Merck KGaA zwischen E. Merck KG und den Kommanditaktionären berechnet sich gemäß §§ 26 - 30 der Satzung wie folgt: Ergebnisabführung an E. Merck KG Ergebnis der gewöhnlichen Geschäftstätigkeit der Merck KGaA (nach Gewerbeertragsteuer und außerordentlichem Ergebnis).
+Basis für die Ermittlung der Ergebnisabführung zwischen Merck KGaA und E. Merck KG.
+-529.269.706,10 Der Anteil der E. Merck KG am Ergebnis der Merck KGaA beträgt (397.196.314 / 565.211.242) -371.938.774,32 Ergebnisabführung von E. Merck KG Jahresüberschuss von E. Merck KG (vor Pooling, bereinigt um die Gewerbeertragsteuer) Basis für die Ermittlung der Ergebnisabführung zwischen E. Merck KG und Merck KGaA 7.493.176,99 Der Anteil der Merck KGaA am Ergebnis der E. Merck KG beträgt (168.014.928 / 565.211.242) 2.227.424,89 (24) Steuern vom Einkommen und vom Ertrag Die Steuern vom Einkommen und vom Ertrag setzen sich zusammen aus 1,7 Mio € Gewerbesteuerertrag und 4,0 Mio € Körperschaftsteuerertrag.
+Aus handels- und steuerrechtlichen Wertansätzen von Vermögensgegenständen, Schulden und Rechnungsabgrenzungsposten ergibt sich per Saldo ein Überhang der aktiven latenten Steuern.
+Die Gesellschaft hat von dem Wahlrecht des § 274 Abs. 1 Satz 2 HGB Gebrauch gemacht, diesen Aktivüberhang nicht anzusetzen.
+Wesentliche Unterschiede in den Wertansätzen von Vermögensgegenständen und Schulden bestehen bei den Immateriellen Vermögensgegenständen, den Vorräten, den Sonstigen Vermögensgegenständen, Pensionsrückstellungen und den Sonstigen Rückstellungen (aktive latente Steuern) sowie bei den Sachanlagen (passive latente Steuern).
+Im Falle des Ansatzes würde überwiegend ein Steuersatz von 19,23% zur Anwendung kommen.
+Bei den Finanzanlagen gilt infolge der besonderen steuerlichen Behandlung ein Steuersatz von 0,96%.
+Sonstige Angaben Haftungsverhältnisse in Mio € 31.12.2012 davon zugunsten verbundener Unternehmen 31.12.2011 davon zugunsten verbundener Unternehmen Bürgschaften/Gewährleistungen 4.702,3 4.056,8 4.869,9 4.858,7 Um die Konzernfinanzierungstätigkeit der Merck Financial Services GmbH, Darmstadt, vollumfänglich zu gewährleisten, hat die Merck KGaA Garantien für die Merck Financial Services GmbH gegenüber den, den Merck Konzern finanzierenden, Finanzpartnern gegeben.
+Art und Umfang richten sich nach den tatsächlichen von der Merck Financial Services GmbH eingegangenen Finanzverpflichtungen.
+Die Wahrscheinlichkeit der Inanspruchnahme aus den Bürgschaften und Gewährleistungen wird als sehr gering eingeschätzt.
+Der Rückgang in Höhe von 167,6 Mio € resultiert im Wesentlichen aus dem tilgungsbedingten Rückgang der Garantien für begebene Anleihen der Merck Finanz AG, Luxemburg (-500 Mio €) und der Merck Financial Services GmbH, Darmstadt (-270 Mio €).
+Gegenläufig hat sich der Ausweis der Gewährleistungsverpflichtungen für die potentielle Inanspruchnahme aus dem Schuldbeitritt (642,7 Mio €) ausgewirkt.
+Sonstige finanzielle Verpflichtungen in Mio € 31.12.2012 davon zugunsten verbundener Unternehmen 31.12.2011 davon zugunsten verbundener Unternehmen Bestellobligo 99,1 - 39,3 - Miet- und Leasingverpflichtungen 9,9 - 33,1 - Abnahmeverpflichtungen aus Bestellungen 169,5 - 263,8 - Verpflichtungen zum Erwerb von immateriellen Vermögenswerten 1.208,9 - 441,5 - Übrige 1,1 1,1 1,1 1,1 1.488,5 1,1 778,8 1,1 Im April 2013 wird die Merck KGaA das wirtschaftliche Eigentum an mehreren bisher gemieteten Gebäuden erwerben, was zu einem Anstieg des Bestellobligos um 59,8 Mio € geführt hat, während sich die künftigen Mietverpflichtungen um 23,2 Mio € reduzieren.
+Verpflichtungen zum Erwerb von immateriellen Vermögenswerten bestehen insbesondere im Rahmen von Kooperationen zur Forschung und Entwicklung im Unternehmensbereich Pharma.
+Hier ist die Merck KGaA Verpflichtungen zur Zahlung von Meilensteinzahlungen bei Erreichen von bestimmten Zielen durch Partner eingegangen.
+Für den unwahrscheinlichen Fall, dass alle Vertragspartner sämtliche Meilensteine erreichen, müsste die Merck KGaA bis zu 1.208,9 Mio € (i. Vj.
+441,5 Mio €) für den Erwerb von immateriellen Vermögenswerten zahlen.
+Corporate Governance Die Entsprechenserklärung nach § 161 Aktiengesetz wurde im Februar 2012 auf unserer Website (www.merckgroup.com/investoren/corporate_governance) aktualisiert veröffentlicht und damit dauerhaft zugänglich gemacht.
+Finanzinstrumente Wir setzen derivative Finanzinstrumente ausschließlich zur Sicherung von Währungs- und Zinspositionen ein, um durch Wechselkurs- bzw. Zinsschwankungen bedingte Währungsrisiken bzw. Finanzierungskosten zu minimieren.
+Als Instrumente nutzen wir hierzu marktgängige Devisentermingeschäfte und Devisenoptionen.
+Der Einsatz solcher Derivatkontrakte ist durch Richtlinien geregelt.
+Die Abschlüsse derivativer Geschäfte unterliegen einer ständigen Risikokontrolle.
+Eine strikte Funktionstrennung von Handel, Abwicklung und Kontrolle ist sichergestellt und wird von unserer internen Revision überwacht.
+Derivative Finanzkontrakte werden nur mit Banken guter Bonität abgeschlossen und sind auf die Absicherung des operativen Geschäfts sowie der damit verbundenen Finanzierungsvorgänge beschränkt.
+Zum Bilanzstichtag bestanden folgende derivative Finanzpositionen: Nominalvolumen Marktwerte in Mio € 31.12.2012 31.12.2011 31.12.2012 31.12.2011 Devisentermingeschäfte 467,2 1.145,3 11,3 -68,9 - davon operativ (467,2) (1.115,4) (11,3) (-61,0) - davon Finanzgeschäfte 0,00 (29,9) 0,00 (-7,9) Fremdwährungsoptionen 201,0 446,0 -2,4 -12,3 - davon operativ (201,0) (446,0) (-2,4) (-12,3) - davon Finanzgeschäfte - - - - 668,2 1.591,3 8,9 -81,2 Für die Sicherungsgeschäfte (Nominalvolumen) bestehen zum Bilanzstichtag folgende Restlaufzeiten: in Mio € Restlaufzeit bis 1 Jahr Restlaufzeit über 1 Jahr Gesamt 31.12.2012 Restlaufzeit bis 1 Jahr Restlaufzeit über 1 Jahr Gesamt 31.12.2011 Devisentermingeschäfte 285,0 182,2 467,2 647,8 497,5 1.145,3 FX-Optionen 110,5 90,5 201,0 241,1 204,9 446,0 395,5 272,7 668,2 888,9 702,4 1.591,3 Das Nominalvolumen ist die Summe aller Kauf- und Verkaufsbeträge derivativer Finanzgeschäfte.
+Unter der Bezeichnung "davon operativ" sind die derivativen Positionen zur Absicherung künftiger wahrscheinlicher Zahlungsströme, im Wesentlichen erwartete künftige Umsätze und in der Bilanz ausgewiesene Forderungen (ohne Darlehensgewährungen an verbundene Unternehmen) zusammengefasst.
+Unter der Bezeichnung "davon Finanzgeschäfte" werden Absicherungen zu bestehenden Bankguthaben, Einlagen von Tochtergesellschaften bzw. Darlehensgewährungen an Tochtergesellschaften und durchgehandelte Devisentermingeschäfte, d. h. Transaktionen, bei denen ein konzerninternes Devisentermingeschäft durch ein externes Devisentermingeschäft gesichert wird, zusammengefasst.
+Die Marktwerte ergeben sich aus der Bewertung der ausstehenden Positionen zu Marktpreisen ohne Berücksichtigung gegenläufiger Wertentwicklungen aus den Grundgeschäften.
+Sie entsprechen den Aufwendungen bzw. Erträgen bei einer Glattstellung der Derivatkontrakte zum Bilanzstichtag.
+Die Ermittlung der Marktwerte basiert auf quotierten Preisen oder von einem anerkannten Informationsdienst bereitgestellten aktuellen Marktdaten.
+Die Bewertung erfolgt mit Hilfe am Markt beobachtbarer Kassamittelkurse und der Laufzeit spezifischer Zinszuschläge und -abschläge in Relation zum gehandelten Marktkurs.
+Den unter "davon operativ" ausgewiesenen Devisentermingeschäften liegen mit 467,2 Mio € erwartete künftige Umsätze als Grundgeschäft zugrunde.
+Den unter "davon operativ" ausgewiesenen FX-Optionen liegen mit 201,0 Mio € erwartete künftige Umsätze als Grundgeschäft zugrunde.
+Die Sicherung von Währungskursschwankungen künftiger Umsätze bezieht sich auf folgende Währungen: JPY (189,7 Mio €), USD (478,5 Mio €).
+Infolge der Bildung von Bewertungseinheiten sind gemäß § 254 HGB n.
+F. die §§ 249 Abs. 1, 252 Abs.1 Nr. 3 und 4, 253 Abs. 1 Satz 1 und § 256a HGB in dem Umfang und für den Zeitraum nicht anzuwenden, in dem die gegenläufigen Wertveränderungen oder Zahlungsströme sich ausgleichen.
+Bei den operativen Geschäften stehen sich 8,9 Mio € unrealisierte Verluste aus den Grundgeschäften mit entsprechenden Gewinnen aus den Sicherungsgeschäften gegenüber.
+Das Nominalvolumen der Grundgeschäfte entspricht dem Nominalvolumen der Sicherungsgeschäfte.
+Devisentermingeschäfte und Optionen dienen zur Absicherung konkreter künftiger operativer Transaktionen.
+Zukünftige Transaktionen werden nur dann gesichert, wenn deren Eintritt mit sehr hoher Wahrscheinlichkeit angenommen werden kann.
+Den Sicherungen liegt grundsätzlich ein einzeln identifizierbares Grundgeschäft zugrunde (Mikro-Hedge), die retrospektive Effektivität der Finanzderivate wird nach der Dollar-Offset-Methode berechnet.
+Ein theoretisches Ausfallrisiko ergibt sich bei den bestehenden Finanzderivaten maximal in Höhe der positiven Marktwerte.
+Diese betragen zum Bilanzstichtag 18,4 Mio € (i. Vj.
+0,2 Mio €) und bestehen ausschließlich gegenüber Gesellschaften der Merck-Gruppe und resultieren sowohl aus Devisentermingeschäften als auch aus Fremdwährungsoptionen.
+Weitere Angaben Die Informationen, die zum Wertpapierhandelsgesetz, zur Geschäftsleitung bzw. zum Aufsichtsrat im Anhang der Gesellschaft zu veröffentlichen sind, werden in der Anlage zum Anhang auf den Seiten 48 bis 54 dargestellt.
+Bezüge der Geschäftsleitung Die Geschäftsleitungsmitglieder stehen in keinem Anstellungsverhältnis zur Gesellschaft.
+Die Bezüge der Geschäftsleitung werden vom Komplementär E. Merck KG getragen.
+Im Anhang des Konzernabschlusses der Merck KGaA ist eine ausführliche Darstellung der Bezüge enthalten.
+Gesamtbezüge des Aufsichtsrats Vorbehaltlich der Zustimmung der Hauptversammlung zur Ausschüttung von 1,70 € Dividende (i. Vj.
+1,50 €) je Aktie betragen die Gesamtbezüge des Aufsichtsrats 694 T € für das Jahr 2012 (i. Vj.
+620 T €).
+Prüfungshonorare der Wirtschaftsprüfer Die Angaben zum Prüferhonorar werden im Konzernabschluss der Merck KGaA dargestellt.
+Vorschlag für die Verwendung des Bilanzgewinns Der Hauptversammlung wird vorgeschlagen, aus dem den Kommanditaktionären zustehenden Bilanzgewinn in Höhe von 109.855.914,20 € (s. Erläuterungen zu Ziffer "9"), eine Dividende von 1,70 € je Stückaktie auszuschütten.
+Für das Geschäftsjahr 2012 ergibt sich auf Grundlage des derzeitigen Grundkapitals ein Ausschüttungsbetrag in Höhe von 109.855.914,20 €.
+Damit ergibt sich nach Dividendenausschüttung kein verbleibender Bilanzgewinn.
+Darmstadt, 20. Februar 2013 Karl-Ludwig Kley Kai Beckmann Stefan Oschmann Bernd Reckmann Matthias Zachert Versicherung der gesetzlichen Vertreter gem.
+§§ 264 Abs. 2 Satz 3 HGB und 289 Abs. 1 Satz 5 HGB Wir versichern nach bestem Wissen, dass gemäß den anzuwendenden Rechnungslegungsgrundsätzen für die Berichterstattung der Jahresabschluss der Merck KGaA ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Merck KGaA vermittelt und im Lagebericht der Geschäftsverlauf einschließlich des Geschäftsergebnisses und die Lage der Gesellschaft so dargestellt sind, dass ein den tatsächlichen Verhältnissen entsprechendes Bild vermittelt wird, sowie die wesentlichen Chancen und Risiken der voraussichtlichen Entwicklung der Merck KGaA beschrieben sind.
+Darmstadt, 20. Februar 2013 Karl-Ludwig Kley Kai Beckmann Stefan Oschmann Bernd Reckmann Matthias Zachert Mitglieder der Geschäftsleitung der Merck KGaA Angaben zu Mitgliedschaften in gesetzlich zu bildenden Aufsichtsräten und vergleichbaren in- und ausländischen Kontrollgremien (§ 285 Satz 1 Nr. 10 HGB iVm § 125 Absatz 1 Satz 5 AktG) Mitglieder Mitgliedschaften in (a) anderen gesetzlich zu bildenden Aufsichtsräten und (b) vergleichbaren in- und ausländischen Kontrollgremien von Wirtschaftsunternehmen Karl-Ludwig Kley Darmstadt, Vorsitzender (a) - Bertelsmann AG / Bertelsmann SE Co.
+KGaA1, Gütersloh - Bertelsmann Management SE, Gütersloh (seit 4. Mai 2012) - BMW AG, München (stellv.
+Vorsitzender) - 1.
+FC Köln GmbH Co KGaA, Köln (Vorsitzender) Kai Beckmann Griesheim, Leiter des Ressorts Personal keine Mandate Stefan Oschmann München, verantwortlich für die Sparten Merck Serono und Health Care (b) - Merck Serono S.A., Coinsins, Schweiz (Vorsitzender) (bis 18.04.2012) Bernd Reckmann Seeheim-Jugenheim, verantwortlich für die Sparten Performance Materials und Merck Millipore keine Mandate Matthias Zachert Bonn, Chief Financial Officer keine Mandate 1 Gemäß Handelsregistereintrag vom 20. August 2012 ist die Bertelsmann AG am 20. August 2012 im Wege des Formwechsels in die Bertelsmann SE Co.
+KGaA umgewandelt worden.
+Mitglieder des Aufsichtsrats der Merck KGaA Angaben zu Mitgliedschaften in gesetzlich zu bildenden Aufsichtsräten und vergleichbaren in- und ausländischen Kontrollgremien (§ 285, Nr. 10 HGB iVm § 125 Abs. 1 Satz 5 AktG) Mitglieder Mitgliedschaften in (a) anderen gesetzlich zu bildenden Aufsichtsräten und (b) vergleichbaren in- und ausländischen Kontrollgremien von Wirtschaftsunternehmen Rolf Krebs Mainz, Arzt, Vorsitzender (a) (b) - Epigenomics AG, Berlin (Vorsitzender) (bis April 2012) - Ganymed Pharmaceuticals AG, Mainz (Vorsitzender) - Merz GmbH Co.
+KGaA, Frankfurt - Merz Pharmaceuticals GmbH, Frankfurt - Senator GmbH Co KGaA, Frankfurt (bis Juni 2012) - E. Merck KG, Darmstadt - Air Liquide S.A., Paris (bis 10. Mai 2012) Heiner Wilhelm Reinheim, Vorsitzender des Betriebsrats des Werks Darmstadt der Merck KGaA, stellvertretender Vorsitzender keine Mandate Crocifissa Attardo Darmstadt, freigestelltes Mitglied des Betriebs- rats des Werks Darmstadt der Merck KGaA keine Mandate Mechthild Auge Wehrheim, freigestelltes Mitglied des Betriebs- rats des Werks Darmstadt der Merck KGaA keine Mandate Johannes Baillou Wien, geschäftsführender Gesellschafter der Bondi Immobilien-Consulting GmbH, Wien (b) - E. Merck KG, Darmstadt1 (stellvertretender Vorsitzender) Frank Binder Zürich, Geschäftsführer der Novarca Deutschland GmbH, Frankfurt / Main (a) (b) - Landbell AG für Rückhol-Systeme, Mainz (Vorsitzender) - E. Merck KG, Darmstadt1 - BMR-Yachting AG, Zürich (Vorsitzender) - LloydYachts SAM, Monaco (Chairman) (seit 14.03.2012) Wolfgang Büchele Mannheim, Mitglied des Board of Directors der Kemira Oyi, Finnland (b) - E. Merck KG, Darmstadt1 - Kemira Oyi, Helsinki, Finnland Michael Fletterich Gernsheim, Vorsitzender des Betriebsrats des Werks Gernsheim der Merck KGaA keine Mandate Edeltraud Glänzer Wiesbaden, Mitglied des Hauptvorstands bei der Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE) (a) - B.
+Braun Melsungen AG, Melsungen - Solvay Deutschland GmbH, Hannover (stellvertretende Vorsitzende) Jürgen Glaser (Seit 01.05.2012) Bingen, Bezirksleiter der IG BCE Darmstadt keine Mandate Michaela Freifrau von Glenck2 Zürich, Lehrerin keine Mandate Frieder Kaufmann (bis 10.05.2012) Roßdorf, freigestelltes Mitglied des Betriebs- rats des Werks Darmstadt der Merck KGaA keine Mandate Hans-Jürgen Leuchs Ingelheim, Diplom-Chemiker (b) - E. Merck KG, Darmstadt1 - Zeton B.V., Enschede, Niederlande - Zeton International Inc., Burlington ONT, Kanada Albrecht Merck2 Schriesheim, kaufmännischer Direktor des Weinguts Castel Peter, Bad Dürkheim (b) - E. Merck KG, Darmstadt1 Karl-Heinz Scheider Groß-Zimmern, Leiter Contract Manufacturing Chemieproduktion der Merck KGaA keine Mandate Theo Siegert Düsseldorf, geschäftsführender Gesellschafter bei de Haen Carstanjen Söhne, Düsseldorf (a) (b) - Deutsche Bank AG, Frankfurt (bis Mai 2012) - E.ON AG, Düsseldorf - Henkel AG Co KGaA, Düsseldorf - E. Merck KG, Darmstadt - DKSH Holding Ltd., Zürich, Schweiz Berthold Wagner (seit 11.05.2012) Frankfurt, Mitglied des Betriebsrats des Werks Darmstadt der Merck KGaA keine Mandate Osman Ulusoy (bis 30.04.2012) Wiesbaden, stellvertr.
+Landesbezirksleiter Hessen-Thüringen bei der Industriegewerkschaft Bergbau, Chemie, Energie (IG BCE) keine Mandate 1 Internes Mandat.
+2 Entsandte Mitglieder gemäß § 6 Abs. 5 der Satzung.
+Angaben gemäß § 160 Absatz 1 Nr. 8 Aktiengesetz Gemäß Wertpapierhandelsgesetz (WpHG) hat jeder Aktionär, der die Schwellen von 3, 5, 10, 15, 20, 25, 30, 50 oder 75 Prozent der Stimmrechte eines börsennotierten Unternehmens erreicht, überschreitet oder unterschreitet, dies dem Unternehmen und der Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) unverzüglich mitzuteilen.
+Der Gesellschaft wurde bis zum 31.12.2012 das Bestehen folgender Beteiligungen mitgeteilt (die Anzahl der Aktien bzw. die erreichte Beteiligung in Prozent ist der letzten Stimmrechtsmitteilung an Merck entnommen und ist daher zwischenzeitlich gegebenenfalls überholt): Am 15. April 2011 wurde uns gemäß § 21 Abs. 1 WpHG das Folgende mitgeteilt: Der Stimmrechtsanteil der BlackRock, Inc., New York, USA, an der Merck KGaA, Darmstadt, Deutschland, hat am 11.04.2011 durch Aktien die Schwelle von 5% der Stimmrechte überschritten und beträgt zu diesem Tag 5,06 % (3.270.245 Stimmrechte).
+Diese Stimmrechte werden gemäß § 22 Abs. 1 Satz 1 Nr. 6 i.V.m.
+§ 22 Abs. 1 Satz 2 WpHG BlackRock, Inc.
+zugerechnet.
+Am 9. November 2012 wurde uns gemäß § 21 Abs. 1 WpHG das Folgende mitgeteilt: Korrektur der Meldung vom 5. November 2012 (veröffentlicht am 7. November 2012): Der Stimmrechtsanteil der BlackRock HoldCo 2, Inc., Wilmington, DE, USA, an der Merck KGaA, Darmstadt, Deutschland, hat am 23.04.2010 durch den Erwerb von Aktien die Schwelle von 10% der Stimmrechte überschritten und beträgt zu diesem Tag 10,05% (6.495.970 Stimmrechte).
+Diese Stimmrechte werden gemäß § 22 Abs. 1 Satz 1 Nr. 6 i.V.m.
+§ 22 Abs. 1 Satz 2 WpHG BlackRock HoldCo 2, Inc.
+zugerechnet.
+Am 05. November 2012 wurde uns gemäß § 21 Abs. 1 WpHG das Folgende mitgeteilt: Korrektur der Mitteilung vom 11. Mai 2010 (veröffentlicht am 12. Mai 2010): Der Stimmrechtsanteil der BlackRock Financial Management, Inc., New York, USA, an der Merck KGaA, Darmstadt, Deutschland, hat am 23.04.2010 durch den Erwerb von Aktien die Schwelle von 10% der Stimmrechte überschritten und beträgt zu diesem Tag 10,05% (6.495.970 Stimmrechte).
+Diese Stimmrechte werden gemäß § 22 Abs. 1 Satz 1 Nr. 6 i.V.m.
+§ 22 Abs. 1 Satz 2 WpHG BlackRock Financial Management, Inc.
+zugerechnet.
+Am 31. Oktober 2012 wurde uns gemäß § 21 Abs. 1 WpHG das Folgende mitgeteilt: Der Stimmrechtsanteil der BR Jersey International Holdings L.P., St. Helier, Jersey, Channel Islands an der Merck KGaA, Darmstadt, Deutschland hat am 04.05.2012 durch den Erwerb von Aktien die Schwelle von 5% der Stimmrechte überschritten und beträgt zu diesem Tag 5,08% (3.281.314 Stimmrechte).
+Alle Stimmrechte werden der BR Jersey International Holdings L.P.
+gemäß § 22 Abs. 1 Satz 1 Nr. 6 WpHG in Verbindung mit § 22 Abs. 1 Satz 2 WpHG zugerechnet.
+Der Stimmrechtsanteil der BlackRock Advisors Holdings, Inc., New York, NY, U.S.A an der Merck KGaA, Darmstadt, Deutschland hat am 19.03.2012 durch den Erwerb von Aktien die Schwelle von 5% der Stimmrechte überschritten und beträgt zu diesem Tag 5,04% (3.256.580 Stimmrechte).
+Alle Stimmrechte werden der BlackRock Advisors Holdings, Inc.
+gemäß § 22 Abs. 1 Satz 1 Nr. 6 WpHG in Verbindung mit § 22 Abs. 1 Satz 2 WpHG zugerechnet.
+Der Stimmrechtsanteil der BlackRock International Holdings Inc., New York, NY, U.S.A.
+an der Merck KGaA, Darmstadt, Deutschland hat am 04.05.2012 durch den Erwerb von Aktien die Schwelle von 5% der Stimmrechte überschritten und beträgt zu diesem Tag 5,08% (3.281.314 Stimmrechte).
+Alle Stimmrechte werden der BlackRock International Holdings Inc.
+gemäß § 22 Abs. 1 Satz 1 Nr. 6 WpHG in Verbindung mit § 22 Abs. 1 Satz 2 WpHG zugerechnet.
+Am 06. Februar 2013 wurde uns gemäß § 21 Abs. 1 WpHG das Folgende mitgeteilt: Der Stimmrechtsanteil der BlackRock Group Limited, London, Vereinigtes Königreich, an der Merck KGaA, Darmstadt, Deutschland, hat am 01.02.2013 durch den Verkauf von Aktien die Schwelle von 5% der Stimmrechte unterschritten und beträgt zu diesem Tag 4,993% (3.226.525 Stimmrechte).
+Alle Stimmrechte werden der BlackRock Group Limited gemäß § 22 Abs. 1 Satz 1 Nr. 6 WpHG in Verbindung mit § 22 Abs. 1 Satz 2 WpHG zugerechnet.
+Am 24. Mai 2012 wurde uns gemäß § 21 Abs. 1 WpHG das Folgende mitgeteilt: Der Stimmrechtsanteil der BlackRock Financial Management, Inc., New York, NY, USA, an der Merck KGaA, Darmstadt, Deutschland, hat am 13.04.2011 durch Aktien die Schwelle von 5% der Stimmrechte überschritten und beträgt zu diesem Tag 5,03% (3.247.449 Stimmrechte).
+Diese Stimmrechte werden der BlackRock Financial Management, Inc.
+gemäß § 22 Abs. 1 Satz 1 Nr. 6 i.V.m.
+§ 22 Abs. 1 Satz 2 WpHG zugerechnet.
+Der Stimmrechtsanteil der BlackRock Holdco 2, Inc., Wilmington, DE, USA, an der Merck KGaA, Darmstadt, Deutschland, hat am 13.04.2011 durch Aktien die Schwelle von 5% der Stimmrechte überschritten und beträgt zu diesem Tag 5,03% (3.247.449 Stimmrechte).
+Diese Stimmrechte werden der BlackRock Holdco 2, Inc.
+gemäß § 22 Abs. 1 Satz 1 Nr. 6 i.V.m.
+§ 22 Abs. 1 Satz 2 WpHG zugerechnet.
+Am 15. Oktober 2012 wurde uns gemäß §§ 21 Abs. 1 und 22 Abs. 1 Satz 1 Nr. 6 i.V.m.
+§ 22 Abs. 1 Satz 2 und Satz 3 WpHG das Folgende mitgeteilt: Der Stimmrechtsanteil der Capital Group Companies, Inc., Los Angeles, USA, an der Merck KGaA, Darmstadt, Deutschland, hat am 10.10.2012 durch Aktien die Schwelle von 3% der Stimmrechte überschritten und beträgt zu diesem Tag 3,06% (1.978.767 Stimmrechte).
+Diese Stimmrechte werden gemäß § 22 Abs. 1 Satz 1 Nr. 6 i.V.m.
+§ 22 Abs. 1 Satz 2 und Satz 3 WpHG der Capital Group Companies, Inc.
+zugerechnet.
+Der Stimmrechtsanteil der Capital Research and Management Company, Los Angeles, USA, an der Merck KGaA, Darmstadt, Deutschland, hat am 10.10.2012 durch Aktien die Schwelle von 3% der Stimmrechte überschritten und beträgt zu diesem Tag 3,06% (1.978.767 Stimmrechte).
+Diese Stimmrechte werden gemäß § 22 Abs. 1 Satz 1 Nr. 6 WpHG der Capital Research and Management Company zugerechnet.
+Am 21. Januar 2010 wurde uns gemäß § 21 Abs. 1 WpHG das Folgende mitgeteilt: Der Stimmrechtsanteil der Sun Life Financial Inc., Toronto, Kanada, hat am 19. Januar 2010 (basierend auf dem Eigentumsübergang) durch Aktien die Schwelle von 10 % der Stimmrechte an der Merck KGaA, Darmstadt, Deutschland, unterschritten und beträgt zu diesem Tag 9,55626 % (6.175.369 Stimmrechte).
+9,51296 % dieser Stimmrechte (6.147.382 Stimmrechte) werden gemäß § 22 Abs.1 Satz 1 Nr.6 WpHG iVm § 22 Abs.1 Satz 2 WpHG der Sun Life Financial Inc.
+zugerechnet.
+0,0433 % der Stimmrechte (27.987 Stimmrechte) werden der Sun Life Financial Inc.
+gemäß § 22 Abs. 1 Satz 1 Nr. 1 WpHG zugerechnet.
+Kein Aktionär, von dem Stimmrechte an den Mitteilungspflichtigen zugerechnet werden, hält 3% oder mehr der Stimmrechte.
+Der Stimmrechtsanteil der Sun Life Global Investment Inc., Toronto, Kanada, hat am 18. Januar 2010 (basierend auf dem Eigentumsübergang) durch Aktien die Schwelle von 10 % der Stimmrechte an der Merck KGaA, Darmstadt, Deutschland, unterschritten und beträgt zu diesem Tag 9,96659 % (6.440.525 Stimmrechte).
+Diese Stimmrechte werden gemäß § 22 Abs.1 Satz 1 Nr.6 WpHG iVm § 22 Abs.1 Satz 2 WpHG der Sun Life Global Investment Inc.
+zugerechnet.
+Kein Aktionär, von dem Stimmrechte an den Mitteilungspflichtigen zugerechnet werden, hält 3% oder mehr der Stimmrechte.
+Der Stimmrechtsanteil der Sun Life Assurance Company of Canada- U.S.
+Operations Holdings Inc., Wellesley Hills, USA, hat am 18. Januar 2010 (basierend auf dem Eigentumsübergang) durch Aktien die Schwelle von 10 % der Stimmrechte an der Merck KGaA, Darmstadt, Deutschland, unterschritten und beträgt an diesem Tag 9,96659 % (6.440.525 Stimmrechte).
+Diese Stimmrechte werden gemäß § 22 Abs.1 Satz 1 Nr.6 WpHG iVm § 22 Abs.1 Satz 2 WpHG der Sun Life Assurance Company of Canada- U.S.
+Operations Holdings Inc.
+zugerechnet.
+Kein Aktionär, von dem Stimmrechte an den Mitteilungspflichtigen zugerechnet werden, hält 3% oder mehr der Stimmrechte.
+Der Stimmrechtsanteil der Sun Life Financial (U.S.)
+Holdings Inc., Wellesley Hills, USA, hat am 18. Januar 2010 (basierend auf dem Eigentumsübergang) durch Aktien die Schwelle von 10 % der Stimmrechte an der Merck KGaA, Darmstadt, Deutschland, unterschritten und beträgt an diesem Tag 9,96659% (6.440.525 Stimmrechte).
+Diese Stimmrechte werden gemäß § 22 Abs.1 Satz 1 Nr.6 WpHG iVm § 22 Abs.1 Satz 2 WpHG der Sun Life Financial (U.S.)
+Holdings Inc.
+zugerechnet.
+Kein Aktionär, von dem Stimmrechte an den Mitteilungspflichtigen zugerechnet werden, hält 3% oder mehr der Stimmrechte.
+Der Stimmrechtsanteil der Sun Life Financial (U.S.)
+Investments LLC, Wellesley Hills, USA, hat am 18. Januar 2010 (basierend auf dem Eigentumsübergang) durch Aktien die Schwelle von 10% der Stimmrechte an der Merck KGaA, Darmstadt, Deutschland, unterschritten und beträgt an diesem Tag 9,96659% (6.440.525 Stimmrechte).
+Diese Stimmrechte werden gemäß § 22 Abs.1 Satz 1 Nr.6 WpHG iVm § 22 Abs.1 Satz 2 WpHG der Sun Life Financial (U.S.)
+Investments LLC zugerechnet.
+Kein Aktionär, von dem Stimmrechte an den Mitteilungspflichtigen zugerechnet werden, hält 3% oder mehr der Stimmrechte.
+Der Stimmrechtsanteil der Sun Life of Canada (U.S.)
+Financial Services Holdings Inc., Boston, USA, hat am 18. Januar 2010 (basierend auf dem Eigentumsübergang) durch Aktien die Schwelle von 10% der Stimmrechte an der Merck KGaA, Darmstadt, Deutschland, unterschritten und beträgt an diesem Tag 9,96659% (6.440.525 Stimmrechte).
+Diese Stimmrechte werden gemäß § 22 Abs.1 Satz 1 Nr.6 WpHG iVm § 22 Abs.1 Satz 2 WpHG der Sun Life of Canada (U.S.)
+Financial Services Holdings Inc.
+zugerechnet.
+Kein Aktionär, von dem Stimmrechte an den Mitteilungspflichtigen zugerechnet werden, hält 3% oder mehr der Stimmrechte.
+Die Templeton Global Advisors Limited, Nassau, Bahamas, hat uns gemäß § 21 Abs. 1 WpHG am 19.09.2012 mitgeteilt, dass ihr Stimmrechtsanteil an der Merck KGaA, Darmstadt, Deutschland, am 18.09.2012 die Schwelle von 5% der Stimmrechte unterschritten hat und zu diesem Tag 4,95% (3.197.993 Stimmrechte) beträgt.
+Diese Stimmrechte werden gemäß § 22 Abs. 1 Satz 1 Nr. 6 WpHG Templeton Global Advisors Limited zugerechnet.
+Zu diesem Tag hielt kein von Templeton Global Advisors Limited verwalteter Fonds 3,00% oder mehr Stimmrechte an der Merck KGaA.
+Templeton Investment Counsel, LLC, Wilmington, USA, hat uns nach § 21 Abs. 1 WpHG am 31.01.2013 mitgeteilt, dass ihr Stimmrechtsanteil an der Merck KGaA, Darmstadt, Deutschland, am 30.01.2013 durch Aktien die Schwelle von 5% der Stimmrechte unterschritten hat und zu diesem Tag 4,9864% (3.222.248 Stimmrechte) beträgt.
+Diese Stimmrechte werden gemäß § 22 Abs. 1 Satz 1 Nr. 6 WpHG Templeton Investment Counsel, LLC zugerechnet.
+Zu diesem Tag hielt kein von Templeton Investment Counsel, LLC, verwalteter Fonds 3,00% oder mehr Stimmrechte an der Merck KGaA.
+Anteilsbesitzliste per 31. Dezember 2012 der Merck KGaA Land Gesellschaft Sitz Anteil am Kapital (%) davon Merck KGaA direkt (%) Berichts-währung (ISO Code) IFRS- Eigenkapital in Tausend WEd) IFRS-Ergebnis nach Steuern in Tausend WEd) Deutschland Deutschland Allergopharma GmbH Co.
+KG Reinbek 100,00 EUR 12.349 9.318 Deutschland Allergopharma Verwaltungs GmbH Darmstadt 100,00 100,00 EUR 0 a) Deutschland Azelis Kosmetik GmbH Moers 4,85 100,00 b) b) b) Deutschland Biochrom AG Berlin 100,00 EUR 9.727 -435 Deutschland Chemische Fabrik Lehrte Dr. Andreas Kossel GmbH Lehrte 100,00 100,00 EUR 6.859 a) Deutschland Chemitra GmbH Darmstadt 100,00 100,00 EUR 623.967 a) Deutschland Emedia Export Company mbH Gernsheim 100,00 EUR 26 a) Deutschland heipha Dr. Müller GmbH Eppelheim 100,00 100,00 EUR 43.326 a) Deutschland IHS - Intelligent Healthcare Solutions GmbH Frankfurt/Main 100,00 EUR -1.908 -1.939 Deutschland InnovationLab GmbH Heidelberg 8,33 8,33 b) b) b) Deutschland Kooperation Phytopharmaka GbR Bonn 1,77 b) b) b) Deutschland Litec-LLL GmbH Greifswald 100,00 100,00 EUR 3.170 a) Deutschland Merck 12.
+Allgemeine Beteiligungs-GmbH Darmstadt 100,00 100,00 b) b) b) Deutschland Merck 13.
+Allgemeine Beteiligungs-GmbH Darmstadt 100,00 b) b) b) Deutschland Merck 14.
+Allgemeine Beteiligungs-GmbH Darmstadt 100,00 b) b) b) Deutschland Merck Chemicals GmbH Schwalbach 100,00 EUR 1.270 671 Deutschland Merck China Chemicals Holding GmbH Darmstadt 100,00 EUR -90 -9.947 Deutschland Merck Consumer Health Care Holding GmbH Darmstadt 100,00 100,00 EUR 45.758 a) Deutschland Merck Export GmbH Darmstadt 100,00 100,00 EUR -6.100 a) Deutschland Merck Financial Services GmbH Darmstadt 100,00 100,00 EUR 77.932 a) Deutschland Merck Financial Trading GmbH Gernsheim 100,00 100,00 EUR 118.473 8.555 Deutschland Merck Holding GmbH Gernsheim 100,00 100,00 EUR 2.383.695 69.049 Deutschland Merck Internationale Beteiligungen GmbH Darmstadt 100,00 EUR 2.117.328 a) Deutschland Merck Patent GmbH Darmstadt 100,00 b) b) b) Deutschland Merck Pensions GmbH Co.
+KG Zossen 100,00 100,00 EUR 256.828 391.248 Deutschland Merck Pensionsverwaltung GmbH Zossen 100,00 100,00 b) b) b) Deutschland Merck Schuchardt OHG Hohenbrunn 100,00 100,00 EUR c) .
+c) .
+Deutschland Merck Sechste Allgemeine Beteiligungsgesellschaft mbH Darmstadt 100,00 b) b) b) Deutschland Merck Selbstmedikation GmbH Darmstadt 100,00 EUR 10.864 a) Deutschland Merck Serono GmbH Darmstadt 100,00 100,00 EUR 9.033 a) Deutschland Merck Shared Services Europe GmbH Darmstadt 100,00 100,00 EUR -514 a) Deutschland Merck Versicherungsvermittlung GmbH Darmstadt 100,00 100,00 EUR -199 a) Deutschland Merck Verwaltungsgesellschaft mbH Darmstadt 100,00 100,00 EUR 26 a) Deutschland Merck Vierte Allgemeine Beteiligungsgesellschaft mbH Gernsheim 100,00 EUR 7.577.243 a) Deutschland Merck Wohnungs- und Grundstücksverwaltungsgesellschaft mbH Darmstadt 100,00 100,00 b) b) b) Deutschland pharma mall Gesellschaft für Electronic Commerce mbH Bönen 16,67 b) b) b) Deutschland PharmLog Pharma Logistik GmbH Bönen 16,67 16,67 b) b) b) Deutschland PrintCity GmbH Co.
+KG Gröbenzell 1,76 1,76 b) b) b) Übriges Europa Belgien Merck Consumer Healthcare N.V.-S.A.
+Overijse 100,00 EUR 23.455 3.066 Belgien Merck N.V.-S.A.
+Overijse 100,00 EUR 6.513 279 Belgien Millipore S.A./N.V.
+Brüssel 100,00 EUR 4.623 247 Bulgarien Merck Bulgaria EAD Sofia 100,00 BGN 4.608 592 Dänemark Epitherapeutics ApS Kopenhagen 10,25 b) b) b) Dänemark Merck A/S Hellerup 100,00 DKK 27.817 8.751 Dänemark Millipore A/S Hellerup 100,00 DKK 9.459 2.598 Dänemark Survac ApS Frederiksberg 100,00 100,00 DKK 5.302 -490 Estland Merck Serono OÜ Tallinn 100,00 EUR 109 26 Finnland Merck OY Espoo 100,00 EUR 3.029 995 Finnland Millipore OY Espoo 100,00 EUR 601 -26 Frankreich Financière du 8ème S.A.S.
+Lyon 100,00 b) b) b) Frankreich Gonnon S.A.S.
+Lyon 100,00 b) b) b) Frankreich Immutep S.A.
+Orsay 4,25 b) b) b) Frankreich Laboratoire Médiflor S.A.S.
+Lyon 100,00 EUR 807 632 Frankreich Merck Biodevelopment S.A.S.
+Lyon 100,00 EUR 242.979 1.752 Frankreich Merck Chimie S.A.S.
+Fontenay s/Bois 100,00 EUR 42.403 5.733 Frankreich Merck Médication Familiale S.A.S.
+Lyon 100,00 EUR 50.397 4.428 Frankreich Merck S.A.
+Lyon 99,82 89,00 EUR 1.580.344 248.233 Frankreich Merck Santé S.A.S.
+Lyon 100,00 EUR 185.560 55.831 Frankreich Merck Serono S.A.S.
+Lyon 100,00 EUR 31.390 -7.368 Frankreich Millipore S.A.S.. Molsheim 100,00 EUR 249.483 23.998 Griechenland Merck A.E.
+Maroussi 100,00 EUR 41.725 -2.079 Großbritannien British Cod Liver Oils Ltd.
+Hull 100,00 GBP 0 0 Großbritannien Celliance Ltd.
+Edinburgh 100,00 GBP 500 0 Großbritannien EiRx Therapeutics plc London 4,11 b) b) b) Großbritannien Hofels Pure Foods Ltd.
+Hull 100,00 GBP 27 0 Großbritannien Lamberts Healthcare Ltd.
+Tunbridge Wells 100,00 GBP 4.672 2.210 Großbritannien Marfleet Refining Company Ltd.
+Hull 100,00 GBP 149 0 Großbritannien Merck Biosciences Ltd.
+Nottingham 100,00 GBP 500 0 Großbritannien Merck Chemicals Ltd.
+Nottingham 100,00 GBP 2.237 2.527 Großbritannien Merck Consumer Health Care Ltd.
+Hull 100,00 GBP 3.157 -54.201 Großbritannien Merck Cross Border Trustees Ltd.
+Hull 100,00 GBP 0 0 Großbritannien Merck Investments Ltd.
+Hull 100,00 GBP -65 0 Großbritannien Merck Ltd.
+Hull 100,00 GBP 0 0 Großbritannien Merck Pension Trustees Ltd.
+Hull 100,00 GBP 0 0 Großbritannien Merck Serono Europe Ltd.
+London 100,00 GBP 520 17 Großbritannien Merck Serono Ltd.
+Feltham 100,00 GBP 26.410 2.800 Großbritannien Merck Services U.K.
+Ltd.
+Hull 100,00 b) b) b) Großbritannien Merck UK Limited Partnership Poole 100,00 b) b) b) Großbritannien Millipore (U.K.)
+Ltd.
+Feltham 100,00 GBP -3.704 -30.662 Großbritannien Millipore UK Holdings LLP London 100,00 GBP 301.337 8.454 Großbritannien Nature's Best Health Products Ltd.
+Tunbridge Wells 100,00 b) b) b) Großbritannien New Era Laboratories Ltd.
+Hull 100,00 GBP 15 0 Großbritannien Phillips Yeast Products Ltd.
+Hull 100,00 GBP 1.350 -10 Großbritannien Scancell Ltd.
+Nottingham 0,93 b) b) b) Großbritannien Serologicals Global Holding Company Ltd.
+London 100,00 GBP 8.794 290.348 Großbritannien Serono Ltd.
+Feltham 100,00 GBP 0 0 Großbritannien Seven Seas Healthcare Ltd.
+Hull 100,00 GBP 1.487 0 Großbritannien Seven Seas Limited Hull 100,00 GBP -23.105 -22.200 Großbritannien Seven Seas Pension Trustees Ltd.
+Hull 100,00 GBP 0 0 Großbritannien Upstate Ltd.
+London 100,00 GBP 5.598 0 Irland Merck Millipore Ltd.
+Carrigtwohill 100,00 EUR 561.742 59.163 Irland Merck Serono (Ireland) Ltd.
+Dublin 100,00 EUR 2.923 1.592 Irland Millipore Cork Carrigtwohill 100,00 EUR 225.413 52.835 Irland Millipore Dublin International Finance Company Dublin 100,00 EUR 1.047 -14 Irland Tullagreen Holdings Ltd.
+Dublin 100,00 EUR 244.202 16 Italien Allergopharma S.p.A.
+Mailand 100,00 EUR 827 -199 Italien BioIndustry Park Silvano Fumero S.p.A.
+Colleretto Giacosa 13,30 b) b) b) Italien Consorzio per la Promozione dei Prodotti Vernicianti e Ricoprenti Alessandria 20,00 b) b) b) Italien Farmafactoring S.p.A.
+Mailand 2,59 b) b) b) Italien Istituto di Ricerche Biomediche Antoine Marxer RBM S.p.A.
+Colleretto Giacosa 100,00 EUR 8.142 -3.311 Italien Merck S.p.A.
+Mailand 100,00 EUR 10.373 1.880 Italien Merck Serono S.p.A.
+Rom 99,71 EUR 430.797 66.867 Italien Millipore S.p.A.
+Mailand 100,00 EUR 2.055 246 Italien Tecnofarmaci S.p.A.
+Pomezia 4,00 b) b) b) Kroatien Merck d.o.o.
+Zagreb 100,00 HRK 3.890 1.297 Lettland Merck Serono SIA Riga 100,00 LVL 1.721 165 Litauen Merck Serono, UAB Kaunas 100,00 LTL 438 105 Luxemburg Merck Re S.A.
+Luxemburg 100,00 EUR -4.139 -1.165 Luxemburg Merck-Finanz AG Luxemburg 100,00 100,00 EUR 6.602 103 Luxemburg Millilux S.a.r.L.
+Luxemburg 100,00 EUR 76.463 54.881 Luxemburg Millipart S.a.r.L.
+Luxemburg 100,00 EUR 72.407 54.974 Luxemburg Millipore International Holdings, S.a.r.L.
+Luxemburg 100,00 EUR 482.518 116.477 Malta Merck Capital Holding Ltd.
+St. Julians 100,00 99,92 EUR 1.262.121 38.120 Malta Merck Capital Ltd.
+St. Julians 100,00 EUR 1.222.158 -7.662 Niederlande Merck B.V.
+Schiphol-Rijk 100,00 EUR 977.535 9.097 Niederlande Merck Holding Netherlands B.V.
+Schiphol-Rijk 100,00 100,00 b) b) b) Niederlande Millipore B.V.
+Amsterdam Zuidoost 100,00 EUR 2.891 639 Niederlande Millipore International Holding Company B.V.
+Amsterdam Zuidoost 100,00 EUR 655.368 824 Niederlande Millipore Ireland B.V.
+Roosendaal 100,00 EUR 5.201 99 Niederlande Peer+ B.V.
+Eindhoven 49,99 49,99 b) b) b) Niederlande Serono Tri Holdings B.V.
+Schiphol-Rijk 100,00 EUR 212.489 2.642 Norwegen Merck AB, Branch Office Norway Oslo 100,00 NOK 4.571 -742 Norwegen Millipore AS Oslo 100,00 NOK 8.078 586 Österreich Allergopharma Vertriebsgesellschaft m.b.H.
+Wien 100,00 EUR 200 95 Österreich Arcana Life-Science-Produkte GmbH Wien 100,00 EUR 40 75 Österreich Eurodrug Chemisch-pharmazeutische Produkte GmbH Wien 100,00 b) b) b) Österreich f-star Biotechnologische Forschungs- und Entwicklungsgesellschaft mbH Wien 4,11 b) b) b) Österreich Merck Gesellschaft mbH Wien 100,00 EUR 12.459 6.146 Österreich Merck KGaA Co.
+Werk Spittal Spittal 100,00 99,00 EUR 40.733 4.932 Österreich Merck Vermögensverwaltungs-GmbH Wien 100,00 b) b) b) Österreich Millipore Gesellschaft mbH Wien 100,00 EUR 6.021 2.888 Polen Merck Sp.z o.o.
+Warschau 100,00 PLN 63.230 8.839 Portugal Laquifa Laboratorios S.A.
+Lissabon 100,00 b) b) b) Portugal Merck, S.A.
+Lissabon 100,00 EUR 13.634 624 Rumänien Merck Romania S.R.L.
+Bukarest 100,00 RON 4.783 1.813 Russland Merck LLC Moskau 100,00 RUB -25.222 -12.290 Schweden Galecto Biotech AB Lund 15,66 b) b) b) Schweden Merck AB Solna 100,00 SEK 96.854 3.433 Schweden Merck SeQuant AB Umea 100,00 SEK 10.752 419 Schweden Millipore AB Solna 100,00 SEK 451.665 77.179 Schweiz Allergopharma AG Therwil 100,00 CHF 600 225 Schweiz Ares Trading SA Aubonne 100,00 EUR 4.617.369 258.595 Schweiz Asceneuron SA Lausanne 80,00 b) b) b) Schweiz Cridec SA Eclepens 0,15 b) b) b) Schweiz Horizon North SA Genf 100,00 CHF 28.248 2.926 Schweiz Horizon South SA Genf 100,00 CHF 9.450 511 Schweiz Merck Cie Altdorf 98,87 99,87 CHF 131.385 79.207 Schweiz Merck (Schweiz) AG Zug 100,00 CHF 22.342 9.495 Schweiz Merck AG Zug 100,00 20,87 EUR 2.166.315 44.230 Schweiz Merck Biosciences AG Läufelfingen 100,00 CHF 12.816 -62 Schweiz Merck Serono SA Coinsins 100,00 EUR 1.087.310 -12.015 Schweiz Millipore AG Zug 100,00 CHF 6.423 1.493 Schweiz Prexton Therapeutics SA Plan-les-Ouates 49,00 b) b) b) Schweiz SeroMer Holding SA Chéserex 100,00 CHF 4.502.788 -933 Schweiz Vaximm AG Basel 22,76 b) b) b) Serbien Merck d.o.o.
+Beograd Belgrad 100,00 RSD 438.457 32.128 Slowakei Merck spol.s.r.o.
+Bratislava 100,00 EUR 9.108 1.862 Slowenien Merck d.o.o.
+Ljubljana 100,00 EUR 747 304 Spanien Merck, S.L.
+Madrid 100,00 EUR 116.751 9.271 Spanien Millipore Iberica S.A.
+Madrid 100,00 EUR 2.891 660 Tschechische Republik Merck spol.s.r.o.
+Prag 100,00 CZK 288.617 63.437 Türkei Merck Ilac Ecza ve Kimya Ticaret AS Istanbul 100,00 TRY 66.001 6.814 Ungarn Merck Kft.
+Budapest 100,00 HUF 2.226.225 420.154 Nordamerika Kanada EMD Chemicals Canada Inc.
+Toronto 100,00 CAD 333 107 Kanada EMD Crop BioScience Canada Inc.
+Toronto 100,00 CAD 8.999 2.296 Kanada EMD Inc.
+Mississauga 100,00 CAD 8.420 -3.428 Kanada Millipore (Canada) Ltd.
+Toronto 100,00 CAD 3.358 99 Puerto Rico EMD Millipore Corp., Puerto Rico Branch Cidra 100,00 USD 4.096 1.016 USA Ambrx, Inc.
+La Jolla 4,79 b) b) b) USA Amnis Corp.
+Seattle 100,00 USD 103.209 -4.095 USA Anaphore, Inc.
+La Jolla 4,64 b) b) b) USA Archemix Corporation Cambridge 10,00 b) b) b) USA Auxogyn Inc.
+Menlo Park 9,77 b) b) b) USA BioVascular, Inc.
+La Jolla 6,76 6,76 b) b) b) USA Dynamis Therapeutics, Inc.
+Jenkintown 0,59 0,59 b) b) b) USA EMD Holding Corp.
+Rockland 100,00 USD 7.041.365 291.503 USA EMD Millipore Corp.
+Billerica 100,00 USD 2.933.017 402.193 USA EMD Serono Holding Inc.
+Rockland 100,00 USD 287.079 -15.553 USA EMD Serono Research Institute, Inc.
+Billerica 100,00 USD 47.621 22.363 USA EMD Serono, Inc.
+Rockland 100,00 USD 8.934 69.006 USA EMD Shared Services America Inc.
+Quincy 100,00 USD -583 596 USA Millipore Asia Ltd.
+Wilmington 100,00 USD 6.288 2.837 USA Millipore Pacific Ltd.
+Wilmington 100,00 USD 276 0 USA Millipore UK Holdings I, LLC Wilmington 100,00 USD 494.355 0 USA Millipore UK Holdings II, LLC Wilmington 100,00 USD 37.826 0 USA Oncothyreon Inc.
+Bellevue 0,75 b) b) b) USA Serono Laboratories Inc.
+Rockland 100,00 USD 165 0 USA Tioga Pharmaceuticals, Inc.
+San Diego 17,22 17,22 b) b) b) USA ViuRx Pharmaceuticals, Inc.
+Boston 8,03 b) b) b) Emerging Markets Argentinien Merck Quimica Argentina S.A.I.C.
+Buenos Aires 100,00 ARS 177.350 -12.377 Brasilien Merck S.A.
+Rio de Janeiro 100,00 BRL 294.902 39.760 Chile Merck S.A.
+Santiago de Chile 100,00 CLP 16.631.080 2.339.903 China Beijing Ji Zhong-Sheng Pharmaceutical Co., Ltd.
+Peking 100,00 b) b) b) China Beijing Skywing Technology Co., Ltd.
+Peking 100,00 CNY 62.619 -3.644 China Merck Chemicals (Shanghai) Co., Ltd.
+Schanghai 100,00 CNY 103.469 -7.728 China Merck Consumer Health Care Shanghai Trading Co., Ltd.
+Schanghai 100,00 CNY 5.800 -27.920 China Merck Display Materials (Shanghai) Co., Ltd.
+Schanghai 100,00 CNY 33.546 -54 China Merck Ltd.
+Hong Kong 100,00 HKD 154.761 126.396 China Merck Millipore Lab Equipment (Shanghai) Co., Ltd.
+Schanghai 100,00 CNY -2.123 -1.071 China Merck Pharmaceutical (HK) Ltd.
+Hong Kong 100,00 HKD 59.677 6.099 China Merck Serono (Beijing) Pharmaceutical RD Co., Ltd.
+Peking 100,00 CNY 14.154 3.405 China Merck Serono Co., Ltd.
+Peking 100,00 CNY 129.980 16.361 China Millipore (Shanghai) Trading Co., Ltd.
+Schanghai 100,00 CNY 42.891 -9.229 China Millipore China Ltd.
+Hong Kong 100,00 USD 7.874 -597 China Suzhou Taizhu Technology Development Co., Ltd.
+Taicang 100,00 CNY 71.702 -14.546 Dominikanische Republik Merck Dominicana, S.R.L.
+Santo Domingo 100,00 b) b) b) Ecuador Merck C.A.
+Quito 100,00 USD 13.807 2.037 Guatemala Merck, S.A.
+Guatemala City 100,00 GTQ 95.189 28.196 Indien Merck Ltd.
+Mumbai 51,80 INR 4.768.950 768.027 Indien Merck Specialities Pvt.
+Ltd.
+Mumbai 100,00 INR 1.631.814 182.286 Indien Millipore India Pvt.
+Ltd.
+Bangalore 100,00 INR 681.635 298.980 Indonesien P.T.
+Merck Specialities Jakarta 100,00 b) b) b) Indonesien P.T.
+Merck Tbk.
+Jakarta 86,65 IDR 408.186.863 109.463.690 Israel Inter-Lab Ltd.
+Yavne 100,00 USD 774.911 80.663 Israel InterPharm Industries Ltd.
+Yavne 100,00 USD -3 -8 Israel InterPharm Laboratories Ltd.
+Yavne 100,00 USD 171.414 32 Israel Merck Serono Ltd.
+Herzliya Pituach 100,00 USD 13.029 1.165 Israel Sol-Gel Technologies Ltd.
+Bet Shemesh 1,45 b) b) b) Kolumbien Merck S.A.
+Bogota 100,00 COP 93.437.400 35.789.132 Malaysia Merck Sdn Bhd Petaling Jaya 100,00 MYR 45.519 6.369 Malaysia Millipore Asia Ltd., Malaysia Branch Kuala Lumpur 100,00 MYR 2.005 -214 Mexiko Merck, S.A.
+de C.V.
+Mexico-Stadt 100,00 MXN 2.855.688 730.796 Mexiko Millipore S.A.
+de C.V.
+Mexico-Stadt 100,00 MXN 30.177 -5.892 Mexiko Serono de Mexico S.A.
+de C.V.
+Mexico-Stadt 100,00 MXN -2.268 -3.337 Pakistan Merck (Pvt.)
+Ltd.
+Karatschi 75,00 26,00 PKR 2.611.662 774.131 Pakistan Merck Pharmaceuticals (Pvt.)
+Ltd.
+Karatschi 75,00 PKR 3.755 2.941 Pakistan Merck Specialities (Pvt.)
+Ltd.
+Karatschi 100,00 PKR 5.785 5.177 Panama Mesofarma Corporation Panama-Stadt 100,00 USD 39.014 17.546 Peru Merck Peruana S.A.
+Lima 100,00 PEN 103.801 14.611 Philippinen Merck Inc.
+Makati City 100,00 PHP 650.545 176.925 Singapur Merck Pte.
+Ltd.
+Singapur 100,00 SGD 41.231 -2.223 Südkorea Merck Advanced Technologies Ltd.
+Pyungtaek-shi 100,00 USD 136.864 35.088 Südkorea Merck Ltd.
+Seoul 100,00 KRW 24.089.087 2.003.456 Taiwan Merck Display Technologies Ltd.
+Taipei 100,00 TWD 7.670.154 842.866 Taiwan Merck Ltd.
+Taipei 100,00 TWD 828.419 139.035 Taiwan Millipore Asia Ltd., Taiwan Branch (in Liquidation) Taipei 100,00 TWD 18.040 2.244 Thailand Merck Ltd.
+Bangkok 45,11 THB 623.663 198.327 Uruguay ARES Trading Uruguay S.A.
+Montevideo 100,00 USD 64.876 18.391 Venezuela Merck S.A.
+Caracas 100,00 VEF 11.872 150.026 Venezuela Representaciones MEPRO S.A.
+Caracas 100,00 VEF 1.000 -787 Vereinigte Arabische Emirate Merck Serono Middle East FZ-LLC Dubai 100,00 AED 13.800 9.349 Vietnam Merck Vietnam Ltd.
+Ho Chi Minh Stadt 100,00 VND 64.274.096 34.581.073 Übrige Welt Ägypten Merck Ltd.
+Kairo 100,00 EGP 27.574 9.551 Australien Biochrom Australia Pty.
+Ltd.
+Melbourne 100,00 b) b) b) Australien Chemicon Australia Pty.
+Ltd.
+(in Liquidation) Kilsyth 100,00 b) b) b) Australien E. Merck Pty.
+Ltd.
+(in Liquidation) Kilsyth 100,00 b) b) b) Australien Merck Australia Pty.
+Ltd.
+Kilsyth 100,00 b) b) b) Australien Merck Pty.
+Ltd.
+Kilsyth 100,00 AUD -251 -2.381 Australien Merck Serono Australia Pty.
+Ltd.
+Sydney 100,00 AUD 14.204 -1.399 Israel Neviah Genomics Ltd.
+Yavne 56,43 10,89 b) b) b) Israel QLight Nanotech Ltd.
+Jerusalem 40,00 b) b) b) Japan Merck Ltd.
+Tokio 100,00 15,89 JPY 23.604.143 1.517.415 Japan Merck Serono Co., Ltd.
+Tokio 100,00 JPY 3.453.243 22.367 Marokko Merck Maroc S.A.R.L.
+Casablanca 100,00 b) b) b) Mauritius Millipore Mauritius Ltd.
+Cyber City 100,00 EUR 39.035 -30 Neuseeland Merck Ltd.
+Manukau City 100,00 NZD 1.750 240 Südafrika Merck (Pty) Ltd.
+Halfway House 100,00 ZAR 186.361 37.773 Südafrika Merck Chemicals (Pty) Ltd.
+(in Liquidation) Modderfontein 100,00 b) b) b) Südafrika Merck Pharmaceutical Manufacturing (Pty) Ltd.
+Wadeville 100,00 ZAR 34.089 -9 Südafrika Serono South Africa Ltd.
+Johannesburg 100,00 b) b) b) Tunesien Merck Promotion SARL Tunis 100,00 TND 104 -66 Tunesien Merck SARL Tunis 100,00 TND 215 -1.642 a) Ergebnisabführungsvertrag b) Angabe unterbleibt wegen untergeordneter Bedeutung gem.
+§ 286 Abs. 3 Nr. 1 HGB c) Betriebsstätte der Merck KGaA d) WE = Währungseinheiten Bestätigungsvermerk des Abschlussprüfers Wir haben den Jahresabschluss - bestehend aus Bilanz, Gewinn- und Verlustrechnung sowie Anhang -unter Einbeziehung der Buchführung und den Lagebericht der Merck Kommanditgesellschaft auf Aktien, Darmstadt, für das Geschäftsjahr vom 1. Januar bis 31. Dezember 2012 geprüft.
+Die Buchführung und die Aufstellung von Jahresabschluss und Lagebericht nach den deutschen handelsrechtlichen Vorschriften und den ergänzenden Bestimmungen der Satzung liegen in der Verantwortung der Geschäftsleitung der Gesellschaft.
+Unsere Aufgabe ist es, auf der Grundlage der von uns durchgeführten Prüfung eine Beurteilung über den Jahresabschluss unter Einbeziehung der Buchführung und über den Lagebericht abzugeben.
+Wir haben unsere Jahresabschlussprüfung nach § 317 HGB unter Beachtung der vom Institut der Wirtschaftsprüfer (IDW) festgestellten deutschen Grundsätze ordnungsmäßiger Abschlussprüfung vorgenommen.
+Danach ist die Prüfung so zu planen und durchzuführen, dass Unrichtigkeiten und Verstöße, die sich auf die Darstellung des durch den Jahresabschluss unter Beachtung der Grundsätze ordnungsmäßiger Buchführung und durch den Lagebericht vermittelten Bildes der Vermögens-, Finanz- und Ertragslage wesentlich auswirken, mit hinreichender Sicherheit erkannt werden.
+Bei der Festlegung der Prüfungshandlungen werden die Kenntnisse über die Geschäftstätigkeit und über das wirtschaftliche und rechtliche Umfeld der Gesellschaft sowie die Erwartungen über mögliche Fehler berücksichtigt.
+Im Rahmen der Prüfung werden die Wirksamkeit des rechnungslegungsbezogenen internen Kontrollsystems sowie Nachweise für die Angaben in Buchführung, Jahresabschluss und Lagebericht überwiegend auf der Basis von Stichproben beurteilt.
+Die Prüfung umfasst die Beurteilung der angewandten Bilanzierungsgrundsätze und der wesentlichen Einschätzungen der Geschäftsleitung sowie die Würdigung der Gesamtdarstellung des Jahresabschlusses und des Lageberichts.
+Wir sind der Auffassung, dass unsere Prüfung eine hinreichend sichere Grundlage für unsere Beurteilung bildet.
+Unsere Prüfung hat zu keinen Einwendungen geführt.
+Nach unserer Beurteilung auf Grund der bei der Prüfung gewonnenen Erkenntnisse entspricht der Jahresabschluss den gesetzlichen Vorschriften und den ergänzenden Bestimmungen der Satzung und vermittelt unter Beachtung der Grundsätze ordnungsmäßiger Buchführung ein den tatsächlichen Verhältnissen entsprechendes Bild der Vermögens-, Finanz- und Ertragslage der Merck Kommanditgesellschaft auf Aktien.
+Der Lagebericht steht in Einklang mit dem Jahresabschluss, vermittelt insgesamt ein zutreffendes Bild von der Lage der Gesellschaft und stellt die Chancen und Risiken der zukünftigen Entwicklung zutreffend dar.
+Frankfurt am Main, den 21. Februar 2013 KPMG AGWirtschaftsprüfungsgesellschaft Jenal Wirtschaftsprüfer Glöckner Wirtschaftsprüfer Bericht des Aufsichtsrats Der Aufsichtsrat hat auch im Geschäftsjahr 2012 die ihm nach Gesetz, Satzung und Geschäftsordnung obliegenden Aufgaben ordnungsgemäß wahrgenommen.
+Insbesondere hat der Aufsichtsrat die Arbeit der Geschäftsleitung sorgfältig und regelmäßig überwacht.
+Zusammenarbeit mit der Geschäftsleitung Die Zusammenarbeit mit der Geschäftsleitung war durch einen intensiven und vertrauensvollen Austausch gekennzeichnet.
+Die Geschäftsleitung hat dem Aufsichtsrat im Geschäftsjahr 2012 regelmäßig schriftlich und mündlich über die geschäftliche Entwicklung der Merck KGaA sowie der Merck-Gruppe Bericht erstattet.
+Dem Aufsichtsrat wurden insbesondere die Markt und Absatzsituation des Unternehmens vor dem Hintergrund der gesamtwirtschaftlichen Entwicklung, die fnanzielle Lage der Gesellschaft und der Tochtergesellschaften, deren Ertragsentwicklung sowie die Unternehmensplanung dargelegt.
+Im Rahmen der quartalsmäßigen Berichterstattung wurden jeweils Umsatz und Ergebnis für die Merck-Gruppe insgesamt und in den Gliederungen nach Sparten dargestellt.
+Auch außerhalb der Aufsichtsratssitzungen stand bzw. steht der Aufsichtsratsvorsitzende in regelmäßigem Informationsaustausch mit dem Vorsitzenden der Geschäftsleitung.
+Schwerpunktthemen der Aufsichtsratssitzungen Der Aufsichtsrat trat im Geschäftsjahr 2012 zu insgesamt fünf Sitzungen zusammen.
+In diesen Sitzungen hat der Aufsichtsrat die Berichte der Geschäftsleitung ausführlich diskutiert und gemeinsam mit der Geschäftsleitung die Entwicklung des Unternehmens sowie die strategischen Fragestellungen erörtert.
+In der Sitzung vom 24. Februar 2012 befasste sich der Aufsichtsrat vornehmlich mit dem Jahres und Konzernabschluss 2011 sowie den entsprechenden Lageberichten.
+Die Geschäftsleitung berichtete über die Geschäftsentwicklung im Jahr 2011 und die Eckdaten des Jahresabschlusses 2011.
+Zudem berichtete der Wirtschaftsprüfer über die Prüfung der Abschlüsse.
+Ferner verabschiedete der Aufsichtsrat die Beschlussvorschläge an die Hauptversammlung und fasste Beschluss über die Entsprechungserklärung zum Deutschen Corporate Governance Kodex sowie über die Erklärung zur Unternehmensführung, die zugleich den gemeinsamen Bericht zur Corporate Governance von Geschäftsleitung und Aufsichtsrat enthält.
+Schließlich waren der Risikobericht, die Planung und das Programm Fit für 2018 Themen dieser Sitzung.
+In der Sitzung am 3. Mai 2012 lag ein Schwerpunkt auf der aktuellen Geschäftsentwicklung im 1.
+Quartal 2012.
+Zudem befasste sich der Aufsichtsrat in dieser Sitzung intensiv mit dem System der internen Revision.
+Hierzu erstattete die Leiterin von Group Auditing des Unternehmens ihren Bericht über die erfolgten Prüfungen im Jahre 2011 und die daraus resultierenden Ergebnisse und gab ferner einen Ausblick auf die Schwerpunkte der Revision im Jahr 2012.
+Ein weiterer Schwerpunkt der Sitzung lag in der Berichterstattung und Diskussion zur Arbeit des Forschungs und Entwicklungsausschusses des Gesellschafterrats der E. Merck KG.
+Ferner wurde der Compliance-Bericht für 2011 erläutert und diskutiert.
+Schließlich fand eine Diskussion mit der Geschäftsleitung über den Stand des Programms Fit für 2018 statt.
+Am 15. Mai 2012 fand eine außerordentliche Aufsichtsratssitzung statt, in der die Inhalte und Präsentationen des ebenfalls am 15. Mai 2012 stattfndenden Investoren-Tags diskutiert wurden.
+Schwerpunkte der Diskussion waren mittelfristige Finanzziele und geplante Kosteneffizienzen.
+Neben der Entwicklung des Geschäfts im ersten Halbjahr 2012 befasste sich der Aufsichtsrat in seiner Sitzung vom 24. Juli 2012 mit dem Bericht der KPMG zur prüferischen Durchsicht des verkürzten Abschlusses und des Zwischenlageberichts des Konzerns zum 30. Juni 2012.
+Einen weiteren Schwerpunkt bildete das Risikomanagement des Unternehmens.
+Der Risk Manager des Unternehmens erstattete hierzu seinen jährlichen Bericht an den Aufsichtsrat.
+Er erläuterte neben den identifzierten Einzelrisiken und deren Behandlung die aktuellen Kriterien der Risikobewertung.
+Bestandsgefährdende Risiken waren nicht erkennbar.
+Sodann erfolgte ein Bericht der Geschäftsleitung über den aktuellen Stand des Programms Fit für 2018 mit anschließender Diskussion.
+In seiner fünften Sitzung am 1. November 2012 befasste sich der Aufsichtsrat mit dem Bericht der Geschäftsleitung zum 3.
+Quartal 2012.
+Dabei berichtete die Geschäftsleitung auch über den Fortschritt des Programms Fit für 2018.
+Außerdem stellte der Leiter von Group Legal Compliance seinen Compliance-Bericht für das Jahr 2012 vor.
+Zudem wurde der Bericht der internen Revision zum ersten Halbjahr 2012 diskutiert.
+Jahresabschluss Der Jahresabschluss der Merck KGaA, der Konzernabschluss der Merck-Gruppe sowie die Lageberichte für die Merck KGaA und die Merck-Gruppe sind unter Einbeziehung der Buchführung von der KPMG AG Wirtschaftsprüfungsgesellschaft, Berlin, geprüft worden.
+Der Jahresabschluss sowie der Lagebericht der Merck KGaA wurden mit einem uneingeschränkten Bestätigungsvermerk nach deutschen Prüfungsgrundsätzen versehen.
+Für den nach den Vorschriften der International Financial Reporting Standards aufgestellten Konzernabschluss hat der Abschlussprüfer den im Konzerngeschäftsbericht abgedruckten Bestätigungsvermerk gegeben.
+Ferner hat der Abschlussprüfer die Ermittlung der Beteiligung der Merck KGaA an dem Ergebnis der E. Merck KG gemäß § 27 Absatz 2 der Satzung geprüft.
+Der Jahresabschluss der Merck KGaA, der Konzernabschluss der Merck-Gruppe, die Lageberichte für die Merck KGaA und die Merck-Gruppe sowie der Vorschlag der Geschäftsleitung für die Verwendung des Bilanzgewinns sind dem Aufsichtsrat zusammen mit den Prüfungsberichten des Abschlussprüfers vorgelegt worden.
+Der Aufsichtsrat hat den Jahresabschluss der Merck KGaA, den Lagebericht der Merck KGaA, den Vorschlag für die Verwendung des Bilanzgewinns sowie den ihm nach § 27 Absatz 2 der Satzung vorgelegten Bericht des Abschlussprüfers gemäß § 14 Absatz 2 der Satzung auch seinerseits geprüft.
+Er hat ferner den Konzernabschluss der Merck-Gruppe und den Konzernlagebericht für die Merck-Gruppe geprüft sowie den Prüfungsbericht der KPMG AG Wirtschaftsprüfungsgesellschaft, Berlin, zur Kenntnis genommen.
+An der Bilanzsitzung des Aufsichtsrats am 6. März 2013 haben zu dem betreffenden Tagesordnungspunkt auch die den Bestätigungsvermerk zum Jahresabschluss der Merck KGaA sowie zum Konzernabschluss der Merck-Gruppe unterzeichnenden Wirtschaftsprüfer teilgenommen und über ihre Prüfung berichtet.
+Der Aufsichtsrat nahm das Prüfungsergebnis der Abschlussprüfer zustimmend zur Kenntnis.
+Nach dem abschließenden Ergebnis seiner Prüfung hatte der Aufsichtsrat keine Einwände zu erheben und billigte hiernach den von der Geschäftsleitung aufgestellten Jahresabschluss und den Lagebericht der Merck KGaA, den Konzernabschluss der Merck-Gruppe und den Konzernlagebericht der Merck-Gruppe sowie den von dem Abschlussprüfer gemäß § 27 Absatz 2 der Satzung vorgelegten Bericht.
+Er schloss sich dem Vorschlag der Geschäftsleitung für die Verwendung des Bilanzgewinns nach eigener Prüfung an.
+Corporate Governance und Entsprechenserklärung Corporate Governance ist für den Aufsichtsrat eine Thematik mit hohem Stellenwert.
+Nach eigener Einschätzung gehört dem Aufsichtsrat eine angemessene Anzahl von unabhängigen Mitgliedern an.
+Interessenskonfikte, wie durch den Deutschen Corporate Governance Kodex definiert, sind bei den Aufsichtsratsmitgliedern im vorliegenden Berichtsjahr nicht aufgetreten.
+Nach ausführlicher Befassung mit Corporate-Governance-Themen haben Geschäftsleitung und Aufsichtsrat am 20. Februar 2013 (Geschäftsleitung) bzw. am 6. März 2013 (Aufsichtsrat) die aktualisierte Entsprechenserklärung nach § 161 Aktiengesetz beschlossen und gemeinsam zum 6. März 2013 abgegeben.
+Die Erklärung ist auf der Website der Merck KGaA (www.merckgroup.com/investoren → Corporate Governance) dauerhaft zugänglich.
+Weitere Informationen zur Corporate Governance bei der Merck KGaA einschließlich der Vergütung von Geschäftsleitung und Aufsichtsrat enthält die Erklärung zur Unternehmensführung ab der Seite 101 des Konzern-Geschäftsberichts.
+Ausschüsse Der Aufsichtsrat der Merck KGaA verfügt derzeit wegen der gesellschaftsrechtlichen Besonderheiten, die sich für den Aufsichtsrat einer KGaA ergeben, und weil sich ein entsprechender Bedarf bisher nicht abgezeichnet hat, über keine Ausschüsse.
+Daher entfällt der Bericht über die Arbeit der Ausschüsse.
+Personalia Kein Mitglied des Aufsichtsrats nahm im Geschäftsjahr 2012 an weniger als der Hälfte der Aufsichtsratssitzungen teil.
+Folgende Änderungen in der personellen Zusammensetzung des Aufsichtsrats haben 2012 stattgefunden: Mit Wirkung zum 30. April 2012 ist Herr Osman Ulusoy aus dem Aufsichtsrat ausgeschieden.
+Herr Jürgen Glaser wurde mit Wirkung ab dem 1. Mai 2012 gerichtlich als neues Mitglied des Aufsichtsrats bestellt.
+Herr Frieder Kaufmann ist mit Wirkung zum 10. Mai 2012 aus dem Aufsichtsrat ausgeschieden.
+Mit Wirkung zum 11. Mai 2012 wurde Herr Berthold Wagner, bisher Ersatzmitglied für Herrn Frieder Kaufmann, Mitglied des Aufsichtsrats, und ist mit Wirkung zum 31. Dezember 2012 wieder aus dem Aufsichtsrat ausgeschieden.
+Herr Jens Frank wurde mit Wirkung zum 31. Januar 2013 gerichtlich als neues Mitglied des Aufsichtsrats bestellt.
+Es fanden keine Neuwahlen und keine über die vorgenannten Wechsel hinausgehenden Gremienneubesetzungen oder -bildungen statt.
+Darmstadt, den 6. März 2013 Der Aufsichtsrat der Merck KGaA Rolf Krebs, Vorsitzender Termine Bilanzpressekonferenz Donnerstag, 07.03.2013 Hauptversammlung Freitag, 26.04.2013 Quartals-Finanzbericht Q1 Dienstag, 14.05.2013 Halbjahresfinanzbericht Dienstag, 06.08.2013 Herbstpressekonferenz Quartals-Finanzbericht Q3 Donnerstag, 14.11.2013 Information und Service Der Geschäftsbericht 2012 wurde in Deutsch und Englisch veröffentlicht.
+Der Bericht ist auch als komplett navigierbare Online-Version im Internet unter www.merck.de/geschaeftsbericht2012 zu finden.
+Weitere Informationen über Merck finden Sie im Internet unter www.merck.de und in folgender Broschüre, die Sie auch online (www.merck.de/publikationen) lesen oder bestellen können (in Deutsch und Englisch): Die Merck-Gruppe: Ein Überblick auf Deutsch, Englisch, Französisch und Spanisch Diese Publikationen können Sie bei Group Communications, Merck KGaA, 64271 Darmstadt oder unter der E-Mail-Adresse corpcom@merckgroup.com bestellen.
+Impressum Herausgegeben am 7. März 2013 von Merck KGaA, Group Communications, Frankfurter Straße 250, 64293 Darmstadt Telefon: +49 (0) 6151-72 0 Fax: +49 (0) 6151-72 5577 E-Mail: corpcom@merckgroup.com Internet: www.merck.de Konzept und Gestaltung: Strichpunkt, www.strichpunkt-design.de Satz: typowerkstatt Dickerhof + Schwarz, Darmstadt Papiere: LuxoArt Samt Druck: Franz Kuthal GmbHCo.
+KG, Mainaschaff « Vorheriger Eintrag »Zurück zur Ergebnisseite Nächster Eintrag » |Impressum |Haftungsausschluss / Datenschutzerklärung |Rechtliches / AGB |Sicherheitshinweise var pkBaseURL = (("https:" == document.location.protocol) ?
+"https://www.bundesanzeiger.de/" : "http://www.bundesanzeiger.de/"); document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E")); try { var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 3); piwikTracker.trackPageView(); piwikTracker.enableLinkTracking(); } catch( err ) {} 
